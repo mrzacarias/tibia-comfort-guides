@@ -176,12 +176,12 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 8–20 (~6,6 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 30, ataque da arma 25. Equipamento com bom custo-benefício, cada peça abaixo de ~33k: Serpent Sword, Morning Star ou Orcish Axe (sword, club ou axe), com Golden Armor, Knight Legs, Royal Helmet, Carapace Shield, Boots of Haste.
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, para Meriana; quest de level 65+), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, para Crimson Court (Targuna)).
+**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, para Crimson Court (Targuna)).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~8k | ~65k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Peg Leg para Meriana | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Centipede bate 25% da vida. Vende bem: Centipede Leg |
+| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Centipede bate 25% da vida. Vende bem: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~18k | ~25k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~19k | ~20k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~20k | ~15k | Targuna, portal na casa da Emiliana | **XP**. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 27% da vida. Vende bem: Infernoid Ember |
@@ -189,13 +189,13 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 20–30 (~17 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 50, ataque da arma 31. Equipamento com bom custo-benefício, cada peça abaixo de ~71k: Crimson Sword, Furry Club ou Dwarven Axe (sword, club ou axe), com Dragon Scale Mail, Golden Legs, Royal Helmet, Rift Shield, Boots of Haste.
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, para Meriana; quest de level 65+), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, para Crimson Court (Targuna)).
+**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, para Crimson Court (Targuna)).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~8k | ~115k | Svargrond 182 / ~46 s | **lucro**. Peça "passage" ao Iskan em Svargrond (ele pode pedir uma tarefa antes). Vende bem: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~100k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~11k | ~65k | Liberty Bay 9 / ~2 s, barco do Peg Leg para Meriana | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Centipede Leg |
+| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~11k | ~65k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Centipede Leg |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 0 | ~35k | ~30k | Targuna, portal na casa da Emiliana | **XP**. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Vende bem: Infernoid Ember |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~12k | ~85k | Farmine 98 / ~24 s | **lucro**. Cuidado: Gnarlhound bate 19% da vida. Vende bem: Shaggy Tail |
 
@@ -457,7 +457,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **0** | ~9k | ~40k | Port Hope 405 / ~1,7 min | **lucro**. Não te veem: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Vende bem: Voodoo Doll |
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~8k | ~40k | Edron 135 / ~34 s | **lucro**. Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Peg Leg para Meriana | **lucro**. Não te veem: Centipede, Wasp, Crab, Crimson Frog. Vende bem: Centipede Leg |
+| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Não te veem: Centipede, Wasp, Crab, Crimson Frog. Vende bem: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~18k | ~25k | depot de Targuna, na própria ilha | **XP**. Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~20k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
 
