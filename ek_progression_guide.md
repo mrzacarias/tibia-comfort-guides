@@ -166,10 +166,14 @@ Each name links to its TibiaWiki page, which has a step-by-step spoiler.
 - **Depot:** the nearest depot, how many squares you walk from it to the entrance, and about how long that takes. For islands and hidden areas it lists each step: the walk to the boat (or teleport), the trip, and the walk from where you arrive.
 - **Notes:** the tag (XP, money or both), test results, how to get access, **Watch** (what makes the hunting ground less comfortable) and **Sells** (its most valuable drop).
 
+Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
+
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience only, so the stamina bonus, XP boosts and prey make it faster.
 
 #### Level 8–20 (~8.1 hours to the next band)
 **Typical knight in this band:** skill 30, weapon attack 25. Good-value gear, each piece under ~33k: Serpent Sword, Morning Star or Orcish Axe (sword, club or axe), with Golden Armor, Knight Legs, Royal Helmet, Carapace Shield, Boots of Haste.
+
+**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, for Meriana; quest level 65+).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -181,6 +185,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 #### Level 20–30 (~14 hours to the next band)
 **Typical knight in this band:** skill 50, weapon attack 31. Good-value gear, each piece under ~71k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Dragon Scale Mail, Golden Legs, Royal Helmet, Rift Shield, Boots of Haste.
+
+**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, for Meriana; quest level 65+).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -204,6 +210,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 40–50 (~22 hours to the next band)
 **Typical knight in this band:** skill 68, weapon attack 40. Good-value gear, each piece under ~263k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
 
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, for Crimson Court (Targuna)).
+
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~20k | ~150k | Farmine 98 / ~24 s | **money**. Sells: Shaggy Tail |
@@ -214,6 +222,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 #### Level 50–60 (~31 hours to the next band)
 **Typical knight in this band:** skill 74, weapon attack 42. Good-value gear, each piece under ~226k: Relic Sword, Deepling Squelcher or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
+
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, for Crimson Court (Targuna)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -270,6 +280,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 100–110 (~68 hours to the next band)
 **Typical knight in this band:** skill 98, weapon attack 49. Good-value gear, each piece under ~205k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
 
+**Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
+
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~110k | ~260k | Kazordoon 137 / ~34 s | **money**. Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Sells: Wyvern Talisman |
@@ -325,6 +337,10 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 150–160 (~117 hours to the next band)
 **Typical knight in this band:** skill 106, weapon attack 50. Good-value gear, each piece under ~229k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
 
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
+
+**Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
+
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~125k | ~295k | Kazordoon 137 / ~34 s | **money**. Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Sells: Wyvern Talisman |
@@ -335,6 +351,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 #### Level 160–170 (~132 hours to the next band)
 **Typical knight in this band:** skill 108, weapon attack 50. Good-value gear, each piece under ~233k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -347,6 +365,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 170–180 (~147 hours to the next band)
 **Typical knight in this band:** skill 109, weapon attack 50. Good-value gear, each piece under ~237k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
 
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
+
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~130k | ~305k | Kazordoon 137 / ~34 s | **money**. Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Sells: Wyvern Talisman |
@@ -357,6 +377,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 #### Level 180–190 (~163 hours to the next band)
 **Typical knight in this band:** skill 111, weapon attack 50. Good-value gear, each piece under ~236k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -369,6 +391,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 190–200 (~180 hours to the next band)
 **Typical knight in this band:** skill 112, weapon attack 50. Good-value gear, each piece under ~233k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
 
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
+
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~135k | ~315k | Kazordoon 137 / ~34 s | **money**. Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Sells: Wyvern Talisman |
@@ -379,6 +403,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 #### Level 200+
 **Typical knight in this band:** skill 114, weapon attack 50. Good-value gear, each piece under ~225k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+
+**Unlock first:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (for Crystal Grounds (Gnomegate)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
