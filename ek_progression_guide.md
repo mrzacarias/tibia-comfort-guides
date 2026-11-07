@@ -17,6 +17,8 @@ The game has many systems that make a knight stronger: imbuements, charms, the W
 
 Start in Section 1. Find your level in the hunting ground tables and pick a hunting ground near the top of the list: those are the most comfortable ones. When hunting there feels easy, move on to the next section and see which new hunting grounds open up.
 
+Playing without premium? Section 1 has a part on free accounts, with the best free hunting grounds for each band.
+
 If you test a hunting ground, write down how it went in `spot_tests.md`. Tested hunting grounds are marked with ✓ and use real numbers instead of estimates.
 
 ## Words you'll see
@@ -118,6 +120,29 @@ The in-game Hunt Analyser often shows less loot than you really made, because it
 
 Prices also differ between game worlds, sometimes by three times, so check your own Market before choosing a hunting ground for its loot.
 
+### The daily boosted creature
+Every day at server save, one creature becomes the **boosted creature** until the next server save. That creature gives **twice the experience and twice the loot, and it respawns twice as fast**. You can see it on the client's login screen and at the top right of tibia.com.
+
+Check it before you pick a hunting ground. If today's creature lives in a hunting ground for your level, hunt there today: double experience and loot usually beats everything else in your band. The boost also adds to prey (Section 3) and to experience events. The same creature can't be boosted again for 30 days.
+
+### Hunting tasks (the Task Board)
+The **Task Board** in the game client gives you two kinds of tasks. Both pay you for hunting you would do anyway, so take them from the start.
+
+**Bounty tasks** ask you to kill a number of one creature, and pay experience and **Bounty Points**. Pick creatures from a hunting ground you already like.
+
+| Task | Kills | Bounty Points |
+|---|---|---|
+| Beginner | 50–100 | 3 |
+| Adept | 100–200 | 7 |
+| Expert | 200–400 | 16 |
+| Master | 300–600 | 27 |
+
+Sometimes a task comes up **Silver** (twice the experience and points) or **Gold** (four times). You spend the points on the **Bounty Talisman**, which you buy from NPCs for 5,000 gold and wear in the extra slot. Its upgrades only work against your current bounty creature: more damage against it (up to 50%), life leech (up to 50%), more loot (up to 50%) and a chance of double Bestiary progress (up to 100%). Points also pay for new task choices and for marking creatures you want or don't want to see.
+
+**Weekly tasks** change every Monday: 6 kill tasks and 6 delivery tasks (bring certain items). Up to level 82, each one gives **half a level of experience**, so finishing all 12 is worth about 6 levels a week. After level 82 each gives about 2,000 × your level. At the end of the week you also get Hunting Task Points for outfits, mounts and other rewards in the Task Board shop.
+
+The hunting ground numbers in this guide don't count the boosted creature, tasks or the talisman, so all of them are a bonus on top.
+
 ### Train your skills while you're offline
 Your sword (or club, or axe) skill decides how hard you hit, and at low levels it matters more than your level. You can train it for free while you're logged out:
 
@@ -169,6 +194,41 @@ It's worth buying as soon as you have the gold:
 - You get 100 Minor Charm Echoes for minor charms (Section 3).
 
 The promotion is permanent, but it pauses while your premium time is over.
+
+### Playing on a free account
+You can start Tibia without paying, but a free account has real limits. The ones that matter most for a knight:
+- **No `exori`.** It's a premium spell, so a free knight fights with normal attacks and `exura ico` only. Big groups stay slow, so fight one or two monsters at a time.
+- **No promotion,** so you stay a Knight, and no Wheel of Destiny.
+- **Six cities only:** Thais, Carlin, Venore, Ab'Dendriel, Kazordoon and Yalahar. Boats, magic carpets and steamships to premium places are closed, so most islands are out. Targuna and its three hunting grounds are free.
+- **No stamina bonus** (the 50% extra experience in the first 3 hours).
+- **Offline training** is slower and stops at skill 50.
+- **Fewer helpers later:** 1 prey slot instead of 2, 2 charms instead of 6, and only Basic imbuements (for Intricate ones you need an Imbuement Scroll from the Market).
+- **Many quests are premium.** The quest table above says which ones are free.
+
+The table below lists the best hunting grounds a free account can use in each band: in a free city, with only monsters from free areas, and with no boat, turtle or premium quest on the way. They are picked the same way as the Section 1 lists, but compared only with other free hunting grounds. From level 35 the numbers assume `exori`, so a free knight kills groups more slowly than they show. Poacher Caves and the Forsaken Mine change every day at server save, so check which monsters are there before you go.
+
+| Level | Best free-account hunting grounds (most comfortable first) |
+|---|---|
+| 8–20 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~8k XP/h, ~65k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 H2, ~7k XP/h, ~30k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 H1, ~18k XP/h, ~25k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P1 H1, ~19k XP/h, ~20k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 H1, ~20k XP/h, ~15k loot/h |
+| 20–30 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~100k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 H0, ~11k XP/h, ~50k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, ~30k XP/h, ~45k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~35k XP/h, ~40k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~35k XP/h, ~30k loot/h |
+| 30–40 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, ~45k XP/h, ~55k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~45k XP/h, ~50k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~50k XP/h, ~40k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~25k XP/h, ~85k loot/h |
+| 40–50 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~50k XP/h, ~55k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~60k XP/h, ~45k loot/h<br>[Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~105k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~105k loot/h |
+| 50–60 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~60k XP/h, ~45k loot/h<br>[Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~70k XP/h, ~165k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~60k XP/h, ~120k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~60k XP/h, ~120k loot/h<br>[Triangle Tower](https://tibiamaps.io/map#32562,32120,7:2): P1 H3, ~55k XP/h, ~50k loot/h |
+| 60–70 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~80k XP/h, ~190k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~70k XP/h, ~140k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~70k XP/h, ~140k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~70k XP/h, ~25k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P2 H2, ~70k XP/h, ~80k loot/h |
+| 70–80 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~90k XP/h, ~210k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~90k XP/h, ~70k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~80k XP/h, ~155k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~80k XP/h, ~155k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~85k XP/h, ~90k loot/h |
+| 80–90 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~100k XP/h, ~230k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~85k XP/h, ~175k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~85k XP/h, ~170k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~100k XP/h, ~80k loot/h<br>[Water Elemental Dungeon (Outlaw Camp)](https://tibiamaps.io/map#32590,32314,7:2): P2 H3, ~145k XP/h, ~65k loot/h |
+| 90–100 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~105k XP/h, ~250k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~95k XP/h, ~190k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H1, 90k XP/h, 215k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~105k XP/h, ~85k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H2, ~135k XP/h, ~40k loot/h |
+| 100–110 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~110k XP/h, ~260k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~100k XP/h, ~200k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~100k XP/h, ~195k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P2 H2, ~120k XP/h, ~60k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H2, ~145k XP/h, ~45k loot/h |
+| 110–120 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~115k XP/h, ~265k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~100k XP/h, ~205k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~100k XP/h, ~200k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~125k XP/h, ~95k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P2 H2, ~120k XP/h, ~60k loot/h |
+| 120–130 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~120k XP/h, ~275k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~105k XP/h, ~215k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~105k XP/h, ~210k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~130k XP/h, ~95k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~115k XP/h, ~120k loot/h |
+| 130–140 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~120k XP/h, ~280k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, 120k XP/h, 185k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~130k XP/h, ~95k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P2 H2, ~135k XP/h, ~110k loot/h |
+| 140–150 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~285k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~130k XP/h, ~95k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P2 H2, ~140k XP/h, ~115k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P2 H2, ~135k XP/h, ~65k loot/h |
+| 150–160 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~295k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~130k XP/h, ~95k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H1, ~160k XP/h, ~50k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P2 H2, ~140k XP/h, ~115k loot/h |
+| 160–170 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~300k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~140k XP/h, ~100k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H1, ~165k XP/h, ~50k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P2 H2, ~145k XP/h, ~120k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P2 H2, ~135k XP/h, ~70k loot/h |
+| 170–180 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~305k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~140k XP/h, ~100k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P1 H1, ~145k XP/h, ~120k loot/h<br>[Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2): P1 H3, ~185k XP/h, ~110k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H1, ~165k XP/h, ~50k loot/h |
+| 180–190 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~310k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~140k XP/h, ~100k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P1 H1, ~150k XP/h, ~125k loot/h<br>[Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2): P1 H3, ~185k XP/h, ~115k loot/h<br>[Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2): P2 H1, ~170k XP/h, ~50k loot/h |
+| 190–200 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~135k XP/h, ~315k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P0 H0, ~135k XP/h, ~70k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~140k XP/h, ~100k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P1 H1, ~150k XP/h, ~125k loot/h<br>[Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2): P1 H3, ~190k XP/h, ~115k loot/h |
+| 200+ | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~135k XP/h, ~320k loot/h<br>[Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2): P0 H0, ~135k XP/h, ~70k loot/h<br>[Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2): P0 H2, ~140k XP/h, ~100k loot/h<br>[Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2): P1 H1, ~155k XP/h, ~125k loot/h<br>[Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2): P1 H3, ~195k XP/h, ~120k loot/h |
 
 ### Reading the hunting ground tables
 - **Hunting ground:** the name links to the entrance on the tibiamaps.io map. ✓ means the hunting ground was tested at that level.

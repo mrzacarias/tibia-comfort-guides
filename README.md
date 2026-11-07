@@ -6,4 +6,5 @@ A hunting guide for solo Elite Knights in Tibia, sorted by how comfortable each 
 
 - Sections 1 (basic mechanics), 1a (Stealth Ring), 1b (more spells), 2 (imbuements), 3 (charms and prey) and 4 (Wheel of Destiny) list the best hunting grounds for every level band.
 - Sections 5 (weapon proficiency) and 6 (the Forge) explain the last steps to a full setup, with numbers.
-- XP and loot numbers are estimates until tested. Real hunts will be logged in `spot_tests.md`.
+- Section 1 also covers playing on a free account (with the best free hunting grounds per band), the daily boosted creature and the Task Board.
+- XP and loot numbers are estimates until tested. Log real hunts in [spot_tests.md](spot_tests.md).
