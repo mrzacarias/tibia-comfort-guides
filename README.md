@@ -5,7 +5,7 @@ Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each 
 | Vocation | Guide | Em português | Status |
 |---|---|---|---|
 | Knight | [knight/guide.md](knight/guide.md) | [knight/guide_ptbr.md](knight/guide_ptbr.md) | Estimates, a few hunting grounds tested |
-| Sorcerer | coming soon | | |
+| Sorcerer | [sorcerer/guide.md](sorcerer/guide.md) | [sorcerer/guide_ptbr.md](sorcerer/guide_ptbr.md) | Untested estimates |
 | Paladin | coming soon | | |
 | Monk | coming soon | | |
 
