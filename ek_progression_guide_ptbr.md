@@ -80,7 +80,7 @@ Uma hunt aparece em todas as faixas a partir do level recomendado para ela, ent�
 
 Cada faixa mostra só as suas **5 melhores hunts**. Primeiro saem as hunts que não valem o seu tempo: a experiência **ou** o loot da hunt precisa ser pelo menos três quartos da terceira melhor hunt daquela faixa, e o loot precisa pagar as poções que ela gasta. As que sobram são ordenadas por conforto (primeiro Preparo, depois Atenção), depois por loot, e as 5 primeiras entram na lista.
 
-Cada hunt tem uma etiqueta: **XP** (boa para upar), **lucro** (boa para fazer gold) ou **XP + lucro**.
+Cada hunt tem uma tag: **XP** (boa para upar), **lucro** (boa para fazer gold) ou **XP + lucro**.
 
 ### O personagem dos números
 Os números de XP e loot são estimativas para um knight típico: alguém com skill um pouco abaixo do normal para o level (30 no level 8, 63 no 30, 96 no 90, 114 no 200), usando o melhor equipamento que dá para comprar com umas 3 horas de hunt. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse equipamento. Se o seu skill ou equipamento for melhor, você vai render mais do que as tabelas.
@@ -167,7 +167,7 @@ Cada nome leva à página da quest na TibiaWiki (em inglês), com o passo a pass
 - **Preparo e Atenção:** as notas de conforto, de 0 a 3.
 - **XP/h e Loot/h:** experiência e gold estimados por hora para o knight típico no level mais baixo da faixa, sem bônus e antes de pagar as poções. As hunts testadas mostram resultados reais.
 - **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega.
-- **Notas:** a etiqueta (XP, lucro ou os dois), resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
+- **Notas:** a tag (XP, lucro ou os dois), resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa só experiência raw, então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
