@@ -9,9 +9,11 @@ The game has many systems that make a knight stronger: imbuements, charms, the W
 
 - **Section 1, Basic mechanics:** just your weapon, one attack spell, one healing spell and potions. Full hunting ground lists.
 - **Section 1a, Stealth Ring:** a ring that hides you from many monsters. Hunting ground lists.
-- **Section 1b, More spells:** the other knight spells (outline).
+- **Section 1b, More spells:** the other knight spells, and the Protector stance. Hunting ground lists.
 - **Section 2, Imbuements:** life and mana leech on your gear. Full hunting ground lists.
-- **Sections 3 to 6:** charms and prey, the Wheel of Destiny, weapon proficiency, and the full late-game setup (outlines for now).
+- **Section 3, Charms and prey:** bonuses against the monsters you hunt. Hunting ground lists.
+- **Section 4, Wheel of Destiny and gems:** permanent perks from your level. Hunting ground lists.
+- **Sections 5 and 6, Weapon proficiency and the Forge:** the last steps to a full setup, explained with numbers.
 
 Start in Section 1. Find your level in the hunting ground tables and pick a hunting ground near the top of the list: those are the most comfortable ones. When hunting there feels easy, move on to the next section and see which new hunting grounds open up.
 
@@ -21,7 +23,7 @@ If you test a hunting ground, write down how it went in `spot_tests.md`. Tested 
 - **HP and mana:** your health and the energy you spend on spells. A knight has about 185 + 15 × (level − 8) HP: 815 at level 50, 2,075 at level 134.
 - **Spawn:** the monsters that live in a hunting ground and come back after you kill them.
 - **Box, boxing:** letting several monsters surround you and hitting them all at once with an area spell. Bigger boxes kill faster but hurt more.
-- **`exori`:** the knight's basic area attack (level 35). It hits every monster standing next to you.
+- **`exori`:** the knight's basic area attack (level 35, premium account). It hits every monster standing next to you.
 - **`exura ico`:** the knight's basic healing spell.
 - **XP/h, loot/h:** experience and gold (the value of what monsters drop) per hour of hunting.
 - **Depot:** your storage in each city. It's also where the Market is.
@@ -86,7 +88,7 @@ In this section you use only the basics: your weapon, the `exori` attack spell, 
 ### How to fight
 **Before level 35**, a knight has no area attack, so fight one or two monsters at a time with your normal attacks. Heal with `exura ico` when you need it.
 
-**From level 35** you learn `exori`. It costs 125 mana and hits every monster standing next to you, so it pays off when three or more monsters surround you. This is called **boxing**:
+**From level 35** you learn `exori` (it needs a premium account). It costs 125 mana and hits every monster standing next to you, so it pays off when three or more monsters surround you. This is called **boxing**:
 1. Walk into the spawn and let a few monsters follow you.
 2. Stop and let them surround you.
 3. Cast `exori` whenever it's ready, and keep attacking normally in between.
@@ -571,14 +573,211 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | **money**. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 → **0** | 2 → **1** | ~180k | ~60k | Venore 527 / ~2.2 min | **XP**. Can't see you: Skeleton. Sells: Wyvern Talisman |
 
-## Section 1b: More spells (outline)
-Knights have many more spells, but each one is something extra to keep track of while you hunt, so Section 1 leaves them out on purpose. A later version of this guide will show which hunting grounds they help with. They include:
-- **Stronger area attacks:** `exori gran` (level 90), `exori min` (70, hits in front of you), `exori mas` (33, wide area) and `exori scu` (30, damage based on your shield).
-- **Stronger heals:** `exura gran ico` (level 80, but it can only be used every 2 minutes) and `exura med ico`.
-- **Stances:** Protector (`utamo tempo`) makes you take 15% less damage but also deal 15% less. Blood Rage (`utito tempo`) does the opposite.
-- **Speed and regeneration:** `utani hur` (haste), `utani tempo hur` (a short sprint), and `utura` / `utura gran` (slow healing over time).
+## Section 1b: More spells
+Section 1 uses only `exori` and `exura ico` on purpose: every extra spell is one more button to watch during the hunt. But a few of them make hunting calmer once you're used to the basics. All of them need a premium account.
 
-Single-target and ranged attack spells are left out completely: they're weak for the attention they need.
+### Stances: Protector
+From level 20 you can switch on a **stance**, which lasts until you change it. Only one can be active at a time.
+- **Protector** (`utamo tempo`, 20 mana): you take **15% less damage**, and your shielding goes up by 30%. The price is that you also deal 15% less damage, so monsters die a bit slower.
+- **Blood Rage** (`utito tempo`, 20 mana): the opposite. About 25% more weapon skill, but you take 15% more damage. It's not a comfort spell.
+
+Protector is the comfort pick: turn it on when a group is bigger than you'd like, or at a hunting ground where one monster hits hard. The tables below show the hunting grounds where those 15% are enough to lower the grades.
+
+### Bigger heals
+- **`exura gran ico`** (level 80, 200 mana) heals a lot at once, but only every 2 minutes. Keep it as an emergency button.
+- **`utura`** (level 50, 75 mana) heals 400 HP over a minute, and **`utura gran`** (level 100, 165 mana) heals 800. Cast one before each group: it's free healing while you fight.
+- **`exura med ico`** heals about twice as much as `exura ico`, but only from level 300.
+
+### Bigger attacks
+- **`exori gran`** (level 90, 360 mana) hits everything around you for about twice the damage of `exori`. From level 90, use it when 4 or more monsters surround you, and `exori` in between.
+- **`exori mas`** (level 33, 200 mana) hits a wider area, up to 3 squares away.
+- **`exori min`** (level 70, 200 mana) hits hard, but only the squares in front of you. It's best in corridors.
+- **`exori scu`** (level 30, 90 mana) hits everything next to you based on your shield, and the monsters it hits do 50% less damage with their next attack.
+
+The level 134 tests used `exori gran` on big groups, so from level 90 the Section 1 numbers already assume something like it.
+
+### Moving
+- **`utani hur`** (level 14, 60 mana) makes you 30% faster for 30 seconds and removes paralysis.
+- **`utani tempo hur`** (level 25, 100 mana) makes you 90% faster for 5 seconds. It's your escape button.
+
+Single-target and ranged attack spells stay out of this guide: they're weak for the attention they need.
+
+### Reading the Section 1b tables
+These tables list the Section 1 hunting grounds where Protector's 15% less damage lowers the grades, the 5 best per band. The XP and loot numbers are the Section 1 estimates; with Protector on, you kill about 15% slower while it's active.
+
+#### Level 20–30 with Protector (~10 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 → **1** | 2 → **1** | ~25k | ~25k | **XP** |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 3 → **2** | 3 → **2** | ~25k | ~7k | **XP** |
+
+#### Level 30–40 with Protector (~14 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~40k | ~50k | **XP**. Still: skip Death Priest (hits half your HP) |
+| [Cult Cave (Liberty Bay)](https://tibiamaps.io/map#32359,32721,7:2) | 3 → **2** | 3 → **3** | ~35k | ~75k | **XP**. Still: summoners |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 3 → **2** | 3 → **3** | ~45k | ~70k | **XP**. Still: summoners |
+
+#### Level 40–50 with Protector (~21 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~30k | ~110k | **money** |
+| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~55k | ~65k | **XP**. Still: skip Death Priest (hits half your HP) |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **1** | 2 → **1** | ~40k | ~145k | **money**. Still: skip Haunted Treeling (hits half your HP) |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~40k | ~115k | **money** |
+| [Peninsula Tomb](https://tibiamaps.io/map#33027,32870,7:2) | 3 → **2** | 3 → **3** | ~50k | ~45k | **XP**. Still: invisible monsters, summoners |
+
+#### Level 50–60 with Protector (~20 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **2** | 3 → **2** | ~60k | ~100k | **XP**. Still: summoners |
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 3 → **2** | 3 → **2** | ~70k | ~80k | **XP** |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 3 → **2** | 3 → **2** | ~75k | ~30k | **XP** |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 → **2** | 3 → **3** | ~75k | ~40k | **XP** |
+| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **3** | ~75k | ~40k | **XP** |
+
+#### Level 60–70 with Protector (~27 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~70k | ~80k | **XP** |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~75k | ~80k | **XP** |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~70k | ~70k | **XP** |
+| [Forbidden Temple (Ankrahmun)](https://tibiamaps.io/map#33315,32675,7:2) | 2 → **1** | 3 → **3** | ~80k | ~95k | **XP**. Still: invisible monsters, summoners |
+
+#### Level 70–80 with Protector (~26 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | **money** |
+| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~100k | ~50k | **XP** |
+| [Nibelor Crystal Spiders](https://tibiamaps.io/map#32356,31087,7:2) | 2 → **2** | 2 → **1** | ~100k | ~40k | **XP** |
+| [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 3 → **2** | 3 → **2** | ~100k | ~35k | **XP** |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **3** | ~150k | ~185k | **XP + money** |
+
+#### Level 80–90 with Protector (~27 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **2** | ~115k | ~90k | **XP**. Still: summoners |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 3 → **2** | 3 → **2** | ~125k | ~40k | **XP** |
+| [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 2 → **2** | 3 → **2** | ~120k | ~35k | **XP**. Still: skip Dragon Lord (hits half your HP) |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 → **2** | 3 → **3** | ~150k | ~35k | **XP** |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 3 → **2** | 3 → **3** | ~135k | ~35k | **XP** |
+
+#### Level 90–100 with Protector (~35 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 0 → **0** | 1 → **0** | 90k | 215k | **money** |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 2 → **1** | 2 → **2** | ~145k | ~65k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 3 → **2** | 3 → **3** | ~140k | ~35k | **XP** |
+
+#### Level 100–110 with Protector (~32 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~165k | ~65k | **XP** |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~150k | ~70k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 2 → **1** | 2 → **2** | ~150k | ~65k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 2 → **1** | 3 → **3** | ~165k | ~75k | **XP**. Still: invisible monsters |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 3 → **2** | 3 → **3** | ~200k | ~40k | **XP** |
+
+#### Level 110–120 with Protector (~36 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~170k | ~65k | **XP** |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~155k | ~70k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 2 → **1** | 3 → **3** | ~170k | ~75k | **XP**. Still: invisible monsters |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~190k | ~235k | **XP + money** |
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **2** | 3 → **2** | ~200k | ~95k | **XP**. Still: skip Massive Water Elemental (hits half your HP) |
+
+#### Level 120–130 with Protector (~43 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~125k | ~220k | **money** |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~200k | ~245k | **XP + money** |
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **2** | 3 → **2** | ~205k | ~100k | **XP** |
+
+#### Level 130–140 with Protector (~56 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~130k | ~225k | **money** |
+| [Cult Cave (Liberty Bay)](https://tibiamaps.io/map#32359,32721,7:2) | 1 → **0** | 1 → **1** | 105k | 195k | **money**. Still: summoners, skip Elder Bonelord (hits half your HP) |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **2** | 3 → **2** | ~185k | ~45k | **XP** |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 → **2** | 3 → **2** | ~170k | ~40k | **XP** |
+| [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | 2 → **2** | 3 → **2** | ~195k | ~40k | **XP** |
+
+#### Level 140–150 with Protector (~61 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~130k | ~230k | **money** |
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~200k | ~135k | **XP** |
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~160k | ~60k | **XP** |
+| [Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 3 → **3** | ~175k | ~105k | **XP**. Still: invisible monsters |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~165k | ~95k | **XP** |
+
+#### Level 150–160 with Protector (~66 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~205k | ~135k | **XP** |
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~165k | ~60k | **XP** |
+| [Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 3 → **3** | ~175k | ~110k | **XP**. Still: invisible monsters |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~165k | ~95k | **XP** |
+| [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 3 → **2** | 3 → **2** | ~170k | ~60k | **XP** |
+
+#### Level 160–170 with Protector (~67 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~210k | ~140k | **XP** |
+| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~195k | ~120k | **XP** |
+| [Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 3 → **3** | ~180k | ~110k | **XP**. Still: invisible monsters |
+| [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 3 → **2** | 3 → **2** | ~175k | ~60k | **XP** |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~230k | ~45k | **XP** |
+
+#### Level 170–180 with Protector (~71 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~235k | ~45k | **XP** |
+| [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 2 → **2** | 3 → **2** | ~220k | ~45k | **XP** |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 2 → **2** | 3 → **2** | ~180k | ~45k | **XP** |
+
+#### Level 180–190 with Protector (~90 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 3 → **2** | 3 → **2** | ~180k | ~60k | **XP**. Still: summoners |
+| [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 3 → **2** | 3 → **3** | ~190k | ~60k | **XP** |
+
+#### Level 190–200 with Protector (~96 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~180k | ~80k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Asura Palace](https://tibiamaps.io/map#32953,32685,7:2) | 2 → **1** | 2 → **2** | ~215k | ~45k | **XP**. Still: summoners, skip Hellhound (hits half your HP) |
+| [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 3 → **2** | 3 → **2** | ~185k | ~60k | **XP**. Still: summoners |
+| [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 3 → **2** | 3 → **3** | ~195k | ~60k | **XP** |
+
+#### Level 200+ with Protector
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~200k | ~80k | **XP** |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 → **0** | 1 → **1** | ~180k | ~90k | **XP**. Still: summoners |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 1 → **0** | 2 → **1** | ~185k | ~85k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~185k | ~85k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Asura Palace](https://tibiamaps.io/map#32953,32685,7:2) | 2 → **1** | 2 → **1** | ~220k | ~50k | **XP**. Still: summoners, skip Hellhound (hits half your HP) |
 
 ## Section 2: Imbuements
 An **imbuement** is a temporary enchantment you add to a piece of gear. It lasts for 20 hours of fighting, then wears off and you add a new one.
@@ -842,31 +1041,380 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 2 → **0** | ~235k | ~115k | **XP** |
 | [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~200k | ~80k | **XP** |
 
-## Section 3: Charms and prey (outline)
-**Prey** lets you pick a creature and get a bonus while hunting it: more experience (13–40%), more damage (7–25%), less damage taken (12–30%) or more loot (13–40%). The bonus is random, and premium accounts have 2 prey slots. Open it with Ctrl+Y.
+## Section 3: Charms and prey
+Charms and prey give you bonuses against specific monsters. They cost little or nothing once unlocked, but you have to choose and switch them as you change hunting grounds.
 
-**Charms** are perks you attach to one creature each. You unlock them with points earned by completing that creature's Bestiary entry, which mostly means killing enough of them. Two are great for comfort:
-- **Dodge:** put it on the monster that hurts you most. It gives a 5–11% chance to take no damage from it.
-- **Wound:** put it on the monster you kill most. It adds about 1–4% damage.
+### Prey
+Open it with Ctrl+Y (or right-click your character and choose "Prey System"). Each prey slot offers a list of 9 creatures. You pick one, and you get a bonus against that creature for 2 hours of hunting.
+- **Slots:** free accounts have 1, premium accounts have 2, and a third one can be bought in the Store.
+- **Bonuses:** each one has 10 steps. **Damage reduction** cuts the damage that creature does to you by 12% to 30%. **Bonus experience** gives 13% to 40% more experience from it. **Damage boost** (7% to 25%) and **improved loot** (13% to 40%) also exist.
+- **New list:** free every 20 hours, or for 150 gold per level of your character.
+- **Prey Wildcards** let you improve the bonus or pick the creature you want. You get some each week from the daily reward (1 for free accounts, 3 for premium), and they're also sold in the Store.
 
-Still to write: which hunting grounds get more comfortable with charms and prey.
+The comfort setup uses both premium slots:
+1. **Damage reduction** on the monster that hits you hardest.
+2. **Bonus experience** (or improved loot, at a money spot) on the monster that gives you the most experience.
 
-## Section 4: Wheel of Destiny and gems (outline)
-From level 51 (after promotion, with a premium account) you get **1 point per level** to spend on the Wheel of Destiny, a board of permanent perks. A level 134 knight has 84 points.
+The tables below assume about 20% damage reduction and 25% more experience, which is what you'll usually have after a wildcard or two.
 
-A good start for comfort: first the slices that give extra HP, then **Battle Healing**, which makes your healing 30% stronger while you use a shield. TibiaPal has a planner and ready-made knight builds (tibiapal.com/wheels). Gems, which add more perks, come later.
+### Charms
+Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry. Premium accounts can use 6 charms at once (free accounts 2), and moving a charm to another creature costs 100 gold per level of your character.
 
-Still to write: a build for each level band and the hunting grounds it helps with.
+The best charms for comfort:
+- **Dodge** (240 points): a 5% chance to take no damage from that creature's attack (10% after an upgrade for 360 more). Put it on the monster that hurts you most.
+- **Wound** (240 points): each of your attacks has a 5% chance to hit for 5% of the creature's maximum health, roughly 1–2% more damage. If the creature is weak to an element, the matching charm is better (Freeze, Zap, Enflame, Poison, Curse or Divine Wrath).
+- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products) and Bless (lose 6% less when that creature kills you).
+- **Low Blow** and **Savage Blow** (800 points each) add critical hits. They only pay off once you have a Strike imbuement.
 
-## Section 5: Weapon proficiency (outline)
-Every kill with a weapon equipped builds up that weapon's **proficiency**, which unlocks perks for it, such as more damage or more critical hits. Progress belongs to each weapon, so switching weapons often wastes it: keep one main weapon per level band. Reaching proficiency level 3 takes about 800 kills of mid-level monsters.
+Charms change your average damage, not the worst hit, so they don't change the grades in the tables.
 
-Still to write: which perks to pick for each weapon.
+### Reading the Section 3 tables
+These tables list the Section 1 hunting grounds that get more comfortable with the damage-reduction prey, the 5 best per band. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-## Section 6: The Forge and the full Elite Knight (outline)
-The last step is the **Exaltation Forge**, which upgrades items to higher tiers with small chance-based effects, on top of everything from the earlier sections. Together that's what experienced players call a "full setup".
+#### Level 20–30 with prey (~9.7 hours to the next band)
 
-Still to write: what the Forge does for a knight, and which hunting grounds become comfortable with a full setup.
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 → **1** | 2 → **1** | ~30k | ~25k | **XP**. Damage-reduction prey on Stone Golem, XP prey on Gargoyle |
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 3 → **2** | 3 → **2** | ~25k | ~70k | **money**. Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 3 → **2** | 3 → **2** | ~30k | ~13k | **XP**. Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 3 → **2** | 3 → **2** | ~30k | ~7k | **XP**. Damage-reduction prey on Cyclops Drone, XP prey on Cyclops |
+
+#### Level 30–40 with prey (~14 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~25k | ~315k | **money**. Damage-reduction prey on Gloom Wolf, XP prey on Ghost Wolf. Still: invisible monsters |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~50k | ~85k | **XP**. Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~45k | ~10k | **XP**. Damage-reduction prey on Cyclops Drone, XP prey on Cyclops |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **2** | ~35k | ~125k | **money**. Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling. Still: skip Haunted Treeling (hits half your HP) |
+| [Arena and Zoo Quarter](https://tibiamaps.io/map#32677,31231,7:2) | 3 → **2** | 3 → **2** | ~40k | ~30k | **XP**. Damage-reduction prey on Mutated Rat, XP prey on Gladiator |
+
+#### Level 40–50 with prey (~16 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~45k | ~115k | **money**. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
+| [Drefia](https://tibiamaps.io/map#33018,32443,7:2) | 2 → **1** | 2 → **2** | ~70k | ~90k | **XP**. Damage-reduction prey on Demon Skeleton, XP prey on Necromancer. Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 3 → **2** | 3 → **2** | ~65k | ~20k | **XP**. Damage-reduction prey on Ice Witch, XP prey on Barbarian Bloodwalker |
+| [Peninsula Tomb](https://tibiamaps.io/map#33027,32870,7:2) | 3 → **2** | 3 → **3** | ~55k | ~45k | **XP**. Damage-reduction prey on Vampire, XP prey on Demon Skeleton. Still: invisible monsters, summoners |
+| [Arena and Zoo Quarter](https://tibiamaps.io/map#32677,31231,7:2) | 3 → **2** | 3 → **3** | ~60k | ~30k | **XP**. Damage-reduction prey on Undead Gladiator, XP prey on Mutated Rat. Still: invisible monsters, summoners |
+
+#### Level 50–60 with prey (~21 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~70k | ~170k | **XP + money**. Damage-reduction prey on Wyvern |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~70k | ~160k | **XP + money**. Damage-reduction prey on Wyvern, XP prey on Poacher |
+| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~50k | ~340k | **money**. Damage-reduction prey on Wyvern, XP prey on Gloom Wolf. Still: invisible monsters |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~70k | ~70k | **XP**. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~70k | ~65k | **XP**. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
+
+#### Level 60–70 with prey (~25 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 → **0** | 1 → **0** | ~75k | ~19k | **XP**. Damage-reduction prey on Killer Caiman |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~80k | ~80k | **XP**. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~80k | ~80k | **XP**. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~75k | ~70k | **XP**. Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
+| [Forbidden Temple (Ankrahmun)](https://tibiamaps.io/map#33315,32675,7:2) | 2 → **1** | 3 → **3** | ~85k | ~95k | **XP**. Damage-reduction prey on Adept of the Cult, XP prey on Lizard Templar. Still: invisible monsters, summoners |
+
+#### Level 70–80 with prey (~30 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | **money**. Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~65k | ~160k | **money**. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
+| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~110k | ~50k | **XP**. Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
+| [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **2** | ~110k | ~80k | **XP**. Damage-reduction prey on Orc Cult Inquisitor, XP prey on Orc Cult Priest. Still: summoners |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 2 → **1** | 2 → **2** | ~115k | ~40k | **XP**. Damage-reduction prey on Ancient Scarab, XP prey on Roaring Lion. Still: summoners |
+
+#### Level 80–90 with prey (~25 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Drefia](https://tibiamaps.io/map#33018,32443,7:2) | 1 → **0** | 2 → **2** | ~135k | ~115k | **XP**. Damage-reduction prey on Demon Skeleton, XP prey on Wyrm. Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **2** | ~120k | ~90k | **XP**. Damage-reduction prey on Orc Cult Inquisitor, XP prey on Orc Cult Priest. Still: summoners |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 3 → **2** | 3 → **2** | ~140k | ~40k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+| [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 2 → **2** | 3 → **2** | ~125k | ~35k | **XP**. Damage-reduction prey on Dragon, XP prey on Dragon Lord. Still: skip Dragon Lord (hits half your HP) |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 → **2** | 3 → **3** | ~160k | ~35k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+
+#### Level 90–100 with prey (~31 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 0 → **0** | 1 → **0** | 100k | 215k | **money**. Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~160k | ~60k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~155k | ~65k | **XP**. Damage-reduction prey on Vile Grandmaster, XP prey on Renegade Knight. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 2 → **1** | 2 → **2** | ~155k | ~65k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 3 → **2** | 3 → **3** | ~140k | ~35k | **XP**. Damage-reduction prey on Wyrm |
+
+#### Level 100–110 with prey (~31 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~165k | ~65k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~160k | ~70k | **XP**. Damage-reduction prey on Vile Grandmaster, XP prey on Renegade Knight. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 2 → **1** | 2 → **2** | ~165k | ~65k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 2 → **1** | 3 → **3** | ~185k | ~75k | **XP**. Damage-reduction prey on Wereboar, XP prey on Werefox. Still: invisible monsters |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~190k | ~230k | **XP + money**. Damage-reduction prey on Energy Elemental |
+
+#### Level 110–120 with prey (~35 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~170k | ~65k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~165k | ~70k | **XP**. Damage-reduction prey on Vile Grandmaster, XP prey on Renegade Knight. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 2 → **1** | 3 → **3** | ~185k | ~75k | **XP**. Damage-reduction prey on Wereboar, XP prey on Werefox. Still: invisible monsters |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~190k | ~235k | **XP + money**. Damage-reduction prey on Energy Elemental |
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **2** | 3 → **2** | ~205k | ~95k | **XP**. Damage-reduction prey on Water Elemental, XP prey on Massive Water Elemental. Still: skip Massive Water Elemental (hits half your HP) |
+
+#### Level 120–130 with prey (~41 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~150k | ~220k | **money**. Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~200k | ~245k | **XP + money**. Damage-reduction prey on Energy Elemental |
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **2** | 3 → **2** | ~215k | ~100k | **XP**. Damage-reduction prey on Water Elemental, XP prey on Massive Water Elemental |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **2** | 3 → **2** | ~190k | ~40k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 → **2** | 3 → **2** | ~175k | ~40k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+
+#### Level 130–140 with prey (~55 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~150k | ~225k | **money**. Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
+| [Cult Cave (Liberty Bay)](https://tibiamaps.io/map#32359,32721,7:2) | 1 → **0** | 1 → **1** | 115k | 195k | **money**. Damage-reduction prey on Novice of the Cult, XP prey on Acolyte of the Cult. Still: summoners, skip Elder Bonelord (hits half your HP) |
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~170k | ~60k | **XP**. Damage-reduction prey on Wyrm, XP prey on Elder Wyrm |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~170k | ~95k | **XP**. Damage-reduction prey on Weakened Frazzlemaw, XP prey on Dark Faun |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **2** | 3 → **2** | ~195k | ~45k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+
+#### Level 140–150 with prey (~56 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~155k | ~230k | **money**. Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~215k | ~135k | **XP**. Damage-reduction prey on Deepling Guard, XP prey on Deepling Spellsinger |
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~175k | ~60k | **XP**. Damage-reduction prey on Wyrm, XP prey on Elder Wyrm |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~170k | ~95k | **XP**. Damage-reduction prey on Weakened Frazzlemaw, XP prey on Dark Faun |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **2** | 3 → **2** | ~200k | ~45k | **XP**. Damage-reduction prey on Dragon Lord, XP prey on Dragon |
+
+#### Level 150–160 with prey (~60 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~220k | ~135k | **XP**. Damage-reduction prey on Deepling Guard, XP prey on Deepling Spellsinger |
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~175k | ~60k | **XP**. Damage-reduction prey on Wyrm, XP prey on Elder Wyrm |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~175k | ~95k | **XP**. Damage-reduction prey on Weakened Frazzlemaw, XP prey on Dark Faun |
+| [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 3 → **2** | 3 → **2** | ~180k | ~60k | **XP**. Damage-reduction prey on Frazzlemaw, XP prey on Silencer |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~230k | ~45k | **XP**. Damage-reduction prey on Sea Serpent |
+
+#### Level 160–170 with prey (~63 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~225k | ~140k | **XP**. Damage-reduction prey on Deepling Guard, XP prey on Deepling Spellsinger |
+| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~215k | ~120k | **XP**. Damage-reduction prey on Deepling Guard, XP prey on Deepling Warrior |
+| [Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 3 → **3** | ~195k | ~110k | **XP**. Damage-reduction prey on Drillworm, XP prey on Lost Basher. Still: invisible monsters |
+| [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 3 → **2** | 3 → **2** | ~185k | ~60k | **XP**. Damage-reduction prey on Frazzlemaw, XP prey on Silencer |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~230k | ~45k | **XP**. Damage-reduction prey on Sea Serpent |
+
+#### Level 170–180 with prey (~72 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~190k | ~80k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+| [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 3 → **2** | 3 → **2** | ~190k | ~55k | **XP**. Damage-reduction prey on Serpent Spawn, XP prey on Hydra. Still: summoners |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~235k | ~45k | **XP**. Damage-reduction prey on Sea Serpent |
+| [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 2 → **2** | 3 → **2** | ~230k | ~45k | **XP**. Damage-reduction prey on Sea Serpent, XP prey on Young Sea Serpent |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 2 → **2** | 3 → **2** | ~195k | ~45k | **XP**. Damage-reduction prey on Elder Wyrm, XP prey on Wyrm |
+
+#### Level 180–190 with prey (~86 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~195k | ~75k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~195k | ~80k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+
+#### Level 190–200 with prey (~91 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~200k | ~80k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 1 → **0** | 2 → **2** | ~195k | ~80k | **XP**. Damage-reduction prey on Vile Grandmaster, XP prey on Renegade Knight. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~195k | ~80k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 1 → **0** | 3 → **3** | ~220k | ~90k | **XP**. Damage-reduction prey on Wereboar, XP prey on Werefox. Still: invisible monsters |
+| [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 2 → **0** | 3 → **3** | ~210k | ~80k | **XP**. Damage-reduction prey on Wereboar, XP prey on Werebadger. Still: invisible monsters |
+
+#### Level 200+ with prey
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 2 → **0** | ~245k | ~115k | **XP**. Damage-reduction prey on Water Elemental, XP prey on Massive Water Elemental |
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~200k | ~80k | **XP**. Damage-reduction prey on Werewolf, XP prey on War Wolf |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 1 → **0** | 2 → **2** | ~200k | ~85k | **XP**. Damage-reduction prey on Vile Grandmaster, XP prey on Renegade Knight. Still: summoners, skip Lich (hits half your HP) |
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~200k | ~85k | **XP**. Damage-reduction prey on Necromancer, XP prey on Bonebeast. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 1 → **0** | 3 → **3** | ~225k | ~95k | **XP**. Damage-reduction prey on Wereboar, XP prey on Werefox. Still: invisible monsters |
+
+## Section 4: Wheel of Destiny and gems
+From level 51, after promotion and with a premium account, you get **1 point per level** to spend on the Wheel of Destiny, a big circle of permanent perks: 40 points at level 90, 84 at 134 and 150 at 200. You can move your points around for free in any temple.
+
+### How the Wheel works
+- You start in the middle and fill **slices** with points. Each point gives a small **dedication** bonus. For a knight, the hit-point slices give 3 extra HP per point; other slices give mana, capacity or mitigation (each point reduces damage taken a little).
+- A full slice unlocks a **conviction perk**. The best one for comfort is **Battle Healing**: your healing spells heal 10% more, and three times that (30%) while you wear a shield. Others improve your spells: `exori gran` costs 30 less mana, `exura gran ico` heals 125% more, and so on.
+- With 250 points in one quarter of the Wheel (around level 300 and up) you reach the big **revelation perks**, such as Combat Mastery (you take less damage the lower your health is, doubled with a shield).
+
+A good comfort plan: fill the hit-point slices first, then head for Battle Healing. TibiaPal has a planner and ready-made knight builds at tibiapal.com/wheels.
+
+### Gems
+Later, the Wheel also takes **gems**, which add extra bonuses such as more HP or elemental resistance. Lesser gems drop from influenced monsters (stronger versions of normal monsters that appear now and then), bigger ones from fiendish monsters and bosses. Revealing a gem's bonuses costs gold: 125k for a lesser gem, 1 million for a regular one and 6 million for a greater one. That's late-game spending, so gems aren't in the tables.
+
+### Reading the Section 4 tables
+These tables assume half your points go into hit-point slices, about 1.5 extra HP per level above 50. They list the Section 1 hunting grounds where that extra health lowers the grades, the 5 best per band. Battle Healing makes every heal stronger too, which the tables don't count.
+
+#### Level 60–70 with the Wheel (~27 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~70k | ~80k | **XP** |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~75k | ~80k | **XP** |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~70k | ~70k | **XP** |
+| [Forbidden Temple (Ankrahmun)](https://tibiamaps.io/map#33315,32675,7:2) | 2 → **1** | 3 → **3** | ~80k | ~95k | **XP**. Still: invisible monsters, summoners |
+
+#### Level 70–80 with the Wheel (~17 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 3 → **2** | 3 → **3** | ~155k | ~75k | **XP** |
+
+#### Level 90–100 with the Wheel (~38 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 0 → **0** | 1 → **0** | 90k | 215k | **money** |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 3 → **2** | 3 → **3** | ~140k | ~35k | **XP** |
+
+#### Level 100–110 with the Wheel (~30 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 2 → **1** | 2 → **2** | ~150k | ~65k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 3 → **2** | 3 → **3** | ~200k | ~40k | **XP** |
+
+#### Level 110–120 with the Wheel (~40 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~170k | ~65k | **XP** |
+| [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 2 → **1** | 2 → **2** | ~155k | ~70k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+
+#### Level 120–130 with the Wheel (~37 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **2** | 3 → **2** | ~200k | ~245k | **XP + money** |
+| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **2** | 3 → **2** | ~205k | ~100k | **XP** |
+
+#### Level 130–140 with the Wheel (~85 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Cult Cave (Liberty Bay)](https://tibiamaps.io/map#32359,32721,7:2) | 1 → **0** | 1 → **1** | 105k | 195k | **money**. Still: summoners, skip Elder Bonelord (hits half your HP) |
+
+#### Level 140–150 with the Wheel (~57 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~130k | ~230k | **money** |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **2** | 3 → **2** | ~190k | ~45k | **XP** |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 → **2** | 3 → **2** | ~175k | ~45k | **XP** |
+| [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | 2 → **2** | 3 → **2** | ~200k | ~40k | **XP** |
+| [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | 2 → **2** | 3 → **2** | ~200k | ~30k | **XP** |
+
+#### Level 150–160 with the Wheel (~64 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~165k | ~60k | **XP** |
+| [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 3 → **2** | 3 → **2** | ~165k | ~95k | **XP** |
+| [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | 3 → **2** | 3 → **3** | ~215k | ~30k | **XP** |
+
+#### Level 160–170 with the Wheel (~70 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~210k | ~140k | **XP** |
+| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~195k | ~120k | **XP** |
+| [Forsaken Mine, Lost Dwarves](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 3 → **3** | ~180k | ~110k | **XP**. Still: invisible monsters |
+| [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 3 → **2** | 3 → **2** | ~175k | ~60k | **XP** |
+
+#### Level 170–180 with the Wheel (~71 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 2 → **2** | 3 → **2** | ~235k | ~45k | **XP** |
+| [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 2 → **2** | 3 → **2** | ~220k | ~45k | **XP** |
+| [Vandura Wyrm Cave (Liberty Bay)](https://tibiamaps.io/map#32388,32842,7:2) | 2 → **2** | 3 → **2** | ~180k | ~45k | **XP** |
+
+#### Level 190–200 with the Wheel (~99 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 3 → **2** | 3 → **2** | ~185k | ~60k | **XP**. Still: summoners |
+| [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 3 → **2** | 3 → **3** | ~195k | ~60k | **XP** |
+
+#### Level 200+ with the Wheel
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Lich Hell (Liberty Bay)](https://tibiamaps.io/map#31936,32594,8:2) | 1 → **0** | 2 → **2** | ~185k | ~85k | **XP**. Still: summoners, skip Lich (hits half your HP) |
+| [Asura Palace](https://tibiamaps.io/map#32953,32685,7:2) | 2 → **1** | 2 → **2** | ~220k | ~50k | **XP**. Still: summoners, skip Hellhound (hits half your HP) |
+| [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 3 → **2** | 3 → **2** | ~185k | ~60k | **XP**. Still: summoners |
+| [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 3 → **2** | 3 → **3** | ~200k | ~60k | **XP** |
+
+## Section 5: Weapon proficiency
+Every monster you kill with a weapon equipped builds up that weapon's **proficiency**. Each proficiency level unlocks a choice of perks for that weapon, such as more damage, more critical hits or more leech. You pick one perk per level. You can pick anywhere, but changing a perk needs a protection zone.
+
+Progress belongs to each weapon, so switching weapons often wastes it. Pick one main weapon per level band and stay with it.
+
+**How fast it grows.** Knight weapons need 1,250 progress for level 1, then 20,000, 80,000, 300,000, 1.5 million, 6 million and 20 million for level 7, the last level with perks. Each kill gives progress based on the creature's difficulty: 30 for trivial, 70 for easy, 100 for medium, 165 for hard and 240 for challenging creatures (influenced monsters give a bit more).
+
+At a comfortable hunting ground you kill roughly 300 to 500 monsters an hour, mostly easy and medium ones, so about 25,000 to 50,000 progress per hour:
+
+| Proficiency level | Hunting time with one weapon |
+|---|---|
+| 1 and 2 | under an hour |
+| 3 | 2 to 3 hours |
+| 4 | 6 to 12 hours |
+| 5 | 30 to 60 hours |
+| 6 | 120 to 240 hours |
+| 7 | 400 hours or more |
+
+So the first four levels come quickly with any weapon you keep for a band. Levels 5 and up are for a weapon you'll use for a long time.
+
+Each weapon has its own perks, and from proficiency level 3 you can swap one of them for another perk (250 Dust). The weapon's TibiaWiki page and the planner at tibiapal.com/weapon-proficiency list them.
+
+## Section 6: The Forge and the full Elite Knight
+The last step is the **Exaltation Forge** in the Adventurers' Guild. It raises an item's **tier**, which adds a small chance-based effect:
+
+| Item | Effect | Tier 1 | Tier 3 | Tier 10 |
+|---|---|---|---|---|
+| Weapon | Onslaught: chance of a hit with 60% extra damage | +0.3% damage | +1% damage | +5.4% damage |
+| Armor | Ruse: chance to dodge an attack | 0.5% | 1.6% | 7.5% |
+| Helmet | Momentum: chance to cut 2 seconds off your spell cooldowns | 2% every 2 s | 6% | 24% |
+| Legs | Transcendence: chance to become an avatar for 7 seconds | very rare | rare | about 2% |
+| Boots | Amplification: makes the other effects trigger more often | +2.5% | +9% | +57% |
+
+**How it works.** You **fuse** two identical items of the same tier, paying gold and Dust, and get one item of the next tier. It works half the time (65% with an Exalted Core). When it fails, one of the items loses a tier, or is destroyed if it was tier 0. Dust comes from influenced monsters and can't be traded; Exalted Cores are made from it.
+
+**How far an item can go** depends on its classification, from 1 to 4. Class 1 items stop at tier 1, class 2 at tier 2, class 3 at tier 3, and class 4 items reach tier 10.
+
+**What it costs.** Going from tier 0 to 1 costs 25k gold for a class 1 item, 750k for class 2, 4 million for class 3 and 8 million for class 4. The next tiers of a class 4 item cost 20 million, then 40 million, 65 million and more.
+
+**For comfort,** the effect that matters most is Ruse on your armor. At the tiers you can afford early (1 to 3), it's only a 0.5–1.6% dodge chance for millions of gold. It's often cheaper to buy an already-tiered item on the Market than to forge one. Leave the Forge for when everything else is done.
+
+With imbuements, charms, prey, the Wheel and gems, weapon proficiency and tiered gear, you have what players call a **full setup**.
 
 ## Appendix: how the numbers are made
 Nobody publishes hunting numbers for knights without a full setup, so the XP and loot numbers in Sections 1 and 2 are calculated. Here is how, in plain terms.
