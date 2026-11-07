@@ -1,10 +1,15 @@
-# Elite Knight hunting guide by comfort
+# Tibia hunting guides by comfort
 
-A hunting guide for solo Elite Knights in Tibia, sorted by how comfortable each hunting ground is at your level: how much attention the hunt needs and how much you have to prepare. Written for new players. Covers Tibia as of November 2026.
+Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each hunting ground is at your level: how much you have to prepare (**Prep**) and how much attention the hunt needs (**Hunt**). Written for new players. Covers Tibia as of November 2026.
 
-**Read the guide:** [ek_progression_guide.md](ek_progression_guide.md) · **Em português:** [ek_progression_guide_ptbr.md](ek_progression_guide_ptbr.md)
+| Vocation | Guide | Em português | Status |
+|---|---|---|---|
+| Knight | [knight/guide.md](knight/guide.md) | [knight/guide_ptbr.md](knight/guide_ptbr.md) | Estimates, a few hunting grounds tested |
+| Sorcerer | coming soon | | |
+| Paladin | coming soon | | |
+| Monk | coming soon | | |
 
-- Sections 1 (basic mechanics), 1a (Stealth Ring), 1b (more spells), 2 (imbuements), 3 (charms and prey) and 4 (Wheel of Destiny) list the best hunting grounds for every level band.
-- Sections 5 (weapon proficiency) and 6 (the Forge) explain the last steps to a full setup, with numbers.
-- Section 1 also covers playing on a free account (with the best free hunting grounds per band), the daily boosted creature and the Task Board.
-- XP and loot numbers are estimates until tested. Log real hunts in [spot_tests.md](spot_tests.md).
+How each guide works:
+- It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
+- Section 1 also covers playing on a free account, the daily boosted creature and the Task Board.
+- XP and loot numbers are estimates until tested. Each vocation folder has a `spot_tests.md` log for real hunts; tested hunting grounds get a ✓ and use the real numbers.
