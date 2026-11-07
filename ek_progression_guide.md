@@ -159,6 +159,17 @@ At low levels, a few safe quests give as much experience as hours of hunting. Qu
 
 Each name links to its TibiaWiki page, which has a step-by-step spoiler.
 
+### Promotion at level 20
+Until now you are a Knight. At **level 20**, with a premium account, you can buy your **promotion** for 20,000 gold and become an **Elite Knight**. The easiest place is King Tibianus III in Thais's castle; Queen Eloise in Carlin, Emperor Kruzak in Kazordoon, Grand Vizier Ishebad in Ankrahmun, Emperor Rehal in Beregar and Rotem Valos at the Adventurers' Guild sell it too.
+
+It's worth buying as soon as you have the gold:
+- You lose 30% less experience and skill when you die.
+- You regenerate health faster: 1 HP every 4 seconds instead of every 6.
+- You can learn promotion-only spells, and from level 51 you get Wheel of Destiny points (Section 4).
+- You get 100 Minor Charm Echoes for minor charms (Section 3).
+
+The promotion is permanent, but it pauses while your premium time is over.
+
 ### Reading the hunting ground tables
 - **Hunting ground:** the name links to the entrance on the tibiamaps.io map. ✓ means the hunting ground was tested at that level.
 - **Prep and Hunt:** the comfort grades, 0 to 3.

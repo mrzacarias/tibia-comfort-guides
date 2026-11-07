@@ -162,6 +162,17 @@ Nos levels baixos, algumas quests seguras dão tanta experiência quanto horas d
 
 Cada nome leva à página da quest na TibiaWiki (em inglês), com o passo a passo.
 
+### Promoção no level 20
+Até aqui você é um Knight. No **level 20**, com conta premium, dá para comprar a sua **promoção** por 20.000 gold e virar um **Elite Knight**. O lugar mais fácil é com o King Tibianus III, no castelo de Thais; a Queen Eloise em Carlin, o Emperor Kruzak em Kazordoon, o Grand Vizier Ishebad em Ankrahmun, o Emperor Rehal em Beregar e o Rotem Valos na Adventurers' Guild também vendem.
+
+Vale comprar assim que tiver o gold:
+- Você perde 30% menos de experiência e skill quando morre.
+- A vida regenera mais rápido: 1 de HP a cada 4 segundos em vez de 6.
+- Você pode aprender magias exclusivas de promovidos, e a partir do level 51 ganha pontos da Wheel of Destiny (Seção 4).
+- Você ganha 100 Minor Charm Echoes para os charms menores (Seção 3).
+
+A promoção é permanente, mas fica pausada enquanto a sua conta premium estiver vencida.
+
 ### Lendo as tabelas de hunts
 - **Hunt:** o nome leva à entrada no mapa do tibiamaps.io. ✓ quer dizer que a hunt foi testada naquele level.
 - **Preparo e Atenção:** as notas de conforto, de 0 a 3.
