@@ -163,9 +163,11 @@ Free accounts can use Quick Loot too; only the sorting needs premium.
 ### Selling your loot
 Many things monsters drop sell on the Market for much more than any shop pays. A Stone Wing, for example, sells for about 2.4k on the Market but only 120 at a shop. The notes for each hunting ground name its most valuable drop.
 
-The in-game Hunt Analyser often shows less loot than you really made, because it values items at shop prices. In one tested hour it showed 10.6k of loot; selling everything on the Market brought in 106k.
+Selling to a buy offer on the Market is instant, but look at the price first. When the best buy offer is lower than a shop pays, sell to the shop instead, or put up your own sell offer and wait for a buyer. On one world in November 2026, the best buy offer for a Gold Tooth was 100 gold, a shop paid 120, and sell offers started at about 800.
 
-Prices also differ between game worlds, sometimes by three times, so check your own Market before choosing a hunting ground for its loot.
+The in-game Hunt Analyser can be far off in either direction. For each item it uses the shop price, the average Market price on your world, or a price you set yourself, and you choose which in the Cyclopedia (Items tab). In one tested hour it showed 10.6k of loot, and selling everything on the Market brought in 106k. In a tested half hour it showed 21.7k, and selling to buy offers brought in only 6.2k. Count the gold you actually get.
+
+Prices also differ between game worlds, sometimes by five times or more (in November 2026, buy offers for a Lizard Tail averaged about 2,400 gold on one world and 310 on another), so check your own Market before choosing a hunting ground for its loot.
 
 ### The daily boosted creature
 Every day at server save, one creature becomes the **boosted creature** until the next server save. That creature gives **twice the experience and twice the loot, and it respawns twice as fast**. You can see it on the client's login screen and at the top right of tibia.com.

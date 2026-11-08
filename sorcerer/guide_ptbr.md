@@ -166,9 +166,11 @@ Contas free também podem usar o Quick Loot; só a organização precisa de prem
 ### Vendendo o seu loot
 Muita coisa que os monstros dropam vale no Market muito mais do que qualquer loja paga. Uma Stone Wing, por exemplo, sai por uns 2,4k no Market, mas só 120 numa loja. As notas de cada hunt dizem qual é o drop mais valioso dela.
 
-O Hunt Analyser do jogo costuma mostrar menos loot do que você fez de verdade, porque usa os preços das lojas. Numa hora testada, ele mostrou 10,6k de loot; vendendo tudo no Market, entraram 106k.
+Vender para uma oferta de compra no Market é na hora, mas olhe o preço antes. Quando a melhor oferta de compra for menor do que uma loja paga, venda para a loja, ou crie a sua própria oferta de venda e espere um comprador. Num mundo, em novembro de 2026, a melhor oferta de compra por um Gold Tooth era 100 gold, uma loja pagava 120, e as ofertas de venda começavam em uns 800.
 
-Os preços também mudam de um mundo para outro, às vezes três vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
+O Hunt Analyser do jogo pode errar muito, para mais ou para menos. Para cada item ele usa o preço da loja, o preço médio do Market no seu mundo ou um preço que você mesmo define, e você escolhe qual na Cyclopedia (aba Items). Numa hora testada, ele mostrou 10,6k de loot; vendendo tudo no Market, entraram 106k. Numa meia hora testada, ele mostrou 21,7k, e vendendo para ofertas de compra entraram só 6,2k. Conte o gold que entra de verdade.
+
+Os preços também mudam de um mundo para outro, às vezes cinco vezes ou mais (em novembro de 2026, as ofertas de compra por uma Lizard Tail ficaram em média em uns 2.400 gold num mundo e 310 em outro), então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
 
 ### A criatura boostada do dia
 Todo dia, no server save, uma criatura vira a **criatura boostada** (boosted creature) até o próximo server save. Ela dá **o dobro de experiência e o dobro de loot, e renasce duas vezes mais rápido**. Ela aparece na tela de login do cliente e no canto superior direito do tibia.com.
