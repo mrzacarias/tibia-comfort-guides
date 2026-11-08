@@ -109,7 +109,9 @@ All attack spells share a 2-second cooldown, so from level 50 you alternate: `ex
 
 **Healing:** `exura` (level 8, 20 mana) heals a little, and `exura gran` (level 20, 70 mana) heals more.
 
-**Potions:** all potions share one short cooldown (about 1 second), so you can't drink a health and a mana potion at the same moment. Mana Potions are the cheapest per point of mana (56 gold for about 100 mana), and the tables count them and your ammunition as supplies. Stronger potions unlock at higher levels.
+**Potions:** all potions share one short cooldown (about 1 second), so you can't drink a health and a mana potion at the same moment. Mana Potions are the cheapest per point of mana (56 gold for about 100 mana), and the tables count them and your ammunition as supplies. Stronger mana potions unlock at level 50 (Strong), 80 (Great) and 100 (Superior). For health you get the Strong Health Potion at level 50; the bigger health potions are for knights only.
+
+**Spirit potions** (monks and paladins only) restore health and mana in one drink, so one cooldown covers both: the Great Spirit Potion (level 80, 254 gold, about 300 health and 150 mana) and the Ultimate Spirit Potion (level 130, 488 gold, about 500 health and 200 mana). They cost more than buying the same health and mana separately, but when both run low at once, one drink fixes both. The Ultimate is also the biggest heal a paladin can drink.
 
 **Stay safe:** always know your way out, and leave when your HP falls to about half. Monsters that slow or paralyse you break your kiting, so be extra careful where the notes say "slows".
 

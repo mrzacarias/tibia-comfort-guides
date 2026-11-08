@@ -112,7 +112,9 @@ Todas as magias de ataque dividem um tempo de espera de 2 segundos, então a par
 
 **Cura:** `exura` (level 8, 20 de mana) cura pouco, e `exura gran` (level 20, 70 de mana) cura mais.
 
-**Poções:** todas as poções dividem um mesmo tempo de espera curto (cerca de 1 segundo), então você não consegue tomar uma de vida e uma de mana no mesmo instante. A Mana Potion é a mais barata por ponto de mana (56 gold por uns 100 de mana), e as tabelas contam essas poções e a sua munição como gasto. Poções mais fortes liberam em levels mais altos.
+**Poções:** todas as poções dividem um mesmo tempo de espera curto (cerca de 1 segundo), então você não consegue tomar uma de vida e uma de mana no mesmo instante. A Mana Potion é a mais barata por ponto de mana (56 gold por uns 100 de mana), e as tabelas contam essas poções e a sua munição como gasto. Poções de mana mais fortes liberam no level 50 (Strong), 80 (Great) e 100 (Superior). Para vida, você ganha a Strong Health Potion no level 50; as poções de vida maiores são só para knights.
+
+**Spirit potions** (só para monks e paladins) recuperam vida e mana num gole só, então um tempo de espera cobre os dois: a Great Spirit Potion (level 80, 254 gold, uns 300 de vida e 150 de mana) e a Ultimate Spirit Potion (level 130, 488 gold, uns 500 de vida e 200 de mana). Elas custam mais do que comprar a mesma vida e mana separadas, mas quando as duas estão baixas ao mesmo tempo, um gole resolve. A Ultimate também é a maior cura que um paladin consegue tomar.
 
 **Jogue seguro:** saiba sempre por onde sair e saia quando a sua vida chegar mais ou menos à metade. Monstros que te deixam lento ou paralisado acabam com o seu kite, então tome cuidado extra onde as notas dizem "paralisam".
 
