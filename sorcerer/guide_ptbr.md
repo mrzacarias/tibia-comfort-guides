@@ -75,7 +75,7 @@ Por exemplo, no level 50 você tem cerca de 395 de HP. Um monstro que bate 120 n
 | metade da sua vida ou mais | 3 | 3 |
 
 Algumas outras coisas mudam a nota:
-- **Kitar.** O sorcerer luta de longe, então os golpes corpo a corpo de um monstro contam só pela metade: de vez em quando você vai ser pego, num canto ou quando um grupo te cerca. Magias e armas arremessadas te alcançam de qualquer jeito, então contam inteiras. Por isso, monstros que soltam magia ou jogam lanças pesam muito mais para um sorcerer do que para um knight.
+- **Kitar.** O sorcerer luta de longe, então os golpes corpo a corpo de um monstro contam só pela metade: de vez em quando você vai ser pego, num canto ou quando um grupo te cerca. Magias e armas arremessadas te alcançam de qualquer jeito, então contam inteiras. Por isso, monstros que soltam magia ou jogam spears pesam muito mais para um sorcerer do que para um knight.
 - **Dano elemental.** Dano de fogo, gelo, energia, terra e morte passa direto pela armadura normal. Se a maior parte do dano de uma hunt é elemental, a nota de Atenção sobe um degrau, e normalmente você vai querer um equipamento especial (Preparo 2).
 - **Monstros invisíveis.** Você não consegue vê-los para atacar, então a hunt fica com Atenção 3.
 - **Monstros que invocam outros** (os famosos "summoners"), ou um monstro raro capaz de tirar metade da sua vida num turno, deixam a hunt com pelo menos Atenção 2.
@@ -516,7 +516,7 @@ A partir do level 35 você pode usar **`utana vid`** (440 de mana, conta free), 
 
 Antes do level 35, um **Stealth Ring** faz o mesmo por 10 minutos. Ele custa uns 800–1.500 gold no Market, dependendo do mundo.
 
-Ela tem uma seção própria porque é mais uma coisa para acompanhar: você precisa soltar de novo antes de acabar. Ela muda menos para um sorcerer do que o anel muda para um knight, porque kitar já mantém longe a maior parte dos golpes corpo a corpo, mas pode deixar fácil uma hunt cheia de monstros que jogam lanças ou soltam magia. Dá para usar junto com qualquer seção seguinte.
+Ela tem uma seção própria porque é mais uma coisa para acompanhar: você precisa soltar de novo antes de acabar. Ela muda menos para um sorcerer do que o anel muda para um knight, porque kitar já mantém longe a maior parte dos golpes corpo a corpo, mas pode deixar fácil uma hunt cheia de monstros que jogam spears ou soltam magia. Dá para usar junto com qualquer seção seguinte.
 
 ### Como usar
 1. **Solte `utana vid` antes de entrar no spawn.** Fique de olho no tempo e solte de novo antes de acabar. Se acabar no meio de um grupo, todos te atacam de uma vez.

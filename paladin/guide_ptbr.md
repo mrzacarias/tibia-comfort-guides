@@ -11,7 +11,7 @@ Os nomes do jogo (monstros, itens, magias, NPCs, quests e lugares) ficam em ingl
 ## Como usar este guia
 O jogo tem vários sistemas que deixam o paladin mais forte: imbuements, charms, a Wheel of Destiny e outros. Cada um ajuda, mas cada um também é mais uma coisa para aprender, comprar ou acompanhar. Este guia adiciona **um de cada vez**, em seções:
 
-- **Seção 1, Mecânicas básicas:** só o seu arco ou besta, duas magias de ataque, as magias de cura básicas e poções. Listas completas de hunts.
+- **Seção 1, Mecânicas básicas:** só o seu bow ou crossbow, duas magias de ataque, as magias de cura básicas e poções. Listas completas de hunts.
 - **Seção 1a, Stealth Ring:** um anel que te esconde de muitos monstros. Listas de hunts.
 - **Seção 1b, Mais magias:** stances, curas e ataques maiores, e munição de área. Listas de hunts.
 - **Seção 2, Imbuements:** life leech e mana leech no seu equipamento. Listas completas de hunts.
@@ -27,12 +27,12 @@ Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas v
 
 ## Palavras que você vai ver
 - **HP e mana:** a sua vida e a energia que você gasta com magias. O paladin tem cerca de 185 + 10 × (level − 8) de HP: 605 no level 50, 1.445 no level 134. Fica entre o knight e o sorcerer.
-- **Distance fighting:** o seu skill com arcos, bestas e lanças. Ele decide o quanto os seus tiros batem.
-- **Munição:** as flechas ou bolts que o seu arco ou besta atira. Cada tiro gasta um.
+- **Distance fighting:** o seu skill com bows, crossbows e spears. Ele decide o quanto os seus tiros batem.
+- **Munição:** as arrows ou bolts que o seu bow ou crossbow atira. Cada tiro gasta um.
 - **Hunt:** um lugar onde você caça. Também é o nome da própria caçada.
 - **Spawn (ou respawn):** os monstros que vivem numa hunt e voltam a aparecer depois que você os mata.
 - **Kitar:** atacar de longe enquanto anda para trás, para os monstros que batem de perto não te alcançarem.
-- **`exori con`:** uma magia que joga uma lança mágica num monstro só.
+- **`exori con`:** uma magia que joga uma spear mágica num monstro só.
 - **`exevo mas san`:** o ataque em área do paladin (level 50, conta premium). Faz chover fogo sagrado nos monstros em volta de você.
 - **`exura`, `exura gran`:** as magias de cura básicas.
 - **XP/h e loot/h:** experiência e gold (o valor do que os monstros dropam) por hora de hunt.
@@ -91,19 +91,19 @@ Cada faixa mostra só as suas **5 melhores hunts**. Primeiro saem as hunts que n
 Cada hunt tem uma tag: **XP** (boa para upar), **lucro** (boa para fazer gold) ou **XP + lucro**.
 
 ### O personagem dos números
-Os números de XP e loot são estimativas para um paladin típico: alguém com distance fighting um pouco abaixo do normal para o level (30 no level 8, 66 no 30, 100 no 90, 110 no 134, 120 no 200), atirando com uma besta os melhores bolts que um NPC vende para aquele level. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse skill e essa munição. Se os seus forem melhores, você vai render mais do que as tabelas.
+Os números de XP e loot são estimativas para um paladin típico: alguém com distance fighting um pouco abaixo do normal para o level (30 no level 8, 66 no 30, 100 no 90, 110 no 134, 120 no 200), atirando com uma crossbow os melhores bolts que um NPC vende para aquele level. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse skill e essa munição. Se os seus forem melhores, você vai render mais do que as tabelas.
 
 As estimativas também contam que o `exevo mas san` acerta uns 2,5 monstros em média, e que você caça no mesmo ritmo dos testes do guia de knight: andar, juntar monstros e lootear tomam a maior parte do tempo, não o ataque em si.
 
 ## Seção 1: Mecânicas básicas
-Nesta seção você usa só o básico: o seu arco ou besta, duas magias de ataque (`exori con` para um monstro e `exevo mas san` para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
+Nesta seção você usa só o básico: o seu bow ou crossbow, duas magias de ataque (`exori con` para um monstro e `exevo mas san` para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
 
 ### Como lutar
-**Mantenha distância.** O paladin atira a alguns quadrados de distância (5 com besta, 6 com arco), então a maioria dos monstros que batem de perto nunca te alcança se você continuar andando. Isso é **kitar**. Nunca deixe um grupo grande te cercar, e cuidado com cantos e corredores estreitos onde você pode ficar preso.
+**Mantenha distância.** O paladin atira a alguns quadrados de distância (5 com crossbow, 6 com bow), então a maioria dos monstros que batem de perto nunca te alcança se você continuar andando. Isso é **kitar**. Nunca deixe um grupo grande te cercar, e cuidado com cantos e corredores estreitos onde você pode ficar preso.
 
 **Os seus ataques:**
-1. **O seu arco ou besta** atira no seu alvo sozinho a cada 2 segundos. Cada tiro gasta uma flecha ou um bolt, então leve bastante.
-2. **`exori con`** (level 23, 25 de mana) joga uma lança mágica num monstro só. Ela bate mais forte conforme o seu distance fighting sobe.
+1. **O seu bow ou crossbow** atira no seu alvo sozinho a cada 2 segundos. Cada tiro gasta uma arrow ou um bolt, então leve bastante.
+2. **`exori con`** (level 23, 25 de mana) joga uma spear mágica num monstro só. Ela bate mais forte conforme o seu distance fighting sobe.
 3. **`exevo mas san`** (level 50, 160 de mana, conta premium) faz chover fogo sagrado em todos os monstros em volta de você, a cada 4 segundos. Deixe um grupo pequeno chegar perto, solte a magia, dê uns passos para trás enquanto eles te seguem e solte de novo.
 
 Todas as magias de ataque dividem um tempo de espera de 2 segundos, então a partir do level 50 você alterna: `exevo mas san`, `exori con`, `exevo mas san`, `exori con`, enquanto a sua arma continua atirando.
@@ -128,8 +128,8 @@ Na Seção 1 você usa só itens que nunca acabam, fora a sua munição.
 | Prismatic Bolts | 90 | 66 | 20 |
 | Spectral Bolts | 150 | 78 | 70 |
 
-  Um Bow (400 gold) atira flechas, com um quadrado a mais de alcance: Arrows (3 gold), Sniper Arrows (level 20), Onyx Arrows (level 40) e Crystalline Arrows (level 90). A partir do level 130, uma Royal Crossbow soma 5 de ataque a cada bolt, mas custa 400k ou mais no Market.
-- **Nos levels baixos**, lanças são uma alternativa barata: são arremessadas com uma mão, então dá para usar um escudo junto. As Royal Spears (level 25) batem mais forte que as normais. As lanças às vezes quebram.
+  Um Bow (400 gold) atira arrows, com um quadrado a mais de alcance: Arrows (3 gold), Sniper Arrows (level 20), Onyx Arrows (level 40) e Crystalline Arrows (level 90). A partir do level 130, uma Royal Crossbow soma 5 de ataque a cada bolt, mas custa 400k ou mais no Market.
+- **Nos levels baixos**, spears são uma alternativa barata: são arremessadas com uma mão, então dá para usar um escudo junto. As Royal Spears (level 25) batem mais forte que as normais. As spears às vezes quebram.
 - **Amuleto:** um Platinum Amulet no começo e um Foxtail Amulet a partir do level 100 (ele reduz o dano físico em 5%).
 - **Anel:** um Butterfly Ring a partir do level 50.
 - **Hunts elementais:** algumas hunts batem quase só com um elemento. Nelas, uma armadura elemental (Lavos, Crystalline, Swamplair ou Voltage, level 60) ajuda; as notas da hunt avisam quando.
@@ -934,12 +934,12 @@ Nas hunts em que você nunca precisava se curar, a mana é bem-vinda mesmo assim
 
 ### Bom saber
 - As 20 horas só contam enquanto você está lutando.
-- Um item aceita um imbuement de cada tipo, e cada item tem de 0 a 3 slots. Calças não aceitam imbuement. Arcos e bestas também aceitam.
+- Um item aceita um imbuement de cada tipo, e cada item tem de 0 a 3 slots. Calças não aceitam imbuement. Bows e crossbows também aceitam.
 - Tirar um imbuement custa 15.000 gold, então normalmente você só deixa ele acabar.
 
 ### Outros imbuements (depois, valem menos pelo gold)
-- **Strike** (arco ou besta) adiciona críticos: uns +1% de dano no Basic, +2% no Intricate e +4,5% no Powerful.
-- **Precision** (capacete ou arco) adiciona distance fighting: +1, +2 ou +4, o que dá mais ou menos +0,7% de dano por ponto.
+- **Strike** (bow ou crossbow) adiciona críticos: uns +1% de dano no Basic, +2% no Intricate e +4,5% no Powerful.
+- **Precision** (capacete ou bow) adiciona distance fighting: +1, +2 ou +4, o que dá mais ou menos +0,7% de dano por ponto.
 - **Proteção elemental** (armadura ou escudo) reduz o dano de um elemento em 3%, 8% ou 15%. Serve nas hunts que batem quase só com um elemento.
 
 ### Farme os seus próprios materiais
@@ -1474,7 +1474,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 ## Seção 5: Weapon Proficiency
 Cada monstro que você mata com uma arma equipada aumenta a **proficiency** daquela arma. Cada level de proficiency libera uma escolha de perks para ela, como mais dano, mais críticos ou mais leech. Você escolhe um perk por level. Dá para escolher em qualquer lugar, mas trocar um perk exige uma área de proteção.
 
-O progresso é de cada arma, então ficar trocando entre arcos e bestas desperdiça progresso. Escolha uma arma principal por faixa de level e fique com ela. Criaturas mais difíceis dão mais progresso por morte. Os primeiros levels saem em poucas horas de hunt; os últimos levam centenas de horas, então são para uma arma que você vai usar por muito tempo.
+O progresso é de cada arma, então ficar trocando entre bows e crossbows desperdiça progresso. Escolha uma arma principal por faixa de level e fique com ela. Criaturas mais difíceis dão mais progresso por morte. Os primeiros levels saem em poucas horas de hunt; os últimos levam centenas de horas, então são para uma arma que você vai usar por muito tempo.
 
 Cada arma tem os seus próprios perks, e a partir do level 3 de proficiency dá para trocar um deles por outro perk (250 Dust). A página da arma na TibiaWiki e o planejador em tibiapal.com/weapon-proficiency mostram todos.
 
