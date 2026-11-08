@@ -146,6 +146,7 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 
 ### Quick Loot
 Looting every corpse by hand is slow, and it's easy to miss one. **Quick Loot** does it in one click: with the regular controls, Shift + right click on a corpse sends everything inside to your backpack, even from a pile of up to 30 corpses on one square. You can change the click in the Options.
+- **One key for everything around you:** **Quick Loot Nearby Corpses** (since July 2024) loots your square and the 8 around it at once. In the Options, under Hotkeys, put it on a key right next to your attack and healing keys, like ` (left of 1). Then you loot between attacks and heals without reaching for the mouse.
 - **Skip the junk:** right-click an item and choose "Add to Loot List". In **Skipped Loot** mode, Quick Loot picks up everything except the items on the list, so you never leave something valuable behind by mistake. Add cheap, heavy items as you meet them.
 - **Sort it (premium):** you can give each backpack a category, like gold, creature products or potions, and Quick Loot puts each item in the right one. Selling gets much faster.
 

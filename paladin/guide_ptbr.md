@@ -148,6 +148,7 @@ As **bênçãos** (blessings, ou "bless") são compradas de NPCs nas cidades e t
 
 ### Quick Loot
 Lootear cada corpo na mão é lento, e é fácil esquecer um. O **Quick Loot** faz isso num clique: com os controles normais, Shift + clique direito num corpo manda tudo o que tem dentro para a sua backpack, até de uma pilha de 30 corpos no mesmo quadrado. Dá para trocar o clique nas Options.
+- **Uma tecla para tudo em volta:** o **Quick Loot Nearby Corpses** (desde julho de 2024) looteia o seu quadrado e os 8 em volta de uma vez. Nas Options, em Hotkeys, coloque numa tecla bem do lado das suas teclas de ataque e cura, como a ` (à esquerda do 1). Assim você looteia entre um ataque e uma cura sem ir até o mouse.
 - **Pule o lixo:** clique com o botão direito num item e escolha "Add to Loot List". No modo **Skipped Loot**, o Quick Loot pega tudo menos os itens da lista, então você nunca deixa algo valioso para trás sem querer. Vá adicionando itens baratos e pesados conforme aparecem.
 - **Organize (premium):** dá para dar uma categoria a cada backpack, como gold, creature products ou poções, e o Quick Loot põe cada item na certa. Vender fica bem mais rápido.
 
