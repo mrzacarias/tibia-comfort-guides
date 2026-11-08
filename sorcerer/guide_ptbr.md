@@ -141,7 +141,7 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Mão do escudo:** um spellbook. Desde junho de 2026 os spellbooks protegem bem mais do que antes.
 - **Amuleto:** um Platinum Amulet no começo e um Foxtail Amulet a partir do level 100 (ele reduz o dano físico em 5%).
 - **Anel:** um Butterfly Ring a partir do level 50.
-- **Armadura:** armadura, calça e capacete que dão magic level valem a pena; fora isso, use o que protege mais.
+- **Armadura:** armadura, calça e helmet que dão magic level valem a pena; fora isso, use o que protege mais.
 
 ### Antes de caçar: stamina e bênçãos
 A **stamina** é quanto tempo o seu personagem consegue caçar com rendimento total. Ela vai até 42 horas. Com conta premium, as primeiras 3 horas de stamina cheia dão **50% a mais de experiência**, então comece as suas melhores hunts logo depois de um bom descanso. Abaixo de 14 horas você ganha só metade da experiência e nenhum loot, então pare e descanse. A stamina volta enquanto você está deslogado: cerca de 1 minuto a cada 3 minutos offline, e na metade dessa velocidade nas 3 horas de bônus.
@@ -946,10 +946,10 @@ Para um sorcerer confortável, dois imbuements importam muito mais do que qualqu
 - **Vampirism (life leech):** parte do dano que você causa volta para você como vida.
 - **Void (mana leech):** parte do dano que você causa volta como mana.
 
-Juntos, eles fazem os monstros que você acerta pagarem a sua cura e as suas magias. Você toma menos poção, se preocupa menos com a vida e consegue lutar contra grupos maiores com segurança. Por isso o kit desta seção é **Basic Vampirism na armadura e Basic Void no capacete**. Os outros imbuements também ajudam, mas dão muito menos pelo gold.
+Juntos, eles fazem os monstros que você acerta pagarem a sua cura e as suas magias. Você toma menos poção, se preocupa menos com a vida e consegue lutar contra grupos maiores com segurança. Por isso o kit desta seção é **Basic Vampirism na armadura e Basic Void no helmet**. Os outros imbuements também ajudam, mas dão muito menos pelo gold.
 
 ### Quando começar
-Imbuements não têm level mínimo, e a maioria das armaduras e capacetes tem slots para eles.
+Imbuements não têm level mínimo, e a maioria das armaduras e helmets tem slots para eles.
 
 Mas o leech devolve uma parte do dano que você causa, e personagens de level baixo não causam muito. Um sorcerer típico de level 8 causa uns 11k de dano por hora nestas estimativas, então o leech Basic devolve só uns 0,5k de vida e 0,3k de mana por hora. Enquanto isso, o kit custa uns 3,7k de gold por hora.
 
@@ -958,7 +958,7 @@ Ele começa a se pagar **por volta do level 40 a 60**. Nessa altura você causa 
 ### Como montar
 1. **Libere o imbuing** com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest/Spoiler). É fácil e seguro em qualquer level: vá até os Halls of Hope, logo ao norte de Thais, e entregue 5 Heavy Old Tomes ao NPC Albinius (diga "temple" e depois "yes"). Os tomos custam uns 250 gold cada no Market e também caem de orcs, trolls, skeletons, ghouls e cyclops. Isso libera o nível Basic para todo mundo e o Intricate para contas premium.
 2. **Armadura:** vá até um Imbuing Shrine em qualquer cidade grande e coloque Basic Vampirism. Você precisa de 25 Vampire Teeth (baratos no Market) e paga uma taxa de 7.500 gold.
-3. **Capacete:** compre um scroll de Basic Void no Market e use no capacete. Os scrolls funcionam em qualquer lugar, sem shrine. Para o Basic Void, o scroll sai mais barato que o shrine.
+3. **Helmet:** compre um scroll de Basic Void no Market e use no helmet. Os scrolls funcionam em qualquer lugar, sem shrine. Para o Basic Void, o scroll sai mais barato que o shrine.
 4. **Teste** numa hunt que você já conhece, puxando um ou dois monstros a mais que o normal. Anote como foi.
 
 Se preferir pular a quest, os Imbuement Scrolls funcionam para qualquer jogador, sem a quest e sem shrine. Um scroll de Basic Vampirism custa uns 33k no Market, um pouco mais que os ~19k do caminho pelo shrine.
@@ -987,7 +987,7 @@ Nas hunts em que você nunca precisava se curar, a mana é bem-vinda mesmo assim
 
 ### Outros imbuements (depois, valem menos pelo gold)
 - **Strike** (wand) adiciona críticos: uns +1% de dano no Basic, +2% no Intricate e +4,5% no Powerful.
-- **Epiphany** (capacete ou wand) adiciona magic level: +1, +2 ou +4, o que dá mais ou menos +1% de dano por ponto nos levels médios.
+- **Epiphany** (helmet ou wand) adiciona magic level: +1, +2 ou +4, o que dá mais ou menos +1% de dano por ponto nos levels médios.
 - **Proteção elemental** (armadura ou escudo) reduz o dano de um elemento em 3%, 8% ou 15%. Serve nas hunts que batem quase só com um elemento.
 
 ### Farme os seus próprios materiais
@@ -1450,7 +1450,7 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 |---|---|---|---|---|
 | Arma | Onslaught: chance de um golpe com 60% de dano extra | +0,3% de dano | +1% de dano | +5,4% de dano |
 | Armadura | Ruse: chance de esquivar de um ataque | 0,5% | 1,6% | 7,5% |
-| Capacete | Momentum: chance de tirar 2 segundos do tempo de espera das magias | 2% a cada 2 s | 6% | 24% |
+| Helmet | Momentum: chance de tirar 2 segundos do tempo de espera das magias | 2% a cada 2 s | 6% | 24% |
 | Calça | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
 | Bota | Amplification: faz os outros efeitos ativarem com mais frequência | +2,5% | +9% | +57% |
 
