@@ -104,9 +104,13 @@ Nesta seção você usa só o básico: a sua wand, duas magias de ataque (um str
 **Os seus ataques:**
 1. **A sua wand** ataca o seu alvo sozinha a cada 2 segundos. Desde junho de 2026, cada tiro da wand também te devolve um pouco de mana.
 2. **Um strike** acerta um monstro a até 3 quadrados por 20 de mana: `exori flam` (fogo, level 8), `exori vis` (energia, level 12) e `exori mort` (morte, level 16). Use o elemento contra o qual o monstro é mais fraco; a página de cada criatura na TibiaWiki mostra as fraquezas.
-3. **Uma wave** acerta todos os monstros num cone na sua frente: `exevo flam hur` (fogo, level 18, 25 de mana) e, a partir do level 38, o `exevo vis hur`, bem mais forte (energia, 170 de mana). Deixe os monstros te seguirem, vire de frente para eles e solte a wave no grupo.
+3. **Uma wave** acerta todos os monstros num cone na sua frente: `exevo flam hur` (fogo, level 18, 25 de mana) e, a partir do level 38, o `exevo vis hur`, bem mais forte (energia, 170 de mana). Deixe os monstros te seguirem para que se juntem, marque um deles como alvo e solte a wave no grupo.
+
+**Mire as waves no seu alvo.** Desde 2025 o jogo consegue soltar a wave direto no monstro que você está atacando, então você não precisa virar de frente para o grupo antes. Abra o Magical Archive (a sua lista de magias), selecione cada wave e ligue o modo de mira dela. Sem alvo, a wave continua saindo para onde você está virado. Se você solta as waves por um botão da action bar, esse botão também tem o seu próprio modo de lançamento: escolha "target".
 
 Todas as magias de ataque dividem um tempo de espera de 2 segundos, então você solta uma a cada 2 segundos: wave, strike, wave, strike. A partir do level 38: energy wave, fire wave, strike, fire wave (a energy wave só pode ser usada a cada 8 segundos).
+
+**Sem `exori` em volta.** Se você já jogou de knight, talvez procure uma magia como o `exori`, que acerta todos os monstros ao seu redor. O sorcerer não tem nenhuma assim, e é de propósito: com bem menos vida que um knight (no level 100, 645 contra 1.565), ficar no meio de um grupo é o jeito mais rápido de morrer. A wave acerta o grupo a alguns quadrados de distância, com todos do mesmo lado. As magias que acertam tudo em volta vêm depois (Seção 1b), e só a cada 40 segundos.
 
 **Os elementos importam.** Alguns monstros tomam pouco ou nenhum dano de um elemento. Os dragons, por exemplo, não tomam dano de fogo, então a fire wave não faz nada neles. As tabelas já contam as fraquezas de cada monstro.
 

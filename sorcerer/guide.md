@@ -101,9 +101,13 @@ In this section you use only the basics: your wand, two attack spells (a strike 
 **Your attacks:**
 1. **Your wand** attacks your target by itself every 2 seconds. Since June 2026 each wand shot also gives you a little mana back.
 2. **A strike** hits one monster up to 3 squares away for 20 mana: `exori flam` (fire, level 8), `exori vis` (energy, level 12) and `exori mort` (death, level 16). Use the element the monster is weakest to; each creature's TibiaWiki page lists its weaknesses.
-3. **A wave** hits every monster in a cone in front of you: `exevo flam hur` (fire, level 18, 25 mana), and from level 38 the much stronger `exevo vis hur` (energy, 170 mana). Let the monsters follow you, turn to face them, and cast the wave into the group.
+3. **A wave** hits every monster in a cone in front of you: `exevo flam hur` (fire, level 18, 25 mana), and from level 38 the much stronger `exevo vis hur` (energy, 170 mana). Let the monsters follow you so they bunch up, target one of them and cast the wave into the group.
+
+**Aim your waves at your target.** Since 2025 the game can fire a wave straight at the monster you're attacking, so you don't have to turn to face the group first. Open the Magical Archive (your spell list), select each wave and switch on its aiming mode. Without a target, the wave still goes the way you're facing. If you cast waves from an action bar button, that button has its own cast mode too: pick "target".
 
 All attack spells share a 2-second cooldown, so you cast one every 2 seconds: wave, strike, wave, strike. From level 38: energy wave, fire wave, strike, fire wave (the energy wave can only be cast every 8 seconds).
+
+**No `exori` around you.** If you've played a knight, you may look for a spell like `exori` that hits every monster around you. Sorcerers have none, on purpose: with much less health than a knight (at level 100, 645 against 1,565), standing in the middle of a group is the quickest way to die. A wave hits the group from a few squares away, with all of them on one side of you. The spells that hit all around you come later (Section 1b), and only every 40 seconds.
 
 **Elements matter.** Some monsters take little or no damage from one element. Dragons, for example, take no fire damage, so fire waves do nothing to them. The tables already count each monster's weaknesses.
 
