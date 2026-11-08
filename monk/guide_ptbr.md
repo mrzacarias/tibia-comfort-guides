@@ -138,10 +138,21 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Anel:** um Butterfly Ring a partir do level 50.
 - **Armadura:** use o que proteger mais para o seu level; as notas da hunt avisam quando um elemento importa.
 
-### Antes de caçar: stamina e bênçãos
+### Antes de caçar
 A **stamina** é quanto tempo o seu personagem consegue caçar com rendimento total. Ela vai até 42 horas. Com conta premium, as primeiras 3 horas de stamina cheia dão **50% a mais de experiência**, então comece as suas melhores hunts logo depois de um bom descanso. Abaixo de 14 horas você ganha só metade da experiência e nenhum loot, então pare e descanse. A stamina volta enquanto você está deslogado: cerca de 1 minuto a cada 3 minutos offline, e na metade dessa velocidade nas 3 horas de bônus.
 
 As **bênçãos** (blessings, ou "bless") são compradas de NPCs nas cidades e te protegem quando você morre. Com as 5 bênçãos normais você perde uns 70% menos de experiência e skill e não perde nenhum item. As cinco juntas custam mais ou menos (level − 20) × 1.000 gold até o level 120, ou seja, uns 70k no level 90, e uns 105k no level 134. Vale a pena.
+
+**Comida:** coma antes e durante a hunt. A comida faz você regenerar vida e mana, até 20 minutos por vez, então coma até o jogo dizer que você está cheio e coma de novo de vez em quando. Qualquer comida serve; ham e brown mushrooms são baratos e fáceis de achar.
+
+**Recompensa diária:** uma vez por dia, abra o Reward Wall (o botão embaixo do seu inventário, ou o santuário em qualquer templo ou depot) e pegue a sua recompensa. A cada 7 dias, uma conta premium ganha 40 poções ou runas à sua escolha, 3 Prey Wildcards, duas training weapons, um temple teleport scroll, um gold converter (ele transforma 100 moedas de gold em 1 platinum coin, economizando capacidade) e 30 minutos de XP boost; contas free ganham mais ou menos a metade. Pegar todo dia também cria uma sequência: nos templos, depots e casas você passa a regenerar mais rápido, e a partir do quarto dia as contas premium também recuperam stamina ali.
+
+### Quick Loot
+Lootear cada corpo na mão é lento, e é fácil esquecer um. O **Quick Loot** faz isso num clique: com os controles normais, Shift + clique direito num corpo manda tudo o que tem dentro para a sua backpack, até de uma pilha de 30 corpos no mesmo quadrado. Dá para trocar o clique nas Options.
+- **Pule o lixo:** clique com o botão direito num item e escolha "Add to Loot List". No modo **Skipped Loot**, o Quick Loot pega tudo menos os itens da lista, então você nunca deixa algo valioso para trás sem querer. Vá adicionando itens baratos e pesados conforme aparecem.
+- **Organize (premium):** dá para dar uma categoria a cada backpack, como gold, creature products ou poções, e o Quick Loot põe cada item na certa. Vender fica bem mais rápido.
+
+Contas free também podem usar o Quick Loot; só a organização precisa de premium.
 
 ### Vendendo o seu loot
 Muita coisa que os monstros dropam vale no Market muito mais do que qualquer loja paga. Uma Stone Wing, por exemplo, sai por uns 2,4k no Market, mas só 120 numa loja. As notas de cada hunt dizem qual é o drop mais valioso dela.
@@ -264,7 +275,7 @@ A tabela abaixo mostra as melhores hunts que uma conta free pode usar em cada fa
 - **Hunt:** o nome leva à entrada no mapa do tibiamaps.io. ✓ quer dizer que a hunt foi testada naquele level.
 - **Preparo e Atenção:** as notas de conforto, de 0 a 3.
 - **XP/h e Loot/h:** experiência e gold estimados por hora para o monk típico no level mais baixo da faixa, sem bônus e antes de pagar as poções. As hunts testadas mostram resultados reais.
-- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega.
+- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega. Um trajeto curto deixa a hunt mais confortável: mais do seu tempo vai para caçar, reabastecer e vender é rápido, e sair quando algo dá errado é fácil. Uma mount deixa cada trajeto um pouco mais rápido: ela soma 10 de speed, uns 5–8% a mais de velocidade andando. A mais fácil é o Reliable Ram, da quest Burning Heat em Targuna (veja Quests fáceis antes do level 20); andar montado precisa de conta premium.
 - **Notas:** a tag (XP, lucro ou os dois), resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
 
 Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts da faixa exigem (faça uma vez e essas hunts se abrem), e **Vale a pena** aponta a quest rara cuja experiência compensa a viagem.
@@ -754,11 +765,15 @@ A **Way of the Monk Quest** te leva a 10 santuários antigos pelo mundo, de Targ
 ### Curas maiores
 - **`exura gran tio`** (Spirit Mend, level 80, 210 de mana) cura bem mais que o `exura gran`.
 
+**Itens de emergência:** um **Stone Skin Amulet** tira 80% do dano físico e de morte por 5 golpes, e um **Might Ring** tira 20% de todo dano por 20 golpes. Cada um custa uns 10–19k no Market, caro demais para usar sempre, então deixe um na backpack e coloque quando um grupo sair do controle.
+
 ### Ataques maiores
 - **`exori amp pug`** (Mystic Repulse, level 30, 150 de mana) acerta um monstro a até 7 quadrados.
 - **`exori med pug`** (Chained Penance, level 70, 180 de mana) acerta um monstro e pula para até mais 4.
 - **`exori gran mas pug`** (Greater Flurry of Blows, level 90, 300 de mana) é um Flurry of Blows bem maior.
 - **`exori mas amp pug`** (Thousand Fist Blows, level 120, 145 de mana) é um builder que acerta o seu alvo e os monstros em volta dele.
+
+**Familiar:** a partir do level 200, `utevo gran res tio` (premium, 1.500 de mana) invoca um familiar forte que luta do seu lado por 15 minutos. Dá para usar uma vez a cada 30 minutos.
 
 ### Movimento
 - **`utani hur`** (level 14, 60 de mana) te deixa 30% mais rápido por 30 segundos e tira a paralisia.

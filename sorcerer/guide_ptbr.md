@@ -144,10 +144,21 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Anel:** um Butterfly Ring a partir do level 50.
 - **Armadura:** armadura, calça e helmet que dão magic level valem a pena; fora isso, use o que protege mais.
 
-### Antes de caçar: stamina e bênçãos
+### Antes de caçar
 A **stamina** é quanto tempo o seu personagem consegue caçar com rendimento total. Ela vai até 42 horas. Com conta premium, as primeiras 3 horas de stamina cheia dão **50% a mais de experiência**, então comece as suas melhores hunts logo depois de um bom descanso. Abaixo de 14 horas você ganha só metade da experiência e nenhum loot, então pare e descanse. A stamina volta enquanto você está deslogado: cerca de 1 minuto a cada 3 minutos offline, e na metade dessa velocidade nas 3 horas de bônus.
 
 As **bênçãos** (blessings, ou "bless") são compradas de NPCs nas cidades e te protegem quando você morre. Com as 5 bênçãos normais você perde uns 70% menos de experiência e skill e não perde nenhum item. As cinco juntas custam mais ou menos (level − 20) × 1.000 gold até o level 120, ou seja, uns 70k no level 90, e uns 105k no level 134. Vale a pena.
+
+**Comida:** coma antes e durante a hunt. A comida faz você regenerar vida e mana, até 20 minutos por vez, então coma até o jogo dizer que você está cheio e coma de novo de vez em quando. Qualquer comida serve; ham e brown mushrooms são baratos e fáceis de achar.
+
+**Recompensa diária:** uma vez por dia, abra o Reward Wall (o botão embaixo do seu inventário, ou o santuário em qualquer templo ou depot) e pegue a sua recompensa. A cada 7 dias, uma conta premium ganha 40 poções ou runas à sua escolha, 3 Prey Wildcards, duas training weapons, um temple teleport scroll, um gold converter (ele transforma 100 moedas de gold em 1 platinum coin, economizando capacidade) e 30 minutos de XP boost; contas free ganham mais ou menos a metade. Pegar todo dia também cria uma sequência: nos templos, depots e casas você passa a regenerar mais rápido, e a partir do quarto dia as contas premium também recuperam stamina ali.
+
+### Quick Loot
+Lootear cada corpo na mão é lento, e é fácil esquecer um. O **Quick Loot** faz isso num clique: com os controles normais, Shift + clique direito num corpo manda tudo o que tem dentro para a sua backpack, até de uma pilha de 30 corpos no mesmo quadrado. Dá para trocar o clique nas Options.
+- **Pule o lixo:** clique com o botão direito num item e escolha "Add to Loot List". No modo **Skipped Loot**, o Quick Loot pega tudo menos os itens da lista, então você nunca deixa algo valioso para trás sem querer. Vá adicionando itens baratos e pesados conforme aparecem.
+- **Organize (premium):** dá para dar uma categoria a cada backpack, como gold, creature products ou poções, e o Quick Loot põe cada item na certa. Vender fica bem mais rápido.
+
+Contas free também podem usar o Quick Loot; só a organização precisa de premium.
 
 ### Vendendo o seu loot
 Muita coisa que os monstros dropam vale no Market muito mais do que qualquer loja paga. Uma Stone Wing, por exemplo, sai por uns 2,4k no Market, mas só 120 numa loja. As notas de cada hunt dizem qual é o drop mais valioso dela.
@@ -269,7 +280,7 @@ A tabela abaixo mostra as melhores hunts que uma conta free pode usar em cada fa
 - **Hunt:** o nome leva à entrada no mapa do tibiamaps.io. ✓ quer dizer que a hunt foi testada naquele level.
 - **Preparo e Atenção:** as notas de conforto, de 0 a 3.
 - **XP/h e Loot/h:** experiência e gold estimados por hora para o sorcerer típico no level mais baixo da faixa, sem bônus e antes de pagar as poções. As hunts testadas mostram resultados reais.
-- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega.
+- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega. Um trajeto curto deixa a hunt mais confortável: mais do seu tempo vai para caçar, reabastecer e vender é rápido, e sair quando algo dá errado é fácil. Uma mount deixa cada trajeto um pouco mais rápido: ela soma 10 de speed, uns 5–8% a mais de velocidade andando. A mais fácil é o Reliable Ram, da quest Burning Heat em Targuna (veja Quests fáceis antes do level 20); andar montado precisa de conta premium.
 - **Notas:** a tag (XP, lucro ou os dois), resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
 
 Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts da faixa exigem (faça uma vez e essas hunts se abrem), e **Vale a pena** aponta a quest rara cuja experiência compensa a viagem.
@@ -735,6 +746,8 @@ Runas são magias guardadas num item, então qualquer vocação pode usar, e voc
 
 Runas são gasto: cada uma que você usa custa gold.
 
+**Itens de emergência:** um **Stone Skin Amulet** tira 80% do dano físico e de morte por 5 golpes, e um **Might Ring** tira 20% de todo dano por 20 golpes. Cada um custa uns 10–19k no Market, caro demais para usar sempre, então deixe um na backpack e coloque quando um grupo sair do controle.
+
 ### Ataques maiores
 Todas estas precisam de conta premium.
 - **`exevo gran mas vis`** (Rage of the Skies, level 55, 600 de mana) e **`exevo gran mas flam`** (Hell's Core, level 60, 1.100 de mana) acertam uma área enorme em volta de você, mas só a cada 40 segundos. Guarde para grupos grandes.
@@ -744,8 +757,15 @@ Todas estas precisam de conta premium.
 
 **Stances:** depois da promoção você pode ligar uma stance elemental: Master of Flames (magias de fogo batem 4% mais forte), Master of Thunder (mais críticos com energia) ou Master of Decay (críticos maiores com morte). A partir do level 175 você ganha também uma segunda stance; a escolha do conforto é a **Aura of Sapped Strength**: todo monstro que você acerta causa 10% menos dano.
 
+**Familiar:** a partir do level 200, `utevo gran res ven` (premium, 3.000 de mana) invoca um familiar forte que luta do seu lado por 15 minutos. Dá para usar uma vez a cada 30 minutos.
+
 ### Movimento
 - **`utani hur`** (level 14, 60 de mana) te deixa 30% mais rápido por 30 segundos e tira a paralisia. É a sua melhor ferramenta para kitar: mais rápido que os monstros, você nunca é pego.
+
+### Bloqueando monstros
+Coisas no chão podem impedir que os monstros cheguem em você enquanto você kita:
+- **Boxes e crates** (10 gold com NPCs na maioria das cidades) bloqueiam um quadrado para os monstros que não empurram objetos. Só os fracos não empurram, como trolls, orcs, rotworms, dwarves e minotaurs (a página deles na TibiaWiki diz "Pushes: no"). A partir do level 30, mais ou menos, a maioria dos monstros só empurra para o lado.
+- **Magic Wall** (runa, level 32, magic level 9, uns 116 gold) levanta uma parede por uns 20 segundos que nenhum monstro atravessa. Ela bloqueia magias e tiros também, inclusive os seus. Use para fechar um corredor atrás de você ou para dividir um grupo.
 
 ### Lendo as tabelas da Seção 1b
 Estas tabelas mostram as hunts da Seção 1 em que o Magic Shield baixa as notas, as 5 melhores por faixa. Os números de XP e loot são as estimativas da Seção 1. As poções de mana a mais para o escudo não entram na conta.

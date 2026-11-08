@@ -141,10 +141,21 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Ring:** a Butterfly Ring from level 50.
 - **Armor:** any armor, legs and helmet that add magic level are worth it; otherwise wear whatever protects most.
 
-### Before you hunt: stamina and blessings
+### Before you hunt
 **Stamina** is how long your character can hunt at full strength. It goes up to 42 hours. With a premium account, the first 3 hours from full stamina give **50% more experience**, so start your best hunts right after a long rest. Below 14 hours you only get half the experience and no loot, so stop and rest. Stamina comes back while you are logged out: about 1 minute for every 3 minutes offline, and half as fast for the 3 bonus hours.
 
 **Blessings** are bought from NPCs in the cities and protect you when you die. With the 5 regular blessings you lose about 70% less experience and skill, and you keep all your items. Together they cost about (level − 20) × 1,000 gold up to level 120, so about 70k at level 90, and about 105k at level 134. They're worth it.
+
+**Food:** eat before and during the hunt. Food makes you regenerate health and mana, up to 20 minutes at a time, so eat until the game says you're full and eat again now and then. Any food works; ham and brown mushrooms are cheap and common.
+
+**Daily reward:** once a day, open the Reward Wall (the button under your inventory, or the shrine in any temple or depot) and take your reward. Over each 7 days a premium account gets 40 potions or runes of your choice, 3 Prey Wildcards, two training weapons, a temple teleport scroll, a gold converter (it turns 100 gold coins into 1 platinum coin, saving capacity) and a 30-minute XP boost; free accounts get about half. Taking it every day also builds a streak: in temples, depots and houses you then regenerate faster, and from the fourth day premium accounts also get stamina back there.
+
+### Quick Loot
+Looting every corpse by hand is slow, and it's easy to miss one. **Quick Loot** does it in one click: with the regular controls, Shift + right click on a corpse sends everything inside to your backpack, even from a pile of up to 30 corpses on one square. You can change the click in the Options.
+- **Skip the junk:** right-click an item and choose "Add to Loot List". In **Skipped Loot** mode, Quick Loot picks up everything except the items on the list, so you never leave something valuable behind by mistake. Add cheap, heavy items as you meet them.
+- **Sort it (premium):** you can give each backpack a category, like gold, creature products or potions, and Quick Loot puts each item in the right one. Selling gets much faster.
+
+Free accounts can use Quick Loot too; only the sorting needs premium.
 
 ### Selling your loot
 Many things monsters drop sell on the Market for much more than any shop pays. A Stone Wing, for example, sells for about 2.4k on the Market but only 120 at a shop. The notes for each hunting ground name its most valuable drop.
@@ -266,7 +277,7 @@ The table below lists the best hunting grounds a free account can use in each ba
 - **Hunting ground:** the name links to the entrance on the tibiamaps.io map. ✓ means the hunting ground was tested at that level.
 - **Prep and Hunt:** the comfort grades, 0 to 3.
 - **XP/h and Loot/h:** estimated experience and gold per hour for the typical sorcerer at the lowest level of the band, without bonuses and before paying for potions. Tested hunting grounds show real results.
-- **Depot:** the nearest depot, how many squares you walk from it to the entrance, and about how long that takes. For islands and hidden areas it lists each step: the walk to the boat (or teleport), the trip, and the walk from where you arrive.
+- **Depot:** the nearest depot, how many squares you walk from it to the entrance, and about how long that takes. For islands and hidden areas it lists each step: the walk to the boat (or teleport), the trip, and the walk from where you arrive. A short trip makes a hunting ground more comfortable: more of your time goes to hunting, refilling and selling are quick, and leaving when things go wrong is easy. A mount makes every trip a bit faster: it adds 10 speed, about 5–8% faster walking. The easiest one is the Reliable Ram from Targuna's Burning Heat quest (see Easy quests before level 20); riding a mount needs a premium account.
 - **Notes:** the tag (XP, money or both), test results, how to get access, **Watch** (what makes the hunting ground less comfortable) and **Sells** (its most valuable drop).
 
 Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
@@ -732,6 +743,8 @@ Runes are spells stored in an item, so any vocation can use them, and you buy th
 
 Runes are supplies: every one you use costs gold.
 
+**Emergency items:** a **Stone Skin Amulet** takes 80% off physical and death damage for 5 hits, and a **Might Ring** takes 20% off all damage for 20 hits. Each costs about 10–19k on the Market, too much to wear all the time, so keep one in your backpack and put it on when a pull goes wrong.
+
 ### Bigger attacks
 These all need a premium account.
 - **`exevo gran mas vis`** (Rage of the Skies, level 55, 600 mana) and **`exevo gran mas flam`** (Hell's Core, level 60, 1,100 mana) hit a huge area around you, but only every 40 seconds. Save them for big groups.
@@ -741,8 +754,15 @@ These all need a premium account.
 
 **Stances:** after promotion you can switch on one elemental stance: Master of Flames (fire spells hit 4% harder), Master of Thunder (more critical hits with energy) or Master of Decay (bigger critical hits with death). From level 175 you also get a second stance; the comfort pick is **Aura of Sapped Strength**: every monster you hit deals 10% less damage.
 
+**Familiar:** from level 200, `utevo gran res ven` (premium, 3,000 mana) summons a strong familiar that fights at your side for 15 minutes. You can cast it once every 30 minutes.
+
 ### Moving
 - **`utani hur`** (level 14, 60 mana) makes you 30% faster for 30 seconds and removes paralysis. It's your best kiting tool: faster than the monsters, you're never caught.
+
+### Blocking monsters
+Things on the floor can stop monsters from reaching you while you kite:
+- **Boxes and crates** (10 gold from NPCs in most cities) block a square for monsters that can't push objects. Only weak ones can't, like trolls, orcs, rotworms, dwarves and minotaurs (their TibiaWiki page says "Pushes: no"). From about level 30, most monsters simply push them aside.
+- **Magic Wall** (rune, level 32, magic level 9, about 116 gold) puts up a wall for about 20 seconds that no monster can walk through. It blocks spells and shots too, yours included. Use it to close a corridor behind you or to split a group.
 
 ### Reading the Section 1b tables
 These tables list the Section 1 hunting grounds where Magic Shield lowers the grades, the 5 best per band. The XP and loot numbers are the Section 1 estimates. The extra mana potions for the shield aren't counted.
