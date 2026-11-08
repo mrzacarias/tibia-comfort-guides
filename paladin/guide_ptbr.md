@@ -28,7 +28,7 @@ Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas v
 ## Palavras que você vai ver
 - **HP e mana:** a sua vida e a energia que você gasta com magias. O paladin tem cerca de 185 + 10 × (level − 8) de HP: 605 no level 50, 1.445 no level 134. Fica entre o knight e o sorcerer.
 - **Distance fighting:** o seu skill com arcos, bestas e lanças. Ele decide o quanto os seus tiros batem.
-- **Munição:** as flechas ou virotes que o seu arco ou besta atira. Cada tiro gasta um.
+- **Munição:** as flechas ou bolts que o seu arco ou besta atira. Cada tiro gasta um.
 - **Hunt:** um lugar onde você caça. Também é o nome da própria caçada.
 - **Spawn (ou respawn):** os monstros que vivem numa hunt e voltam a aparecer depois que você os mata.
 - **Kitar:** atacar de longe enquanto anda para trás, para os monstros que batem de perto não te alcançarem.
@@ -91,7 +91,7 @@ Cada faixa mostra só as suas **5 melhores hunts**. Primeiro saem as hunts que n
 Cada hunt tem uma tag: **XP** (boa para upar), **lucro** (boa para fazer gold) ou **XP + lucro**.
 
 ### O personagem dos números
-Os números de XP e loot são estimativas para um paladin típico: alguém com distance fighting um pouco abaixo do normal para o level (30 no level 8, 66 no 30, 100 no 90, 110 no 134, 120 no 200), atirando com uma besta os melhores virotes que um NPC vende para aquele level. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse skill e essa munição. Se os seus forem melhores, você vai render mais do que as tabelas.
+Os números de XP e loot são estimativas para um paladin típico: alguém com distance fighting um pouco abaixo do normal para o level (30 no level 8, 66 no 30, 100 no 90, 110 no 134, 120 no 200), atirando com uma besta os melhores bolts que um NPC vende para aquele level. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse skill e essa munição. Se os seus forem melhores, você vai render mais do que as tabelas.
 
 As estimativas também contam que o `exevo mas san` acerta uns 2,5 monstros em média, e que você caça no mesmo ritmo dos testes do guia de knight: andar, juntar monstros e lootear tomam a maior parte do tempo, não o ataque em si.
 
@@ -102,7 +102,7 @@ Nesta seção você usa só o básico: o seu arco ou besta, duas magias de ataqu
 **Mantenha distância.** O paladin atira a alguns quadrados de distância (5 com besta, 6 com arco), então a maioria dos monstros que batem de perto nunca te alcança se você continuar andando. Isso é **kitar**. Nunca deixe um grupo grande te cercar, e cuidado com cantos e corredores estreitos onde você pode ficar preso.
 
 **Os seus ataques:**
-1. **O seu arco ou besta** atira no seu alvo sozinho a cada 2 segundos. Cada tiro gasta uma flecha ou um virote, então leve bastante.
+1. **O seu arco ou besta** atira no seu alvo sozinho a cada 2 segundos. Cada tiro gasta uma flecha ou um bolt, então leve bastante.
 2. **`exori con`** (level 23, 25 de mana) joga uma lança mágica num monstro só. Ela bate mais forte conforme o seu distance fighting sobe.
 3. **`exevo mas san`** (level 50, 160 de mana, conta premium) faz chover fogo sagrado em todos os monstros em volta de você, a cada 4 segundos. Deixe um grupo pequeno chegar perto, solte a magia, dê uns passos para trás enquanto eles te seguem e solte de novo.
 
@@ -118,7 +118,7 @@ Todas as magias de ataque dividem um tempo de espera de 2 segundos, então a par
 
 ### Equipamento
 Na Seção 1 você usa só itens que nunca acabam, fora a sua munição.
-- **Arma e munição:** uma Crossbow (500 gold no NPC) com virotes é a escolha simples. Virotes melhores batem mais forte, mas custam mais por tiro:
+- **Arma e munição:** uma Crossbow (500 gold no NPC) com bolts é a escolha simples. Bolts melhores batem mais forte, mas custam mais por tiro:
 
 | Munição | Level | Ataque | Preço no NPC por tiro |
 |---|---|---|---|
@@ -128,7 +128,7 @@ Na Seção 1 você usa só itens que nunca acabam, fora a sua munição.
 | Prismatic Bolts | 90 | 66 | 20 |
 | Spectral Bolts | 150 | 78 | 70 |
 
-  Um Bow (400 gold) atira flechas, com um quadrado a mais de alcance: Arrows (3 gold), Sniper Arrows (level 20), Onyx Arrows (level 40) e Crystalline Arrows (level 90). A partir do level 130, uma Royal Crossbow soma 5 de ataque a cada virote, mas custa 400k ou mais no Market.
+  Um Bow (400 gold) atira flechas, com um quadrado a mais de alcance: Arrows (3 gold), Sniper Arrows (level 20), Onyx Arrows (level 40) e Crystalline Arrows (level 90). A partir do level 130, uma Royal Crossbow soma 5 de ataque a cada bolt, mas custa 400k ou mais no Market.
 - **Nos levels baixos**, lanças são uma alternativa barata: são arremessadas com uma mão, então dá para usar um escudo junto. As Royal Spears (level 25) batem mais forte que as normais. As lanças às vezes quebram.
 - **Amuleto:** um Platinum Amulet no começo e um Foxtail Amulet a partir do level 100 (ele reduz o dano físico em 5%).
 - **Anel:** um Butterfly Ring a partir do level 50.
@@ -1507,7 +1507,7 @@ Ninguém publica números de hunt para paladin sem full setup, então os número
 3. **Quanto você bate.** Cada tiro segue a fórmula de distância da TibiaWiki: 1,2 × ataque da munição × (distance fighting + 4) ÷ 28, mais uns level ÷ 5, acertando uns 90% das vezes. As magias usam a base power (`exori con` 25, `exevo mas san` 150) vezes o seu Magic Power, (level + 4 × magic level) ÷ 100; para o `exori con`, que cresce com o distance fighting, a conta usa o mesmo formato com distance fighting no lugar do magic level. O `exevo mas san` conta como acertando uns 2,5 monstros.
 4. **Elementos.** Os tiros e o `exori con` são multiplicados pelo quanto cada monstro toma de dano físico, e o `exevo mas san` pelo quanto ele toma de dano sagrado.
 5. **Quão rápido você mata.** Ainda não há testes com paladin, então o ritmo é igual ao dos testes de level 134 do guia de knight (uns 144k de dano por hora), ajustado pelo quanto o paladin típico bate em cada level. Como no modelo do knight, ele é corrigido pela vida dos monstros e limitado a 550 mortes por hora e ao que a hunt consegue renascer.
-6. **Gastos.** Cada tiro custa um virote pelo preço do NPC, e a mana das magias, menos uns 2.400 de mana por hora de regeneração, é paga com Mana Potions (56 gold por uns 100 de mana). As poções de vida entram pela nota de Preparo, como no guia de knight.
+6. **Gastos.** Cada tiro custa um bolt pelo preço do NPC, e a mana das magias, menos uns 2.400 de mana por hora de regeneração, é paga com Mana Potions (56 gold por uns 100 de mana). As poções de vida entram pela nota de Preparo, como no guia de knight.
 7. **Notas.** Como no guia de knight, mas com a vida de um paladin, e os golpes corpo a corpo dos monstros contam três quartos porque você luta de longe a maior parte do tempo.
 
 **Até onde confiar neles:**
