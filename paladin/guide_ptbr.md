@@ -14,6 +14,7 @@ O jogo tem vários sistemas que deixam o paladin mais forte: imbuements, charms,
 - **Seção 1, Mecânicas básicas:** só o seu bow ou crossbow, duas magias de ataque, as magias de cura básicas e poções. Listas completas de hunts.
 - **Seção 1a, Stealth Ring:** um anel que te esconde de muitos monstros. Listas de hunts.
 - **Seção 1b, Mais magias:** stances, curas e ataques maiores, e munição de área. Listas de hunts.
+- **Seção 1c, Skinning e dusting:** loot extra dos corpos de dragons, behemoths, vampires e demons, com uma knife ou uma stake. Listas de hunts.
 - **Seção 2, Imbuements:** life leech e mana leech no seu equipamento. Listas completas de hunts.
 - **Seção 3, Charms e prey:** bônus contra os monstros que você caça. Listas de hunts.
 - **Seção 4, Wheel of Destiny e gemas:** perks permanentes que vêm com o level. Listas de hunts.
@@ -893,6 +894,207 @@ Estas tabelas mostram as hunts da Seção 1 em que a esquiva da Divine Defiance 
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~250k | ~105k | **XP** |
 | [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **2** | ~275k | ~65k | **XP**. Ainda: evite Grim Reaper (bate metade da sua vida) |
 
+## Seção 1c: Skinning e dusting
+Alguns monstros deixam algo a mais se você usar a ferramenta certa no corpo deles: os dragons dão couro, os vampires dão pó. Na maioria das vezes não sai nada, mas alguns desses produtos valem milhares de gold no Market, então nas hunts certas eles podem dobrar o seu loot. Custa um clique a mais por monstro morto e não deixa nenhuma hunt mais segura, então esta seção lista só as hunts onde esse clique paga bem.
+
+### As ferramentas
+- **Obsidian Knife**, para fazer skinning em dragons, dragon lords e behemoths. A [Obsidian Knife Quest](https://tibia.fandom.com/wiki/Obsidian_Knife_Quest) funciona em conta free e custa uns 4,5k: leve um Dragon Shield para o A Sweaty Cyclops em Ab'Dendriel, que o transforma num Piece of Draconian Steel, e depois leve o steel e uma Obsidian Lance para o Uzgod em Kazordoon, que faz a knife. No Market ela custa uns 20–35k.
+- **Blessed Wooden Stake**, para fazer dusting em vampires e demons. A [The Blessed Stake Quest](https://tibia.fandom.com/wiki/The_Blessed_Stake_Quest) precisa de conta premium e leva de 20 a 30 minutos: compre uma wooden stake do Gamon em Thais por 5.000 gold e leve aos sacerdotes de várias cidades para receber a bênção deles (leve uns 1.100 gold para barcos e tapetes). No Market ela custa 50k ou mais.
+
+As duas ferramentas duram para sempre, então você só precisa de uma de cada.
+
+### Como usar
+1. **Compre anéis no Market.** Eles custam uns 800–1.500 gold cada, dependendo do mundo (uns 1.000 é o normal). Você gasta 6 por hora, então uns 6k de gold por hora. O NPC Haroun, em Ankrahmun, vende por 5.000 cada, bem mais caro.
+2. **Coloque um antes de entrar no spawn** e deixe o próximo pronto numa hotkey. Troque quando o anel atual estiver quase acabando. Se ele acabar no meio de um grupo, todos te atacam de uma vez.
+3. **Vá até os monstros.** Monstros que não te veem não te seguem, então não dá para juntar um grupo. Chegue perto deles e ataque; o `exevo mas san` continua acertando todos os monstros em volta de você.
+4. **Teste com um monstro primeiro** na primeira vez, para ter certeza de que ele realmente te ignora.
+5. Você não consegue deslogar na hora enquanto esses monstros estiverem na sua tela, mesmo com o anel.
+
+### Quais monstros valem a pena
+
+| Monstro | Ferramenta | Sucesso | Produto, preço no Market | Gold extra por monstro |
+|---|---|---|---|---|
+| Dragon | Knife | 4% | Green Dragon Leather, ~16k | ~670 |
+| Behemoth | Knife | 9% | Perfect Behemoth Fang, ~3,4k | ~320 |
+| Vampire, Vampire Bride, Vampire Viscount | Stake | 5% | Vampire Dust, ~5,6k | ~280 |
+| Demon | Stake | 10% | Demon Dust, ~2,5k | ~240 |
+| Dragon Lord | Knife | 8% | Red Dragon Leather, ~2,2k | ~170 |
+
+- **Os preços mudam muito entre mundos.** A Green Dragon Leather vale uns 6k em alguns mundos e 18k em outros, então olhe o Market do seu mundo antes.
+- **A sorte conta.** Com 4% de chance, uma dragon lair dá umas 4 a 6 leathers por hora, e algumas horas não dão nenhuma.
+- **Não vale a pena:** minotaurs, lizards e bonebeasts também aceitam skinning, mas os produtos deles valem menos de 100 gold.
+- **Depois:** o charm Scavenge (Seção 3) aumenta a chance de sucesso em um tipo de monstro em 60%, 90% ou 120%, conforme o nível dele. Nos dragons ele se paga.
+
+### Lendo as tabelas da Seção 1c
+Estas tabelas listam as hunts da Seção 1 onde o skinning ou o dusting somam pelo menos 10% ao loot, as 5 melhores por faixa. As notas não mudam. A coluna de loot mostra a mudança, por exemplo "~40k → **~120k**". Ela conta os monstros com skinning que você mata, a chance de sucesso pelas estatísticas da TibiaWiki e o preço do produto no Market (o preço do meio em três mundos grandes, novembro de 2026). "Knife" e "Stake" dizem em quais monstros usar cada ferramenta. Faixas sem tabela não têm nenhuma hunt onde isso some o bastante.
+
+#### Level 40–50 com skinning (~35 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 | 3 | ~25k | ~13k → **~40k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon |
+| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 | 3 | ~25k | ~13k → **~40k** | Ankrahmun 167 / ~40 s | **XP**. Knife: Dragon |
+
+#### Level 50–60 com skinning (~25 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 | 3 | ~55k | ~30k → **~80k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon |
+| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 3 | 3 | ~55k | ~30k → **~80k** | Kazordoon 14 / ~4 s | **XP**. Knife: Dragon |
+| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 | 3 | ~55k | ~25k → **~80k** | Ankrahmun 167 / ~40 s | **XP**. Knife: Dragon |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 3 | 3 | ~55k | ~25k → **~75k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon |
+| [Dragonblaze Peaks](https://tibiamaps.io/map#33228,31305,7:2) | 3 | 3 | ~55k | ~25k → **~65k** | Farmine 355 / ~1,5 min | **XP**. Knife: Dragon |
+
+#### Level 60–70 com skinning (~30 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 3 | 3 | ~65k | ~65k → **~110k** | Edron 401 / ~1,7 min | **XP + lucro**. Knife: Dragon |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 3 | 3 | ~65k | ~35k → **~95k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon |
+| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 3 | 3 | ~65k | ~35k → **~95k** | Kazordoon 14 / ~4 s | **XP**. Knife: Dragon |
+| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 | 3 | ~65k | ~35k → **~95k** | Ankrahmun 167 / ~40 s | **XP**. Knife: Dragon |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 3 | 3 | ~65k | ~30k → **~90k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon |
+
+#### Level 70–80 com skinning (~36 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~70k | ~75k → **~125k** | Edron 401 / ~1,7 min | **XP + lucro**. Knife: Dragon |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~70k | ~30k → **~85k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 | 3 | ~75k | ~35k → **~110k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon |
+| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 | 3 | ~75k | ~35k → **~110k** | Kazordoon 14 / ~4 s | **XP**. Knife: Dragon |
+| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 2 | 3 | ~75k | ~35k → **~105k** | Ankrahmun 167 / ~40 s | **XP**. Knife: Dragon |
+
+#### Level 80–90 com skinning (~38 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~95k | ~30k → **~45k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~80k | ~80k → **~135k** | Edron 401 / ~1,7 min | **lucro**. Knife: Dragon |
+| [Goroma](https://tibiamaps.io/map#32095,32583,7:2) | 2 | 3 | ~85k | ~70k → **~80k** | não calculado | **XP**. Knife: Dragon, Dragon Lord |
+| [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 2 | 3 | ~90k | ~30k → **~70k** | Thais 148 / ~35 s | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 3 | ~100k | ~20k → **~40k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 90–100 com skinning (~38 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~125k | ~40k → **~60k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 2 | 2 | ~100k | ~110k → **~180k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~105k | ~105k → **~175k** | Edron 401 / ~1,7 min | **lucro**. Knife: Dragon |
+| [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 2 | 3 | ~120k | ~105k → **~120k** | Darashia 302 / ~1,3 min | **XP**. Stake: Vampire, Vampire Viscount, Vampire Bride |
+| [Goroma](https://tibiamaps.io/map#32095,32583,7:2) | 2 | 3 | ~120k | ~95k → **~110k** | não calculado | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 100–110 com skinning (~42 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~135k | ~45k → **~60k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~110k | ~110k → **~190k** | Edron 401 / ~1,7 min | **lucro**. Knife: Dragon |
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 2 | 2 | ~110k | ~115k → **~185k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 3 | ~140k | ~30k → **~60k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 3 | 3 | ~135k | ~45k → **~115k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 110–120 com skinning (~49 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~140k | ~45k → **~65k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~115k | ~120k → **~200k** | Edron 401 / ~1,7 min | **lucro**. Knife: Dragon |
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 2 | 2 | ~115k | ~125k → **~195k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 2 | 2 | ~145k | ~60k → **~80k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+| [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 2 | 3 | ~135k | ~115k → **~135k** | Darashia 302 / ~1,3 min | **XP**. Stake: Vampire, Vampire Viscount, Vampire Bride |
+
+#### Level 120–130 com skinning (~53 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~150k | ~50k → **~70k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 | 2 | ~120k | ~125k → **~210k** | Edron 401 / ~1,7 min | **lucro**. Knife: Dragon |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~150k | ~45k → **~110k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 2 | 2 | ~150k | ~65k → **~85k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+| [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 2 | 3 | ~140k | ~120k → **~140k** | Darashia 302 / ~1,3 min | **XP**. Stake: Vampire, Vampire Viscount, Vampire Bride |
+
+#### Level 130–140 com skinning (~54 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~165k | ~55k → **~75k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~160k | ~50k → **~120k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 2 | 2 | ~160k | ~70k → **~90k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~165k | ~35k → **~70k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 2 | 3 | ~160k | ~55k → **~135k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 140–150 com skinning (~59 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 | 2 | ~170k | ~55k → **~80k** | Venore 527 / ~2,2 min | **XP**. Knife: Dragon Lord, Dragon. Stake: Vampire |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~165k | ~50k → **~125k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~175k | ~35k → **~70k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 2 | 3 | ~170k | ~55k → **~140k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~185k | ~50k → **~120k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 150–160 com skinning (~61 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~185k | ~55k → **~140k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~190k | ~40k → **~80k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 2 | 3 | ~185k | ~60k → **~155k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~205k | ~55k → **~130k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 3 | ~200k | ~50k → **~105k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 160–170 com skinning (~66 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 | 2 | ~190k | ~60k → **~145k** | Venore 381 / ~1,6 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~200k | ~40k → **~80k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Tiquanda (Kha'zeel Dragon Lairs)](https://tibiamaps.io/map#32980,32646,7:2) | 2 | 3 | ~190k | ~65k → **~160k** | Port Hope 582 / ~2,4 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~210k | ~60k → **~135k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 3 | ~205k | ~50k → **~110k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+
+#### Level 170–180 com skinning (~72 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 2 | ~165k | ~165k → **~255k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~205k | ~40k → **~85k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~220k | ~60k → **~140k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 3 | ~215k | ~55k → **~115k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 | 3 | ~235k | ~55k → **~110k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon Lord, Dragon |
+
+#### Level 180–190 com skinning (~78 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 2 | ~170k | ~170k → **~265k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~215k | ~40k → **~90k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~225k | ~65k → **~145k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 3 | ~220k | ~55k → **~115k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 | 3 | ~245k | ~55k → **~115k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon Lord, Dragon |
+
+#### Level 190–200 com skinning (~84 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 2 | ~175k | ~175k → **~275k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~220k | ~45k → **~90k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 3 | ~235k | ~65k → **~150k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 3 | ~230k | ~55k → **~120k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 | 3 | ~250k | ~60k → **~120k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon Lord, Dragon |
+
+#### Level 200+ com skinning
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Elves (Foreigner Quarter)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 2 | ~175k | ~175k → **~275k** | Yalahar 95 / ~24 s | **lucro**. Knife: Dragon |
+| [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | 2 | 2 | ~240k | ~65k → **~155k** | Venore 449 / ~1,9 min | **XP**. Knife: Dragon, Dragon Lord |
+| [Carlin Dragon Lair](https://tibiamaps.io/map#32349,31836,8:2) | 2 | 2 | ~235k | ~60k → **~125k** | Carlin 68 / ~17 s | **XP**. Knife: Dragon, Dragon Lord |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 | 2 | ~260k | ~60k → **~125k** | Darashia 227 / ~0,9 min | **XP**. Knife: Dragon Lord, Dragon |
+| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 | 2 | ~225k | ~45k → **~95k** | Liberty Bay, barco do Jack Fate para Goroma | **XP**. Knife: Dragon, Dragon Lord |
+
 ## Seção 2: Imbuements
 Um **imbuement** é um encantamento temporário que você coloca numa peça do equipamento. Ele dura 20 horas de luta, depois acaba e você coloca outro.
 
@@ -1173,7 +1375,7 @@ Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente d
 Os melhores charms para o conforto:
 - **Dodge** (240 pontos): 5% de chance de não tomar dano nenhum do ataque daquela criatura (10% depois de uma melhoria de mais 360). Coloque no monstro que mais te machuca.
 - **Wound** (240 pontos): cada ataque seu tem 5% de chance de bater 5% da vida máxima da criatura, mais ou menos 1 a 2% de dano a mais. Se a criatura for fraca contra um elemento, o charm daquele elemento é melhor (Freeze, Zap, Enflame, Poison, Curse ou Divine Wrath).
-- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura) e Bless (você perde 6% menos quando aquela criatura te mata).
+- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c).
 - **Low Blow** e **Savage Blow** (800 pontos cada) adicionam golpes críticos. Só compensam depois que você tiver um imbuement de Strike.
 
 Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as notas das tabelas.

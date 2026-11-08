@@ -12,6 +12,7 @@ The game has many systems that make a sorcerer stronger: imbuements, charms, the
 - **Section 1, Basic mechanics:** just your wand, two attack spells, one healing spell and potions. Full hunting ground lists.
 - **Section 1a, Invisibility:** a spell that hides you from many monsters. Hunting ground lists.
 - **Section 1b, More spells:** Magic Shield, runes and the bigger spells. Hunting ground lists.
+- **Section 1c, Skinning and dusting:** extra loot from dragon, behemoth, vampire and demon corpses, with a knife or a stake. Hunting ground lists.
 - **Section 2, Imbuements:** life and mana leech on your gear. Full hunting ground lists.
 - **Section 3, Charms and prey:** bonuses against the monsters you hunt. Hunting ground lists.
 - **Section 4, Wheel of Destiny and gems:** permanent perks from your level. Hunting ground lists.
@@ -936,6 +937,74 @@ These tables list the Section 1 hunting grounds where Magic Shield lowers the gr
 | [Water Elemental Cave (Tiquanda)](https://tibiamaps.io/map#32559,32861,7:2) | 2 → **0** | 3 → **0** | ~240k | ~115k | **XP** |
 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~240k | ~115k | **XP**. Still: skip Massive Water Elemental (hits half your HP) |
 
+## Section 1c: Skinning and dusting
+Some monsters leave something extra if you use the right tool on their corpse: dragons give leather, vampires give dust. Most tries give nothing, but a few of these products sell for thousands of gold on the Market, so at the right hunting grounds they can double your loot. It costs one extra click per kill and doesn't make any hunting ground safer, so this section only lists the hunting grounds where that click pays well.
+
+### The tools
+- **Obsidian Knife**, for skinning dragons, dragon lords and behemoths. The [Obsidian Knife Quest](https://tibia.fandom.com/wiki/Obsidian_Knife_Quest) works on a free account and costs about 4.5k: bring a Dragon Shield to A Sweaty Cyclops in Ab'Dendriel, who turns it into a Piece of Draconian Steel, then take the steel and an Obsidian Lance to Uzgod in Kazordoon, who makes the knife. On the Market it costs about 20–35k.
+- **Blessed Wooden Stake**, for dusting vampires and demons. [The Blessed Stake Quest](https://tibia.fandom.com/wiki/The_Blessed_Stake_Quest) needs a premium account and takes 20–30 minutes: buy a wooden stake from Gamon in Thais for 5,000 gold, then take it to the priests of many cities for their blessing (bring about 1,100 gold for boats and carpets). On the Market it costs 50k or more.
+
+Both tools last forever, so you only need one of each.
+
+### Using them
+1. **Put the tool on an action bar button** set to "use with crosshair", so one press lets you click a corpse.
+2. **After each kill, use it on the corpse.** You have 5 minutes after the kill, and each corpse can be tried only once.
+3. **Green sparkles** mean success: the product appears in the same backpack as the tool. Yellow sparks mean nothing this time.
+
+### Which monsters are worth it
+
+| Monster | Tool | Success | Product, Market price | Extra gold per kill |
+|---|---|---|---|---|
+| Dragon | Knife | 4% | Green Dragon Leather, ~16k | ~670 |
+| Behemoth | Knife | 9% | Perfect Behemoth Fang, ~3.4k | ~320 |
+| Vampire, Vampire Bride, Vampire Viscount | Stake | 5% | Vampire Dust, ~5.6k | ~280 |
+| Demon | Stake | 10% | Demon Dust, ~2.5k | ~240 |
+| Dragon Lord | Knife | 8% | Red Dragon Leather, ~2.2k | ~170 |
+
+- **Prices change a lot between worlds.** Green Dragon Leather sells for about 6k on some worlds and 18k on others, so check your world's Market first.
+- **Luck matters.** With a 4% chance, a dragon lair gives about 4–6 leathers an hour, and some hours give none.
+- **Not worth it:** minotaurs, lizards and bonebeasts can be skinned too, but their products sell for under 100 gold.
+- **Later:** the Scavenge charm (Section 3) raises the success chance on one kind of monster by 60%, 90% or 120%, depending on its level. On dragons it pays off.
+
+### Reading the Section 1c tables
+These tables list the Section 1 hunting grounds where skinning or dusting adds at least 10% to the loot, the 5 best per band. The grades don't change. The loot column shows the change, for example "~40k → **~120k**". It counts the skinnable monsters you kill, their success chance from TibiaWiki's statistics, and the product's Market price (the middle price on three big worlds, November 2026). "Knife" and "Stake" name the monsters to use each tool on. Bands without a table have no hunting ground where it adds enough.
+
+#### Level 90–100 with skinning (~35 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~125k | ~50k → **~70k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 100–110 with skinning (~40 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~130k | ~55k → **~75k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 110–120 with skinning (~46 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~140k | ~60k → **~80k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 120–130 with skinning (~52 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~145k | ~60k → **~80k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 130–140 with skinning (~58 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~155k | ~65k → **~85k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 140–150 with skinning (~67 hours to the next band)
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~155k | ~60k → **~80k** | not computed | **XP**. Stake: Vampire Bride, Vampire |
+
 ## Section 2: Imbuements
 An **imbuement** is a temporary enchantment you add to a piece of gear. It lasts for 20 hours of fighting, then wears off and you add a new one.
 
@@ -1215,7 +1284,7 @@ Every creature has a **Bestiary** entry. Killing enough of that creature complet
 The best charms for comfort:
 - **Dodge** (240 points): a 5% chance to take no damage from that creature's attack (10% after an upgrade for 360 more). Put it on the monster that hurts you most.
 - **Wound** (240 points): each of your attacks has a 5% chance to hit for 5% of the creature's maximum health, roughly 1–2% more damage. If the creature is weak to an element, the matching charm is better (Freeze, Zap, Enflame, Poison, Curse or Divine Wrath).
-- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products) and Bless (lose 6% less when that creature kills you).
+- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c).
 - **Low Blow** and **Savage Blow** (800 points each) add critical hits. They only pay off once you have a Strike imbuement.
 
 Charms change your average damage, not the worst hit, so they don't change the grades in the tables.

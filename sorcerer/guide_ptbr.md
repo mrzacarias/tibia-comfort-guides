@@ -14,6 +14,7 @@ O jogo tem vários sistemas que deixam o sorcerer mais forte: imbuements, charms
 - **Seção 1, Mecânicas básicas:** só a sua wand, duas magias de ataque, uma magia de cura e poções. Listas completas de hunts.
 - **Seção 1a, Invisibilidade:** uma magia que te esconde de muitos monstros. Listas de hunts.
 - **Seção 1b, Mais magias:** Magic Shield, runas e as magias maiores. Listas de hunts.
+- **Seção 1c, Skinning e dusting:** loot extra dos corpos de dragons, behemoths, vampires e demons, com uma knife ou uma stake. Listas de hunts.
 - **Seção 2, Imbuements:** life leech e mana leech no seu equipamento. Listas completas de hunts.
 - **Seção 3, Charms e prey:** bônus contra os monstros que você caça. Listas de hunts.
 - **Seção 4, Wheel of Destiny e gemas:** perks permanentes que vêm com o level. Listas de hunts.
@@ -939,6 +940,75 @@ Estas tabelas mostram as hunts da Seção 1 em que o Magic Shield baixa as notas
 | [Water Elemental Cave (Tiquanda)](https://tibiamaps.io/map#32559,32861,7:2) | 2 → **0** | 3 → **0** | ~240k | ~115k | **XP** |
 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~240k | ~115k | **XP**. Ainda: evite Massive Water Elemental (bate metade da sua vida) |
 
+## Seção 1c: Skinning e dusting
+Alguns monstros deixam algo a mais se você usar a ferramenta certa no corpo deles: os dragons dão couro, os vampires dão pó. Na maioria das vezes não sai nada, mas alguns desses produtos valem milhares de gold no Market, então nas hunts certas eles podem dobrar o seu loot. Custa um clique a mais por monstro morto e não deixa nenhuma hunt mais segura, então esta seção lista só as hunts onde esse clique paga bem.
+
+### As ferramentas
+- **Obsidian Knife**, para fazer skinning em dragons, dragon lords e behemoths. A [Obsidian Knife Quest](https://tibia.fandom.com/wiki/Obsidian_Knife_Quest) funciona em conta free e custa uns 4,5k: leve um Dragon Shield para o A Sweaty Cyclops em Ab'Dendriel, que o transforma num Piece of Draconian Steel, e depois leve o steel e uma Obsidian Lance para o Uzgod em Kazordoon, que faz a knife. No Market ela custa uns 20–35k.
+- **Blessed Wooden Stake**, para fazer dusting em vampires e demons. A [The Blessed Stake Quest](https://tibia.fandom.com/wiki/The_Blessed_Stake_Quest) precisa de conta premium e leva de 20 a 30 minutos: compre uma wooden stake do Gamon em Thais por 5.000 gold e leve aos sacerdotes de várias cidades para receber a bênção deles (leve uns 1.100 gold para barcos e tapetes). No Market ela custa 50k ou mais.
+
+As duas ferramentas duram para sempre, então você só precisa de uma de cada.
+
+### Como usar
+1. **Solte `utana vid` antes de entrar no spawn.** Fique de olho no tempo e solte de novo antes de acabar. Se acabar no meio de um grupo, todos te atacam de uma vez.
+2. **Vá até os monstros.** Monstros que não te veem não te seguem, então não dá para juntar um grupo. Chegue perto deles e ataque. As waves continuam acertando todos os monstros na sua frente.
+3. **Teste com um monstro primeiro** na primeira vez, para ter certeza de que ele realmente te ignora.
+4. Você não consegue deslogar na hora enquanto esses monstros estiverem na sua tela, mesmo invisível.
+
+### Quais monstros valem a pena
+
+| Monstro | Ferramenta | Sucesso | Produto, preço no Market | Gold extra por monstro |
+|---|---|---|---|---|
+| Dragon | Knife | 4% | Green Dragon Leather, ~16k | ~670 |
+| Behemoth | Knife | 9% | Perfect Behemoth Fang, ~3,4k | ~320 |
+| Vampire, Vampire Bride, Vampire Viscount | Stake | 5% | Vampire Dust, ~5,6k | ~280 |
+| Demon | Stake | 10% | Demon Dust, ~2,5k | ~240 |
+| Dragon Lord | Knife | 8% | Red Dragon Leather, ~2,2k | ~170 |
+
+- **Os preços mudam muito entre mundos.** A Green Dragon Leather vale uns 6k em alguns mundos e 18k em outros, então olhe o Market do seu mundo antes.
+- **A sorte conta.** Com 4% de chance, uma dragon lair dá umas 4 a 6 leathers por hora, e algumas horas não dão nenhuma.
+- **Não vale a pena:** minotaurs, lizards e bonebeasts também aceitam skinning, mas os produtos deles valem menos de 100 gold.
+- **Depois:** o charm Scavenge (Seção 3) aumenta a chance de sucesso em um tipo de monstro em 60%, 90% ou 120%, conforme o nível dele. Nos dragons ele se paga.
+
+### Lendo as tabelas da Seção 1c
+Estas tabelas listam as hunts da Seção 1 onde o skinning ou o dusting somam pelo menos 10% ao loot, as 5 melhores por faixa. As notas não mudam. A coluna de loot mostra a mudança, por exemplo "~40k → **~120k**". Ela conta os monstros com skinning que você mata, a chance de sucesso pelas estatísticas da TibiaWiki e o preço do produto no Market (o preço do meio em três mundos grandes, novembro de 2026). "Knife" e "Stake" dizem em quais monstros usar cada ferramenta. Faixas sem tabela não têm nenhuma hunt onde isso some o bastante.
+
+#### Level 90–100 com skinning (~35 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~125k | ~50k → **~70k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 100–110 com skinning (~40 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~130k | ~55k → **~75k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 110–120 com skinning (~46 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~140k | ~60k → **~80k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 120–130 com skinning (~52 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~145k | ~60k → **~80k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 130–140 com skinning (~58 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~155k | ~65k → **~85k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
+#### Level 140–150 com skinning (~67 horas até a próxima faixa)
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 | 3 | ~155k | ~60k → **~80k** | não calculado | **XP**. Stake: Vampire Bride, Vampire |
+
 ## Seção 2: Imbuements
 Um **imbuement** é um encantamento temporário que você coloca numa peça do equipamento. Ele dura 20 horas de luta, depois acaba e você coloca outro.
 
@@ -1218,7 +1288,7 @@ Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente d
 Os melhores charms para o conforto:
 - **Dodge** (240 pontos): 5% de chance de não tomar dano nenhum do ataque daquela criatura (10% depois de uma melhoria de mais 360). Coloque no monstro que mais te machuca.
 - **Wound** (240 pontos): cada ataque seu tem 5% de chance de bater 5% da vida máxima da criatura, mais ou menos 1 a 2% de dano a mais. Se a criatura for fraca contra um elemento, o charm daquele elemento é melhor (Freeze, Zap, Enflame, Poison, Curse ou Divine Wrath).
-- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura) e Bless (você perde 6% menos quando aquela criatura te mata).
+- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c).
 - **Low Blow** e **Savage Blow** (800 pontos cada) adicionam golpes críticos. Só compensam depois que você tiver um imbuement de Strike.
 
 Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as notas das tabelas.

@@ -10,6 +10,6 @@ Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each 
 | Monk | [monk/guide.md](monk/guide.md) | [monk/guide_ptbr.md](monk/guide_ptbr.md) | Untested estimates |
 
 How each guide works:
-- It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
+- It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, skinning and dusting, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
 - Section 1 also covers playing on a free account, the daily boosted creature and the Task Board.
 - XP and loot numbers are estimates until tested. Each vocation folder has a `spot_tests.md` log for real hunts; tested hunting grounds get a ✓ and use the real numbers.
