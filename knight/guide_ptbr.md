@@ -227,7 +227,7 @@ A tabela abaixo mostra as melhores hunts que uma conta free pode usar em cada fa
 
 | Level | Melhores hunts para conta free (as mais confortáveis primeiro) |
 |---|---|
-| 8–20 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~8k XP/h, ~65k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 A2, ~7k XP/h, ~30k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 A1, ~18k XP/h, ~25k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P1 A1, ~19k XP/h, ~20k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 A1, ~20k XP/h, ~15k loot/h |
+| 8–20 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~8k XP/h, ~65k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 A1, 20k XP/h, 20k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 A2, ~7k XP/h, ~30k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P1 A1, ~19k XP/h, ~20k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 A1, ~20k XP/h, ~15k loot/h |
 | 20–30 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~13k XP/h, ~100k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 A0, ~11k XP/h, ~50k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 A0, ~30k XP/h, ~45k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 A0, ~35k XP/h, ~40k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 A0, ~35k XP/h, ~30k loot/h |
 | 30–40 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~13k XP/h, ~105k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 A0, ~45k XP/h, ~55k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 A0, ~45k XP/h, ~50k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 A0, ~50k XP/h, ~40k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 A1, ~25k XP/h, ~85k loot/h |
 | 40–50 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 A0, ~50k XP/h, ~55k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 A0, ~60k XP/h, ~45k loot/h<br>[Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~60k XP/h, ~140k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~50k XP/h, ~105k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~55k XP/h, ~105k loot/h |
@@ -259,7 +259,7 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa só experiência raw, então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 8–20 (~6,6 horas até a próxima faixa)
+#### Level 8–20 (~6,4 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 30, ataque da arma 25. Equipamento com bom custo-benefício, cada peça abaixo de ~33k: Serpent Sword, Morning Star ou Orcish Axe (sword, club ou axe), com Golden Armor, Knight Legs, Royal Helmet, Carapace Shield, Boots of Haste.
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, a partir do level 12, para Crimson Court (Targuna)).
@@ -267,8 +267,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~8k | ~65k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) ✓ | 0 | 1 | 20k | 20k | depot de Targuna, na própria ilha | **XP**. **Testado** (sword 43, logo depois de 12 horas de treino offline): sem supplies, pouca cura. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Centipede bate 25% da vida. Vende bem: Centipede Leg |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~18k | ~25k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~19k | ~20k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~20k | ~15k | Targuna, portal na casa da Emiliana | **XP**. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 27% da vida. Vende bem: Infernoid Ember |
 
@@ -537,15 +537,15 @@ Como na Seção 2, estas tabelas mostram só as hunts que o anel deixa mais conf
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar. O loot aparece antes de pagar os anéis.
 
-#### Level 8–20 com Stealth Ring (~7,8 horas até a próxima faixa)
+#### Level 8–20 com Stealth Ring (~7,6 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **0** | ~9k | ~40k | Port Hope 405 / ~1,7 min | **lucro**. Não te veem: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Vende bem: Voodoo Doll |
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~8k | ~40k | Edron 135 / ~34 s | **lucro**. Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Não te veem: Centipede, Wasp, Crab, Crimson Frog. Vende bem: Centipede Leg |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~18k | ~25k | depot de Targuna, na própria ilha | **XP**. Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~20k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 1 → **0** | 20k | 20k | depot de Targuna, na própria ilha | **XP**. Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 
 #### Level 20–30 com Stealth Ring (~10 horas até a próxima faixa)
 
@@ -1183,13 +1183,13 @@ Estas tabelas mostram só as hunts que ficam mais confortáveis com o kit, as 5 
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 
-#### Level 8–20 com leech (~6,0 horas até a próxima faixa)
+#### Level 8–20 com leech (~5,8 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | **lucro** |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~18k | ~25k | **XP** |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~20k | **XP** |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 1 → **0** | ~20k | ~20k | **XP** |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~15k | **XP** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~16k | ~4k | **XP** |
 
