@@ -316,9 +316,9 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~8k | ~115k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~100k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~12k | ~85k | Farmine 98 / ~24 s | Watch: Gnarlhound hits 19% of HP. Sells: Shaggy Tail |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | 6k | 75k | Svargrond 182 / ~46 s | **Tested** (level 23, sword 47): 300 gold of supplies per hour, almost no healing, Winter Wolf Fur sold for about 4k. Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 
 #### Level 30–40 (~9.6 hours to the next band)
 **Typical knight in this band:** skill 63, weapon attack 37. Good-value gear, each piece under ~133k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
@@ -743,8 +743,8 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **0** | 3 → **0** | ~15k | ~210k | Kazordoon 137 / ~35 s | Earlier than TibiaWiki suggests (level 30). Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~8k | ~115k | Svargrond 182 / ~46 s | Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
 
 #### Level 30–40 with a Stealth Ring (~8.6 hours to the next band)
 
@@ -1105,6 +1105,24 @@ Single-target and ranged attack spells stay out of this guide: they're weak for 
 
 ### Reading the Section 1b tables
 These tables grade the Section 1 hunting grounds with Protector's 15% less damage and list the 3 best for XP and the 3 best for gold per band. The XP and loot numbers are the Section 1 estimates; with Protector on, you kill about 15% slower while it's active.
+
+#### Level 20–30 with Protector (~4.5 hours to the next band)
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 0 → **0** | 45k | 11k |  |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 40k | 55k |  |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 0 → **0** | 30k | 30k |  |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~16k | ~80k | Earlier than TibiaWiki suggests (level 30) |
 
 #### Level 30–40 with Protector (~8.0 hours to the next band)
 
@@ -1809,9 +1827,9 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~8k | ~115k |  |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **1** | ~16k | ~80k | Earlier than TibiaWiki suggests (level 30) |
 
 #### Level 30–40 with leech (~8.3 hours to the next band)
 
@@ -2184,6 +2202,24 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | 10k | 70k | Damage-reduction prey on Wasp |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 1 → **0** | 1 → **0** | ~5k | ~70k | Earlier than TibiaWiki suggests (level 20). Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 45k | 55k | Damage-reduction prey on Pirate Quartermaster, XP prey on Pirate Cook |
+
+#### Level 20–30 with prey (~4.2 hours to the next band)
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 0 → **0** | 50k | 11k | Damage-reduction prey on Infernoid Blob, XP prey on Infernoid Spiritual |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 45k | 55k | Damage-reduction prey on Pirate Quartermaster, XP prey on Pirate Cook |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 0 → **0** | 35k | 30k | Damage-reduction prey on Lizard Executioner, XP prey on Lizard Swordmaster |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Damage-reduction prey on Wasp |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k | Damage-reduction prey on Gnarlhound |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~17k | ~80k | Earlier than TibiaWiki suggests (level 30). Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 
 #### Level 30–40 with prey (~7.9 hours to the next band)
 

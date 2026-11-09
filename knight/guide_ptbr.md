@@ -319,9 +319,9 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~8k | ~115k | Svargrond 182 / ~46 s | Exige a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~100k | Thais 188 / ~47 s | Vende bem: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~12k | ~85k | Farmine 98 / ~24 s | Cuidado: Gnarlhound bate 19% da vida. Vende bem: Shaggy Tail |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | 6k | 75k | Svargrond 182 / ~46 s | **Testado** (level 23, sword 47): 300 gold de supplies por hora, quase sem cura, Winter Wolf Fur vendida por cerca de 4k. Exige a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
 #### Level 30–40 (~9,6 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 63, ataque da arma 37. Equipamento com bom custo-benefício, cada peça abaixo de ~133k: Epee, Sapphire Hammer ou Beastslayer Axe (sword, club ou axe), com Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
@@ -746,8 +746,8 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **0** | 3 → **0** | ~15k | ~210k | Kazordoon 137 / ~35 s | Antes do que a TibiaWiki sugere (level 30). Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~8k | ~115k | Svargrond 182 / ~46 s | Não te veem: Penguin, Polar Bear, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Thais 188 / ~47 s | Não te veem: Wasp. Vende bem: Honeycomb |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k | Farmine 98 / ~24 s | Não te veem: Gnarlhound. Vende bem: Shaggy Tail |
 
 #### Level 30–40 com Stealth Ring (~8,6 horas até a próxima faixa)
 
@@ -1108,6 +1108,24 @@ Magias de alvo único e de ataque à distância ficam fora deste guia: são frac
 
 ### Lendo as tabelas da Seção 1b
 Estas tabelas dão as notas das hunts da Seção 1 com os 15% de dano a menos da Protector e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Os números de XP e loot são as estimativas da Seção 1; com a Protector ligada, você mata uns 15% mais devagar enquanto ela está ativa.
+
+#### Level 20–30 com Protector (~4,5 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 0 → **0** | 45k | 11k |  |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 40k | 55k |  |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 0 → **0** | 30k | 30k |  |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~16k | ~80k | Antes do que a TibiaWiki sugere (level 30) |
 
 #### Level 30–40 com Protector (~8,0 horas até a próxima faixa)
 
@@ -1812,9 +1830,9 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~8k | ~115k |  |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **1** | ~16k | ~80k | Antes do que a TibiaWiki sugere (level 30) |
 
 #### Level 30–40 com leech (~8,3 horas até a próxima faixa)
 
@@ -2187,6 +2205,24 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | 10k | 70k | Prey de redução de dano em Wasp |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 1 → **0** | 1 → **0** | ~5k | ~70k | Antes do que a TibiaWiki sugere (level 20). Prey de redução de dano em Polar Bear, prey de XP em Winter Wolf |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 45k | 55k | Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Cook |
+
+#### Level 20–30 com prey (~4,2 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 0 → **0** | 50k | 11k | Prey de redução de dano em Infernoid Blob, prey de XP em Infernoid Spiritual |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 45k | 55k | Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Cook |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 0 → **0** | 35k | 30k | Prey de redução de dano em Lizard Executioner, prey de XP em Lizard Swordmaster |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Prey de redução de dano em Wasp |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k | Prey de redução de dano em Gnarlhound |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~17k | ~80k | Antes do que a TibiaWiki sugere (level 30). Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
 
 #### Level 30–40 com prey (~7,9 horas até a próxima faixa)
 
