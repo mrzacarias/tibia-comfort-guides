@@ -13,18 +13,14 @@ O jogo tem vários sistemas que deixam o sorcerer mais forte: imbuements, charms
 
 - **Seção 1, Mecânicas básicas:** só a sua wand, duas magias de ataque, uma magia de cura e poções. Listas completas de hunts.
 - **Seção 1a, Invisibilidade:** uma magia que te esconde de muitos monstros. Listas de hunts.
-- **Seção 1b, Mais magias:** Magic Shield, runas e as magias maiores. Listas de hunts.
-- **Seção 1c, Skinning e dusting:** loot extra dos corpos de dragons, behemoths, vampires e demons, com uma knife ou uma stake. Listas de hunts.
-- **Seção 1d, Hunts atrás de quests:** boas hunts que só abrem depois de parte de uma quest, e as quests a fazer. Listas de hunts.
-- **Seção 1e, Hunts com viagem longa:** boas hunts a mais de uns 2 minutos do depot. Listas de hunts.
+- **Seção 1b, Hunts atrás de quests:** boas hunts que só abrem depois de parte de uma quest, e as quests a fazer. Listas de hunts.
+- **Seção 1c, Hunts com viagem longa:** boas hunts a mais de uns 2 minutos do depot. Listas de hunts.
 - **Seção 2, Imbuements:** life leech e mana leech no seu equipamento. Listas completas de hunts.
 - **Seção 3, Charms e prey:** bônus contra os monstros que você caça. Listas de hunts.
 - **Seção 4, Wheel of Destiny e gemas:** perks permanentes que vêm com o level. Listas de hunts.
 - **Seções 5 e 6, Weapon Proficiency e a Forja:** os últimos passos até o full setup.
 
 Comece pela Seção 1. Encontre o seu level nas tabelas de hunts e escolha uma hunt da lista **Bom para XP** para upar, ou da lista **Bom para lucro** quando precisar de dinheiro para equipamento, supplies ou a promoção. Quando caçar ali ficar fácil, passe para a próxima seção e veja quais hunts novas se abrem.
-
-Jogando sem premium? A Seção 1 tem uma parte sobre conta free, com as melhores hunts free de cada faixa. O sorcerer perde menos do que as outras vocações ali: todas as magias da Seção 1 são free.
 
 Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas vão aparecer com ✓ e usar números reais em vez de estimativas.
 
@@ -89,7 +85,7 @@ Algumas hunts ficam totalmente de fora: as cheias de summoners, ou com muitos mo
 ### Quais hunts aparecem
 Uma hunt pode aparecer em qualquer faixa em que o nosso modelo a considere confortável, então a mesma hunt costuma aparecer em várias faixas, e as notas e os números dela melhoram conforme o seu level sobe. Quando isso acontece antes do level que a TibiaWiki sugere, as notas avisam: são escolhas do modelo, então teste com cuidado.
 
-Cada faixa mostra duas listas curtas: **Bom para XP**, as 3 hunts com mais experiência por hora, e **Bom para lucro**, as 3 com mais loot por hora. As hunts cujo loot não paga as poções que elas gastam ficam de fora. As duas listas só pegam hunts confortáveis (Preparo e Atenção 0 ou 1) e aceitam um 2 só quando menos de 3 se encaixam. Uma hunt pode estar nas duas listas. As seções seguintes só mostram uma faixa quando o sistema delas muda essas listas. As hunts que exigem uma quest antes ficam de fora de todas as seções, menos da Seção 1d (a Targuna Quest e começar a The New Frontier Quest não contam), e as hunts a mais de uns 2 minutos do depot ficam só na Seção 1e.
+Cada faixa mostra duas listas curtas: **Bom para XP**, as 3 hunts com mais experiência por hora, e **Bom para lucro**, as 3 com mais loot por hora. As hunts cujo loot não paga as poções que elas gastam ficam de fora. As duas listas só pegam hunts confortáveis (Preparo e Atenção 0 ou 1) e aceitam um 2 só quando menos de 3 se encaixam. Uma hunt pode estar nas duas listas. As seções seguintes só mostram uma faixa quando o sistema delas muda essas listas. As hunts que exigem uma quest antes ficam de fora de todas as seções, menos da Seção 1b (a Targuna Quest e começar a The New Frontier Quest não contam), e as hunts a mais de uns 2 minutos do depot ficam só na Seção 1c. As tabelas começam no level 20, e as Seções 2 a 4 no level 50.
 
 ### O personagem dos números
 Os números de XP e loot são estimativas para um sorcerer típico: alguém com magic level um pouco abaixo do normal para o level (10 no level 8, 25 no 30, 58 no 80, 80 no 134, 95 no 200), usando a melhor wand que um NPC vende para aquele level. Cada faixa mostra esse magic level e essa wand. Se os seus forem melhores, você vai render mais do que as tabelas.
@@ -100,32 +96,21 @@ As estimativas também contam que uma wave acerta uns 2,5 monstros em média, e 
 Nesta seção você usa só o básico: a sua wand, duas magias de ataque (um strike para um monstro e uma wave para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
 
 ### Como lutar
-**Mantenha distância.** Com tão pouca vida, o sorcerer sobrevive não deixando os monstros chegarem perto. Isso é **kitar**: ataque a alguns quadrados de distância e continue andando, em volta e para longe dos monstros, para que os que batem de perto nunca te alcancem. Nunca deixe um grupo te cercar, e cuidado com cantos e corredores estreitos onde você pode ficar preso.
+**Mantenha distância.** Com tão pouca vida, o sorcerer sobrevive não deixando os monstros chegarem perto. Isso é **kitar**: ataque a alguns quadrados de distância e continue andando, para que os monstros que batem de perto nunca te alcancem. Nunca deixe um grupo te cercar e evite cantos e corredores estreitos.
 
-**Os seus ataques:**
-1. **A sua wand** ataca o seu alvo sozinha a cada 2 segundos. Desde junho de 2026, cada tiro da wand também te devolve um pouco de mana.
-2. **Um strike** acerta um monstro a até 3 quadrados por 20 de mana: `exori flam` (fogo, level 8), `exori vis` (energia, level 12) e `exori mort` (morte, level 16). Use o elemento contra o qual o monstro é mais fraco; a página de cada criatura na TibiaWiki mostra as fraquezas.
-3. **Uma wave** acerta todos os monstros num cone na sua frente: `exevo flam hur` (fogo, level 18, 25 de mana) e, a partir do level 38, o `exevo vis hur`, bem mais forte (energia, 170 de mana). Deixe os monstros te seguirem para que se juntem, marque um deles como alvo e solte a wave no grupo.
+**Seus ataques:** a sua wand atira sozinha no seu alvo a cada 2 segundos e devolve um pouco de mana. Os **strikes** acertam um monstro a até 3 quadrados por 20 de mana: `exori flam` (fogo, level 8), `exori vis` (energia, 12) e `exori mort` (morte, 16); use o elemento mais fraco do monstro. As **waves** acertam um cone na sua frente: `exevo flam hur` (fogo, level 18) e, a partir do level 38, o bem mais forte `exevo vis hur` (energia, uma vez a cada 8 segundos). Deixe os monstros te seguirem para se juntarem e solte a wave no grupo. No Magical Archive, ligue o modo de mira de cada wave para ela sair no seu alvo. As magias de ataque dividem um tempo de espera de 2 segundos: wave, strike, wave, strike.
 
-**Mire as waves no seu alvo.** Desde 2025 o jogo consegue soltar a wave direto no monstro que você está atacando, então você não precisa virar de frente para o grupo antes. Abra o Magical Archive (a sua lista de magias), selecione cada wave e ligue o modo de mira dela. Sem alvo, a wave continua saindo para onde você está virado. Se você solta as waves por um botão da action bar, esse botão também tem o seu próprio modo de lançamento: escolha "target".
+Aqui não existe magia que acerte tudo em volta: com bem menos vida que um knight, ficar no meio de um grupo é o jeito mais rápido de morrer. **Os elementos importam**, também: dragons, por exemplo, não levam dano de fogo. As tabelas contam as fraquezas de cada monstro.
 
-Todas as magias de ataque dividem um tempo de espera de 2 segundos, então você solta uma a cada 2 segundos: wave, strike, wave, strike. A partir do level 38: energy wave, fire wave, strike, fire wave (a energy wave só pode ser usada a cada 8 segundos).
+**Cura:** `exura` (level 8) e `exura gran` (level 20). Cure-se cedo: um golpe forte pode tirar metade da sua vida. Desde junho de 2026, o **Mana Buffer** te salva uma vez de um golpe mortal gastando a sua mana no lugar; saia na hora quando isso acontecer.
 
-**Sem `exori` em volta.** Se você já jogou de knight, talvez procure uma magia como o `exori`, que acerta todos os monstros ao seu redor. O sorcerer não tem nenhuma assim, e é de propósito: com bem menos vida que um knight (no level 100, 645 contra 1.565), ficar no meio de um grupo é o jeito mais rápido de morrer. A wave acerta o grupo a alguns quadrados de distância, com todos do mesmo lado. As magias que acertam tudo em volta vêm depois (Seção 1b), e só a cada 40 segundos.
+**As poções** dividem um mesmo tempo de espera curto (cerca de 1 segundo). A Mana Potion é a mana mais barata (56 gold por uns 100), e as tabelas contam com ela como supply.
 
-**Os elementos importam.** Alguns monstros tomam pouco ou nenhum dano de um elemento. Os dragons, por exemplo, não tomam dano de fogo, então a fire wave não faz nada neles. As tabelas já contam as fraquezas de cada monstro.
-
-**Cura:** `exura` (level 8, 20 de mana) cura pouco, e `exura gran` (level 20, 70 de mana) cura mais. Cure-se cedo: um golpe forte pode tirar metade da vida de um sorcerer.
-
-**Mana Buffer:** desde junho de 2026, quando um golpe ia te matar, você fica com 1 de HP e o resto do dano sai da sua mana, multiplicado por dez, mais um quarto da sua mana máxima. Ele pode te salvar uma vez, mas esvazia a sua mana, então saia na hora quando isso acontecer.
-
-**Poções:** todas as poções dividem um mesmo tempo de espera curto (cerca de 1 segundo), então você não consegue tomar uma de vida e uma de mana no mesmo instante. A Mana Potion é a mais barata por ponto de mana (56 gold por uns 100 de mana), e as tabelas contam essas poções como gasto. Poções de mana mais fortes liberam em levels mais altos.
-
-**Jogue seguro:** saiba sempre por onde sair e saia quando a sua vida chegar mais ou menos à metade. Monstros que te deixam lento ou paralisado acabam com o seu kite, então tome cuidado extra onde as notas dizem "paralisam".
+**Jogue seguro:** saiba sempre por onde sair, saia quando a sua vida chegar mais ou menos à metade e tome cuidado extra onde as notas dizem "paralisam".
 
 ### Equipamento
-Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar.
-- **Wand:** compre a melhor que o seu level permite. Elas são baratas, e ter uma de cada elemento ajuda contra monstros que resistem a um deles:
+Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar. A linha de equipamento de cada faixa lista armas e armaduras com bom custo-benefício.
+- **Wand:** compre a melhor que o seu level permite. Elas são baratas, e ter uma de cada elemento ajuda contra monstros que resistem a um:
 
 | Wand | Level | Elemento | Dano médio | Preço no NPC |
 |---|---|---|---|---|
@@ -140,178 +125,64 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 | Wand of Everblazing | 65 | fogo | 85 | só no Market |
 
 - **Mão do escudo:** um spellbook. Desde junho de 2026 os spellbooks protegem bem mais do que antes.
-- **Amuleto:** um Platinum Amulet no começo e um Foxtail Amulet a partir do level 100 (ele reduz o dano físico em 5%).
-- **Anel:** um Butterfly Ring a partir do level 50.
-- **Armadura:** armadura, calça e helmet que dão magic level valem a pena; fora isso, use o que protege mais.
+- **Amuleto e anel:** uma Platinum Amulet, depois uma Foxtail Amulet a partir do level 100 (5% menos dano físico), e um Butterfly Ring a partir do level 50.
+- **Armadura:** armaduras, calças e capacetes que dão magic level valem a pena; fora isso, use o que mais protege.
 
 ### Antes de caçar
-A **stamina** é quanto tempo o seu personagem consegue caçar com rendimento total. Ela vai até 42 horas. Com conta premium, as primeiras 3 horas de stamina cheia dão **50% a mais de experiência**, então comece as suas melhores hunts logo depois de um bom descanso. Abaixo de 14 horas você ganha só metade da experiência e nenhum loot, então pare e descanse. A stamina volta enquanto você está deslogado: cerca de 1 minuto a cada 3 minutos offline, e na metade dessa velocidade nas 3 horas de bônus.
+- **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado.
+- **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena.
+- **Comida:** coma até o jogo dizer que você está cheio antes da hunt e de novo de vez em quando; a comida faz você regenerar.
+- **Daily reward:** pegue todo dia no Reward Wall (poções ou runas, Prey Wildcards, training weapons, um bônus de XP). A sequência de dias também faz você regenerar mais rápido em templos, depots e casas.
 
-As **bênçãos** (blessings, ou "bless") são compradas de NPCs nas cidades e te protegem quando você morre. Com as 5 bênçãos normais você perde uns 70% menos de experiência e skill e não perde nenhum item. As cinco juntas custam mais ou menos (level − 20) × 1.000 gold até o level 120, ou seja, uns 70k no level 90, e uns 105k no level 134. Vale a pena.
+### Loot
+- **Quick Loot:** Shift + clique direito num corpo pega o loot. Nas Opções, em Hotkeys, coloque o **Quick Loot Nearby Corpses** numa tecla perto das de ataque: ele pega o loot do seu quadrado e dos 8 em volta de uma vez.
+- **Pule o lixo:** clique direito num item e escolha "Add to Loot List". No modo Skipped Loot, o Quick Loot pega tudo menos esses itens.
+- **Organize:** clique direito numa mochila e escolha "Manage Containers" para mandar cada categoria (gold, creature products, poções e outras) para a sua própria mochila. Coloque algumas mochilas vazias dentro da mochila de loot e você consegue lootear por bem mais tempo.
+- **Venda no Market:** muitos drops valem lá bem mais do que as lojas pagam (uma Stone Wing vale uns 2,4k no Market e 120 numa loja); as notas dizem o melhor drop de cada hunt. Vender para uma oferta de compra é na hora, mas confira se ela ganha do preço da loja. No depot, "Stow container's content" põe o loot empilhável no seu Supply Stash, e o Market vende direto de lá.
+- **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
 
-**Comida:** coma antes e durante a hunt. A comida faz você regenerar vida e mana, até 20 minutos por vez, então coma até o jogo dizer que você está cheio e coma de novo de vez em quando. Qualquer comida serve; ham e brown mushrooms são baratos e fáceis de achar.
-
-**Recompensa diária:** uma vez por dia, abra o Reward Wall (o botão embaixo do seu inventário, ou o santuário em qualquer templo ou depot) e pegue a sua recompensa. A cada 7 dias, uma conta premium ganha 40 poções ou runas à sua escolha, 3 Prey Wildcards, duas training weapons, um temple teleport scroll, um gold converter (ele transforma 100 moedas de gold em 1 platinum coin, economizando capacidade) e 30 minutos de XP boost; contas free ganham mais ou menos a metade. Pegar todo dia também cria uma sequência: nos templos, depots e casas você passa a regenerar mais rápido, e a partir do quarto dia as contas premium também recuperam stamina ali.
-
-### Quick Loot
-Lootear cada corpo na mão é lento, e é fácil esquecer um. O **Quick Loot** faz isso num clique: com os controles normais, Shift + clique direito num corpo manda tudo o que tem dentro para a sua backpack, até de uma pilha de 30 corpos no mesmo quadrado. Dá para trocar o clique nas Options.
-- **Uma tecla para tudo em volta:** o **Quick Loot Nearby Corpses** (desde julho de 2024) looteia o seu quadrado e os 8 em volta de uma vez. Nas Options, em Hotkeys, coloque numa tecla bem do lado das suas teclas de ataque e cura, como a ` (à esquerda do 1). Assim você looteia entre um ataque e uma cura sem ir até o mouse.
-- **Pule o lixo:** clique com o botão direito num item e escolha "Add to Loot List". No modo **Skipped Loot**, o Quick Loot pega tudo menos os itens da lista, então você nunca deixa algo valioso para trás sem querer. Vá adicionando itens baratos e pesados conforme aparecem.
-- **Organize com o Manage Containers (premium):** clique com o botão direito numa backpack e escolha "Manage Containers". Escolha uma categoria (gold, creature products, poções, comida, runas e muitas outras, as mesmas do Market) e defina uma backpack para ela; a backpack passa a mostrar um pequeno ícone. O Quick Loot põe cada item na backpack da sua categoria, e o que não tiver uma vai para a sua backpack principal. Cada categoria tem duas opções: **Loot**, para o que o Quick Loot pega, e **Obtain**, para o que você compra de NPCs ou tira do Supply Stash (e de alguns baús de quest). Coloque poções e runas na sua bag de supplies em Obtain, e toda reposição cai direto ali. Vender também fica bem mais rápido.
-- **Backpacks dentro de backpacks:** quando uma backpack definida enche, o Quick Loot continua enchendo as backpacks que estão dentro dela. Coloque algumas backpacks vazias dentro da sua backpack de loot e dá para lootear por muito tempo sem mexer em nada na mão. É ótimo para as vocações que carregam muito, como os knights.
-- **Guarde tudo de uma vez (premium):** no depot, clique com o botão direito na sua backpack de loot e escolha "Stow container's content". Tudo o que o Supply Stash aceita vai para lá de uma vez, inclusive o que está nas backpacks dentro dela. O stash aceita itens que se empilham e podem ser vendidos no Market (creature products, gems, poções, runas e parecidos), não equipamentos nem gold. O Market vende direto do stash, então você nunca precisa tirar nada de volta.
-
-Contas free também podem usar o Quick Loot; só a organização precisa de premium.
-
-### Vendendo o seu loot
-Muita coisa que os monstros dropam vale no Market muito mais do que qualquer loja paga. Uma Stone Wing, por exemplo, sai por uns 2,4k no Market, mas só 120 numa loja. As notas de cada hunt dizem qual é o drop mais valioso dela.
-
-Vender para uma oferta de compra no Market é na hora, mas olhe o preço antes. Quando a melhor oferta de compra for menor do que uma loja paga, venda para a loja, ou crie a sua própria oferta de venda e espere um comprador. Num mundo, em novembro de 2026, a melhor oferta de compra por um Gold Tooth era 100 gold, uma loja pagava 120, e as ofertas de venda começavam em uns 800.
-
-O Hunt Analyser do jogo pode errar muito, para mais ou para menos. Para cada item ele usa o preço da loja, o preço médio do Market no seu mundo ou um preço que você mesmo define, e você escolhe qual na Cyclopedia (aba Items). Numa hora testada, ele mostrou 10,6k de loot; vendendo tudo no Market, entraram 106k. Numa meia hora testada, ele mostrou 21,7k, e vendendo para ofertas de compra entraram só 6,2k. Conte o gold que entra de verdade.
-
-Os preços também mudam de um mundo para outro, às vezes cinco vezes ou mais (em novembro de 2026, as ofertas de compra por uma Lizard Tail ficaram em média em uns 2.400 gold num mundo e 310 em outro), então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
-
-### A criatura boostada do dia
-Todo dia, no server save, uma criatura vira a **criatura boostada** (boosted creature) até o próximo server save. Ela dá **o dobro de experiência e o dobro de loot, e renasce duas vezes mais rápido**. Ela aparece na tela de login do cliente e no canto superior direito do tibia.com.
-
-Confira antes de escolher a hunt. Se a criatura do dia vive numa hunt do seu level, cace lá hoje: o dobro de experiência e de loot costuma ganhar de todo o resto da sua faixa. O boost também soma com a prey (Seção 3) e com eventos de experiência. A mesma criatura só pode ser boostada de novo depois de 30 dias.
-
-### Tasks de caça (o Task Board)
-O **Task Board**, no cliente do jogo, dá dois tipos de task. Os dois te pagam por caçar o que você caçaria de qualquer jeito, então pegue tasks desde o começo.
-
-As **bounty tasks** pedem para matar uma quantidade de uma criatura, e pagam experiência e **Bounty Points**. Escolha criaturas de uma hunt de que você já gosta.
-
-| Task | Mortes | Bounty Points |
-|---|---|---|
-| Beginner | 50–100 | 3 |
-| Adept | 100–200 | 7 |
-| Expert | 200–400 | 16 |
-| Master | 300–600 | 27 |
-
-Às vezes uma task vem **Silver** (o dobro de experiência e de pontos) ou **Gold** (o quádruplo). Os pontos servem para melhorar o **Bounty Talisman**, que você compra de NPCs por 5.000 gold e usa no slot extra. As melhorias só valem contra a criatura da sua bounty task atual: mais dano contra ela (até 50%), life leech (até 50%), mais loot (até 50%) e chance de progresso dobrado no Bestiary (até 100%). Os pontos também pagam novas opções de task e servem para marcar criaturas que você quer ou não quer ver.
-
-As **weekly tasks** mudam toda segunda-feira: 6 tasks de matar e 6 de entrega (levar certos itens). Até o level 82, cada uma dá **meio level de experiência**, então terminar as 12 vale uns 6 levels por semana. Depois do level 82, cada uma dá umas 2.000 × o seu level. No fim da semana você também ganha Hunting Task Points, para outfits, montarias e outras recompensas na loja do Task Board.
-
-Os números das hunts deste guia não contam a criatura boostada, as tasks nem o talismã, então tudo isso é bônus.
+### Bônus extras
+Nada disso entra nas tabelas, então tudo vem por cima:
+- **A criatura boostada:** todo dia, no server save, uma criatura passa a dar o dobro de experiência e loot e a renascer duas vezes mais rápido. Ela aparece na tela de login. Se ela vive numa hunt do seu level, cace lá nesse dia.
+- **Bounty tasks** (Task Board): mate um número de uma criatura em troca de experiência e Bounty Points. Os pontos melhoram o **Bounty Talisman** (5.000 gold nos NPCs), que dá dano, life leech e loot contra a sua criatura de bounty atual. Escolha criaturas de uma hunt de que você já gosta.
+- **Weekly tasks** (Task Board): 6 tasks de matar e 6 de entrega toda segunda-feira. Até o level 82, cada uma dá meio level de experiência.
 
 ### Treine o seu magic level enquanto está offline
-O seu magic level decide o quanto as suas magias batem. Dá para treinar de graça enquanto você está deslogado:
+O seu magic level decide o quanto as suas magias batem. Use uma **Training Statue** (na escola de treino de toda cidade grande e em Targuna; depois, uma cama na sua casa), escolha **Magic Level + Shielding** e deslogue. O treino começa depois de 10 minutos e vai até 12 horas; o tempo volta conforme você joga. Um sorcerer novo ganha uns 7 ou 8 magic levels nas primeiras 12 horas (mais ou menos do 2 ao 9 ou 10). Caçar treina bem mais rápido, porque você gasta muita mana. É de graça, então faça toda vez que deslogar, desde o level 8.
 
-1. Vá até uma **estátua de treino** (Training Statue). Toda cidade grande tem estátuas na sua escola de treino, e Targuna também tem uma. Mais tarde, uma cama numa casa funciona do mesmo jeito.
-2. Use a estátua, escolha **Magic Level + Shielding** e deslogue. O treino começa depois de 10 minutos offline.
-3. Dá para treinar até **12 horas seguidas**. Esse tempo volta um segundo para cada segundo que você passa online, ou offline sem treinar.
-
-Vale a pena fazer isso **logo de cara, a partir do level 8**. O treino offline gasta mana como se você estivesse regenerando, então um sorcerer novo ganha uns 7 ou 8 magic levels nas primeiras 12 horas (mais ou menos do magic level 2 ao 9 ou 10). Os levels seguintes pedem mais mana cada um, então o ganho vai diminuindo, mas continua sem custar nada. Crie o hábito: sempre que for deslogar, use uma estátua de treino.
-
-Mais algumas coisas:
-- Caçar treina o magic level bem mais rápido, porque você gasta muita mana.
-- A recompensa diária às vezes dá training weapons de graça. Use-as no Exercise Dummy de qualquer escola de treino para ganhar um pouco mais de magic level.
-- Contas free treinam offline mais devagar e param no magic level 30.
-
-### Quests fáceis antes do level 20
-Nos levels baixos, algumas quests seguras dão tanta experiência quanto horas de hunt. A experiência das quests é fixa, então ela ajuda mais enquanto os seus skills ainda estão baixos. Juntas, a Targuna Quest e as três primeiras quests do continente aqui embaixo dão uns 28.000 de experiência, quase um terço do que é preciso para ir do level 8 ao 20.
-
-**Em Newhaven**, a ilha inicial. Faça antes de sair, porque não dá para voltar:
-- **[Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest):** 1.600 de experiência, um Guardian Ring e um Scarf (uns 15 minutos).
-- **[Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest):** um Legion Helmet (uns 5 minutos).
-
-**Em Targuna**, a ilha dos levels 8 a 20, a [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) tem três missões:
+### Levels 8 a 20: Targuna
+As tabelas começam no level 20, porque os primeiros levels rendem mais em **Targuna**, a ilha dos levels 8 a 20: as quests são seguras, o depot fica a poucos segundos das hunts e os monstros dropam poções que você vai usar depois. Treine offline por 12 horas antes e depois faça as três missões da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Junto com a caçada que você faz no caminho, elas te levam até mais ou menos o level 20.
 
 | Missão | Quem dá | Level | O que fazer | Recompensa |
 |---|---|---|---|---|
-| [An ancient enemy](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#An_ancient_enemy) | Lizzie | qualquer | Matar o Lizard Commander dois andares abaixo no Hidden Lizard Temple | 1.500 de experiência e 2 platinum coins |
-| [A long lost treasure](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#A_long_lost_treasure) | Sterling | 10 | Em Aragonia, matar 20 piratas e usar 10 ovos de tartaruga; levar o mapa da Morla de volta ao Sterling e cavar no lugar marcado (leve uma corda e uma pá) | 3.000 de experiência e uma Adventurer Backpack |
-| [Burning Heat](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#Burning_Heat) | Emiliana | 12 | Descer pela Crimson Court e derrotar o Herald of Fire | 5.000 de experiência e a montaria Reliable Ram (dê os nabos ao carneiro) |
+| [An ancient enemy](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#An_ancient_enemy) | Lizzie | qualquer | Mate o Lizard Commander dois andares abaixo no Hidden Lizard Temple | 1.500 de experiência, 2 platinum coins |
+| [A long lost treasure](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#A_long_lost_treasure) | Sterling | 10 | Em Aragonia, mate 20 piratas e use 10 tortoise eggs; leve o mapa da Morla ao Sterling e cave no lugar marcado (leve rope e shovel) | 3.000 de experiência e uma Adventurer Backpack |
+| [Burning Heat](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#Burning_Heat) | Emiliana | 12 | Desça pelo Crimson Court e vença o Herald of Fire | 5.000 de experiência e a montaria Reliable Ram (dê os nabos para o carneiro) |
 
-**No continente:**
-
-| Quest | Onde | Conta | Recompensa |
-|---|---|---|---|
-| [The Scatterbrained Sorcerer Quest](https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest) | Começa em Thais, com tarefas em Venore, Kazordoon, Ab'Dendriel e Carlin | Free | 10.650 de experiência e 5.350 gold |
-| [Jack to the Future Quest](https://tibia.fandom.com/wiki/Jack_to_the_Future_Quest) | Edron | Premium | 6.000 de experiência |
-| [Rottin Wood and the Married Men Quest](https://tibia.fandom.com/wiki/Rottin_Wood_and_the_Married_Men_Quest) | Outlaw Camp (melhor perto do level 20) | Free | 1.600 de experiência e 2.500 gold |
-| [Venore Daily Tasks](https://tibia.fandom.com/wiki/Venore_Daily_Tasks_Quest) (a partir do level 15) | Venore | Free | 1.000 de experiência e 1.000 gold todo dia |
-| [Loose Ends Quest](https://tibia.fandom.com/wiki/Loose_Ends_Quest) | Thais, Venore, Edron, Ankrahmun, Outlaw Camp | Premium | 500 de experiência só por conversar com os NPCs, e mais pelas quests deles |
-
-Cada nome leva à página da quest na TibiaWiki (em inglês), com o passo a passo.
+As hunts de Targuna continuam nas listas de 20–30, então fique até o level 20 a 25. Antes de sair de Newhaven, a ilha inicial, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest); não dá para voltar. No continente, a [The Scatterbrained Sorcerer Quest](https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest) (começa em Thais, 10.650 de experiência) é a melhor das primeiras.
 
 ### Promoção no level 20
-Até aqui você é um Sorcerer. No **level 20**, com conta premium, dá para comprar a sua **promoção** por 20.000 gold e virar um **Master Sorcerer**. O lugar mais fácil é com o King Tibianus III, no castelo de Thais; a Queen Eloise em Carlin, o Emperor Kruzak em Kazordoon, o Grand Vizier Ishebad em Ankrahmun, o Emperor Rehal em Beregar e o Rotem Valos na Adventurers' Guild também vendem.
+No **level 20**, com conta premium, compre a sua **promoção** por 20.000 gold e vire a **Master Sorcerer**. O lugar mais fácil é o King Tibianus III, no castelo de Thais; os governantes de Carlin, Kazordoon, Ankrahmun e Beregar e o Rotem Valos no Adventurers' Guild também vendem. Compre assim que tiver o gold: você perde 30% menos experiência e skill quando morre, regenera mais rápido, pode aprender magias só de promovidos e, a partir do level 51, ganha pontos da Wheel of Destiny (Seção 4). Ela fica pausada enquanto a premium estiver acabada.
 
-Vale comprar assim que tiver o gold:
-- Você perde 30% menos de experiência e skill quando morre.
-- Você regenera mais rápido.
-- Você pode aprender magias exclusivas de promovidos, ligar as stances elementais (Seção 1b), e a partir do level 51 ganha pontos da Wheel of Destiny (Seção 4).
-- Você ganha 100 Minor Charm Echoes para os charms menores (Seção 3).
-
-A promoção é permanente, mas fica pausada enquanto a sua conta premium estiver vencida.
-
-### Jogando com conta free
-Dá para começar no Tibia sem pagar. O sorcerer perde menos do que as outras vocações com conta free, porque **todas as magias da Seção 1 são free**: os strikes, as duas waves, `exura` e `exura gran`. Magic Shield e invisibilidade também são free. Os limites que importam:
-- **Sem promoção,** então você continua Sorcerer: sem stances e sem Wheel of Destiny.
-- **Só seis cidades:** Thais, Carlin, Venore, Ab'Dendriel, Kazordoon e Yalahar. Barcos, tapetes mágicos e steamships para lugares premium ficam fechados, então a maioria das ilhas fica de fora. Targuna e as suas três hunts são free.
-- **Sem o bônus de stamina** (os 50% a mais de experiência nas primeiras 3 horas).
-- **O treino offline** é mais lento e para no magic level 30.
-- **Menos ajudas depois:** 1 slot de prey em vez de 2, 2 charms em vez de 6, e só imbuements Basic (para os Intricate, você precisa de um Imbuement Scroll do Market).
-- **Muitas quests são premium.** A tabela de quests acima diz quais são free.
-
-A tabela abaixo mostra as melhores hunts que uma conta free pode usar em cada faixa: numa cidade free, só com monstros de áreas free, e sem barco, tartaruga ou quest premium no caminho. Elas são escolhidas do mesmo jeito que as listas da Seção 1, mas comparadas só com outras hunts free. A Poacher Caves e a Forsaken Mine mudam todo dia no server save, então confira quais monstros estão lá antes de ir.
-
-| Level | Bom para XP | Bom para lucro |
-|---|---|---|
-| 8–20 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 A1, ~13k XP/h, ~8k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 A1, ~12k XP/h, ~16k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P1 A1, ~12k XP/h, ~10k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~6k XP/h, ~45k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 A0, ~4k XP/h, ~19k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 A1, ~12k XP/h, ~16k loot/h |
-| 20–30 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 A1, ~20k XP/h, ~25k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P1 A1, ~19k XP/h, ~16k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 A1, ~18k XP/h, ~11k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~9k XP/h, ~70k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 A0, ~7k XP/h, ~30k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P1 A1, ~20k XP/h, ~25k loot/h |
-| 30–40 | [Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2): P1 A1, ~15k XP/h, ~25k loot/h<br>[Orc Peninsula](https://tibiamaps.io/map#32324,32039,7:2): P1 A1, ~12k XP/h, ~4k loot/h<br>[Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2): P1 A1, ~12k XP/h, ~30k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~11k XP/h, ~85k loot/h<br>[Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2): P1 A1, ~12k XP/h, ~40k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 A1, ~12k XP/h, ~40k loot/h |
-| 40–50 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~45k XP/h, ~105k loot/h<br>[Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2): P1 A1, ~35k XP/h, ~12k loot/h<br>[Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2): P1 A1, ~30k XP/h, ~45k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~13k XP/h, ~105k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~45k XP/h, ~105k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 A1, ~25k XP/h, ~80k loot/h |
-| 50–60 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~55k XP/h, ~125k loot/h<br>[Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2): P1 A1, ~45k XP/h, ~15k loot/h<br>[Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2): P1 A1, ~30k XP/h, ~80k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~55k XP/h, ~125k loot/h<br>[Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 A0, ~13k XP/h, ~105k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 A1, ~30k XP/h, ~95k loot/h |
-| 60–70 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~65k XP/h, ~145k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~60k XP/h, ~125k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~60k XP/h, ~125k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 A1, ~60k XP/h, ~145k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~60k XP/h, ~125k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~60k XP/h, ~125k loot/h |
-| 70–80 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~75k XP/h, ~175k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~75k XP/h, ~145k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~75k XP/h, ~145k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~75k XP/h, ~175k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~75k XP/h, ~145k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~75k XP/h, ~145k loot/h |
-| 80–90 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~80k XP/h, ~190k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~80k XP/h, ~160k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~80k XP/h, ~165k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~80k XP/h, ~190k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~80k XP/h, ~165k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~80k XP/h, ~160k loot/h |
-| 90–100 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~90k XP/h, ~205k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~90k XP/h, ~175k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~90k XP/h, ~180k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~90k XP/h, ~205k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~90k XP/h, ~180k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~90k XP/h, ~175k loot/h |
-| 100–110 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~95k XP/h, ~190k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~95k XP/h, ~195k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~95k XP/h, ~220k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~95k XP/h, ~220k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~95k XP/h, ~195k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~95k XP/h, ~190k loot/h |
-| 110–120 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~100k XP/h, ~205k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~100k XP/h, ~205k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~100k XP/h, ~235k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~100k XP/h, ~235k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~100k XP/h, ~205k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~100k XP/h, ~205k loot/h |
-| 120–130 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~110k XP/h, ~215k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~110k XP/h, ~215k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~105k XP/h, ~245k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~105k XP/h, ~245k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~110k XP/h, ~215k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~110k XP/h, ~215k loot/h |
-| 130–140 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~110k XP/h, ~260k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~110k XP/h, ~215k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~110k XP/h, ~260k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 A1, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 A1, ~110k XP/h, ~215k loot/h |
-| 140–150 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~115k XP/h, ~270k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~110k XP/h, ~120k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~115k XP/h, ~270k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 150–160 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~120k XP/h, ~280k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~115k XP/h, ~125k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~120k XP/h, ~280k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 160–170 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~125k XP/h, ~290k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~120k XP/h, ~125k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~125k XP/h, ~290k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 170–180 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~130k XP/h, ~300k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~120k XP/h, ~130k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~130k XP/h, ~300k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 180–190 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~135k XP/h, ~310k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~125k XP/h, ~135k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~135k XP/h, ~310k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 190–200 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~135k XP/h, ~320k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~130k XP/h, ~140k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~135k XP/h, ~320k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
-| 200+ | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~140k XP/h, ~330k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 A1, ~135k XP/h, ~145k loot/h<br>[Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): P1 A1, ~110k XP/h, ~110k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 A0, ~140k XP/h, ~330k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 A0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 A0, ~110k XP/h, ~215k loot/h |
+### Magias para aprender depois
+As tabelas usam só o básico, mas algumas magias deixam a caçada mais tranquila quando você se acostuma:
+- **Magic Shield** (`utamo vita`, level 14, 50 de mana) é a mais importante. Por 3 minutos, o dano vai para a sua mana em vez da vida, até 7 × magic level + 7,6 × level + 300: uns 960 no level 50 com magic level 40, mais que o dobro da sua vida. Ele gasta poções de mana, então solte de novo assim que quebrar.
+- **Runas:** Great Fireball (level 30) e Thunderstorm (level 28) acertam um círculo grande onde você mirar, bom para grupos que não dá para alinhar numa wave; Sudden Death (level 45) acerta um monstro com força. Cada runa usada custa gold.
+- **Magias grandes em área** (premium): `exevo gran mas vis` (level 55) e `exevo gran mas flam` (level 60) acertam uma área enorme em volta uma vez a cada 40 segundos, e o `exevo max mort` (level 66) acerta uma linha longa.
+- **`utani hur`** (level 14) te deixa 30% mais rápido, a sua melhor ferramenta para kitar, e uma runa de **Magic Wall** (level 32) fecha um corredor por uns 20 segundos.
+- **Aura of Sapped Strength** (stance, level 175): todo monstro que você acerta causa 10% menos dano.
+- **Itens de emergência:** leve uma **Stone Skin Amulet** (80% menos dano físico e de morte por 5 golpes) ou um **Might Ring** (20% menos dano por 20 golpes) na mochila e coloque quando um pull der errado. Cada um custa uns 10–19k no Market.
 
 ### Lendo as tabelas de hunts
 - **Hunt:** o nome leva à entrada no mapa do tibiamaps.io. ✓ quer dizer que a hunt foi testada naquele level.
 - **Preparo e Atenção:** as notas de conforto, de 0 a 3.
 - **XP/h e Loot/h:** experiência e gold estimados por hora para o sorcerer típico no level mais baixo da faixa, sem bônus e antes de pagar as poções. As hunts testadas mostram resultados reais.
-- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega. Um trajeto curto deixa a hunt mais confortável: mais do seu tempo vai para caçar, reabastecer e vender é rápido, e sair quando algo dá errado é fácil. Uma mount deixa cada trajeto um pouco mais rápido: ela soma 10 de speed, uns 5–8% a mais de velocidade andando. A mais fácil é o Reliable Ram, da quest Burning Heat em Targuna (veja Quests fáceis antes do level 20); andar montado precisa de conta premium.
-- **Notas:** a tag (XP, lucro ou os dois), resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
+- **Depot:** o depot mais perto, quantos quadrados você anda dele até a entrada e quanto tempo isso leva, mais ou menos. Para ilhas e áreas escondidas, mostra cada etapa: a caminhada até o barco (ou teleporte), a viagem e a caminhada de onde você chega. Um trajeto curto deixa a hunt mais confortável: mais do seu tempo vai para caçar, reabastecer e vender é rápido, e sair quando algo dá errado é fácil. Uma mount deixa cada trajeto um pouco mais rápido: ela soma 10 de speed, uns 5–8% a mais de velocidade andando. A mais fácil é o Reliable Ram, da quest Burning Heat em Targuna; andar montado precisa de conta premium.
+- **Notas:** resultados de testes, como conseguir acesso, **Cuidado** (o que deixa a hunt menos confortável) e **Vende bem** (o drop mais valioso dela).
 
 Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts da faixa exigem (faça uma vez e essas hunts se abrem), e **Vale a pena** aponta a quest rara cuja experiência compensa a viagem.
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média da sua lista **Bom para XP**. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
-
-#### Level 8–20 (~4,6 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 10, Wand of Vortex.
-
-**Libere antes:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, a partir do level 12, para Crimson Court (Targuna)).
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~13k | ~8k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 11 horas, fora do Loot/h. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 27% da vida. Vende bem: Infernoid Ember |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~12k | ~10k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~4k | ~19k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 
 #### Level 20–30 (~9,5 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 18, Wand of Decay.
@@ -685,7 +556,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 ## Seção 1a: Invisibilidade
-A partir do level 35 você pode usar **`utana vid`** (440 de mana, conta free), que te deixa invisível por 3 minutos e 20 segundos. Muitos monstros não enxergam jogadores invisíveis, então simplesmente te ignoram. Jogadores contam que esses monstros não te atacam nem chamam ajuda, mesmo enquanto você bate neles. Cyclops, forest furies, gloom wolves, amazons e barbarians são alguns deles. Monstros mais fortes, como dragons e dwarf guards, enxergam jogadores invisíveis e te atacam normalmente.
+A partir do level 35 você pode usar **`utana vid`** (440 de mana), que te deixa invisível por 3 minutos e 20 segundos. Muitos monstros não enxergam jogadores invisíveis, então simplesmente te ignoram. Jogadores contam que esses monstros não te atacam nem chamam ajuda, mesmo enquanto você bate neles. Cyclops, forest furies, gloom wolves, amazons e barbarians são alguns deles. Monstros mais fortes, como dragons e dwarf guards, enxergam jogadores invisíveis e te atacam normalmente.
 
 Antes do level 35, um **Stealth Ring** faz o mesmo por 10 minutos. Ele custa uns 800–1.500 gold no Market, dependendo do mundo.
 
@@ -717,24 +588,6 @@ Fique longe dos monstros da última coluna.
 Como na Seção 2, estas tabelas dão as notas das hunts com a invisibilidade e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total, ou que a Seção 1 deixa de fora. As notas mostram a mudança, por exemplo "2 → **0**". Um traço ("– → 0") quer dizer que a hunt nem aparece na Seção 1, porque sem invisibilidade ela é chata demais. "Não te veem" lista os principais monstros que vão te ignorar; "Ainda" mostra o mais forte que ainda consegue te bater.
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar.
-
-#### Level 8–20 com invisibilidade (~4,6 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~8k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 11 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~12k | ~16k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~10k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **0** | 3 → **0** | ~4k | ~60k | Kazordoon 137 / ~35 s | Antes do que a TibiaWiki sugere (level 30). Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~6k | ~25k | Edron 135 / ~34 s | Antes do que a TibiaWiki sugere (level 20). Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
-| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **0** | ~5k | ~18k | Carlin 126 / ~32 s | Não te veem: Amazon, Valkyrie, Wasp, Wolf. Vende bem: Protective Charm |
 
 #### Level 20–30 com invisibilidade (~9,5 horas até a próxima faixa)
 
@@ -1078,817 +931,20 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
 
-## Seção 1b: Mais magias
-A Seção 1 usa só um strike, uma wave e as magias `exura` de propósito: cada magia extra é mais um botão para ficar de olho durante a hunt. Mas algumas delas deixam a hunt mais tranquila depois que você se acostuma com o básico.
-
-### Magic Shield
-**`utamo vita`** (level 14, 50 de mana, conta free) faz o dano bater na sua mana em vez da vida por 3 minutos, até o escudo absorver uma quantidade fixa: 7 × magic level + 7,6 × level + 300. No level 50 com magic level 40 isso dá uns 960, mais do que o dobro dos seus 395 de HP. No level 134 com magic level 80, dá uns 1.880.
-
-Cada ponto de dano que o escudo absorve custa um ponto de mana, então você vai tomar mais poção de mana. Solte de novo assim que ele quebrar ou acabar. As tabelas abaixo mostram as hunts em que o escudo baixa as notas.
-
-### Runas
-Runas são magias guardadas num item, então qualquer vocação pode usar, e você compra de NPCs (ou faz você mesmo).
-- **Great Fireball** (level 30, magic level 4, 64 gold cada) acerta um círculo grande em qualquer ponto que você escolher. É o melhor jeito de acertar um grupo que você não consegue alinhar para uma wave.
-- **Thunderstorm** (level 28) faz o mesmo com energia, para monstros que resistem a fogo.
-- **Sudden Death** (level 45) acerta um monstro só, com muita força, com dano de morte.
-
-Runas são gasto: cada uma que você usa custa gold.
-
-**Itens de emergência:** um **Stone Skin Amulet** tira 80% do dano físico e de morte por 5 golpes, e um **Might Ring** tira 20% de todo dano por 20 golpes. Cada um custa uns 10–19k no Market, caro demais para usar sempre, então deixe um na backpack e coloque quando um grupo sair do controle.
-
-### Ataques maiores
-Todas estas precisam de conta premium.
-- **`exevo gran mas vis`** (Rage of the Skies, level 55, 600 de mana) e **`exevo gran mas flam`** (Hell's Core, level 60, 1.100 de mana) acertam uma área enorme em volta de você, mas só a cada 40 segundos. Guarde para grupos grandes.
-- **`exevo max mort`** (Great Death Beam, level 66, 140 de mana) acerta tudo numa linha comprida.
-- **`exori amp vis`** (Lightning, level 55, 60 de mana) acerta um monstro a até 7 quadrados e pula para mais 2.
-- **`exori gran vis`** (level 80) e **`exori max vis`** (level 100) são strikes bem mais fortes, com alcance de 7 quadrados. Também existem versões de fogo.
-
-**Stances:** depois da promoção você pode ligar uma stance elemental: Master of Flames (magias de fogo batem 4% mais forte), Master of Thunder (mais críticos com energia) ou Master of Decay (críticos maiores com morte). A partir do level 175 você ganha também uma segunda stance; a escolha do conforto é a **Aura of Sapped Strength**: todo monstro que você acerta causa 10% menos dano.
-
-**Familiar:** a partir do level 200, `utevo gran res ven` (premium, 3.000 de mana) invoca um familiar forte que luta do seu lado por 15 minutos. Dá para usar uma vez a cada 30 minutos.
-
-### Movimento
-- **`utani hur`** (level 14, 60 de mana) te deixa 30% mais rápido por 30 segundos e tira a paralisia. É a sua melhor ferramenta para kitar: mais rápido que os monstros, você nunca é pego.
-
-### Bloqueando monstros
-Coisas no chão podem impedir que os monstros cheguem em você enquanto você kita:
-- **Boxes e crates** (10 gold com NPCs na maioria das cidades) bloqueiam um quadrado para os monstros que não empurram objetos. Só os fracos não empurram, como trolls, orcs, rotworms, dwarves e minotaurs (a página deles na TibiaWiki diz "Pushes: no"). A partir do level 30, mais ou menos, a maioria dos monstros só empurra para o lado.
-- **Magic Wall** (runa, level 32, magic level 9, uns 116 gold) levanta uma parede por uns 20 segundos que nenhum monstro atravessa. Ela bloqueia magias e tiros também, inclusive os seus. Use para fechar um corredor atrás de você ou para dividir um grupo.
-
-### Lendo as tabelas da Seção 1b
-Estas tabelas dão as notas das hunts da Seção 1 com o Magic Shield e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Os números de XP e loot são as estimativas da Seção 1. As poções de mana a mais para o escudo não entram na conta.
-
-#### Level 20–30 com Magic Shield (~8,3 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 3 → **1** | 3 → **1** | ~25k | ~12k | Antes do que a TibiaWiki sugere (level 200) |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 3 → **1** | 3 → **1** | ~20k | ~14k | Antes do que a TibiaWiki sugere (level 120) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~9k | ~70k |  |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **0** | 2 → **0** | ~11k | ~45k | Antes do que a TibiaWiki sugere (level 30). Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~9k | ~45k | Antes do que a TibiaWiki sugere (level 30) |
-
-#### Level 30–40 com Magic Shield (~14 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 3 → **1** | 3 → **1** | ~35k | ~17k | Antes do que a TibiaWiki sugere (level 200) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 3 → **1** | 3 → **1** | ~30k | ~19k | Antes do que a TibiaWiki sugere (level 120) |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 3 → **1** | 3 → **1** | ~25k | ~10k | Antes do que a TibiaWiki sugere (level 100) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k |  |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **0** | 2 → **0** | ~15k | ~60k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~12k | ~55k |  |
-
-#### Level 40–50 com Magic Shield (~11 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 3 → **1** | 3 → **1** | ~90k | ~40k | Antes do que a TibiaWiki sugere (level 200) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 3 → **1** | 3 → **1** | ~75k | ~50k | Antes do que a TibiaWiki sugere (level 120) |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 3 → **1** | 3 → **1** | ~65k | ~25k | Antes do que a TibiaWiki sugere (level 100) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **0** | 2 → **0** | ~35k | ~130k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~120k |  |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~45k | ~110k |  |
-
-#### Level 50–60 com Magic Shield (~15 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 3 → **1** | 3 → **1** | ~110k | ~50k | Antes do que a TibiaWiki sugere (level 200) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 3 → **1** | 3 → **1** | ~90k | ~60k | Antes do que a TibiaWiki sugere (level 120) |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~85k | ~13k | Antes do que a TibiaWiki sugere (level 250). Mais um raro Stone Skin Amulet (~13k) cerca de uma vez a cada 5 horas, fora do Loot/h |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 2 → **0** | ~40k | ~150k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 → **0** | 0 → **0** | ~30k | ~135k |  |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~55k | ~135k |  |
-
-#### Level 60–70 com Magic Shield (~18 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 3 → **1** | 3 → **1** | ~115k | ~55k | Antes do que a TibiaWiki sugere (level 130). Ainda: monstros invisíveis |
-| [Lycanthrope Grounds](https://tibiamaps.io/map#33186,31915,7:2) | 3 → **1** | 3 → **1** | ~115k | ~55k | Antes do que a TibiaWiki sugere (level 130). Ainda: monstros invisíveis |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **0** | ~100k | ~70k | Antes do que a TibiaWiki sugere (level 120) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 2 → **0** | ~45k | ~170k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~65k | ~155k |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 → **0** | 0 → **0** | ~30k | ~145k |  |
-
-#### Level 70–80 com Magic Shield (~23 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **0** | ~115k | ~80k | Antes do que a TibiaWiki sugere (level 120) |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~115k | ~17k | Antes do que a TibiaWiki sugere (level 250). Mais um raro Stone Skin Amulet (~13k) cerca de uma vez a cada 4 horas, fora do Loot/h |
-| [Oramond Dungeon](https://tibiamaps.io/map#33467,31778,8:2) | 0 → **0** | 2 → **0** | ~110k | ~18k | Antes do que a TibiaWiki sugere (level 250). Ainda: monstros que invocam, evite Hellhound (bate metade da sua vida) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 2 → **0** | ~50k | ~190k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~75k | ~180k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~75k | ~175k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-
-#### Level 80–90 com Magic Shield (~27 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **0** | ~130k | ~90k | Antes do que a TibiaWiki sugere (level 120) |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~125k | ~19k | Antes do que a TibiaWiki sugere (level 250). Mais um raro Stone Skin Amulet (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h |
-| [Oramond Dungeon](https://tibiamaps.io/map#33467,31778,8:2) | 0 → **0** | 2 → **0** | ~125k | ~20k | Antes do que a TibiaWiki sugere (level 250). Ainda: monstros que invocam, evite Hellhound (bate metade da sua vida) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~80k | ~195k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~80k | ~190k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 2 → **0** | ~50k | ~190k | Ainda: evite Haunted Treeling (bate metade da sua vida) |
-
-#### Level 90–100 com Magic Shield (~30 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~155k | ~50k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~145k | ~105k | Antes do que a TibiaWiki sugere (level 120) |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 3 → **1** | 3 → **1** | ~135k | ~95k | Antes do que a TibiaWiki sugere (level 120) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~90k | ~215k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~90k | ~205k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
-
-#### Level 100–110 com Magic Shield (~35 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~165k | ~50k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **0** | ~150k | ~105k | Antes do que a TibiaWiki sugere (level 120) |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~145k | ~25k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~95k | ~230k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~95k | ~220k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~195k |  |
-
-#### Level 110–120 com Magic Shield (~40 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~170k | ~55k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **0** | ~160k | ~110k | Antes do que a TibiaWiki sugere (level 120) |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~155k | ~30k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~100k | ~235k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k |  |
-
-#### Level 120–130 com Magic Shield (~44 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~180k | ~55k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~165k | ~115k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 3 → **1** | 3 → **1** | ~165k | ~30k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~105k | ~245k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-
-#### Level 130–140 com Magic Shield (~51 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~180k | ~75k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~175k | ~125k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **0** | ~170k | ~30k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~110k | ~260k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k |  |
-
-#### Level 140–150 com Magic Shield (~56 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~185k | ~80k | Antes do que a TibiaWiki sugere (level 150) |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~185k | ~130k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **0** | ~180k | ~30k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~115k | ~270k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 150–160 com Magic Shield (~62 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~190k | ~80k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~190k | ~135k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **0** | ~185k | ~35k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~120k | ~280k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 160–170 com Magic Shield (~68 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~200k | ~85k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~195k | ~140k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **0** | ~190k | ~35k | Antes do que a TibiaWiki sugere (level 250) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~125k | ~290k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 170–180 com Magic Shield (~71 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~220k | ~105k | Ainda: evite Massive Water Elemental (bate metade da sua vida) |
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~205k | ~85k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~205k | ~145k |  |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~130k | ~300k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 180–190 com Magic Shield (~77 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~230k | ~110k | Ainda: evite Massive Water Elemental (bate metade da sua vida) |
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~215k | ~90k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~210k | ~150k |  |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~135k | ~310k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 190–200 com Magic Shield (~83 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~235k | ~110k | Ainda: evite Massive Water Elemental (bate metade da sua vida) |
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~220k | ~90k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~215k | ~150k |  |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~135k | ~320k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-#### Level 200+ com Magic Shield
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 2 → **0** | 3 → **0** | ~240k | ~115k | Ainda: evite Massive Water Elemental (bate metade da sua vida) |
-| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 3 → **1** | 3 → **1** | ~225k | ~95k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~225k | ~155k |  |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~140k | ~330k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
-
-## Seção 1c: Skinning e dusting
-Alguns monstros deixam algo a mais se você usar a ferramenta certa no corpo deles: os dragons dão couro, os vampires dão pó. Na maioria das vezes não sai nada, mas alguns desses produtos valem milhares de gold no Market, então nas hunts certas eles podem dobrar o seu loot. Custa um clique a mais por monstro morto e não deixa nenhuma hunt mais segura, então esta seção lista só as hunts onde esse clique paga bem.
-
-### As ferramentas
-- **Obsidian Knife**, para fazer skinning em dragons, dragon lords e behemoths. A [Obsidian Knife Quest](https://tibia.fandom.com/wiki/Obsidian_Knife_Quest) funciona em conta free e custa uns 4,5k: leve um Dragon Shield para o A Sweaty Cyclops em Ab'Dendriel, que o transforma num Piece of Draconian Steel, e depois leve o steel e uma Obsidian Lance para o Uzgod em Kazordoon, que faz a knife. No Market ela custa uns 20–35k.
-- **Blessed Wooden Stake**, para fazer dusting em vampires e demons. A [The Blessed Stake Quest](https://tibia.fandom.com/wiki/The_Blessed_Stake_Quest) precisa de conta premium e leva de 20 a 30 minutos: compre uma wooden stake do Gamon em Thais por 5.000 gold e leve aos sacerdotes de várias cidades para receber a bênção deles (leve uns 1.100 gold para barcos e tapetes). No Market ela custa 50k ou mais.
-
-As duas ferramentas duram para sempre, então você só precisa de uma de cada.
-
-### Como usar
-1. **Solte `utana vid` antes de entrar no spawn.** Fique de olho no tempo e solte de novo antes de acabar. Se acabar no meio de um grupo, todos te atacam de uma vez.
-2. **Vá até os monstros.** Monstros que não te veem não te seguem, então não dá para juntar um grupo. Chegue perto deles e ataque. As waves continuam acertando todos os monstros na sua frente.
-3. **Teste com um monstro primeiro** na primeira vez, para ter certeza de que ele realmente te ignora.
-4. Você não consegue deslogar na hora enquanto esses monstros estiverem na sua tela, mesmo invisível.
-
-### Quais monstros valem a pena
-
-| Monstro | Ferramenta | Sucesso | Produto, preço no Market | Gold extra por monstro |
-|---|---|---|---|---|
-| Dragon | Knife | 4% | Green Dragon Leather, ~16k | ~670 |
-| Behemoth | Knife | 9% | Perfect Behemoth Fang, ~3,4k | ~320 |
-| Vampire, Vampire Bride, Vampire Viscount | Stake | 5% | Vampire Dust, ~5,6k | ~280 |
-| Demon | Stake | 10% | Demon Dust, ~2,5k | ~240 |
-| Dragon Lord | Knife | 8% | Red Dragon Leather, ~2,2k | ~170 |
-
-- **Os preços mudam muito entre mundos.** A Green Dragon Leather vale uns 6k em alguns mundos e 18k em outros, então olhe o Market do seu mundo antes.
-- **A sorte conta.** Com 4% de chance, uma dragon lair dá umas 4 a 6 leathers por hora, e algumas horas não dão nenhuma.
-- **Não vale a pena:** minotaurs, lizards e bonebeasts também aceitam skinning, mas os produtos deles valem menos de 100 gold.
-- **Depois:** o charm Scavenge (Seção 3) aumenta a chance de sucesso em um tipo de monstro em 60%, 90% ou 120%, conforme o nível dele. Nos dragons ele se paga.
-
-### Lendo as tabelas da Seção 1c
-Estas tabelas listam as hunts da Seção 1 onde o skinning ou o dusting somam pelo menos 10% ao loot, as 3 melhores para XP e as 3 melhores para lucro (contando o skinning) por faixa. As notas não mudam. A coluna de loot mostra a mudança, por exemplo "~40k → **~120k**". Ela conta os monstros com skinning que você mata, a chance de sucesso pelas estatísticas da TibiaWiki e o preço do produto no Market (o preço do meio em três mundos grandes, novembro de 2026). "Knife" e "Stake" dizem em quais monstros usar cada ferramenta. Faixas sem tabela não têm nenhuma hunt onde isso some o bastante.
-
-#### Level 8–20 com skinning (~8,1 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 2 | 2 | ~7k | ~6k → **~7k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ancient Ruins Tomb](https://tibiamaps.io/map#33207,32592,7:2) | 2 | 2 | ~7k | ~5k → **~6k** | Ankrahmun 326 / ~1,4 min | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 2 | 2 | ~7k | ~6k → **~7k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 2 | 2 | ~7k | ~6k → **~7k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 2 | 2 | ~7k | ~6k → **~7k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Mountain Tomb](https://tibiamaps.io/map#33132,32568,7:2) | 2 | 2 | ~7k | ~5k → **~6k** | Ankrahmun 287 / ~1,2 min | Antes do que a TibiaWiki sugere (level 50). Stake: Vampire |
-
-#### Level 20–30 com skinning (~16 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ancient Ruins Tomb](https://tibiamaps.io/map#33207,32592,7:2) | 1 | 2 | ~12k | ~9k → **~10k** | Ankrahmun 326 / ~1,4 min | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 1 | 2 | ~11k | ~10k → **~11k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~11k | ~10k → **~12k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 2 | 2 | ~11k | ~10k → **~12k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~11k | ~10k → **~12k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 1 | 2 | ~11k | ~10k → **~11k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-#### Level 30–40 com skinning (~27 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ancient Ruins Tomb](https://tibiamaps.io/map#33207,32592,7:2) | 1 | 2 | ~16k | ~13k → **~15k** | Ankrahmun 326 / ~1,4 min | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 1 | 2 | ~16k | ~14k → **~16k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 2 | 2 | ~15k | ~14k → **~17k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 2 | 2 | ~15k | ~14k → **~17k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~15k | ~14k → **~16k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 1 | 2 | ~16k | ~14k → **~16k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-#### Level 40–50 com skinning (~23 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 2 | 2 | ~35k | ~11k → **~12k** | Edron 237 / ~1,0 min | Knife: Dragon |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~35k | ~30k → **~35k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 2 | 2 | ~35k | ~35k → **~40k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 | 2 | ~30k | ~35k → **~40k** | não calculado | Knife: Dragon |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 2 | 2 | ~35k | ~35k → **~40k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~35k | ~30k → **~35k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-#### Level 50–60 com skinning (~32 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 2 | 2 | ~45k | ~13k → **~15k** | Edron 237 / ~1,0 min | Knife: Dragon |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~45k | ~35k → **~45k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~45k | ~40k → **~45k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 | 2 | ~35k | ~40k → **~45k** | não calculado | Knife: Dragon |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~45k | ~40k → **~45k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) | 1 | 2 | ~40k | ~35k → **~45k** | Ankrahmun 154 / ~38 s | Antes do que a TibiaWiki sugere (level 80). Knife: Dragon. Stake: Vampire |
-
-#### Level 60–70 com skinning (~40 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 2 | 2 | ~50k | ~15k → **~17k** | Edron 237 / ~1,0 min | Knife: Dragon |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~50k | ~45k → **~50k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 1 | 2 | ~50k | ~40k → **~50k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~50k | ~45k → **~50k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 | 2 | ~40k | ~45k → **~50k** | não calculado | Knife: Dragon |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~50k | ~35k → **~50k** | Yalahar 137 / ~34 s | Knife: Dragon |
-
-#### Level 70–80 com skinning (~46 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 2 | ~60k | ~17k → **~20k** | Edron 237 / ~1,0 min | Knife: Dragon |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~60k | ~55k → **~60k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 0 | 2 | ~55k | ~50k → **~55k** | Ankrahmun 21 / ~5 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~60k | ~55k → **~60k** | Ankrahmun 215 / ~54 s | Antes do que a TibiaWiki sugere (level 80). Stake: Vampire |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~55k | ~45k → **~60k** | Yalahar 137 / ~34 s | Knife: Dragon |
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 1 | 2 | ~45k | ~55k → **~60k** | não calculado | Knife: Dragon |
-
-#### Level 80–90 com skinning (~53 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 2 | ~70k | ~19k → **~20k** | Edron 237 / ~1,0 min | Knife: Dragon, Dragon Lord |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~65k | ~60k → **~70k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 0 | 2 | ~65k | ~55k → **~60k** | Ankrahmun 21 / ~5 s | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~65k | ~60k → **~70k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~60k | ~50k → **~65k** | Yalahar 137 / ~34 s | Knife: Dragon |
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 1 | 2 | ~55k | ~55k → **~65k** | não calculado | Knife: Dragon, Dragon Lord |
-
-#### Level 90–100 com skinning (~54 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 2 | 2 | ~95k | ~40k → **~70k** | não calculado | Stake: Vampire |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 2 | ~75k | ~20k → **~25k** | Edron 237 / ~1,0 min | Knife: Dragon, Dragon Lord |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~70k | ~65k → **~75k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 | 2 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~70k | ~65k → **~75k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~65k | ~55k → **~75k** | Yalahar 137 / ~34 s | Knife: Dragon |
-
-#### Level 100–110 com skinning (~62 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 2 | 2 | ~105k | ~40k → **~75k** | não calculado | Stake: Vampire |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 2 | ~80k | ~25k → **~25k** | Edron 237 / ~1,0 min | Knife: Dragon, Dragon Lord |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~75k | ~60k → **~80k** | Yalahar 137 / ~34 s | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~75k | ~70k → **~80k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~75k | ~60k → **~80k** | Yalahar 137 / ~34 s | Knife: Dragon |
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 | 2 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-
-#### Level 110–120 com skinning (~70 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 2 | 2 | ~110k | ~45k → **~80k** | não calculado | Stake: Vampire |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 2 | ~85k | ~25k → **~30k** | Edron 237 / ~1,0 min | Knife: Dragon, Dragon Lord |
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~80k | ~65k → **~85k** | Yalahar 137 / ~34 s | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 1 | 2 | ~80k | ~65k → **~85k** | Yalahar 137 / ~34 s | Knife: Dragon |
-| [Oasis Tomb](https://tibiamaps.io/map#33132,32641,7:2) | 1 | 2 | ~75k | ~70k → **~80k** | Ankrahmun 215 / ~54 s | Stake: Vampire |
-| [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 2 | 2 | ~110k | ~45k → **~80k** | não calculado | Stake: Vampire |
-
-#### Level 120–130 com skinning (~203 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-#### Level 130–140 com skinning (~237 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-#### Level 140–150 com skinning (~274 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-#### Level 150–160 com skinning (~314 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-#### Level 160–170 com skinning (~356 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Elvenbane](https://tibiamaps.io/map#32590,31645,7:2) | 0 | 1 | ~25k | ~17k → **~19k** | Ab'Dendriel 136 / ~34 s | Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 4 horas, fora do Loot/h. Knife: Dragon |
-| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 0 | 1 | ~25k | ~16k → **~19k** | Carlin 241 / ~1,0 min | Knife: Dragon |
-
-#### Level 170–180 com skinning (~268 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-
-#### Level 180–190 com skinning (~300 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-
-#### Level 190–200 com skinning (~334 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-
-#### Level 200+ com skinning
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | não calculado | Stake: Vampire |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1,0 min | Stake: Vampire |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 0 | 0 | ~60k | ~25k → **~35k** | Thais 221 / ~55 s | Mais um raro Green Dragon Leather (~16k) cerca de uma vez a cada 5 horas, fora do Loot/h. Knife: Dragon |
-
-## Seção 1d: Hunts atrás de quests
+## Seção 1b: Hunts atrás de quests
 As outras seções deixam de fora toda hunt que exige uma quest antes, porque quests tomam tempo e muitos jogadores acham isso chato. Duas não contam: a Targuna Quest, que todo mundo faz na ilha, e começar a The New Frontier Quest, que é só conversar com o Ongulf. Esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. Quando a Seção 1a facilita alguma delas, a nota avisa.
 
 ### Quests de acesso
-As quests que essas hunts pedem, na ordem em que você vai precisar delas pela primeira vez, para você fazer cada uma quando estiver por perto. **Parte necessária** é o quanto da quest abre a hunt: quase nunca é preciso fazer a quest inteira. Os nomes das quests levam à TibiaWiki, com o passo a passo. A linha **Libere antes** de cada faixa repete as que as hunts daquela faixa pedem.
+As quests que essas hunts pedem, na ordem em que você vai precisar delas pela primeira vez, para você fazer cada uma quando estiver por perto. **Parte necessária** é o quanto da quest abre a hunt: quase nunca é preciso fazer a quest inteira. Os nomes das quests levam à TibiaWiki, com o passo a passo. A linha **Libere antes** de cada faixa mostra as quests que aquela faixa acrescenta.
 
 | Quest | Parte necessária: hunts que abre | Primeira faixa | Premium | Onde |
 |---|---|---|---|---|
-| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | exigida antes da Ice Islands Quest, a TibiaWiki sugere level 25 para a quest: Nibelor<br>para o barco do Buddel, a TibiaWiki sugere level 25 para a quest: Hrodmir Stone Golem Caves, Tyrsung<br>para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, a TibiaWiki sugere level 25 para a quest: Bittermor barbarians, Ragnir barbarians | 8–20 | sim | Svargrond |
-| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | a TibiaWiki sugere level 61 para a quest: Sea Serpent Area | 8–20 | sim | Sea Serpent Area |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão: Nibelor<br>missão "Nibelor 2" iniciada, a TibiaWiki sugere level 130+ para a quest: Tyrsung | 8–20 | sim | Svargrond |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold: Meriana Gargoyle Cave<br>parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina: Laguna Islands, Blood Crabs | 8–20 | sim | Liberty Bay |
-| [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | a TibiaWiki sugere level 100 para a quest: Seacrest Grounds | 8–20 | sim | Seacrest Grounds |
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | para o barco do Buddel, a TibiaWiki sugere level 25 para a quest: Hrodmir Stone Golem Caves, Tyrsung<br>exigida antes da Ice Islands Quest, a TibiaWiki sugere level 25 para a quest: Nibelor<br>para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, a TibiaWiki sugere level 25 para a quest: Bittermor barbarians, Ragnir barbarians | 20–30 | sim | Svargrond |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão: Nibelor<br>missão "Nibelor 2" iniciada, a TibiaWiki sugere level 130+ para a quest: Tyrsung | 20–30 | sim | Svargrond |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold: Meriana Gargoyle Cave<br>parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina: Laguna Islands, Blood Crabs | 20–30 | sim | Liberty Bay |
 | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | abre as portas da mina: Corym Mines (Venore) | 90–100 | não | Corym Mines |
 | [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | a partir do level 80; a TibiaWiki sugere 120: Crystal Grounds (Gnomegate) | 160–170 | em parte | Gnomegate |
 | [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | missão 4, a TibiaWiki sugere level 70+ para a quest: Vengoth Werewolf Cave | 200+ | sim | Yalahar |
-
-#### Level 8–20 atrás de quests (~7,4 horas até a próxima faixa)
-
-**Libere antes:** [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) (para Seacrest Grounds; a TibiaWiki sugere level 100 para a quest), [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) (para Sea Serpent Area; a TibiaWiki sugere level 61 para a quest), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor; a TibiaWiki sugere level 25 para a quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 0 | 2 | ~9k | ~8k | Rathleton 104 / ~25 s | Antes do que a TibiaWiki sugere (level 250). [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest). Cuidado: evite Seacrest Serpent (bate metade da sua vida). Vende bem: Bloody Pincers |
-| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 0 | 2 | ~7k | ~16k | Svargrond 103 / ~26 s, barco de caça às sea serpents do Captain Haba | Antes do que a TibiaWiki sugere (level 130). Exige [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest). Cuidado: evite Sea Serpent (bate metade da sua vida). Vende bem: Bloody Pincers |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 2 | 2 | ~7k | ~10k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Antes do que a TibiaWiki sugere (level 30). Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 8 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 30% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~50k | Svargrond 182 / ~46 s | Antes do que a TibiaWiki sugere (level 20). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 0 | 2 | ~7k | ~16k | Svargrond 103 / ~26 s, barco de caça às sea serpents do Captain Haba | Antes do que a TibiaWiki sugere (level 130). Exige [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest). Cuidado: evite Sea Serpent (bate metade da sua vida). Vende bem: Bloody Pincers |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 2 | 2 | ~7k | ~10k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Antes do que a TibiaWiki sugere (level 30). Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 8 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 30% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 #### Level 20–30 atrás de quests (~16 horas até a próxima faixa)
 
@@ -1912,8 +968,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 30–40 atrás de quests (~28 horas até a próxima faixa)
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -1931,8 +985,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~16k | ~25k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 #### Level 40–50 atrás de quests (~24 horas até a próxima faixa)
-
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
 
 **Bom para XP**
 
@@ -1952,8 +1004,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 50–60 atrás de quests (~34 horas até a próxima faixa)
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -1971,8 +1021,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~35k | ~75k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 #### Level 60–70 atrás de quests (~42 horas até a próxima faixa)
-
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
 
 **Bom para XP**
 
@@ -1992,7 +1040,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 70–80 atrás de quests (~46 horas até a próxima faixa)
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves, Tyrsung), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Tyrsung; a TibiaWiki sugere level 130+ para a quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
+**Libere antes:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Tyrsung; a TibiaWiki sugere level 130+ para a quest).
 
 **Bom para XP**
 
@@ -2012,8 +1060,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 80–90 atrás de quests (~54 horas até a próxima faixa)
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves, Tyrsung), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Tyrsung; a TibiaWiki sugere level 130+ para a quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2032,7 +1078,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 90–100 atrás de quests (~54 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
 
 **Bom para XP**
 
@@ -2052,8 +1098,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 100–110 atrás de quests (~61 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2071,8 +1115,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 #### Level 110–120 atrás de quests (~70 horas até a próxima faixa)
-
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
 
 **Bom para XP**
 
@@ -2092,8 +1134,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 120–130 atrás de quests (~80 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2111,8 +1151,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 #### Level 130–140 atrás de quests (~91 horas até a próxima faixa)
-
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
 
 **Bom para XP**
 
@@ -2132,8 +1170,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 140–150 atrás de quests (~103 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2151,8 +1187,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 #### Level 150–160 atrás de quests (~116 horas até a próxima faixa)
-
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
 
 **Bom para XP**
 
@@ -2172,7 +1206,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 160–170 atrás de quests (~115 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
+**Libere antes:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)).
 
 **Bom para XP**
 
@@ -2192,8 +1226,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 170–180 atrás de quests (~127 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2211,8 +1243,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
 #### Level 180–190 atrás de quests (~138 horas até a próxima faixa)
-
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
 
 **Bom para XP**
 
@@ -2232,8 +1262,6 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 190–200 atrás de quests (~150 horas até a próxima faixa)
 
-**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2252,7 +1280,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 #### Level 200+ atrás de quests
 
-**Libere antes:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (missão 4, para Vengoth Werewolf Cave), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
+**Libere antes:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (missão 4, para Vengoth Werewolf Cave).
 
 **Bom para XP**
 
@@ -2270,28 +1298,8 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
-## Seção 1e: Hunts com viagem longa
-As outras seções também deixam de fora as hunts a mais de uns 2 minutos do depot, contando cada barco ou tartaruga como uns 30 segundos: cada ida para vender o loot ou repor supplies custa esse tempo duas vezes. Muitas são boas, então esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. A coluna Depot mostra a viagem. As hunts que também exigem uma quest estão na Seção 1d.
-
-#### Level 8–20 com viagem longa (~8,3 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Zao Orc Land, Zao Steppe, Gnarlhound Caves).
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 2 | 2 | ~7k | ~2k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 60). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 49% da vida |
-| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 1 | 2 | ~7k | ~2k | Venore 527 / ~2,2 min | Antes do que a TibiaWiki sugere (level 50). Mais um raro Broken Shamanic Staff (~11k) cerca de uma vez a cada 16 horas, fora do Loot/h. Cuidado: Tarantula bate 25% da vida, monstros que invocam, evite Dragon Lord (bate metade da sua vida). Com invisibilidade: Preparo 0, Atenção 2 |
-| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 2 | ~6k | ~14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 50). Mais um raro Sandcrawler Shell (~20k) cerca de uma vez a cada 3 horas, fora do Loot/h. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 23% da vida, monstros que invocam, evite Lizard Zaogun (bate metade da sua vida). Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 2 |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 2 | ~5k | ~25k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 40). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 23% da vida, monstros que invocam, evite Orc Berserker (bate metade da sua vida). Vende bem: Sandcrawler Shell. Com invisibilidade: Preparo 0, Atenção 2 |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~3k | ~20k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 20). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 19% da vida. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 2 | ~6k | ~14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 50). Mais um raro Sandcrawler Shell (~20k) cerca de uma vez a cada 3 horas, fora do Loot/h. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 23% da vida, monstros que invocam, evite Lizard Zaogun (bate metade da sua vida). Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 2 |
+## Seção 1c: Hunts com viagem longa
+As outras seções também deixam de fora as hunts a mais de uns 2 minutos do depot, contando cada barco ou tartaruga como uns 30 segundos: cada ida para vender o loot ou repor supplies custa esse tempo duas vezes. Muitas são boas, então esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. A coluna Depot mostra a viagem. As hunts que também exigem uma quest estão na Seção 1b.
 
 #### Level 20–30 com viagem longa (~14 horas até a próxima faixa)
 
@@ -2315,8 +1323,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 30–40 com viagem longa (~25 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Zao Steppe, Gnarlhound Caves, Zao Orc Land).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2334,8 +1340,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 2 | ~12k | ~45k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 50). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam, evite Lizard Zaogun (bate metade da sua vida). Vende bem: Sandcrawler Shell |
 
 #### Level 40–50 com viagem longa (~22 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Zao Terramite Caves, Gnarlhound Caves).
 
 **Bom para XP**
 
@@ -2355,8 +1359,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 50–60 com viagem longa (~31 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Zao Terramite Caves, Gnarlhound Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2374,8 +1376,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~60k | ~15k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Antes do que a TibiaWiki sugere (level 60). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 23% da vida |
 
 #### Level 60–70 com viagem longa (~39 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Zao Terramite Caves, Gnarlhound Caves).
 
 **Bom para XP**
 
@@ -2395,8 +1395,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 70–80 com viagem longa (~43 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2414,8 +1412,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~55k | ~20k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 29% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
 
 #### Level 80–90 com viagem longa (~50 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2435,8 +1431,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 90–100 com viagem longa (~60 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2454,8 +1448,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~65k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 24% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
 
 #### Level 100–110 com viagem longa (~63 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2475,8 +1467,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 110–120 com viagem longa (~72 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2494,8 +1484,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~85k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 27% da vida. Vende bem: Stone Wing |
 
 #### Level 120–130 com viagem longa (~81 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2515,8 +1503,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 130–140 com viagem longa (~90 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2534,8 +1520,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 24% da vida. Vende bem: Stone Wing |
 
 #### Level 140–150 com viagem longa (~101 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2555,8 +1539,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 150–160 com viagem longa (~113 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2574,8 +1556,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 21% da vida. Vende bem: Stone Wing |
 
 #### Level 160–170 com viagem longa (~125 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2595,8 +1575,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 170–180 com viagem longa (~137 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2614,8 +1592,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 19% da vida. Vende bem: Stone Wing |
 
 #### Level 180–190 com viagem longa (~150 horas até a próxima faixa)
-
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
 
 **Bom para XP**
 
@@ -2635,8 +1611,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 190–200 com viagem longa (~163 horas até a próxima faixa)
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2655,8 +1629,6 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 #### Level 200+ com viagem longa
 
-**Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -2674,32 +1646,16 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~110k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
 
 ## Seção 2: Imbuements
-Um **imbuement** é um encantamento temporário que você coloca numa peça do equipamento. Ele dura 20 horas de luta, depois acaba e você coloca outro.
+Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um sorcerer confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armadura e Basic Void no capacete**.
 
-Para um sorcerer confortável, dois imbuements importam muito mais do que qualquer outro:
-- **Vampirism (life leech):** parte do dano que você causa volta para você como vida.
-- **Void (mana leech):** parte do dano que você causa volta como mana.
-
-Juntos, eles fazem os monstros que você acerta pagarem a sua cura e as suas magias. Você toma menos poção, se preocupa menos com a vida e consegue lutar contra grupos maiores com segurança. Por isso o kit desta seção é **Basic Vampirism na armadura e Basic Void no helmet**. Os outros imbuements também ajudam, mas dão muito menos pelo gold.
-
-### Quando começar
-Imbuements não têm level mínimo, e a maioria das armaduras e helmets tem slots para eles.
-
-Mas o leech devolve uma parte do dano que você causa, e personagens de level baixo não causam muito. Um sorcerer típico de level 8 causa uns 11k de dano por hora nestas estimativas, então o leech Basic devolve só uns 0,5k de vida e 0,3k de mana por hora. Enquanto isso, o kit custa uns 3,7k de gold por hora.
-
-Ele começa a se pagar **por volta do level 40 a 60**. Nessa altura você causa 60–70k de dano por hora, o `exevo vis hur` gasta mana de verdade e as poções viram um gasto de verdade. Para um sorcerer, o mana leech importa mais do que para um knight, porque toda magia de ataque gasta mana. As tabelas da Seção 2 começam mesmo assim no level 8, para você ver em quais hunts ele ajudaria.
+O leech devolve uma parte do seu dano, então só compensa quando você causa bastante dano, mais ou menos do level 40 ao 60 para um sorcerer, em que o mana leech pesa mais porque todo ataque gasta mana. Por isso as tabelas da Seção 2 começam no level 50.
 
 ### Como montar
-1. **Libere o imbuing** com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest/Spoiler). É fácil e seguro em qualquer level: vá até os Halls of Hope, logo ao norte de Thais, e entregue 5 Heavy Old Tomes ao NPC Albinius (diga "temple" e depois "yes"). Os tomos custam uns 250 gold cada no Market e também caem de orcs, trolls, skeletons, ghouls e cyclops. Isso libera o nível Basic para todo mundo e o Intricate para contas premium.
-2. **Armadura:** vá até um Imbuing Shrine em qualquer cidade grande e coloque Basic Vampirism. Você precisa de 25 Vampire Teeth (baratos no Market) e paga uma taxa de 7.500 gold.
-3. **Helmet:** compre um scroll de Basic Void no Market e use no helmet. Os scrolls funcionam em qualquer lugar, sem shrine. Para o Basic Void, o scroll sai mais barato que o shrine.
-4. **Teste** numa hunt que você já conhece, puxando um ou dois monstros a mais que o normal. Anote como foi.
+1. **Libere o imbuing** com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest/Spoiler): nos Halls of Hope, logo ao norte de Thais, entregue 5 Heavy Old Tomes ao Albinius (diga "temple" e depois "yes"). Os tomos custam uns 250 gold no Market, e orcs, trolls, skeletons, ghouls e cyclops dropam.
+2. **Armadura:** num Imbuing Shrine de qualquer cidade grande, coloque Basic Vampirism com 25 Vampire Teeth e uma taxa de 7.500 gold.
+3. **Capacete:** use um scroll de Basic Void do Market. Os scrolls funcionam em qualquer lugar, sem a quest nem o shrine, e para o Void o scroll sai mais barato.
 
-Se preferir pular a quest, os Imbuement Scrolls funcionam para qualquer jogador, sem a quest e sem shrine. Um scroll de Basic Vampirism custa uns 33k no Market, um pouco mais que os ~19k do caminho pelo shrine.
-
-O kit completo custa uns 74k de gold por 20 horas de luta, mais ou menos 3,7k de gold por hora. É uma parte pequena do que uma hunt razoável rende.
-
-Custos, com preços do Market de novembro de 2026:
+O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com preços do Market de novembro de 2026:
 
 | Imbuement | Jeito mais barato, por 20 h | Por hora |
 |---|---|---|
@@ -2709,103 +1665,16 @@ Custos, com preços do Market de novembro de 2026:
 | Intricate Vampirism | shrine ~284k | ~14,2k |
 | Intricate Void | shrine ~265k | ~13,2k |
 
-### O que muda quando você tem leech
-Nestas estimativas, um sorcerer de level 134 causa uns 140k de dano por hora. Com o kit, isso devolveria uns 7k de vida e 4k de mana por hora. Ataques em área devolvem menos mana para cada monstro a mais que acertam.
-
-Nas hunts em que você nunca precisava se curar, a mana é bem-vinda mesmo assim: ela paga parte das suas magias. Nas hunts em que você tomava poção de vida, você vai tomar menos e caçar com mais calma. Quanto isso rende ainda não foi testado.
-
 ### Bom saber
-- As 20 horas só contam enquanto você está lutando.
-- Um item aceita um imbuement de cada tipo, e cada item tem de 0 a 3 slots. Calças não aceitam imbuement. Wands também aceitam.
-- Tirar um imbuement custa 15.000 gold, então normalmente você só deixa ele acabar.
-
-### Outros imbuements (depois, valem menos pelo gold)
-- **Strike** (wand) adiciona críticos: uns +1% de dano no Basic, +2% no Intricate e +4,5% no Powerful.
-- **Epiphany** (helmet ou wand) adiciona magic level: +1, +2 ou +4, o que dá mais ou menos +1% de dano por ponto nos levels médios.
-- **Proteção elemental** (armadura ou escudo) reduz o dano de um elemento em 3%, 8% ou 15%. Serve nas hunts que batem quase só com um elemento.
-
-### Farme os seus próprios materiais
-Algumas hunts da Seção 1 dropam materiais de imbuement, então dá para fazer imbuement com o seu próprio loot:
-- **Vampire Teeth** vêm de vampires, por exemplo na Edron Vampire Crypt.
-- **Rope Belts** (para o Void) vêm de cultists e dark monks, por exemplo na Cult Cave perto de Liberty Bay.
-- **Bloody Pincers** (para o Intricate Vampirism) vêm dos blood crabs de Laguna Islands e da Meriana Gargoyle Cave.
+- As 20 horas só contam enquanto você luta. Tirar um imbuement custa 15.000 gold, então deixe acabar.
+- Cada item tem de 0 a 3 slots e aceita um imbuement de cada tipo. Calças não podem receber imbuement. Wands também podem receber.
+- Valem menos pelo gold, então ficam para depois: **Strike** (golpes críticos, +1% a +4,5% de dano), **Epiphany** (magic level, uns +1% de dano por ponto) e **proteção elemental** (3% a 15% menos dano de um elemento).
+- Dá para farmar os materiais: Vampire Teeth de vampires (Edron Vampire Crypt), Rope Belts para o Void de cultistas (Cult Cave, Liberty Bay) e Bloody Pincers para o Intricate Vampirism de blood crabs (Laguna Islands).
 
 ### Lendo as tabelas da Seção 2
 Estas tabelas dão as notas das hunts com o kit e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. As notas mostram a mudança, por exemplo "2 → **0**". Os números de XP e loot são as estimativas da Seção 1, então trate como um mínimo: com leech você deve render mais, mas quanto ainda não foi testado.
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
-
-#### Level 8–20 com leech (~4,6 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~8k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 11 horas, fora do Loot/h |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~12k | ~16k |  |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~10k |  |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k |  |
-| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 → **0** | 0 → **0** | ~4k | ~19k |  |
-| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **1** | ~5k | ~18k |  |
-
-#### Level 20–30 com leech (~9,5 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k |  |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~16k |  |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~11k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 8 horas, fora do Loot/h |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~9k | ~70k |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~9k | ~45k | Antes do que a TibiaWiki sugere (level 30) |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 2 → **0** | 2 → **1** | ~10k | ~35k | Antes do que a TibiaWiki sugere (level 50) |
-
-#### Level 30–40 com leech (~21 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~20k | ~6k |  |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~19k | ~45k | Antes do que a TibiaWiki sugere (level 40) |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **1** | ~18k | ~35k | Antes do que a TibiaWiki sugere (level 40) |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~12k | ~55k |  |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~14k | ~45k | Antes do que a TibiaWiki sugere (level 50) |
-
-#### Level 40–50 com leech (~19 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~45k | ~110k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **1** | ~45k | ~90k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~45k | ~105k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
-|---|---|---|---|---|---|
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~120k |  |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~45k | ~110k |  |
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~105k |  |
 
 #### Level 50–60 com leech (~26 horas até a próxima faixa)
 
@@ -3100,10 +1969,10 @@ Charms e prey te dão bônus contra monstros específicos. Depois de liberados, 
 
 ### Prey
 Abra com Ctrl+Y (ou clique com o botão direito no seu personagem e escolha "Prey System"). Cada slot de prey oferece uma lista de 9 criaturas. Você escolhe uma e ganha um bônus contra ela por 2 horas de hunt.
-- **Slots:** contas free têm 1, contas premium têm 2, e dá para comprar um terceiro na Store.
+- **Slots:** 2, e dá para comprar um terceiro na Store.
 - **Bônus:** cada um tem 10 degraus. A **redução de dano** (damage reduction) corta de 12% a 30% do dano que aquela criatura te causa. O **bônus de experiência** dá de 13% a 40% a mais de experiência com ela. Também existem o **aumento de dano** (7% a 25%) e o **loot extra** (13% a 40%).
 - **Nova lista:** de graça a cada 20 horas, ou por 150 gold por level do seu personagem.
-- **Prey Wildcards** servem para melhorar o bônus ou escolher a criatura que você quer. Você ganha algumas toda semana na recompensa diária (1 para conta free, 3 para premium), e elas também são vendidas na Store.
+- **Prey Wildcards** servem para melhorar o bônus ou escolher a criatura que você quer. Você ganha 3 toda semana na recompensa diária, e elas também são vendidas na Store.
 
 O jeito confortável usa os dois slots da conta premium:
 1. **Redução de dano** no monstro que bate mais forte em você.
@@ -3112,7 +1981,7 @@ O jeito confortável usa os dois slots da conta premium:
 As tabelas aqui embaixo contam com uns 20% de redução de dano e 25% a mais de experiência, que é o que você normalmente vai ter depois de uma ou duas wildcards.
 
 ### Charms
-Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa. Contas premium podem usar 6 charms ao mesmo tempo (contas free, 2), e mudar um charm de criatura custa 100 gold por level do seu personagem.
+Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa. Dá para usar 6 charms ao mesmo tempo, e mudar um charm de criatura custa 100 gold por level do seu personagem.
 
 Os melhores charms para o conforto:
 - **Dodge** (240 pontos): 5% de chance de não tomar dano nenhum do ataque daquela criatura (10% depois de uma melhoria de mais 360). Coloque no monstro que mais te machuca.
@@ -3124,78 +1993,6 @@ Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as 
 
 ### Lendo as tabelas da Seção 3
 Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de dano e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. As notas dizem qual criatura escolher em cada slot de prey. Os números de XP já incluem a prey de bônus de experiência.
-
-#### Level 8–20 com prey (~4,3 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **1** | 1 → **1** | ~13k | ~8k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 11 horas, fora do Loot/h. Prey de redução de dano em Infernoid Blob, prey de XP em Infernoid Spiritual |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **1** | 1 → **1** | ~13k | ~16k | Prey de redução de dano em Lizard Executioner, prey de XP em Lizard Swordmaster |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **1** | 1 → **1** | ~12k | ~10k | Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Cook |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k | Prey de redução de dano em Wasp |
-| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 → **0** | 0 → **0** | ~4k | ~19k | Prey de redução de dano em Swamp Troll, prey de XP em Rotworm |
-| [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 2 → **1** | 2 → **1** | ~5k | ~16k | Prey de redução de dano em Amazon, prey de XP em Spider |
-
-#### Level 20–30 com prey (~8,9 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **1** | 1 → **1** | ~20k | ~25k | Prey de redução de dano em Lizard Executioner, prey de XP em Lizard Swordmaster |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **1** | 1 → **1** | ~20k | ~16k | Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Cook |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **1** | 1 → **1** | ~19k | ~11k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 8 horas, fora do Loot/h. Prey de redução de dano em Infernoid Blob, prey de XP em Infernoid Spiritual |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~9k | ~70k | Prey de redução de dano em Wasp |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~9k | ~45k | Antes do que a TibiaWiki sugere (level 30). Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 2 → **1** | 2 → **1** | ~11k | ~35k | Antes do que a TibiaWiki sugere (level 50). Prey de redução de dano em Barbarian Headsplitter, prey de XP em Mammoth |
-
-#### Level 30–40 com prey (~19 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~25k | ~6k | Prey de redução de dano em Ragged Rabid Wolf, prey de XP em Rabid Wolf |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **1** | 2 → **1** | ~25k | ~25k | Antes do que a TibiaWiki sugere (level 140). Prey de redução de dano em Swarmer. Ainda: evite Hive Overseer (bate metade da sua vida) |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~19k | ~45k | Antes do que a TibiaWiki sugere (level 40). Prey de redução de dano em Wyvern |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k | Prey de redução de dano em Wasp |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~12k | ~55k | Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **1** | 1 → **1** | ~15k | ~45k | Antes do que a TibiaWiki sugere (level 50). Prey de redução de dano em Barbarian Headsplitter, prey de XP em Mammoth |
-
-#### Level 40–50 com prey (~15 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **1** | 2 → **1** | ~65k | ~40k | Antes do que a TibiaWiki sugere (level 140). Prey de redução de dano em Swarmer, prey de XP em Insectoid Worker. Ainda: evite Hive Overseer (bate metade da sua vida) |
-| [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 1 → **1** | 2 → **1** | ~55k | ~35k | Antes do que a TibiaWiki sugere (level 80). Prey de redução de dano em Swarmer, prey de XP em Insectoid Worker. Ainda: monstros que invocam, evite Hive Overseer (bate metade da sua vida) |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~45k | ~110k | Prey de redução de dano em Wyvern |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
-|---|---|---|---|---|---|
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~120k | Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~45k | ~110k | Prey de redução de dano em Wyvern |
-| [Truffels Garden (Gnomegate)](https://tibiamaps.io/map#32868,31835,13:2) | 1 → **1** | 3 → **1** | ~45k | ~110k | Antes do que a TibiaWiki sugere (level 80). Prey de redução de dano em Wyvern. Ainda: monstros invisíveis, evite Massive Earth Elemental (bate metade da sua vida) |
 
 #### Level 50–60 com prey (~26 horas até a próxima faixa)
 
