@@ -282,9 +282,9 @@ The table below lists the best hunting grounds a free account can use in each ba
 
 Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
 
-Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience only, so the stamina bonus, XP boosts and prey make it faster.
+Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 8–20 (~17 hours to the next band)
+#### Level 8–20 (~10 hours to the next band)
 **Typical monk in this band:** fist fighting 30, Jo Staff.
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
@@ -297,7 +297,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~8k | ~11k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~8k | ~9k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
 
-#### Level 20–30 (~28 hours to the next band)
+#### Level 20–30 (~18 hours to the next band)
 **Typical monk in this band:** fist fighting 50, Staff.
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
@@ -310,7 +310,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~45k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Centipede hits 15% of HP. Sells: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 16% of HP. Sells: Lizard Tail |
 
-#### Level 30–40 (~27 hours to the next band)
+#### Level 30–40 (~20 hours to the next band)
 **Typical monk in this band:** fist fighting 63, Traditional Sai.
 
 **Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
@@ -323,7 +323,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 | 0 | ~30k | ~30k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 0 | ~30k | ~20k | Targuna, portal in Emiliana's house | **XP**. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
 
-#### Level 40–50 (~42 hours to the next band)
+#### Level 40–50 (~38 hours to the next band)
 **Typical monk in this band:** fist fighting 68, Nunchaku.
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
@@ -561,7 +561,7 @@ Like Section 2, these tables list only the hunting grounds the ring makes more c
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal. Loot is shown before paying for the rings.
 
-#### Level 8–20 with a Stealth Ring (~17 hours to the next band)
+#### Level 8–20 with a Stealth Ring (~10.0 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -571,7 +571,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~8k | ~11k | Targuna depot, on the island | **XP**. Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~8k | ~9k | Targuna, then Sterling's sea turtle (free) | **XP**. Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 
-#### Level 20–30 with a Stealth Ring (~31 hours to the next band)
+#### Level 20–30 with a Stealth Ring (~21 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -581,7 +581,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Can't see you: Centipede, Wasp, Crab, Crimson Frog. Sells: Centipede Leg |
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **0** | ~10k | ~35k | Carlin 126 / ~32 s | **money**. Can't see you: Amazon, Valkyrie, Wasp, Wolf. Sells: Protective Charm |
 
-#### Level 30–40 with a Stealth Ring (~23 hours to the next band)
+#### Level 30–40 with a Stealth Ring (~18 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -590,7 +590,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Rathleton Ancient Sewers](https://tibiamaps.io/map#33584,31955,8:2) | 3 → **0** | 3 → **0** | ~35k | ~5k | Rathleton, under Lower Rathleton | **XP**. Can't see you: Glooth Blob |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **0** | 2 → **2** | ~17k | ~65k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | **money**. Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
-#### Level 40–50 with a Stealth Ring (~36 hours to the next band)
+#### Level 40–50 with a Stealth Ring (~33 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -783,7 +783,7 @@ From level 20 you can switch on a **virtue** (210 mana), which lasts until you c
 ### Reading the Section 1b tables
 These tables assume you've touched 5 of the 10 shrines, so monsters' melee attacks deal 10% less damage. They list the Section 1 hunting grounds where that lowers the grades, the 5 best per band. Virtue of Sustain makes every heal stronger too, which the tables don't count. The XP and loot numbers are the Section 1 estimates.
 
-#### Level 20–30 with 5 shrines (~22 hours to the next band)
+#### Level 20–30 with 5 shrines (~14 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
@@ -928,7 +928,7 @@ Both tools last forever, so you only need one of each.
 ### Reading the Section 1c tables
 These tables list the Section 1 hunting grounds where skinning or dusting adds at least 10% to the loot, the 5 best per band. The grades don't change. The loot column shows the change, for example "~40k → **~120k**". It counts the skinnable monsters you kill, their success chance from TibiaWiki's statistics, and the product's Market price (the middle price on three big worlds, November 2026). "Knife" and "Stake" name the monsters to use each tool on. Bands without a table have no hunting ground where it adds enough.
 
-#### Level 40–50 with skinning (~17 hours to the next band)
+#### Level 40–50 with skinning (~15 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -1157,7 +1157,7 @@ These tables list only the hunting grounds that get more comfortable with the ki
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
-#### Level 8–20 with leech (~13 hours to the next band)
+#### Level 8–20 with leech (~7.8 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1167,7 +1167,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~8k | ~6k | **XP** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~7k | ~2k | **XP** |
 
-#### Level 20–30 with leech (~17 hours to the next band)
+#### Level 20–30 with leech (~11 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1177,14 +1177,14 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | **XP** |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~16k | **XP** |
 
-#### Level 30–40 with leech (~41 hours to the next band)
+#### Level 30–40 with leech (~31 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **0** | 2 → **2** | ~17k | ~65k | **money**. Still: skip Haunted Treeling (hits half your HP) |
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~10k | ~140k | **money**. Gloom wolf days are great for money and bad for XP. Still: invisible monsters |
 
-#### Level 40–50 with leech (~27 hours to the next band)
+#### Level 40–50 with leech (~25 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1383,7 +1383,7 @@ Charms change your average damage, not the worst hit, so they don't change the g
 ### Reading the Section 3 tables
 These tables list the Section 1 hunting grounds that get more comfortable with the damage-reduction prey, the 5 best per band. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-#### Level 20–30 with prey (~15 hours to the next band)
+#### Level 20–30 with prey (~9.9 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
@@ -1392,7 +1392,7 @@ These tables list the Section 1 hunting grounds that get more comfortable with t
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~25k | ~25k | **XP**. Damage-reduction prey on Pirate Quartermaster, XP prey on Pirate Cook |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~19k | ~5k | **XP**. Damage-reduction prey on Ragged Rabid Wolf, XP prey on Rabid Wolf |
 
-#### Level 40–50 with prey (~33 hours to the next band)
+#### Level 40–50 with prey (~30 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|

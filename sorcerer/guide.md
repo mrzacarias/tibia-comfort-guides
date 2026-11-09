@@ -287,9 +287,9 @@ The table below lists the best hunting grounds a free account can use in each ba
 
 Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
 
-Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience only, so the stamina bonus, XP boosts and prey make it faster.
+Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 8–20 (~11 hours to the next band)
+#### Level 8–20 (~6.2 hours to the next band)
 **Typical sorcerer in this band:** magic level 10, Wand of Vortex.
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
@@ -302,7 +302,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~12k | ~13k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
 
-#### Level 20–30 (~31 hours to the next band)
+#### Level 20–30 (~21 hours to the next band)
 **Typical sorcerer in this band:** magic level 18, Wand of Decay.
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
@@ -315,7 +315,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Farmine 98 / ~24 s | **money**. Sells: Shaggy Tail |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~17k | ~5k | Thais 236 / ~59 s | **XP**. Sells: Arrow |
 
-#### Level 30–40 (~31 hours to the next band)
+#### Level 30–40 (~24 hours to the next band)
 **Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy.
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
@@ -326,7 +326,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~25k | ~35k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 17% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~25k | ~25k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 17% of HP. Sells: Gold Tooth |
 
-#### Level 40–50 (~54 hours to the next band)
+#### Level 40–50 (~49 hours to the next band)
 **Typical sorcerer in this band:** magic level 32, Wand of Inferno.
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
@@ -559,7 +559,7 @@ Like Section 2, these tables list only the hunting grounds that invisibility mak
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal.
 
-#### Level 8–20 with invisibility (~10.0 hours to the next band)
+#### Level 8–20 with invisibility (~5.8 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -569,7 +569,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~13k | Targuna, then Sterling's sea turtle (free) | **XP**. Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~9k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
 
-#### Level 20–30 with invisibility (~18 hours to the next band)
+#### Level 20–30 with invisibility (~12 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -579,7 +579,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~20k | Targuna, then Sterling's sea turtle (free) | **XP**. Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~13k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
 
-#### Level 30–40 with invisibility (~24 hours to the next band)
+#### Level 30–40 with invisibility (~19 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -589,7 +589,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~25k | ~17k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
 | [Glooth Factory](https://tibiamaps.io/map#33549,31928,7:2) | 3 → **0** | 3 → **0** | ~30k | ~5k | Rathleton, in Lower Rathleton | **XP**. Can't see you: Glooth Blob |
 
-#### Level 40–50 with invisibility (~33 hours to the next band)
+#### Level 40–50 with invisibility (~30 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
@@ -772,7 +772,7 @@ Things on the floor can stop monsters from reaching you while you kite:
 ### Reading the Section 1b tables
 These tables list the Section 1 hunting grounds where Magic Shield lowers the grades, the 5 best per band. The XP and loot numbers are the Section 1 estimates. The extra mana potions for the shield aren't counted.
 
-#### Level 20–30 with Magic Shield (~18 hours to the next band)
+#### Level 20–30 with Magic Shield (~12 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
@@ -782,7 +782,7 @@ These tables list the Section 1 hunting grounds where Magic Shield lowers the gr
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~8k | ~40k | **money**. Still: summoners |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~9k | ~45k | **money**. Still: invisible monsters |
 
-#### Level 30–40 with Magic Shield (~26 hours to the next band)
+#### Level 30–40 with Magic Shield (~20 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
@@ -792,7 +792,7 @@ These tables list the Section 1 hunting grounds where Magic Shield lowers the gr
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~10k | ~140k | **money**. Gloom wolf days are great for money and bad for XP. Still: invisible monsters |
 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **3** | ~25k | ~25k | **XP**. Still: invisible monsters, summoners |
 
-#### Level 40–50 with Magic Shield (~27 hours to the next band)
+#### Level 40–50 with Magic Shield (~25 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
@@ -1092,7 +1092,7 @@ These tables list only the hunting grounds that get more comfortable with the ki
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
-#### Level 8–20 with leech (~10 hours to the next band)
+#### Level 8–20 with leech (~5.9 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1102,7 +1102,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~5k | ~25k | **money**. Still: summoners, skip Orc Berserker (hits half your HP) |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~6k | ~30k | **money**. Still: invisible monsters |
 
-#### Level 20–30 with leech (~18 hours to the next band)
+#### Level 20–30 with leech (~12 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1112,7 +1112,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~8k | ~40k | **money**. Still: summoners |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~9k | ~45k | **money**. Still: invisible monsters |
 
-#### Level 30–40 with leech (~27 hours to the next band)
+#### Level 30–40 with leech (~20 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1121,7 +1121,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~25k | ~17k | **XP** |
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~10k | ~140k | **money**. Gloom wolf days are great for money and bad for XP. Still: invisible monsters |
 
-#### Level 40–50 with leech (~27 hours to the next band)
+#### Level 40–50 with leech (~25 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
@@ -1317,20 +1317,20 @@ Charms change your average damage, not the worst hit, so they don't change the g
 ### Reading the Section 3 tables
 These tables list the Section 1 hunting grounds that get more comfortable with the damage-reduction prey, the 5 best per band. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-#### Level 20–30 with prey (~26 hours to the next band)
+#### Level 20–30 with prey (~17 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **1** | 3 → **3** | ~10k | ~45k | **money**. Damage-reduction prey on Dworc Voodoomaster, XP prey on Dworc Fleshhunter. Still: invisible monsters |
 
-#### Level 30–40 with prey (~29 hours to the next band)
+#### Level 30–40 with prey (~22 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~25k | ~35k | **XP**. Damage-reduction prey on Lizard Executioner, XP prey on Lizard Swordmaster |
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~11k | ~140k | **money**. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Gloom Wolf, XP prey on Ghost Wolf. Still: invisible monsters |
 
-#### Level 40–50 with prey (~31 hours to the next band)
+#### Level 40–50 with prey (~28 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|

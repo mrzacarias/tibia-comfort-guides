@@ -290,9 +290,9 @@ A tabela abaixo mostra as melhores hunts que uma conta free pode usar em cada fa
 
 Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts da faixa exigem (faça uma vez e essas hunts se abrem), e **Vale a pena** aponta a quest rara cuja experiência compensa a viagem.
 
-O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa só experiência raw, então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
+O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 8–20 (~11 horas até a próxima faixa)
+#### Level 8–20 (~6,2 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 10, Wand of Vortex.
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
@@ -305,7 +305,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~12k | ~13k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
 
-#### Level 20–30 (~31 horas até a próxima faixa)
+#### Level 20–30 (~21 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 18, Wand of Decay.
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
@@ -318,7 +318,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Farmine 98 / ~24 s | **lucro**. Vende bem: Shaggy Tail |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~17k | ~5k | Thais 236 / ~59 s | **XP**. Vende bem: Arrow |
 
-#### Level 30–40 (~31 horas até a próxima faixa)
+#### Level 30–40 (~24 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy.
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -329,7 +329,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~25k | ~35k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 17% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~25k | ~25k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 17% da vida. Vende bem: Gold Tooth |
 
-#### Level 40–50 (~54 horas até a próxima faixa)
+#### Level 40–50 (~49 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 32, Wand of Inferno.
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
@@ -562,7 +562,7 @@ Como na Seção 2, estas tabelas mostram só as hunts que a invisibilidade deixa
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar.
 
-#### Level 8–20 com invisibilidade (~10,0 horas até a próxima faixa)
+#### Level 8–20 com invisibilidade (~5,8 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
@@ -572,7 +572,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~13k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~9k | Targuna, portal na casa da Emiliana | **XP**. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
 
-#### Level 20–30 com invisibilidade (~18 horas até a próxima faixa)
+#### Level 20–30 com invisibilidade (~12 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
@@ -582,7 +582,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~20k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~13k | Targuna, portal na casa da Emiliana | **XP**. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
 
-#### Level 30–40 com invisibilidade (~24 horas até a próxima faixa)
+#### Level 30–40 com invisibilidade (~19 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
@@ -592,7 +592,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~25k | ~17k | Targuna, portal na casa da Emiliana | **XP**. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
 | [Glooth Factory](https://tibiamaps.io/map#33549,31928,7:2) | 3 → **0** | 3 → **0** | ~30k | ~5k | Rathleton, na Lower Rathleton | **XP**. Não te veem: Glooth Blob |
 
-#### Level 40–50 com invisibilidade (~33 horas até a próxima faixa)
+#### Level 40–50 com invisibilidade (~30 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
@@ -775,7 +775,7 @@ Coisas no chão podem impedir que os monstros cheguem em você enquanto você ki
 ### Lendo as tabelas da Seção 1b
 Estas tabelas mostram as hunts da Seção 1 em que o Magic Shield baixa as notas, as 5 melhores por faixa. Os números de XP e loot são as estimativas da Seção 1. As poções de mana a mais para o escudo não entram na conta.
 
-#### Level 20–30 com Magic Shield (~18 horas até a próxima faixa)
+#### Level 20–30 com Magic Shield (~12 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
@@ -785,7 +785,7 @@ Estas tabelas mostram as hunts da Seção 1 em que o Magic Shield baixa as notas
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~8k | ~40k | **lucro**. Ainda: monstros que invocam |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~9k | ~45k | **lucro**. Ainda: monstros invisíveis |
 
-#### Level 30–40 com Magic Shield (~26 horas até a próxima faixa)
+#### Level 30–40 com Magic Shield (~20 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
@@ -795,7 +795,7 @@ Estas tabelas mostram as hunts da Seção 1 em que o Magic Shield baixa as notas
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~10k | ~140k | **lucro**. Dias de gloom wolves são ótimos para lucro e ruins para XP. Ainda: monstros invisíveis |
 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **3** | ~25k | ~25k | **XP**. Ainda: monstros invisíveis, monstros que invocam |
 
-#### Level 40–50 com Magic Shield (~27 horas até a próxima faixa)
+#### Level 40–50 com Magic Shield (~25 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
@@ -1096,7 +1096,7 @@ Estas tabelas mostram só as hunts que ficam mais confortáveis com o kit, as 5 
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 
-#### Level 8–20 com leech (~10 horas até a próxima faixa)
+#### Level 8–20 com leech (~5,9 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
@@ -1106,7 +1106,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~5k | ~25k | **lucro**. Ainda: monstros que invocam, evite Orc Berserker (bate metade da sua vida) |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~6k | ~30k | **lucro**. Ainda: monstros invisíveis |
 
-#### Level 20–30 com leech (~18 horas até a próxima faixa)
+#### Level 20–30 com leech (~12 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
@@ -1116,7 +1116,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~8k | ~40k | **lucro**. Ainda: monstros que invocam |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **3** | ~9k | ~45k | **lucro**. Ainda: monstros invisíveis |
 
-#### Level 30–40 com leech (~27 horas até a próxima faixa)
+#### Level 30–40 com leech (~20 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~25k | ~17k | **XP** |
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~10k | ~140k | **lucro**. Dias de gloom wolves são ótimos para lucro e ruins para XP. Ainda: monstros invisíveis |
 
-#### Level 40–50 com leech (~27 horas até a próxima faixa)
+#### Level 40–50 com leech (~25 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
@@ -1321,20 +1321,20 @@ Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as 
 ### Lendo as tabelas da Seção 3
 Estas tabelas mostram as hunts da Seção 1 que ficam mais confortáveis com a prey de redução de dano, as 5 melhores por faixa. As notas dizem qual criatura escolher em cada slot de prey. Os números de XP já incluem a prey de bônus de experiência.
 
-#### Level 20–30 com prey (~26 horas até a próxima faixa)
+#### Level 20–30 com prey (~17 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **1** | 3 → **3** | ~10k | ~45k | **lucro**. Prey de redução de dano em Dworc Voodoomaster, prey de XP em Dworc Fleshhunter. Ainda: monstros invisíveis |
 
-#### Level 30–40 com prey (~29 horas até a próxima faixa)
+#### Level 30–40 com prey (~22 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~25k | ~35k | **XP**. Prey de redução de dano em Lizard Executioner, prey de XP em Lizard Swordmaster |
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **3** | ~11k | ~140k | **lucro**. Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Gloom Wolf, prey de XP em Ghost Wolf. Ainda: monstros invisíveis |
 
-#### Level 40–50 com prey (~31 horas até a próxima faixa)
+#### Level 40–50 com prey (~28 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
