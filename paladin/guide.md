@@ -283,31 +283,29 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 8–20 (~11 hours to the next band)
+#### Level 8–20 (~9.1 hours to the next band)
 **Typical paladin in this band:** distance fighting 30, Crossbow with Bolts.
 
-**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~4k | ~30k | Thais 188 / ~47 s | **money**. Sells: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~3k | ~13k | Venore 262 / ~1.1 min | **money**. Sells: Medicine Pouch |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~3k | ~17k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Centipede hits 19% of HP. Sells: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~8k | ~10k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~8k | ~9k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~8k | ~6k | Targuna, portal in Emiliana's house | **XP**. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 27% of HP. Sells: Infernoid Ember |
 
-#### Level 20–30 (~33 hours to the next band)
+#### Level 20–30 (~25 hours to the next band)
 **Typical paladin in this band:** distance fighting 52, Crossbow with Bolts.
-
-**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~45k | Svargrond 182 / ~46 s | **money**. Ask Iskan in Svargrond for a "passage" (he may ask for a task first). Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | **money**. Sells: Honeycomb |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~4k | ~25k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Centipede Leg |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~10k | ~3k | Thais 236 / ~59 s | **XP**. Sells: Arrow |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~4k | ~25k | Farmine 98 / ~24 s | **money**. Watch: Gnarlhound hits 17% of HP. Sells: Shaggy Tail |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 16% of HP. Sells: Lizard Tail |
 
 #### Level 30–40 (~22 hours to the next band)
 **Typical paladin in this band:** distance fighting 66, Crossbow with Piercing Bolts.
@@ -562,15 +560,15 @@ Like Section 2, these tables list only the hunting grounds the ring makes more c
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal. Loot is shown before paying for the rings.
 
-#### Level 8–20 with a Stealth Ring (~11 hours to the next band)
+#### Level 8–20 with a Stealth Ring (~9.1 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~4k | ~17k | Edron 135 / ~34 s | **money**. Can't see you: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Sells: Bone Club |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~3k | ~17k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Can't see you: Centipede, Wasp, Crab, Crimson Frog. Sells: Centipede Leg |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **0** | ~3k | ~17k | Port Hope 405 / ~1.7 min | **money**. Can't see you: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Sells: Voodoo Doll |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~8k | ~10k | Targuna depot, on the island | **XP**. Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~8k | ~9k | Targuna, then Sterling's sea turtle (free) | **XP**. Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~8k | ~6k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
 
 #### Level 20–30 with a Stealth Ring (~27 hours to the next band)
 
@@ -1170,7 +1168,7 @@ At hunting grounds where you never needed to heal, the mana is still welcome: it
 Some Section 1 hunting grounds drop imbuement materials, so you can imbue with your own loot:
 - **Vampire Teeth** come from vampires, for example in the Edron Vampire Crypt.
 - **Rope Belts** (for Void) come from cultists and dark monks, for example in the Cult Cave near Liberty Bay.
-- **Bloody Pincers** (for Intricate Vampirism) come from blood crabs at Laguna Islands and Meriana.
+- **Bloody Pincers** (for Intricate Vampirism) come from blood crabs at Laguna Islands and the Meriana Gargoyle Cave.
 
 ### Reading the Section 2 tables
 These tables list only the hunting grounds that get more comfortable with the kit, the 5 best per band; every Section 1 hunting ground still works. The grades show the change, for example "2 → **0**". The XP and loot numbers are the Section 1 estimates, so treat them as a minimum: with leech you should do better, but by how much isn't tested yet.
@@ -1181,11 +1179,11 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~3k | ~17k | **money** |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~8k | ~10k | **XP** |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~8k | ~9k | **XP** |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~8k | ~6k | **XP** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~6k | ~2k | **XP** |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 → **0** | 2 → **2** | ~3k | ~16k | **money**. Still: summoners, skip Orc Berserker (hits half your HP) |
 
 #### Level 20–30 with leech (~19 hours to the next band)
 
@@ -1403,11 +1401,10 @@ Charms change your average damage, not the worst hit, so they don't change the g
 ### Reading the Section 3 tables
 These tables list the Section 1 hunting grounds that get more comfortable with the damage-reduction prey, the 5 best per band. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-#### Level 8–20 with prey (~15 hours to the next band)
+#### Level 8–20 with prey (~13 hours to the next band)
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~3k | ~17k | **money**. Damage-reduction prey on Centipede, XP prey on Crimson Frog |
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 3 → **2** | 3 → **2** | ~4k | ~13k | **money**. Damage-reduction prey on Valkyrie, XP prey on Amazon |
 
 #### Level 20–30 with prey (~18 hours to the next band)

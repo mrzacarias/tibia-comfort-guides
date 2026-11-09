@@ -289,31 +289,29 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 8–20 (~6.2 hours to the next band)
+#### Level 8–20 (~5.2 hours to the next band)
 **Typical sorcerer in this band:** magic level 10, Wand of Vortex.
 
-**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | **money**. Sells: Honeycomb |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~5k | ~25k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Centipede Leg |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~10k | ~3k | Thais 236 / ~59 s | **XP**. Sells: Arrow |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~12k | ~13k | Targuna, then Sterling's sea turtle (free) | **XP**. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~13k | ~9k | Targuna, portal in Emiliana's house | **XP**. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 27% of HP. Sells: Infernoid Ember |
 
-#### Level 20–30 (~21 hours to the next band)
+#### Level 20–30 (~16 hours to the next band)
 **Typical sorcerer in this band:** magic level 18, Wand of Decay.
-
-**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | **money**. Sells: Honeycomb |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | **money**. Ask Iskan in Svargrond for a "passage" (he may ask for a task first). Sells: Winter Wolf Fur |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~7k | ~40k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Centipede Leg |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Farmine 98 / ~24 s | **money**. Sells: Shaggy Tail |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~17k | ~5k | Thais 236 / ~59 s | **XP**. Sells: Arrow |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | Targuna depot, on the island | **XP**. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 20% of HP. Sells: Lizard Tail |
 
 #### Level 30–40 (~24 hours to the next band)
 **Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy.
@@ -1085,7 +1083,7 @@ At hunting grounds where you never needed to heal, the mana is still welcome: it
 Some Section 1 hunting grounds drop imbuement materials, so you can imbue with your own loot:
 - **Vampire Teeth** come from vampires, for example in the Edron Vampire Crypt.
 - **Rope Belts** (for Void) come from cultists and dark monks, for example in the Cult Cave near Liberty Bay.
-- **Bloody Pincers** (for Intricate Vampirism) come from blood crabs at Laguna Islands and Meriana.
+- **Bloody Pincers** (for Intricate Vampirism) come from blood crabs at Laguna Islands and the Meriana Gargoyle Cave.
 
 ### Reading the Section 2 tables
 These tables list only the hunting grounds that get more comfortable with the kit, the 5 best per band; every Section 1 hunting ground still works. The grades show the change, for example "2 → **0**". The XP and loot numbers are the Section 1 estimates, so treat them as a minimum: with leech you should do better, but by how much isn't tested yet.

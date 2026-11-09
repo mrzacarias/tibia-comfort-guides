@@ -292,31 +292,29 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 8–20 (~6,2 horas até a próxima faixa)
+#### Level 8–20 (~5,2 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 10, Wand of Vortex.
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
+**Libere antes:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, a partir do level 12, para Crimson Court (Targuna)).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~5k | ~25k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Centipede Leg |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~10k | ~3k | Thais 236 / ~59 s | **XP**. Vende bem: Arrow |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~12k | ~16k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~12k | ~13k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~13k | ~9k | Targuna, portal na casa da Emiliana | **XP**. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 27% da vida. Vende bem: Infernoid Ember |
 
-#### Level 20–30 (~21 horas até a próxima faixa)
+#### Level 20–30 (~16 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 18, Wand of Decay.
-
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | **lucro**. Peça "passage" ao Iskan em Svargrond (ele pode pedir uma tarefa antes). Vende bem: Winter Wolf Fur |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 0 | 0 | ~7k | ~40k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Centipede Leg |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Farmine 98 / ~24 s | **lucro**. Vende bem: Shaggy Tail |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~17k | ~5k | Thais 236 / ~59 s | **XP**. Vende bem: Arrow |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 20% da vida. Vende bem: Lizard Tail |
 
 #### Level 30–40 (~24 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy.
@@ -1089,7 +1087,7 @@ Nas hunts em que você nunca precisava se curar, a mana é bem-vinda mesmo assim
 Algumas hunts da Seção 1 dropam materiais de imbuement, então dá para fazer imbuement com o seu próprio loot:
 - **Vampire Teeth** vêm de vampires, por exemplo na Edron Vampire Crypt.
 - **Rope Belts** (para o Void) vêm de cultists e dark monks, por exemplo na Cult Cave perto de Liberty Bay.
-- **Bloody Pincers** (para o Intricate Vampirism) vêm dos blood crabs de Laguna Islands e Meriana.
+- **Bloody Pincers** (para o Intricate Vampirism) vêm dos blood crabs de Laguna Islands e da Meriana Gargoyle Cave.
 
 ### Lendo as tabelas da Seção 2
 Estas tabelas mostram só as hunts que ficam mais confortáveis com o kit, as 5 melhores por faixa; todas as hunts da Seção 1 continuam funcionando. As notas mostram a mudança, por exemplo "2 → **0**". Os números de XP e loot são as estimativas da Seção 1, então trate como um mínimo: com leech você deve render mais, mas quanto ainda não foi testado.

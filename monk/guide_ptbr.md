@@ -287,31 +287,29 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média das hunts da lista. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 8–20 (~10 horas até a próxima faixa)
+#### Level 8–20 (~8,5 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 30, Jo Staff.
 
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
+**Libere antes:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (missão Burning Heat, a partir do level 12, para Crimson Court (Targuna)).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~4k | ~35k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 2 | ~3k | ~14k | Venore 262 / ~1,1 min | **lucro**. Cuidado: evite Ghoul (bate metade da sua vida). Vende bem: Medicine Pouch |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~3k | ~18k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Centipede bate 25% da vida. Vende bem: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~8k | ~11k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 27% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~8k | ~9k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 27% da vida. Vende bem: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~8k | ~6k | Targuna, portal na casa da Emiliana | **XP**. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 27% da vida. Vende bem: Infernoid Ember |
 
-#### Level 20–30 (~18 horas até a próxima faixa)
+#### Level 20–30 (~14 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 50, Staff.
-
-**Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana).
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~5k | ~75k | Svargrond 182 / ~46 s | **lucro**. Peça "passage" ao Iskan em Svargrond (ele pode pedir uma tarefa antes). Vende bem: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | **lucro**. Vende bem: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~7k | ~45k | Farmine 98 / ~24 s | **lucro**. Cuidado: Gnarlhound bate 23% da vida. Vende bem: Shaggy Tail |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~45k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Centipede bate 15% da vida. Vende bem: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | depot de Targuna, na própria ilha | **XP**. Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 16% da vida. Vende bem: Lizard Tail |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~20k | ~25k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 16% da vida. Vende bem: Gold Tooth |
 
 #### Level 30–40 (~20 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 63, Traditional Sai.
@@ -564,25 +562,25 @@ Como na Seção 2, estas tabelas mostram só as hunts que o anel deixa mais conf
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar. O loot aparece antes de pagar os anéis.
 
-#### Level 8–20 com Stealth Ring (~10,0 horas até a próxima faixa)
+#### Level 8–20 com Stealth Ring (~8,4 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~4k | ~19k | Edron 135 / ~34 s | **lucro**. Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 2 → **0** | 3 → **0** | ~4k | ~18k | Port Hope 405 / ~1,7 min | **lucro**. Não te veem: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Vende bem: Voodoo Doll |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~3k | ~18k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Não te veem: Centipede, Wasp, Crab, Crimson Frog. Vende bem: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~8k | ~11k | depot de Targuna, na própria ilha | **XP**. Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~8k | ~9k | Targuna, depois tartaruga do Sterling (grátis) | **XP**. Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~8k | ~6k | Targuna, portal na casa da Emiliana | **XP**. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
 
-#### Level 20–30 com Stealth Ring (~21 horas até a próxima faixa)
+#### Level 20–30 com Stealth Ring (~19 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 1 → **0** | 3 → **0** | ~10k | ~45k | Port Hope 405 / ~1,7 min | **lucro**. Não te veem: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Vende bem: Voodoo Doll |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | Farmine 98 / ~24 s | **lucro**. Não te veem: Gnarlhound. Vende bem: Shaggy Tail |
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 1 → **0** | 3 → **0** | ~9k | ~45k | Edron 135 / ~34 s | **lucro**. Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg") | **lucro**. Não te veem: Centipede, Wasp, Crab, Crimson Frog. Vende bem: Centipede Leg |
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **0** | ~10k | ~35k | Carlin 126 / ~32 s | **lucro**. Não te veem: Amazon, Valkyrie, Wasp, Wolf. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **0** | 2 → **0** | ~11k | ~35k | Carlin 195 / ~49 s | **lucro**. Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
 
 #### Level 30–40 com Stealth Ring (~18 horas até a próxima faixa)
 
@@ -786,11 +784,10 @@ A **Way of the Monk Quest** te leva a 10 santuários antigos pelo mundo, de Targ
 ### Lendo as tabelas da Seção 1b
 Estas tabelas contam que você já tocou 5 dos 10 santuários, então os ataques corpo a corpo dos monstros causam 10% menos dano. Elas mostram as hunts da Seção 1 em que isso baixa as notas, as 5 melhores por faixa. A Virtue of Sustain também deixa toda cura mais forte, o que as tabelas não contam. Os números de XP e loot são as estimativas da Seção 1.
 
-#### Level 20–30 com 5 santuários (~14 horas até a próxima faixa)
+#### Level 20–30 com 5 santuários (~10 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | **lucro** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~18k | ~5k | **XP** |
 
 #### Level 50–60 com 5 santuários (~41 horas até a próxima faixa)
@@ -1155,32 +1152,32 @@ Nas hunts em que você nunca precisava se curar, pouca coisa muda. Nas hunts em 
 Algumas hunts da Seção 1 dropam materiais de imbuement, então dá para fazer imbuement com o seu próprio loot:
 - **Vampire Teeth** vêm de vampires, por exemplo na Edron Vampire Crypt.
 - **Rope Belts** (para o Void) vêm de cultists e dark monks, por exemplo na Cult Cave perto de Liberty Bay.
-- **Bloody Pincers** (para o Intricate Vampirism) vêm dos blood crabs de Laguna Islands e Meriana.
+- **Bloody Pincers** (para o Intricate Vampirism) vêm dos blood crabs de Laguna Islands e da Meriana Gargoyle Cave.
 
 ### Lendo as tabelas da Seção 2
 Estas tabelas mostram só as hunts que ficam mais confortáveis com o kit, as 5 melhores por faixa; todas as hunts da Seção 1 continuam funcionando. As notas mostram a mudança, por exemplo "2 → **0**". Os números de XP e loot são as estimativas da Seção 1, então trate como um mínimo: com leech você deve render mais, mas quanto ainda não foi testado.
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 
-#### Level 8–20 com leech (~7,8 horas até a próxima faixa)
+#### Level 8–20 com leech (~7,7 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~3k | ~18k | **lucro** |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~8k | ~11k | **XP** |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~8k | ~9k | **XP** |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~8k | ~6k | **XP** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~7k | ~2k | **XP** |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 2 → **0** | 2 → **2** | ~3k | ~17k | **lucro**. Ainda: monstros que invocam, evite Orc Berserker (bate metade da sua vida) |
 
-#### Level 20–30 com leech (~11 horas até a próxima faixa)
+#### Level 20–30 com leech (~10 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | **lucro** |
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~45k | **lucro** |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | **XP** |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | **XP** |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~16k | **XP** |
+| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~18k | ~5k | **XP** |
 
 #### Level 30–40 com leech (~31 horas até a próxima faixa)
 
@@ -1388,11 +1385,10 @@ Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as 
 ### Lendo as tabelas da Seção 3
 Estas tabelas mostram as hunts da Seção 1 que ficam mais confortáveis com a prey de redução de dano, as 5 melhores por faixa. As notas dizem qual criatura escolher em cada slot de prey. Os números de XP já incluem a prey de bônus de experiência.
 
-#### Level 20–30 com prey (~9,9 horas até a próxima faixa)
+#### Level 20–30 com prey (~8,3 horas até a próxima faixa)
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~8k | ~45k | **lucro**. Prey de redução de dano em Centipede, prey de XP em Crimson Frog |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | **XP**. Prey de redução de dano em Lizard Executioner, prey de XP em Lizard Swordmaster |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~25k | ~25k | **XP**. Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Cook |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~19k | ~5k | **XP**. Prey de redução de dano em Ragged Rabid Wolf, prey de XP em Rabid Wolf |
