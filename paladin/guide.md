@@ -13,6 +13,7 @@ The game has many systems that make a paladin stronger: imbuements, charms, the 
 - **Section 1a, Stealth Ring:** a ring that hides you from many monsters. Hunting ground lists.
 - **Section 1b, More spells:** stances, bigger heals and attacks, and area ammunition. Hunting ground lists.
 - **Section 1c, Skinning and dusting:** extra loot from dragon, behemoth, vampire and demon corpses, with a knife or a stake. Hunting ground lists.
+- **Section 1d, Hunting grounds behind quests:** good hunting grounds that open only after part of a quest, and the quests to do. Hunting ground lists.
 - **Section 2, Imbuements:** life and mana leech on your gear. Full hunting ground lists.
 - **Section 3, Charms and prey:** bonuses against the monsters you hunt. Hunting ground lists.
 - **Section 4, Wheel of Destiny and gems:** permanent perks from your level. Hunting ground lists.
@@ -84,29 +85,12 @@ Some hunting grounds are left out entirely: those full of summoners, or with man
 ### Which hunting grounds are listed
 A hunting ground can show up in any band where our model rates it comfortable, so the same hunting ground often appears in several bands, and its grades and numbers get better as your level goes up. When that's earlier than TibiaWiki suggests, the notes say so: those are model picks, so try them carefully.
 
-Each band shows two short lists: **Good for XP**, the 3 hunting grounds with the most experience per hour, and **Good for gold**, the 3 with the most loot per hour. Hunting grounds whose loot doesn't cover the potions they cost are left out. Both lists take only comfortable hunting grounds (Prep and Hunt of 0 or 1), and allow a 2 only when fewer than 3 qualify. A hunting ground can be in both lists. The later sections show a band only when their system changes these lists.
+Each band shows two short lists: **Good for XP**, the 3 hunting grounds with the most experience per hour, and **Good for gold**, the 3 with the most loot per hour. Hunting grounds whose loot doesn't cover the potions they cost are left out. Both lists take only comfortable hunting grounds (Prep and Hunt of 0 or 1), and allow a 2 only when fewer than 3 qualify. A hunting ground can be in both lists. The later sections show a band only when their system changes these lists. Hunting grounds that need a quest first are left out of every section except Section 1d (the Targuna Quest is the exception).
 
 ### The character the numbers assume
 The XP and loot numbers are estimates for a typical paladin: someone whose distance fighting is a little below the usual for their level (30 at level 8, 66 at 30, 100 at 90, 110 at 134, 120 at 200), shooting the best bolts an NPC sells for that level from a crossbow. A new character only reaches those skills by training offline from the start (see Section 1). Each band shows that skill and ammunition. If yours are better, you'll do better than the tables.
 
 The estimates also assume that `exevo mas san` hits about 2.5 monsters on average, and that you fight at the same pace as the knight guide's tests: walking, gathering monsters and looting take most of the time, not the attacking itself.
-
-## Access quests
-Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
-
-| Quest | Part needed: hunting grounds it opens | First needed | Premium | Where |
-|---|---|---|---|---|
-| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | needed before the Ice Islands Quest, TibiaWiki suggests level 25 for the quest: Nibelor | 8–20 | yes | Svargrond |
-| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12: Crimson Court (Targuna) | 8–20 | no | Targuna |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission: Nibelor | 8–20 | yes | Svargrond |
-| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors: Corym Mines (Venore) | 30–40 with a Stealth Ring | no | Corym Mines |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120: Crystal Grounds (Gnomegate) | 70–80 with prey | partly | Gnomegate |
-| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest: Vengoth Werewolf Cave | 80–90 with leech | yes | Yalahar |
-| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later: Oramond Fury Dungeon | 120–130 with leech | yes | Oramond |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat: Dragon Lairs (Goroma) | 130–140 with a Stealth Ring | yes | Liberty Bay |
-| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest: Deeplings Library (Fiehonja), Fiehonja deeplings | 160–170 with leech | yes | Gray Beach |
-| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest: Fenrock Dragon Lair | 200+ with leech | yes | Beregar |
-| [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | first missions, TibiaWiki suggests level 130+ for the quest: Pits of Inferno Dragon Lair | 200+ with leech | yes | Pits of Inferno |
 
 ## Section 1: Basic mechanics
 In this section you use only the basics: your bow or crossbow, two attack spells (`exori con` for one monster and `exevo mas san` for groups), the `exura` healing spells, potions and normal gear. Everything else comes later.
@@ -271,21 +255,21 @@ The table below lists the best hunting grounds a free account can use in each ba
 | 30–40 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2): P1 H1, ~16k XP/h, ~6k loot/h<br>[Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2): P1 H1, ~16k XP/h, ~25k loot/h<br>[Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2): P1 H1, ~15k XP/h, ~40k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~11k XP/h, ~85k loot/h<br>[Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2): P1 H1, ~13k XP/h, ~45k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~14k XP/h, ~45k loot/h |
 | 40–50 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~25k XP/h, ~55k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~20k XP/h, ~45k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~20k XP/h, ~45k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~11k XP/h, ~90k loot/h<br>[Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~25k XP/h, ~55k loot/h<br>[Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2): P1 H1, ~14k XP/h, ~50k loot/h |
 | 50–60 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~50k XP/h, ~110k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~40k XP/h, ~85k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~40k XP/h, ~85k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~45k XP/h, ~115k loot/h<br>[Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~25k XP/h, ~85k loot/h |
-| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~65k XP/h, ~35k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~135k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~55k XP/h, ~20k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~100k loot/h |
-| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~70k XP/h, ~40k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~65k XP/h, ~155k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~65k XP/h, ~25k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~65k XP/h, ~155k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~55k XP/h, ~115k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~110k loot/h |
-| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~80k XP/h, ~45k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~75k XP/h, ~175k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~70k XP/h, ~25k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~75k XP/h, ~175k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~60k XP/h, ~125k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~60k XP/h, ~125k loot/h |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~105k XP/h, ~60k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~100k XP/h, ~230k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~90k XP/h, ~100k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~100k XP/h, ~230k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~85k XP/h, ~170k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~85k XP/h, ~165k loot/h |
-| 100–110 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~110k XP/h, ~60k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~105k XP/h, ~240k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~100k XP/h, ~105k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~105k XP/h, ~240k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~90k XP/h, ~180k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~90k XP/h, ~175k loot/h |
-| 110–120 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~115k XP/h, ~65k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~110k XP/h, ~255k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~105k XP/h, ~115k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~110k XP/h, ~255k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~95k XP/h, ~190k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~95k XP/h, ~190k loot/h |
-| 120–130 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~120k XP/h, ~70k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~115k XP/h, ~270k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~110k XP/h, ~40k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~115k XP/h, ~270k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~100k XP/h, ~200k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~100k XP/h, ~200k loot/h |
-| 130–140 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~130k XP/h, ~75k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~290k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~120k XP/h, ~130k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~290k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 140–150 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~135k XP/h, ~75k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~300k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~125k XP/h, ~135k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~300k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 150–160 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~150k XP/h, ~85k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~330k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~135k XP/h, ~145k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~330k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 160–170 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~155k XP/h, ~85k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 170–180 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~160k XP/h, ~90k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 180–190 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~165k XP/h, ~95k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 190–200 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~170k XP/h, ~95k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
-| 200+ | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P0 H0, ~175k XP/h, ~100k loot/h<br>[Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 60–70 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~135k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~55k XP/h, ~20k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~50k XP/h, ~100k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~100k loot/h |
+| 70–80 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~65k XP/h, ~155k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~65k XP/h, ~25k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~110k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~65k XP/h, ~155k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~55k XP/h, ~115k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~110k loot/h |
+| 80–90 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~75k XP/h, ~175k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~70k XP/h, ~25k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~70k XP/h, ~75k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~75k XP/h, ~175k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~60k XP/h, ~125k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~60k XP/h, ~125k loot/h |
+| 90–100 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~100k XP/h, ~230k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~90k XP/h, ~100k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~90k XP/h, ~35k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~100k XP/h, ~230k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~85k XP/h, ~170k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~85k XP/h, ~165k loot/h |
+| 100–110 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~105k XP/h, ~240k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~100k XP/h, ~105k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~100k XP/h, ~40k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~105k XP/h, ~240k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~90k XP/h, ~180k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~90k XP/h, ~175k loot/h |
+| 110–120 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~110k XP/h, ~255k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~105k XP/h, ~115k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~105k XP/h, ~40k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~110k XP/h, ~255k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~95k XP/h, ~190k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~95k XP/h, ~190k loot/h |
+| 120–130 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~115k XP/h, ~270k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~110k XP/h, ~40k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~110k XP/h, ~120k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~115k XP/h, ~270k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~100k XP/h, ~200k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~100k XP/h, ~200k loot/h |
+| 130–140 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~290k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~120k XP/h, ~130k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~125k XP/h, ~290k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 140–150 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~300k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~125k XP/h, ~135k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~130k XP/h, ~300k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 150–160 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~330k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P1 H1, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~330k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 160–170 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 170–180 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 180–190 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 190–200 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
+| 200+ | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): P0 H0, ~135k XP/h, ~145k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P0 H0, ~120k XP/h, ~45k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~145k XP/h, ~340k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P0 H0, ~110k XP/h, ~220k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P0 H0, ~110k XP/h, ~215k loot/h |
 
 ### Reading the hunting ground tables
 - **Hunting ground:** the name links to the entrance on the tibiamaps.io map. ✓ means the hunting ground was tested at that level.
@@ -301,7 +285,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 8–20 (~7.1 hours to the next band)
 **Typical paladin in this band:** distance fighting 30, Crossbow with Bolts.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
 
 **Good for XP**
 
@@ -315,14 +299,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~2k | ~30k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~4k | ~30k | Thais 188 / ~47 s | Sells: Honeycomb |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~2k | ~15k | Farmine 98 / ~24 s | Earlier than TibiaWiki suggests (level 20). Watch: Gnarlhound hits 28% of HP. Sells: Shaggy Tail |
+| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~3k | ~13k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~8k | ~10k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
 
 #### Level 20–30 (~14 hours to the next band)
 **Typical paladin in this band:** distance fighting 52, Crossbow with Bolts.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
 
 **Good for XP**
 
@@ -336,14 +320,12 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~45k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~5k | ~25k | Svargrond, on foot over the ice | Earlier than TibiaWiki suggests (level 30). Watch: Mammoth hits 27% of HP. Sells: Winter Wolf Fur |
+| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~5k | ~20k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 30–40 (~20 hours to the next band)
 **Typical paladin in this band:** distance fighting 66, Crossbow with Piercing Bolts.
-
-**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -357,14 +339,12 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~90k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~85k | Thais 188 / ~47 s | Sells: Honeycomb |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~9k | ~60k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~11k | ~55k | Svargrond, on foot over the ice | Watch: Mammoth hits 20% of HP. Sells: Winter Wolf Fur |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~20k | ~55k | Edron 129 / ~30 s | Earlier than TibiaWiki suggests (level 40). Watch: Wyvern hits 27% of HP. Sells: Wyvern Talisman |
 
 #### Level 40–50 (~35 hours to the next band)
 **Typical paladin in this band:** distance fighting 72, Crossbow with Piercing Bolts.
-
-**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -378,14 +358,12 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~100k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~90k | Thais 188 / ~47 s | Sells: Honeycomb |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~10k | ~65k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~12k | ~60k | Svargrond, on foot over the ice | Watch: Mammoth hits 16% of HP. Sells: Winter Wolf Fur |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~25k | ~60k | Edron 129 / ~30 s | Watch: Wyvern hits 21% of HP. Sells: Wyvern Talisman |
 
 #### Level 50–60 (~30 hours to the next band)
 **Typical paladin in this band:** distance fighting 77, Crossbow with Piercing Bolts.
-
-**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -399,85 +377,77 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~50k | ~125k | Edron 129 / ~30 s | Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~45k | ~115k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~20k | ~110k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 
-#### Level 60–70 (~30 hours to the next band)
+#### Level 60–70 (~31 hours to the next band)
 **Typical paladin in this band:** distance fighting 83, Crossbow with Power Bolts.
-
-**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~75k | ~30k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Bat hits 20% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~60k | ~150k | Edron 129 / ~30 s | Watch: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~60k | ~135k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~60k | ~150k | Edron 129 / ~30 s | Watch: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~20k | ~145k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~35k | ~145k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 21% of HP, slows or summons. Sells: Piece of Swampling Wood |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~60k | ~140k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
 
-#### Level 70–80 (~36 hours to the next band)
+#### Level 70–80 (~37 hours to the next band)
 **Typical paladin in this band:** distance fighting 89, Crossbow with Power Bolts.
-
-**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~80k | ~35k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Bat hits 17% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~70k | ~165k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~65k | ~155k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~70k | ~165k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~165k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~40k | ~155k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 19% of HP, slows or summons. Sells: Piece of Swampling Wood |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~65k | ~155k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 
-#### Level 80–90 (~44 hours to the next band)
+#### Level 80–90 (~45 hours to the next band)
 **Typical paladin in this band:** distance fighting 94, Crossbow with Power Bolts.
-
-**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~80k | ~55k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 29% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~75k | ~175k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~180k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~75k | ~175k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~45k | ~170k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 17% of HP, slows or summons. Sells: Piece of Swampling Wood |
 
-#### Level 90–100 (~42 hours to the next band)
+#### Level 90–100 (~43 hours to the next band)
 **Typical paladin in this band:** distance fighting 100, Crossbow with Prismatic Bolts.
-
-**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~105k | ~75k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Broken Shaper hits 20% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 18% of HP. Sells: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~100k | ~35k | Port Hope 421 / ~1.8 min | Watch: Giant Spider hits 30% of HP. Sells: Tarantula Egg |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~100k | ~230k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
@@ -485,12 +455,10 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~235k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~100k | ~230k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 
-#### Level 100–110 (~48 hours to the next band)
+#### Level 100–110 (~49 hours to the next band)
 **Typical paladin in this band:** distance fighting 102, Crossbow with Prismatic Bolts.
-
-**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
 
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
 
@@ -499,8 +467,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~110k | ~80k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 23% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 17% of HP. Sells: Stonerefiner's Skull |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~110k | ~95k | Thais 81 / ~20 s | Watch: Animated Ogre Brute hits 29% of HP. Sells: Broken Shamanic Staff |
+| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~105k | ~40k | Port Hope 421 / ~1.8 min | Watch: Giant Spider hits 27% of HP. Sells: Tarantula Egg |
 
 **Good for gold**
 
@@ -508,7 +476,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~105k | ~240k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 
 #### Level 110–120 (~52 hours to the next band)
 **Typical paladin in this band:** distance fighting 105, Crossbow with Prismatic Bolts.
@@ -527,7 +495,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~110k | ~255k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~95k | ~190k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 120–130 (~56 hours to the next band)
 **Typical paladin in this band:** distance fighting 107, Crossbow with Prismatic Bolts.
@@ -546,7 +514,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~115k | ~270k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~100k | ~200k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 130–140 (~60 hours to the next band)
 **Typical paladin in this band:** distance fighting 109, Royal Crossbow with Prismatic Bolts.
@@ -565,20 +533,18 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~125k | ~290k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 140–150 (~56 hours to the next band)
+#### Level 140–150 (~61 hours to the next band)
 **Typical paladin in this band:** distance fighting 111, Royal Crossbow with Prismatic Bolts.
-
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~195k | ~75k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 28% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~190k | ~35k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 29% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~160k | ~120k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 25% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~155k | ~55k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 23% of HP |
 
 **Good for gold**
 
@@ -586,12 +552,10 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~130k | ~300k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 150–160 (~59 hours to the next band)
+#### Level 150–160 (~64 hours to the next band)
 **Typical paladin in this band:** distance fighting 112, Royal Crossbow with Spectral Bolts.
-
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
 
@@ -599,9 +563,9 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~215k | ~85k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 27% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~205k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 27% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~175k | ~135k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 23% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~170k | ~65k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 21% of HP |
 
 **Good for gold**
 
@@ -609,112 +573,102 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~330k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~240k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 19% of HP. Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 160–170 (~64 hours to the next band)
+#### Level 160–170 (~70 hours to the next band)
 **Typical paladin in this band:** distance fighting 114, Royal Crossbow with Spectral Bolts.
 
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
-
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~225k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 25% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~215k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 26% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~180k | ~140k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 22% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~175k | ~65k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 20% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~340k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~140k | ~245k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 18% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 170–180 (~70 hours to the next band)
+#### Level 170–180 (~76 hours to the next band)
 **Typical paladin in this band:** distance fighting 115, Royal Crossbow with Spectral Bolts.
 
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
-
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~230k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 24% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~225k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 24% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~185k | ~145k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 21% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~180k | ~65k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 19% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~340k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~145k | ~255k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 17% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 180–190 (~76 hours to the next band)
+#### Level 180–190 (~82 hours to the next band)
 **Typical paladin in this band:** distance fighting 117, Royal Crossbow with Spectral Bolts.
 
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
-
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~240k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 22% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~230k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 23% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~195k | ~150k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 20% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~190k | ~70k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 18% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~340k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~150k | ~265k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 16% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 190–200 (~81 hours to the next band)
+#### Level 190–200 (~88 hours to the next band)
 **Typical paladin in this band:** distance fighting 118, Royal Crossbow with Spectral Bolts.
-
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~245k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 21% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~240k | ~45k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 22% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~200k | ~155k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Watch: Putrid Mummy hits 19% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~195k | ~70k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 17% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~340k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 | 0 | ~155k | ~275k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 200+
 **Typical paladin in this band:** distance fighting 120, Royal Crossbow with Spectral Bolts.
 
-**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)).
-
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~255k | ~100k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 20% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~250k | ~45k | not computed | Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 21% of HP. Sells: Stone Skin Amulet |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~205k | ~160k | Darashia 267 / ~1.1 min | Watch: Putrid Mummy hits 18% of HP, slows or summons. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~200k | ~75k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 16% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~145k | ~340k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 | 0 | ~160k | ~280k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 ## Section 1a: Stealth Ring
 A **Stealth Ring** makes you invisible for 10 minutes. Many monsters can't see invisible players, so they simply ignore you. Players report that these monsters don't attack you or call helpers even while you're hitting them. You can kill them without taking any damage. Cyclops, forest furies, gloom wolves, amazons and barbarians are some of them. Stronger monsters, like dragons and dwarf guards, can see invisible players and attack you as usual.
@@ -765,9 +719,9 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~2k | ~30k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~4k | ~30k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~4k | ~17k | Edron 135 / ~34 s | Earlier than TibiaWiki suggests (level 20). Can't see you: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Sells: Bone Club |
+| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 → **0** | 0 → **0** | ~3k | ~13k | Venore 262 / ~1.1 min | Can't see you: Swamp Troll. Sells: Medicine Pouch |
 
 #### Level 20–30 with a Stealth Ring (~14 hours to the next band)
 
@@ -784,72 +738,72 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **0** | 3 → **0** | ~4k | ~55k | Kazordoon 137 / ~35 s | Earlier than TibiaWiki suggests (level 30). Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~3k | ~45k | Svargrond 182 / ~46 s | Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
+| [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 1 → **0** | 3 → **0** | ~6k | ~25k | Edron 135 / ~34 s | Can't see you: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Sells: Bone Club |
 
-#### Level 30–40 with a Stealth Ring (~18 hours to the next band)
+#### Level 30–40 with a Stealth Ring (~20 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~25k | ~14k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~20k | ~6k | Thais 236 / ~59 s | Can't see you: Cave Rat, Rabid Wolf, Ragged Rabid Wolf. Sells: Arrow |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~20k | ~55k | Edron 129 / ~30 s | Earlier than TibiaWiki suggests (level 40). Still: Wyvern hits 27% of HP. Sells: Wyvern Talisman |
+| [Villa Scapula](https://tibiamaps.io/map#32821,31964,7:2) | – → **0** | – → **0** | ~20k | ~2k | not computed | Earlier than TibiaWiki suggests (level 50). Not listed in Section 1: without the ring it is too annoying. Can't see you: Bat, Slime, Skeleton. Sells: Heavy Old Tome |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~9k | ~130k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~90k | Svargrond 182 / ~46 s | Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
+| [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 1 → **0** | 3 → **0** | ~12k | ~60k | Port Hope 405 / ~1.7 min | Can't see you: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Sells: Voodoo Doll |
 
-#### Level 40–50 with a Stealth Ring (~33 hours to the next band)
+#### Level 40–50 with a Stealth Ring (~35 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~30k | ~16k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~25k | ~60k | Edron 129 / ~30 s | Still: Wyvern hits 21% of HP. Sells: Wyvern Talisman |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~25k | ~6k | Thais 236 / ~59 s | Can't see you: Cave Rat, Rabid Wolf, Ragged Rabid Wolf. Sells: Arrow |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 1 → **1** | ~25k | ~55k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Still: Wyvern hits 21% of HP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 3 → **1** | ~15k | ~115k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Still: Wyvern hits 21% of HP. Sells: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~100k | Svargrond 182 / ~46 s | Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~90k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
+| [Dworc Camp](https://tibiamaps.io/map#32900,32792,7:2) | 1 → **0** | 3 → **0** | ~13k | ~65k | Port Hope 405 / ~1.7 min | Can't see you: Dworc Venomsniper, Dworc Fleshhunter, Dworc Voodoomaster. Sells: Voodoo Doll |
 
-#### Level 50–60 with a Stealth Ring (~28 hours to the next band)
+#### Level 50–60 with a Stealth Ring (~29 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~55k | ~30k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~50k | ~125k | Edron 129 / ~30 s | Still: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 1 → **1** | ~50k | ~110k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Still: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
+| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 2 → **0** | 2 → **0** | ~45k | ~17k | Venore 543 / ~2.3 min | Earlier than TibiaWiki suggests (level 60). Can't see you: Ghost, Demon Skeleton. Sells: Battle Shield |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 3 → **1** | ~30k | ~235k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Still: Wyvern hits 18% of HP. Sells: Gloom Wolf Fur |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~9k | ~130k | Svargrond 182 / ~46 s | Can't see you: Penguin, Polar Bear, Winter Wolf. Sells: Winter Wolf Fur |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~18k | ~125k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~50k | ~125k | Edron 129 / ~30 s | Still: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 → **0** | 0 → **0** | ~20k | ~110k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
-#### Level 60–70 with a Stealth Ring (~30 hours to the next band)
+#### Level 60–70 with a Stealth Ring (~31 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~75k | ~30k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Still: Exotic Bat hits 20% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~65k | ~35k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~60k | ~150k | Edron 129 / ~30 s | Still: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 1 → **1** | ~60k | ~135k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Still: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
 
 **Good for gold**
 
@@ -857,17 +811,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 3 → **1** | ~40k | ~285k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Still: Wyvern hits 15% of HP. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~60k | ~150k | Edron 129 / ~30 s | Still: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~20k | ~145k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~35k | ~145k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
-#### Level 70–80 with a Stealth Ring (~36 hours to the next band)
+#### Level 70–80 with a Stealth Ring (~37 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~80k | ~35k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Still: Exotic Bat hits 17% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~70k | ~165k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~65k | ~155k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Sells: Wyvern Talisman |
 
 **Good for gold**
 
@@ -875,17 +829,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~45k | ~320k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~70k | ~165k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~165k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~155k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
-#### Level 80–90 with a Stealth Ring (~44 hours to the next band)
+#### Level 80–90 with a Stealth Ring (~45 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~80k | ~55k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Still: Twisted Shaper hits 29% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~80k | ~45k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~75k | ~180k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~75k | ~175k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Sells: Wyvern Talisman |
 
 **Good for gold**
 
@@ -893,17 +847,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~45k | ~350k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~75k | ~180k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~180k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~45k | ~170k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
-#### Level 90–100 with a Stealth Ring (~42 hours to the next band)
+#### Level 90–100 with a Stealth Ring (~43 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~105k | ~75k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Still: Broken Shaper hits 20% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~105k | ~60k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 → **1** | 1 → **1** | ~100k | ~35k | Port Hope 421 / ~1.8 min | Can't see you: Poison Spider, Tarantula. Still: Giant Spider hits 30% of HP. Sells: Tarantula Egg |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~100k | ~230k | Kazordoon 137 / ~34 s | Gloom wolf days are great for money and bad for XP. Can't see you: Poacher, Wolf. Sells: Wyvern Talisman |
 
 **Good for gold**
 
@@ -911,17 +865,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~60k | ~460k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~235k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
-#### Level 100–110 with a Stealth Ring (~48 hours to the next band)
+#### Level 100–110 with a Stealth Ring (~49 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~110k | ~80k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Still: Twisted Shaper hits 23% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~110k | ~60k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **1** | 1 → **1** | ~110k | ~95k | Thais 81 / ~20 s | Can't see you: Animated Rotworm, Animated Cyclops, Museum Stone Golem. Still: Animated Ogre Brute hits 29% of HP. Sells: Broken Shamanic Staff |
+| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 → **1** | 1 → **1** | ~105k | ~40k | Port Hope 421 / ~1.8 min | Can't see you: Poison Spider, Tarantula. Still: Giant Spider hits 27% of HP. Sells: Tarantula Egg |
 
 **Good for gold**
 
@@ -929,7 +883,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~65k | ~495k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 
 #### Level 110–120 with a Stealth Ring (~52 hours to the next band)
 
@@ -947,7 +901,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~70k | ~525k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~95k | ~190k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
 #### Level 120–130 with a Stealth Ring (~53 hours to the next band)
 
@@ -965,17 +919,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~555k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~100k | ~200k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 130–140 with a Stealth Ring (~55 hours to the next band)
+#### Level 130–140 with a Stealth Ring (~57 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~165k | ~35k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 28% of HP. Sells: Green Dragon Leather |
 | [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 → **0** | 2 → **1** | ~165k | ~55k | Venore 527 / ~2.2 min | Can't see you: Skeleton. Sells: Wyvern Talisman |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~150k | ~115k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 27% of HP. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~150k | ~55k | Issavi ~10 / ~5 s (+ shell) | Still: Exotic Cave Spider hits 25% of HP |
 
 **Good for gold**
 
@@ -983,17 +937,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 140–150 with a Stealth Ring (~55 hours to the next band)
+#### Level 140–150 with a Stealth Ring (~59 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~195k | ~75k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 28% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~190k | ~35k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 29% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~175k | ~35k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 27% of HP. Sells: Green Dragon Leather |
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 → **0** | 2 → **1** | ~170k | ~55k | Venore 527 / ~2.2 min | Can't see you: Skeleton. Sells: Wyvern Talisman |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~160k | ~120k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 25% of HP. Sells: Little Bowl of Myrrh |
 
 **Good for gold**
 
@@ -1001,17 +955,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 150–160 with a Stealth Ring (~57 hours to the next band)
+#### Level 150–160 with a Stealth Ring (~63 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~215k | ~85k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 27% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~205k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 27% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~190k | ~40k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 25% of HP. Sells: Green Dragon Leather |
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 → **0** | 2 → **1** | ~180k | ~60k | Venore 527 / ~2.2 min | Can't see you: Skeleton. Sells: Wyvern Talisman |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~175k | ~135k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 23% of HP. Sells: Little Bowl of Myrrh |
 
 **Good for gold**
 
@@ -1019,79 +973,79 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **1** | 1 → **1** | ~135k | ~240k | Darashia 99 / ~25 s, then Gnomegate teleport | Still: Earth Elemental hits 19% of HP. Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 160–170 with a Stealth Ring (~63 hours to the next band)
+#### Level 160–170 with a Stealth Ring (~69 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~225k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 25% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~215k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 26% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~200k | ~40k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 23% of HP. Sells: Green Dragon Leather |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~180k | ~140k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 22% of HP. Sells: Little Bowl of Myrrh |
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 0 → **0** | 2 → **1** | ~180k | ~60k | Venore 527 / ~2.2 min | Can't see you: Skeleton. Sells: Wyvern Talisman |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **1** | 1 → **1** | ~140k | ~245k | Darashia 99 / ~25 s, then Gnomegate teleport | Still: Earth Elemental hits 18% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 170–180 with a Stealth Ring (~68 hours to the next band)
+#### Level 170–180 with a Stealth Ring (~76 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~230k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 24% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~225k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 24% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~205k | ~40k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 22% of HP. Sells: Green Dragon Leather |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~185k | ~145k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 21% of HP. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~180k | ~65k | Issavi ~10 / ~5 s (+ shell) | Still: Exotic Cave Spider hits 19% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **1** | 1 → **1** | ~145k | ~255k | Darashia 99 / ~25 s, then Gnomegate teleport | Still: Earth Elemental hits 17% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 180–190 with a Stealth Ring (~73 hours to the next band)
+#### Level 180–190 with a Stealth Ring (~82 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~240k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 22% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~230k | ~40k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 23% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~215k | ~40k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 21% of HP. Sells: Green Dragon Leather |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~195k | ~150k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 20% of HP. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~190k | ~70k | Issavi ~10 / ~5 s (+ shell) | Still: Exotic Cave Spider hits 18% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **1** | 1 → **1** | ~150k | ~265k | Darashia 99 / ~25 s, then Gnomegate teleport | Still: Earth Elemental hits 16% of HP. Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
-#### Level 190–200 with a Stealth Ring (~79 hours to the next band)
+#### Level 190–200 with a Stealth Ring (~88 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~245k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 21% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~240k | ~45k | not computed | Earlier than TibiaWiki suggests (level 250). Still: Misguided Thief hits 22% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~220k | ~45k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 20% of HP. Sells: Green Dragon Leather |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~200k | ~155k | Darashia 267 / ~1.1 min | Earlier than TibiaWiki suggests (level 200). Still: Putrid Mummy hits 19% of HP. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~195k | ~70k | Issavi ~10 / ~5 s (+ shell) | Still: Exotic Cave Spider hits 17% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~155k | ~275k | Darashia 99 / ~25 s, then Gnomegate teleport | Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
 #### Level 200+ with a Stealth Ring
 
@@ -1099,17 +1053,17 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~255k | ~100k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Can't see you: War Wolf. Still: Werewolf hits 20% of HP. Sells: Werewolf Fur |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~250k | ~45k | not computed | Still: Misguided Thief hits 21% of HP. Sells: Stone Skin Amulet |
-| [Dragon Lairs (Goroma)](https://tibiamaps.io/map#32063,32607,9:2) | 2 → **1** | 2 → **1** | ~225k | ~45k | Liberty Bay, Jack Fate's boat to Goroma | Can't see you: Fire Devil. Still: Dragon hits 19% of HP. Sells: Green Dragon Leather |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~205k | ~160k | Darashia 267 / ~1.1 min | Still: Putrid Mummy hits 18% of HP. Sells: Little Bowl of Myrrh |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~200k | ~75k | Issavi ~10 / ~5 s (+ shell) | Still: Exotic Cave Spider hits 16% of HP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~160k | ~280k | Darashia 99 / ~25 s, then Gnomegate teleport | Sells: Wyvern Talisman |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Can't see you: Leaf Golem, Wilting Leaf Golem, Forest Fury. Sells: Elven Hoof |
 
 ## Section 1b: More spells
 Section 1 uses only `exori con`, `exevo mas san` and the `exura` spells on purpose: every extra spell is one more button to watch during the hunt. But a few of them make hunting calmer once you're used to the basics. All of these need a premium account.
@@ -1147,6 +1101,24 @@ Things on the floor can stop monsters from reaching you while you kite:
 ### Reading the Section 1b tables
 These tables grade the Section 1 hunting grounds with Divine Defiance's dodge and list the 3 best for XP and the 3 best for gold per band. The dodge only works against monsters that aren't next to you, so it changes few grades. The XP and loot numbers are the Section 1 estimates.
 
+#### Level 20–30 with Divine Defiance (~14 hours to the next band)
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~9k |  |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~14k |  |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~12k | ~16k |  |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~5k | ~25k | Earlier than TibiaWiki suggests (level 30) |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 2 → **1** | 2 → **1** | ~6k | ~20k | Earlier than TibiaWiki suggests (level 50) |
+
 #### Level 30–40 with Divine Defiance (~18 hours to the next band)
 
 **Good for XP**
@@ -1161,9 +1133,9 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~90k |  |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~9k | ~60k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~11k | ~55k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~20k | ~55k | Earlier than TibiaWiki suggests (level 40) |
 
 #### Level 40–50 with Divine Defiance (~34 hours to the next band)
 
@@ -1179,29 +1151,29 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~100k |  |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~90k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~10k | ~65k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~12k | ~60k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~25k | ~60k |  |
 
-#### Level 50–60 with Divine Defiance (~28 hours to the next band)
+#### Level 50–60 with Divine Defiance (~30 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~55k | ~30k | Earlier than TibiaWiki suggests (level 80) |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~50k | ~125k |  |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 1 → **1** | ~50k | ~110k | Gloom wolf days are great for money and bad for XP |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **1** | 2 → **1** | ~40k | ~80k | Still: skip Vampire (hits half your HP) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~9k | ~130k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~18k | ~125k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~50k | ~125k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **1** | 2 → **1** | ~30k | ~120k | Still: skip Haunted Treeling (hits half your HP) |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **1** | 1 → **1** | ~45k | ~115k | Gloom wolf days are great for money and bad for XP |
 
-#### Level 70–80 with Divine Defiance (~35 hours to the next band)
+#### Level 70–80 with Divine Defiance (~36 hours to the next band)
 
 **Good for XP**
 
@@ -1209,15 +1181,15 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 |---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~80k | ~35k | Earlier than TibiaWiki suggests (level 100) |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **1** | 2 → **1** | ~70k | ~50k | Earlier than TibiaWiki suggests (level 120) |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **1** | 1 → **1** | ~70k | ~40k | Earlier than TibiaWiki suggests (level 80) |
+| [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 2 → **1** | 3 → **1** | ~70k | ~45k | Earlier than TibiaWiki suggests (level 100). Still: summoners, skip Hellhound (hits half your HP) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~70k | ~165k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~165k |  |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **1** | 1 → **1** | ~40k | ~155k |  |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~65k | ~155k | Gloom wolf days are great for money and bad for XP |
 
 #### Level 100–110 with Divine Defiance (~45 hours to the next band)
 
@@ -1235,7 +1207,7 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~105k | ~240k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k |  |
 
 #### Level 110–120 with Divine Defiance (~49 hours to the next band)
 
@@ -1253,17 +1225,17 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~110k | ~255k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~95k | ~190k |  |
 
-#### Level 130–140 with Divine Defiance (~51 hours to the next band)
+#### Level 130–140 with Divine Defiance (~55 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~190k | ~75k |  |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **1** | 2 → **1** | ~180k | ~35k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~150k | ~115k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~150k | ~55k |  |
 
 **Good for gold**
 
@@ -1271,25 +1243,25 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~125k | ~290k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 190–200 with Divine Defiance (~77 hours to the next band)
+#### Level 190–200 with Divine Defiance (~82 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~245k | ~95k |  |
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **1** | 2 → **1** | ~240k | ~105k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~240k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~240k | ~45k | Earlier than TibiaWiki suggests (level 250) |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~200k | ~155k | Earlier than TibiaWiki suggests (level 200) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~155k | ~275k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
 #### Level 200+ with Divine Defiance
 
@@ -1297,17 +1269,17 @@ These tables grade the Section 1 hunting grounds with Divine Defiance's dodge an
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~275k | ~190k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~260k | ~165k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~255k | ~100k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~250k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~250k | ~45k |  |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~205k | ~160k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~160k | ~280k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
 ## Section 1c: Skinning and dusting
 Some monsters leave something extra if you use the right tool on their corpse: dragons give leather, vampires give dust. Most tries give nothing, but a few of these products sell for thousands of gold on the Market, so at the right hunting grounds they can double your loot. It costs one extra click per kill and doesn't make any hunting ground safer, so this section only lists the hunting grounds where that click pays well.
@@ -1683,6 +1655,426 @@ These tables list the Section 1 hunting grounds where skinning or dusting adds a
 | [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 1 | 1 | ~65k | ~60k → **~75k** | not computed | Stake: Vampire |
 | [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 1 | 1 | ~45k | ~45k → **~70k** | Edron 238 / ~1.0 min | Stake: Vampire |
 
+## Section 1d: Hunting grounds behind quests
+The other sections leave out every hunting ground that needs a quest first, because quests take time and many players find them a chore. The Targuna Quest is the one exception, since everyone on the island does it anyway. This section lists those hunting grounds, graded like Section 1, with the same two lists per band. When Section 1a makes one of them easier, its note says so.
+
+### Access quests
+The quests these hunting grounds need, in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. Each band's **Unlock first** line repeats the ones its hunting grounds need.
+
+| Quest | Part needed: hunting grounds it opens | First needed | Premium | Where |
+|---|---|---|---|---|
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | for Buddel's boat, TibiaWiki suggests level 25 for the quest: Hrodmir Stone Golem Caves, Tyrsung<br>needed before the Ice Islands Quest, TibiaWiki suggests level 25 for the quest: Nibelor<br>for Buddel's boat, or walk over the Formorgar Glacier, TibiaWiki suggests level 25 for the quest: Bittermor barbarians | 8–20 | yes | Svargrond |
+| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | TibiaWiki suggests level 61 for the quest: Sea Serpent Area | 8–20 | yes | Sea Serpent Area |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission: Nibelor<br>"Nibelor 2" mission started, TibiaWiki suggests level 130+ for the quest: Tyrsung | 8–20 | yes | Svargrond |
+| [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) | started: ask Ongulf for a mission, which opens the doors to the elevators: Zao Steppe, Gnarlhound Caves, Zao Terramite Caves, Killer Caiman Cave (Farmine), Farmine Mines | 8–20 | yes | Farmine |
+| [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | TibiaWiki suggests level 100 for the quest: Seacrest Grounds | 8–20 | yes | Seacrest Grounds |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold: Meriana Gargoyle Cave | 20–30 | yes | Liberty Bay |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors: Corym Mines (Venore) | 60–70 | no | Corym Mines |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120: Crystal Grounds (Gnomegate) | 90–100 | partly | Gnomegate |
+| [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | for the caverns, TibiaWiki suggests level 40 for the quest: Treasure Island | 90–100 | yes | Treasure Island |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest: Vengoth Werewolf Cave | 140–150 | yes | Yalahar |
+| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed: Old Masonry | 150–160 | yes | Halls of Hope |
+
+#### Level 8–20 behind quests (~13 hours to the next band)
+
+**Unlock first:** [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) (for Seacrest Grounds; TibiaWiki suggests level 100 for the quest), [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) (for Sea Serpent Area; TibiaWiki suggests level 61 for the quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves; TibiaWiki suggests level 25 for the quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Zao Steppe, Gnarlhound Caves).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 0 | 2 | ~5k | ~5k | Rathleton 104 / ~25 s | Earlier than TibiaWiki suggests (level 250). [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest). Watch: skip Seacrest Serpent (hits half your HP). Sells: Bloody Pincers |
+| [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 0 | 2 | ~4k | ~9k | Svargrond 103 / ~26 s, Captain Haba's sea serpent boat | Earlier than TibiaWiki suggests (level 130). Needs [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest). Watch: skip Sea Serpent (hits half your HP). Sells: Bloody Pincers |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 | 2 | ~4k | ~4k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Earlier than TibiaWiki suggests (level 25). Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Watch: Stone Golem hits 45% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~2k | ~30k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 2 | ~3k | ~16k | Farmine 205 / ~51 s | Earlier than TibiaWiki suggests (level 40). To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Gnarlhound hits 28% of HP, summoners, skip Orc Berserker (hits half your HP). Sells: Sandcrawler Shell. With a Stealth Ring: Prep 0, Hunt 2 |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~2k | ~15k | Farmine 98 / ~24 s | Earlier than TibiaWiki suggests (level 20). To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Gnarlhound hits 28% of HP. Sells: Shaggy Tail. With a Stealth Ring: Prep 0, Hunt 0 |
+
+#### Level 20–30 behind quests (~31 hours to the next band)
+
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves; TibiaWiki suggests level 25 for the quest), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Zao Terramite Caves, Gnarlhound Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~6k | ~6k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Watch: Stone Golem hits 27% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~6k | ~11k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Earlier than TibiaWiki suggests (level 30). Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Thornback Tortoise hits 28% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~5k | ~13k | Farmine 255 / ~1.1 min | Earlier than TibiaWiki suggests (level 30). To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 30% of HP. Sells: Sandcrawler Shell |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~45k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~4k | ~25k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Gnarlhound hits 17% of HP. Sells: Shaggy Tail. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~5k | ~13k | Farmine 255 / ~1.1 min | Earlier than TibiaWiki suggests (level 30). To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 30% of HP. Sells: Sandcrawler Shell |
+
+#### Level 30–40 behind quests (~30 hours to the next band)
+
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Zao Terramite Caves, Gnarlhound Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~16k | ~15k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Watch: Stone Golem hits 20% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~14k | ~30k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Thornback Tortoise hits 21% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~13k | ~30k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 22% of HP. Sells: Sandcrawler Shell |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~90k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~9k | ~60k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~13k | ~30k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 22% of HP. Sells: Sandcrawler Shell |
+
+#### Level 40–50 behind quests (~47 hours to the next band)
+
+**Unlock first:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves, Zao Terramite Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~20k | ~5k | Farmine 117 / ~30 s | Earlier than TibiaWiki suggests (level 60). To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Killer Caiman hits 27% of HP |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~17k | ~17k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Watch: Stone Golem hits 16% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~16k | ~30k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Thornback Tortoise hits 17% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 0, Hunt 0 |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~100k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~10k | ~65k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~14k | ~35k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 18% of HP. Sells: Sandcrawler Shell |
+
+#### Level 50–60 behind quests (~41 hours to the next band)
+
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves, Tyrsung), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) ("Nibelor 2" mission started, for Tyrsung; TibiaWiki suggests level 130+ for the quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves, Zao Terramite Caves).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~35k | ~35k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~35k | ~65k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~35k | ~15k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 135 / ~34 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the "Nibelor 2" mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) started. Watch: Frost Giant hits 29% of HP. Sells: Ice Cube. With a Stealth Ring: Prep 0, Hunt 0 |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~25k | ~65k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Terramite hits 15% of HP. Sells: Sandcrawler Shell |
+
+#### Level 60–70 behind quests (~37 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves, Zao Terramite Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~55k | ~14k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Killer Caiman hits 19% of HP |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~45k | ~40k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~20k | ~145k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~30k | ~80k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Sandcrawler Shell |
+
+#### Level 70–80 behind quests (~44 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves, Zao Terramite Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~60k | ~15k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Killer Caiman hits 17% of HP |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~50k | ~20k | Farmine 29 / ~7 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Gozzler hits 27% of HP. Sells: Stone Wing |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~165k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~35k | ~90k | Farmine 255 / ~1.1 min | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Sandcrawler Shell |
+
+#### Level 80–90 behind quests (~52 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Farmine Mines, Gnarlhound Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~65k | ~17k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~55k | ~20k | Farmine 29 / ~7 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Watch: Gozzler hits 24% of HP. Sells: Stone Wing |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~180k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~50k | ~95k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 90–100 behind quests (~46 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves), [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (for the caverns, for Treasure Island).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 18% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~95k | ~165k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 30% of HP. Sells: Wyvern Talisman |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~85k | ~20k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~95k | ~165k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 30% of HP. Sells: Wyvern Talisman |
+| [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~135k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Watch: Zombie hits 17% of HP. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
+
+#### Level 100–110 behind quests (~53 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves), [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (for the caverns, for Treasure Island).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 17% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~100k | ~175k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 27% of HP. Sells: Wyvern Talisman |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~90k | ~25k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~100k | ~175k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 27% of HP. Sells: Wyvern Talisman |
+| [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~80k | ~145k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Watch: Zombie hits 15% of HP. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
+
+#### Level 110–120 behind quests (~60 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves), [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (for the caverns, for Treasure Island).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 15% of HP. Sells: Stonerefiner's Skull. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~105k | ~185k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 25% of HP. Sells: Wyvern Talisman |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~95k | ~25k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~105k | ~185k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 25% of HP. Sells: Wyvern Talisman |
+| [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 0 | 0 | ~80k | ~145k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain |
+
+#### Level 120–130 behind quests (~68 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~120k | ~70k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~110k | ~195k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 23% of HP. Sells: Wyvern Talisman |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~100k | ~25k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~110k | ~195k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 23% of HP. Sells: Wyvern Talisman |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~150k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 130–140 behind quests (~74 hours to the next band)
+
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Killer Caiman Cave (Farmine), Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~130k | ~75k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~120k | ~210k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 21% of HP. Sells: Wyvern Talisman |
+| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~110k | ~25k | Farmine 117 / ~30 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~120k | ~210k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 21% of HP. Sells: Wyvern Talisman |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 140–150 behind quests (~67 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~195k | ~75k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 28% of HP. Sells: Werewolf Fur |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~135k | ~75k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~125k | ~215k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 20% of HP. Sells: Wyvern Talisman |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~125k | ~215k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 20% of HP. Sells: Wyvern Talisman |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 150–160 behind quests (~68 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~215k | ~85k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 27% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~150k | ~75k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 29% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~150k | ~85k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~240k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 19% of HP. Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 160–170 behind quests (~74 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~225k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 25% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~155k | ~80k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 27% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~155k | ~85k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~140k | ~245k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 18% of HP. Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 170–180 behind quests (~81 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~230k | ~90k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 24% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~160k | ~80k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 26% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~160k | ~90k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~145k | ~255k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 17% of HP. Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 180–190 behind quests (~88 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~240k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 22% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~165k | ~85k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 24% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~165k | ~95k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~150k | ~265k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Watch: Earth Elemental hits 16% of HP. Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 190–200 behind quests (~94 hours to the next band)
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~245k | ~95k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 21% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~170k | ~85k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 23% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~170k | ~95k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 | 0 | ~155k | ~275k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 200+ behind quests
+
+**Unlock first:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth Werewolf Cave), [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry), [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)), [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (from level 80; TibiaWiki suggests 120, for Crystal Grounds (Gnomegate)), [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~255k | ~100k | Yalahar 158 / ~40 s, Harlow's boat to Vengoth, then 169 / ~42 s | Harlow's boat needs mission 4 of the [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Watch: Werewolf hits 20% of HP. Sells: Werewolf Fur |
+| [Old Masonry](https://tibiamaps.io/map#32805,31657,8:2) | 1 | 1 | ~180k | ~90k | Venore 522 / ~2.2 min, then Halls of Hope portal, then the Death Portal | Warlocks; Needs the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal in the Halls of Hope). Watch: Vile Grandmaster hits 22% of HP, summoners. Sells: Ancient Belt Buckle |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~175k | ~100k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 | 0 | ~160k | ~280k | Darashia 99 / ~25 s, then Gnomegate teleport | Wyverns and earth elementals; needs [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (Gnomegate access). Sells: Wyvern Talisman |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Farmine 98 / ~24 s | To reach Farmine, take the boat from Edron to Cormaya, then the steamboat. Sells: Shaggy Tail |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
 ## Section 2: Imbuements
 An **imbuement** is a temporary enchantment you add to a piece of gear. It lasts for 20 hours of fighting, then wears off and you add a new one.
 
@@ -1745,61 +2137,61 @@ These tables grade the hunting grounds with the kit and list the 3 best for XP a
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
-#### Level 30–40 with leech (~18 hours to the next band)
+#### Level 20–30 with leech (~14 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **1** | ~25k | ~14k | Earlier than TibiaWiki suggests (level 80) |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~13k | ~9k |  |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~12k | ~14k |  |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~12k | ~16k |  |
+
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
+|---|---|---|---|---|---|
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~5k | ~25k | Earlier than TibiaWiki suggests (level 30) |
+| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **1** | ~6k | ~20k |  |
+
+#### Level 30–40 with leech (~20 hours to the next band)
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
+|---|---|---|---|---|---|
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~20k | ~6k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Earlier than TibiaWiki suggests (level 40) |
+| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 2 → **0** | 2 → **1** | ~20k | ~30k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~90k |  |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~9k | ~60k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~11k | ~55k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Earlier than TibiaWiki suggests (level 40) |
 
-#### Level 40–50 with leech (~33 hours to the next band)
-
-**Good for XP**
-
-| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
-|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **1** | ~30k | ~16k | Earlier than TibiaWiki suggests (level 80) |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~25k | ~60k |  |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~25k | ~6k |  |
-
-**Good for gold**
-
-| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
-|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~6k | ~100k |  |
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~90k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~10k | ~65k |  |
-
-#### Level 50–60 with leech (~27 hours to the next band)
+#### Level 50–60 with leech (~28 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **1** | ~55k | ~40k | Earlier than TibiaWiki suggests (level 120) |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **1** | ~55k | ~30k | Earlier than TibiaWiki suggests (level 80) |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~50k | ~125k |  |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~50k | ~110k | Gloom wolf days are great for money and bad for XP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~9k | ~130k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~18k | ~125k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~50k | ~125k |  |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~45k | ~115k | Gloom wolf days are great for money and bad for XP |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 → **0** | 0 → **0** | ~20k | ~110k |  |
 
-#### Level 60–70 with leech (~29 hours to the next band)
+#### Level 60–70 with leech (~30 hours to the next band)
 
 **Good for XP**
 
@@ -1807,15 +2199,15 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~75k | ~30k | Earlier than TibiaWiki suggests (level 100) |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **0** | 2 → **1** | ~65k | ~45k | Earlier than TibiaWiki suggests (level 120) |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~65k | ~35k | Earlier than TibiaWiki suggests (level 80) |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~60k | ~150k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~60k | ~150k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~20k | ~145k |  |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~35k | ~145k |  |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~60k | ~140k | Gloom wolf days are great for money and bad for XP |
 
 #### Level 70–80 with leech (~33 hours to the next band)
 
@@ -1832,36 +2224,36 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~70k | ~165k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~165k |  |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~155k |  |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~65k | ~155k | Gloom wolf days are great for money and bad for XP |
 
-#### Level 80–90 with leech (~32 hours to the next band)
+#### Level 80–90 with leech (~35 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~115k | ~45k | Earlier than TibiaWiki suggests (level 100) |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~110k | ~20k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 2 → **0** | 2 → **1** | ~95k | ~70k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~90k | ~35k | Earlier than TibiaWiki suggests (level 100) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~75k | ~180k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~180k |  |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~75k | ~175k | Gloom wolf days are great for money and bad for XP |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~45k | ~170k |  |
 
-#### Level 90–100 with leech (~32 hours to the next band)
+#### Level 90–100 with leech (~35 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~150k | ~60k | Earlier than TibiaWiki suggests (level 100) |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~140k | ~25k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 2 → **0** | 2 → **1** | ~120k | ~90k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~115k | ~45k | Earlier than TibiaWiki suggests (level 100) |
 
 **Good for gold**
 
@@ -1869,17 +2261,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~235k |  |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~100k | ~230k | Gloom wolf days are great for money and bad for XP |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k |  |
 
-#### Level 100–110 with leech (~37 hours to the next band)
+#### Level 100–110 with leech (~40 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~155k | ~60k |  |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~150k | ~25k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 2 → **0** | 2 → **1** | ~125k | ~95k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~125k | ~45k |  |
 
 **Good for gold**
 
@@ -1887,17 +2279,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~105k | ~240k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k |  |
 
-#### Level 110–120 with leech (~42 hours to the next band)
+#### Level 110–120 with leech (~45 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~165k | ~65k |  |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~160k | ~30k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 2 → **0** | 2 → **1** | ~135k | ~100k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~130k | ~50k |  |
 
 **Good for gold**
 
@@ -1905,17 +2297,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~110k | ~255k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~95k | ~190k |  |
 
-#### Level 120–130 with leech (~43 hours to the next band)
+#### Level 120–130 with leech (~46 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **0** | 2 → **1** | ~175k | ~60k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~175k | ~60k | Earlier than TibiaWiki suggests (level 150) |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~175k | ~70k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~170k | ~30k | Earlier than TibiaWiki suggests (level 250) |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~150k | ~45k |  |
 
 **Good for gold**
 
@@ -1923,17 +2315,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~115k | ~270k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~100k | ~200k |  |
 
-#### Level 130–140 with leech (~48 hours to the next band)
+#### Level 130–140 with leech (~51 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **0** | 2 → **1** | ~190k | ~75k |  |
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **0** | 2 → **1** | ~185k | ~80k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~185k | ~80k | Earlier than TibiaWiki suggests (level 150) |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~180k | ~35k | Earlier than TibiaWiki suggests (level 250) |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~160k | ~50k |  |
 
 **Good for gold**
 
@@ -1941,17 +2333,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~125k | ~290k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 140–150 with leech (~53 hours to the next band)
+#### Level 140–150 with leech (~56 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~195k | ~75k |  |
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **0** | 2 → **1** | ~190k | ~80k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~190k | ~80k | Earlier than TibiaWiki suggests (level 150) |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~190k | ~35k | Earlier than TibiaWiki suggests (level 250) |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~165k | ~50k |  |
 
 **Good for gold**
 
@@ -1959,17 +2351,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~130k | ~300k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 150–160 with leech (~55 hours to the next band)
+#### Level 150–160 with leech (~59 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~215k | ~85k |  |
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **0** | 2 → **1** | ~210k | ~90k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~210k | ~90k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~205k | ~40k | Earlier than TibiaWiki suggests (level 250) |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~185k | ~55k |  |
 
 **Good for gold**
 
@@ -1977,79 +2369,79 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~330k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~135k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 160–170 with leech (~57 hours to the next band)
+#### Level 160–170 with leech (~64 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **0** | 2 → **1** | ~245k | ~160k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **0** | 2 → **1** | ~230k | ~135k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~225k | ~90k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~220k | ~95k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~215k | ~40k | Earlier than TibiaWiki suggests (level 250) |
+| [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~190k | ~60k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~140k | ~245k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 170–180 with leech (~62 hours to the next band)
+#### Level 170–180 with leech (~68 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **0** | 2 → **1** | ~250k | ~165k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **0** | 2 → **1** | ~235k | ~140k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~230k | ~90k |  |
-
-**Good for gold**
-
-| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
-|---|---|---|---|---|---|
-| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~145k | ~255k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~225k | ~95k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~225k | ~40k | Earlier than TibiaWiki suggests (level 250) |
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~210k | ~255k |  |
 
-#### Level 180–190 with leech (~68 hours to the next band)
-
-**Good for XP**
-
-| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
-|---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **0** | 2 → **1** | ~255k | ~180k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **0** | 2 → **1** | ~245k | ~155k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~240k | ~95k |  |
-
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~150k | ~265k |  |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~210k | ~255k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+
+#### Level 180–190 with leech (~74 hours to the next band)
+
+**Good for XP**
+
+| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
+|---|---|---|---|---|---|
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~235k | ~100k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~230k | ~40k | Earlier than TibiaWiki suggests (level 250) |
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~215k | ~260k |  |
 
-#### Level 190–200 with leech (~73 hours to the next band)
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
+|---|---|---|---|---|---|
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~215k | ~260k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+
+#### Level 190–200 with leech (~79 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **0** | 2 → **1** | ~265k | ~185k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **0** | 2 → **1** | ~250k | ~160k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **0** | 1 → **0** | ~245k | ~95k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~240k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~240k | ~45k | Earlier than TibiaWiki suggests (level 250) |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~225k | ~270k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~155k | ~275k |  |
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~225k | ~270k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
 
 #### Level 200+ with leech
 
@@ -2057,17 +2449,17 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | 2 → **0** | 2 → **0** | ~275k | ~55k |  |
-| [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | 2 → **0** | 2 → **0** | ~275k | ~40k |  |
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **0** | 2 → **1** | ~275k | ~190k |  |
+| [Darashia Dragon Lair](https://tibiamaps.io/map#33264,32277,7:2) | 2 → **0** | 2 → **0** | ~260k | ~60k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~250k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **0** | 1 → **0** | ~250k | ~45k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~160k | ~280k |  |
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 2 → **0** | 2 → **0** | ~230k | ~280k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
 
 ## Section 3: Charms and prey
 Charms and prey give you bonuses against specific monsters. They cost little or nothing once unlocked, but you have to choose and switch them as you change hunting grounds.
@@ -2113,9 +2505,9 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~3k | ~45k | Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~6k | ~45k | Damage-reduction prey on Wasp |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~5k | ~25k | Earlier than TibiaWiki suggests (level 30). Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **1** | 2 → **1** | ~7k | ~20k | Damage-reduction prey on Valkyrie, XP prey on Amazon |
 
 #### Level 30–40 with prey (~18 hours to the next band)
 
@@ -2131,45 +2523,45 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~7k | ~90k | Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~85k | Damage-reduction prey on Wasp |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~9k | ~60k | Damage-reduction prey on Gnarlhound |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **1** | 1 → **1** | ~12k | ~55k | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~20k | ~55k | Earlier than TibiaWiki suggests (level 40). Damage-reduction prey on Wyvern |
 
-#### Level 40–50 with prey (~30 hours to the next band)
+#### Level 40–50 with prey (~31 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **1** | 2 → **1** | ~30k | ~18k | Earlier than TibiaWiki suggests (level 140). Damage-reduction prey on Swarmer, XP prey on Insectoid Worker. Still: skip Hive Overseer (hits half your HP) |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~30k | ~16k | Earlier than TibiaWiki suggests (level 80). Damage-reduction prey on Stonerefiner |
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 1 → **1** | 2 → **1** | ~25k | ~16k | Earlier than TibiaWiki suggests (level 80). Damage-reduction prey on Swarmer, XP prey on Insectoid Worker. Still: summoners, skip Hive Overseer (hits half your HP) |
+| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 → **0** | 0 → **0** | ~25k | ~6k | Damage-reduction prey on Ragged Rabid Wolf, XP prey on Rabid Wolf |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~7k | ~100k | Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~11k | ~90k | Damage-reduction prey on Wasp |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~10k | ~65k | Damage-reduction prey on Gnarlhound |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~13k | ~60k | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **1** | 1 → **1** | ~25k | ~60k | Damage-reduction prey on Wyvern |
 
-#### Level 50–60 with prey (~27 hours to the next band)
+#### Level 50–60 with prey (~28 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~55k | ~30k | Earlier than TibiaWiki suggests (level 80). Damage-reduction prey on Stonerefiner |
 | [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 2 → **1** | 2 → **1** | ~50k | ~75k | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~50k | ~125k | Damage-reduction prey on Wyvern |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~50k | ~110k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | ~10k | ~130k | Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~18k | ~125k | Damage-reduction prey on Gnarlhound |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~50k | ~125k | Damage-reduction prey on Wyvern |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~45k | ~115k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 → **0** | 0 → **0** | ~25k | ~110k | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 
 #### Level 60–70 with prey (~28 hours to the next band)
 
@@ -2179,15 +2571,15 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **1** | 2 → **1** | ~75k | ~45k | Earlier than TibiaWiki suggests (level 120). Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~75k | ~30k | Earlier than TibiaWiki suggests (level 100). Damage-reduction prey on Exotic Bat |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **1** | 1 → **1** | ~65k | ~35k | Earlier than TibiaWiki suggests (level 80). Damage-reduction prey on Stonerefiner |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~60k | ~150k | Damage-reduction prey on Wyvern |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~60k | ~150k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~20k | ~145k | Damage-reduction prey on Gnarlhound |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **1** | 1 → **1** | ~40k | ~145k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~60k | ~140k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
 
 #### Level 70–80 with prey (~33 hours to the next band)
 
@@ -2197,33 +2589,33 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 2 → **1** | 2 → **1** | ~85k | ~50k | Earlier than TibiaWiki suggests (level 120). Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~80k | ~35k | Earlier than TibiaWiki suggests (level 100). Damage-reduction prey on Exotic Bat |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 2 → **1** | 2 → **1** | ~75k | ~115k | Earlier than TibiaWiki suggests (level 80). Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
+| [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 2 → **1** | 3 → **1** | ~75k | ~45k | Earlier than TibiaWiki suggests (level 100). Damage-reduction prey on Fire Elemental, XP prey on Giant Spider. Still: summoners, skip Hellhound (hits half your HP) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~70k | ~165k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~165k | Damage-reduction prey on Gnarlhound |
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~45k | ~155k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~65k | ~155k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
 
-#### Level 80–90 with prey (~40 hours to the next band)
+#### Level 80–90 with prey (~42 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~95k | ~55k | Earlier than TibiaWiki suggests (level 120). Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 2 → **1** | 2 → **1** | ~85k | ~125k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **1** | 1 → **1** | ~80k | ~45k | Damage-reduction prey on Stonerefiner |
+| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 2 → **1** | 2 → **1** | ~80k | ~30k | Damage-reduction prey on Giant Spider, XP prey on Tarantula |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 → **1** | 1 → **1** | ~75k | ~75k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~75k | ~180k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~25k | ~180k | Damage-reduction prey on Gnarlhound |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~75k | ~175k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~45k | ~170k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
 
 #### Level 90–100 with prey (~33 hours to the next band)
 
@@ -2241,7 +2633,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~235k | Damage-reduction prey on Wyvern |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~100k | ~230k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
 
 #### Level 100–110 with prey (~38 hours to the next band)
 
@@ -2259,17 +2651,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~105k | ~240k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Haunted Treeling |
 
-#### Level 110–120 with prey (~41 hours to the next band)
+#### Level 110–120 with prey (~44 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~165k | ~65k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~160k | ~50k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 2 → **1** | 2 → **1** | ~145k | ~100k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~135k | ~80k | Earlier than TibiaWiki suggests (level 120). Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
 
 **Good for gold**
 
@@ -2277,17 +2669,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~110k | ~255k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~190k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 120–130 with prey (~46 hours to the next band)
+#### Level 120–130 with prey (~49 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~175k | ~70k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~165k | ~50k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~150k | ~105k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **1** | 1 → **1** | ~145k | ~85k | Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
 
 **Good for gold**
 
@@ -2295,17 +2687,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~115k | ~270k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~115k | ~200k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 130–140 with prey (~46 hours to the next band)
+#### Level 130–140 with prey (~49 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **1** | 2 → **1** | ~205k | ~35k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~190k | ~75k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~180k | ~55k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~165k | ~115k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
@@ -2313,17 +2705,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~125k | ~290k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 140–150 with prey (~51 hours to the next band)
+#### Level 140–150 with prey (~54 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~215k | ~35k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~195k | ~75k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~185k | ~55k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~170k | ~120k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
@@ -2331,17 +2723,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~130k | ~300k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k | Damage-reduction prey on Gnarlhound |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 150–160 with prey (~53 hours to the next band)
+#### Level 150–160 with prey (~56 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~235k | ~40k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~215k | ~85k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~205k | ~65k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~185k | ~135k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
@@ -2349,79 +2741,79 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~330k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~160k | ~240k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 160–170 with prey (~58 hours to the next band)
+#### Level 160–170 with prey (~61 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~245k | ~40k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~225k | ~90k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~210k | ~65k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~195k | ~140k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~165k | ~245k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 170–180 with prey (~64 hours to the next band)
+#### Level 170–180 with prey (~67 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~255k | ~40k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~230k | ~90k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~220k | ~65k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~200k | ~145k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~170k | ~255k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 180–190 with prey (~69 hours to the next band)
+#### Level 180–190 with prey (~72 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~265k | ~40k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~240k | ~95k | Damage-reduction prey on Werewolf, XP prey on War Wolf |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~225k | ~70k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~210k | ~150k | Earlier than TibiaWiki suggests (level 200). Damage-reduction prey on Putrid Mummy, XP prey on Bonebeast |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 → **0** | 1 → **0** | ~180k | ~265k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
-#### Level 190–200 with prey (~68 hours to the next band)
+#### Level 190–200 with prey (~73 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~285k | ~185k | Damage-reduction prey on Deepling Guard, XP prey on Deepling Spellsinger |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~275k | ~45k | Earlier than TibiaWiki suggests (level 250). Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~270k | ~160k | Damage-reduction prey on Deepling Guard, XP prey on Deepling Warrior |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~255k | ~105k | Damage-reduction prey on Moohtant, XP prey on Worm Priestess |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~235k | ~70k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~185k | ~275k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
 #### Level 200+ with prey
 
@@ -2429,17 +2821,17 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~290k | ~190k | Damage-reduction prey on Deepling Guard, XP prey on Deepling Spellsinger |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~285k | ~45k | Damage-reduction prey on Misguided Thief, XP prey on Misguided Bully |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~280k | ~165k | Damage-reduction prey on Deepling Guard, XP prey on Deepling Warrior |
+| [Roshamuul Prison](https://tibiamaps.io/map#33588,32433,7:2) | 2 → **1** | 2 → **1** | ~270k | ~75k | Damage-reduction prey on Nightmare, XP prey on Betrayed Wraith. Still: skip Hellhound (hits half your HP) |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~265k | ~105k | Damage-reduction prey on Moohtant, XP prey on Worm Priestess |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~190k | ~280k | Damage-reduction prey on Earth Elemental, XP prey on Wyvern |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k | Damage-reduction prey on Wyvern |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~125k | ~220k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 
 ## Section 4: Wheel of Destiny and gems
 From level 51, after promotion and with a premium account, you get **1 point per level** to spend on the Wheel of Destiny, a big circle of permanent perks: 40 points at level 90, 84 at 134 and 150 at 200. You can move your points around for free in any temple.
@@ -2473,7 +2865,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~105k | ~240k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 → **0** | 0 → **0** | ~50k | ~190k |  |
 
 #### Level 110–120 with the Wheel (~49 hours to the next band)
 
@@ -2491,17 +2883,17 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~110k | ~255k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~95k | ~190k |  |
 
-#### Level 130–140 with the Wheel (~51 hours to the next band)
+#### Level 130–140 with the Wheel (~55 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 2 → **1** | 2 → **1** | ~190k | ~75k |  |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **1** | 2 → **1** | ~180k | ~35k | Earlier than TibiaWiki suggests (level 250) |
 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~150k | ~115k | Earlier than TibiaWiki suggests (level 200) |
+| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **1** | 1 → **1** | ~150k | ~55k |  |
 
 **Good for gold**
 
@@ -2509,25 +2901,25 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~125k | ~290k | Gloom wolf days are great for money and bad for XP |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 → **0** | 0 → **0** | ~35k | ~225k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
-#### Level 190–200 with the Wheel (~77 hours to the next band)
+#### Level 190–200 with the Wheel (~82 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~245k | ~95k |  |
-| [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 2 → **1** | 2 → **1** | ~240k | ~105k | Earlier than TibiaWiki suggests (level 250) |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~240k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~240k | ~45k | Earlier than TibiaWiki suggests (level 250) |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~200k | ~155k | Earlier than TibiaWiki suggests (level 200) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~155k | ~275k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
 #### Level 200+ with the Wheel
 
@@ -2535,17 +2927,17 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 2 → **1** | 2 → **1** | ~275k | ~190k |  |
-| [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 2 → **1** | 2 → **1** | ~260k | ~165k |  |
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 → **1** | 1 → **1** | ~255k | ~100k |  |
+| [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~250k | ~105k |  |
+| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 → **1** | 1 → **1** | ~250k | ~45k |  |
+| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 → **1** | 1 → **1** | ~205k | ~160k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 0 → **0** | ~145k | ~340k | Gloom wolf days are great for money and bad for XP |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 0 → **0** | 0 → **0** | ~160k | ~280k |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 → **0** | 0 → **0** | ~100k | ~240k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 → **0** | 0 → **0** | ~110k | ~220k |  |
 
 ## Section 5: Weapon proficiency
 Every monster you kill with a weapon equipped builds up that weapon's **proficiency**. Each proficiency level unlocks a choice of perks for that weapon, such as more damage, more critical hits or more leech. You pick one perk per level. You can pick anywhere, but changing a perk needs a protection zone.
