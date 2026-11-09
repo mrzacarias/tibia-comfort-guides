@@ -226,7 +226,7 @@ The table below lists the best hunting grounds a free account can use in each ba
 
 | Level | Best free-account hunting grounds (most comfortable first) |
 |---|---|
-| 8–20 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~8k XP/h, ~65k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H1, 20k XP/h, 20k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H1, 30k XP/h, 13k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 H2, ~7k XP/h, ~30k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P1 H1, ~20k XP/h, ~15k loot/h |
+| 8–20 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, 10k XP/h, 70k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H1, 20k XP/h, 20k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H1, 20k XP/h, 15k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H1, 30k XP/h, 13k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 H2, ~7k XP/h, ~30k loot/h |
 | 20–30 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~100k loot/h<br>[Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2): P0 H0, ~11k XP/h, ~50k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, ~30k XP/h, ~45k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~35k XP/h, ~40k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~35k XP/h, ~30k loot/h |
 | 30–40 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, ~45k XP/h, ~55k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~45k XP/h, ~50k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~50k XP/h, ~40k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~25k XP/h, ~85k loot/h |
 | 40–50 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, ~50k XP/h, ~55k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, ~60k XP/h, ~45k loot/h<br>[Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~105k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~105k loot/h |
@@ -258,18 +258,18 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of the hunting grounds listed. It counts raw experience only, so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 8–20 (~5.7 hours to the next band)
+#### Level 8–20 (~5.6 hours to the next band)
 **Typical knight in this band:** skill 30, weapon attack 25. Good-value gear, each piece under ~33k: Serpent Sword, Morning Star or Orcish Axe (sword, club or axe), with Golden Armor, Knight Legs, Royal Helmet, Carapace Shield, Boots of Haste.
 
-**Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana), [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana).
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~8k | ~65k | Thais 188 / ~47 s | **money**. Sells: Honeycomb |
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 70k | Thais 188 / ~47 s | **money**. **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) ✓ | 0 | 1 | 20k | 20k | Targuna depot, on the island | **XP**. **Tested** (sword 43, right after 12 hours of offline training): no supplies, little healing. Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 27% of HP. Sells: Lizard Tail |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) ✓ | 0 | 1 | 20k | 15k | Targuna, portal in Emiliana's house | **XP**. **Tested** (level 19, sword 41): 30 gold of supplies, XP and loot are estimates because the run included the mission boss. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 27% of HP. Sells: Infernoid Ember |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) ✓ | 0 | 1 | 30k | 13k | Targuna, then Sterling's sea turtle (free) | **XP**. **Tested** (sword 43, another player was hunting there too, so the numbers are raised 5%): 112 gold of supplies, 1.8k healing/h. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 | 1 | ~7k | ~40k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Centipede hits 25% of HP. Sells: Centipede Leg |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~20k | ~15k | Targuna, portal in Emiliana's house | **XP**. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 27% of HP. Sells: Infernoid Ember |
 
 #### Level 20–30 (~17 hours to the next band)
 **Typical knight in this band:** skill 50, weapon attack 31. Good-value gear, each piece under ~71k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Dragon Scale Mail, Golden Legs, Royal Helmet, Rift Shield, Boots of Haste.
@@ -544,7 +544,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 2 → **0** | 3 → **0** | ~8k | ~40k | Edron 135 / ~34 s | **money**. Can't see you: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Sells: Bone Club |
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg") | **money**. Can't see you: Centipede, Wasp, Crab, Crimson Frog. Sells: Centipede Leg |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 1 → **0** | 20k | 20k | Targuna depot, on the island | **XP**. Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~15k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 1 → **0** | 20k | 15k | Targuna, portal in Emiliana's house | **XP**. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
 
 #### Level 20–30 with a Stealth Ring (~10 hours to the next band)
 
@@ -1188,7 +1188,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 1 → **0** | 1 → **0** | ~7k | ~40k | **money** |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 0 → **0** | 1 → **0** | ~20k | ~20k | **XP** |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~15k | **XP** |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 → **0** | 1 → **0** | ~20k | ~15k | **XP** |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 1 → **0** | ~30k | ~13k | **XP** |
 | [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 1 → **0** | 1 → **0** | ~16k | ~4k | **XP** |
 
