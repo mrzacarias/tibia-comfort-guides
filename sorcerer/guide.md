@@ -91,6 +91,21 @@ The XP and loot numbers are estimates for a typical sorcerer: someone whose magi
 
 The estimates also assume that a wave hits about 2.5 monsters on average, and that you fight at the same pace as the knight guide's tests: walking, gathering monsters and looting take most of the time, not the attacking itself.
 
+## Access quests
+Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
+
+| Quest | Part needed | First needed | Opens | Premium | Where |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor, Nibelor Crystal Spiders | yes | Svargrond |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 30–40 with Magic Shield | Crystal Grounds (Gnomegate) | partly | Gnomegate |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 30–40 with invisibility | Corym Mines (Venore) | no | Corym Mines |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold | 30–40 with prey | Meriana Gargoyle Cave | yes | Liberty Bay |
+| [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | Troubled Animals mission, TibiaWiki suggests level 100 for the quest | 40–50 with Magic Shield | Feyrist Meadows | yes | Fields of Glory |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest | 60–70 with Magic Shield | Last Sanctum | yes | Grimvale |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with Magic Shield | Vengoth Werewolf Cave | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 90–100 with Magic Shield | Oramond Fury Dungeon | yes | Oramond |
+
 ## Section 1: Basic mechanics
 In this section you use only the basics: your wand, two attack spells (a strike for one monster and a wave for groups), the `exura` healing spells, potions and normal gear. Everything else comes later.
 
@@ -450,12 +465,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 90–100 (~39 hours to the next band)
 **Typical sorcerer in this band:** magic level 63, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~145k | ~105k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Broken Shaper hits 26% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~100k | ~55k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 28% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~100k | ~55k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 28% of HP. Sells: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~95k | ~25k | Farmine 117 / ~30 s | Watch: Killer Caiman hits 15% of HP |
 
 **Good for gold**
@@ -469,13 +486,15 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 100–110 (~52 hours to the next band)
 **Typical sorcerer in this band:** magic level 68, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~100k | ~25k | Farmine 117 / ~30 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~95k | ~190k | Carlin 173 / ~45 s | Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Watch: Wilting Leaf Golem hits 19% of HP. Sells: Elven Hoof |
 
@@ -490,11 +509,13 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 110–120 (~60 hours to the next band)
 **Typical sorcerer in this band:** magic level 72, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 24% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 24% of HP. Sells: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~105k | ~25k | Farmine 117 / ~30 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~100k | ~205k | Carlin 173 / ~45 s | Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Watch: Wilting Leaf Golem hits 18% of HP. Sells: Elven Hoof |
 
@@ -509,12 +530,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 120–130 (~57 hours to the next band)
 **Typical sorcerer in this band:** magic level 75, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~165k | ~120k | Port Hope 228 / ~0.9 min | Watch: Twisted Shaper hits 29% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~120k | ~65k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~120k | ~65k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~115k | ~30k | Farmine 117 / ~30 s |  |
 
 **Good for gold**
@@ -528,12 +551,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 130–140 (~63 hours to the next band)
 **Typical sorcerer in this band:** magic level 79, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~175k | ~125k | Port Hope 228 / ~0.9 min | Watch: Twisted Shaper hits 27% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~125k | ~70k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 21% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~125k | ~70k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 21% of HP. Sells: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~120k | ~45k | Port Hope 421 / ~1.8 min | Watch: Giant Spider hits 28% of HP. Sells: Tarantula Egg |
 
 **Good for gold**
@@ -547,13 +572,15 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 140–150 (~69 hours to the next band)
 **Typical sorcerer in this band:** magic level 81, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~185k | ~130k | Port Hope 228 / ~0.9 min | Watch: Twisted Shaper hits 26% of HP. Sells: Ancient Belt Buckle |
 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~45k | not computed | Watch: Worker Golem hits 29% of HP, summoners. Sells: Protective Charm |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~130k | ~70k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~130k | ~70k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull |
 
 **Good for gold**
 
@@ -566,6 +593,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 150–160 (~77 hours to the next band)
 **Typical sorcerer in this band:** magic level 84, Wand of Everblazing.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
 
 **Good for XP**
@@ -573,7 +602,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~190k | ~135k | Port Hope 228 / ~0.9 min | Watch: Twisted Shaper hits 24% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~135k | ~75k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 19% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~135k | ~75k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 19% of HP. Sells: Stonerefiner's Skull |
 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~45k | not computed | Watch: Worker Golem hits 27% of HP, summoners. Sells: Protective Charm |
 
 **Good for gold**

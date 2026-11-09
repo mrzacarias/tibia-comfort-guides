@@ -94,6 +94,22 @@ Os números de XP e loot são estimativas para um paladin típico: alguém com d
 
 As estimativas também contam que o `exevo mas san` acerta uns 2,5 monstros em média, e que você caça no mesmo ritmo dos testes do guia de knight: andar, juntar monstros e lootear tomam a maior parte do tempo, não o ataque em si.
 
+## Quests de acesso
+Algumas hunting grounds das listas só abrem depois de parte de uma quest. Esta tabela junta todas, na ordem em que você vai precisar delas pela primeira vez, para você fazer cada uma quando estiver por perto. **Parte necessária** é o quanto da quest abre a hunting ground: quase nunca é preciso fazer a quest inteira. Os nomes das quests levam à TibiaWiki, com o passo a passo. Na Seção 1, a linha **Libere antes** de cada faixa repete as que as hunting grounds daquela faixa pedem.
+
+| Quest | Parte necessária | Primeira faixa | Abre | Premium | Onde |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | missão Burning Heat, a partir do level 12 | 8–20 | Crimson Court (Targuna) | não | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão | 8–20 | Nibelor | sim | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | abre as portas da mina | 30–40 com Stealth Ring | Corym Mines (Venore) | não | Corym Mines |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | a partir do level 80; a TibiaWiki sugere 120 | 70–80 com prey | Crystal Grounds (Gnomegate) | em parte | Gnomegate |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | missão 4, a TibiaWiki sugere level 70+ para a quest | 80–90 com leech | Vengoth Werewolf Cave | sim | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | só as primeiras missões, até a tarefa dos minotauros para o Terrence; as lutas em time vêm depois | 120–130 com leech | Oramond Fury Dungeon | sim | Oramond |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte de Goroma: level 20, 30 madeiras e dinheiro da viagem, para o barco do Jack Fate | 130–140 com Stealth Ring | Dragon Lairs (Goroma) | sim | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | a TibiaWiki sugere level 130+ para a quest | 160–170 com leech | Deeplings Library (Fiehonja), Fiehonja deeplings | sim | Gray Beach |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | iniciada, a TibiaWiki sugere level 60+ para a quest | 200+ com leech | Fenrock Dragon Lair | sim | Beregar |
+| [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | primeiras missões, a TibiaWiki sugere level 130+ para a quest | 200+ com leech | Pits of Inferno Dragon Lair | sim | Pits of Inferno |
+
 ## Seção 1: Mecânicas básicas
 Nesta seção você usa só o básico: o seu bow ou crossbow, duas magias de ataque (`exori con` para um monstro e `exevo mas san` para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
 
@@ -392,12 +408,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 60–70 (~30 horas até a próxima faixa)
 **Paladin típico desta faixa:** distance fighting 83, Crossbow com Power Bolts.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~75k | ~30k | Issavi ~10 / ~5 s (+ shell) | Antes do que a TibiaWiki sugere (level 100). Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Bat bate 20% da vida |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 26% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 26% da vida. Vende bem: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~60k | ~150k | Edron 129 / ~30 s | Cuidado: Wyvern bate 15% da vida. Vende bem: Wyvern Talisman |
 
 **Bom para lucro**
@@ -411,12 +429,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 70–80 (~36 horas até a próxima faixa)
 **Paladin típico desta faixa:** distance fighting 89, Crossbow com Power Bolts.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~80k | ~35k | Issavi ~10 / ~5 s (+ shell) | Antes do que a TibiaWiki sugere (level 100). Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Bat bate 17% da vida |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 23% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 23% da vida. Vende bem: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~70k | ~165k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
 
 **Bom para lucro**
@@ -430,12 +450,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 80–90 (~44 horas até a próxima faixa)
 **Paladin típico desta faixa:** distance fighting 94, Crossbow com Power Bolts.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~80k | ~55k | Port Hope 228 / ~0,9 min | Antes do que a TibiaWiki sugere (level 120). Cuidado: Twisted Shaper bate 29% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 20% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 20% da vida. Vende bem: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
 
 **Bom para lucro**
@@ -449,12 +471,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 90–100 (~42 horas até a próxima faixa)
 **Paladin típico desta faixa:** distance fighting 100, Crossbow com Prismatic Bolts.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~105k | ~75k | Port Hope 228 / ~0,9 min | Antes do que a TibiaWiki sugere (level 120). Cuidado: Broken Shaper bate 20% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 18% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 18% da vida. Vende bem: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~100k | ~35k | Port Hope 421 / ~1,8 min | Cuidado: Giant Spider bate 30% da vida. Vende bem: Tarantula Egg |
 
 **Bom para lucro**
@@ -468,6 +492,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 100–110 (~48 horas até a próxima faixa)
 **Paladin típico desta faixa:** distance fighting 102, Crossbow com Prismatic Bolts.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Vale a pena:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186.000 de experiência).
 
 **Bom para XP**
@@ -475,7 +501,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~110k | ~80k | Port Hope 228 / ~0,9 min | Antes do que a TibiaWiki sugere (level 120). Cuidado: Twisted Shaper bate 23% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 17% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 17% da vida. Vende bem: Stonerefiner's Skull |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~110k | ~95k | Thais 81 / ~20 s | Cuidado: Animated Ogre Brute bate 29% da vida. Vende bem: Broken Shamanic Staff |
 
 **Bom para lucro**

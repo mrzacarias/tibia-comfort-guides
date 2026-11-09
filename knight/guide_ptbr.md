@@ -87,6 +87,25 @@ Cada faixa mostra duas listas curtas: **Bom para XP**, as 3 hunts com mais exper
 ### O personagem dos números
 Os números de XP e loot são estimativas para um knight típico: alguém com skill um pouco abaixo do normal para o level (30 no level 8, 63 no 30, 96 no 90, 114 no 200), usando o melhor equipamento que dá para comprar com umas 3 horas de hunt. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse equipamento. Se o seu skill ou equipamento for melhor, você vai render mais do que as tabelas.
 
+## Quests de acesso
+Algumas hunting grounds das listas só abrem depois de parte de uma quest. Esta tabela junta todas, na ordem em que você vai precisar delas pela primeira vez, para você fazer cada uma quando estiver por perto. **Parte necessária** é o quanto da quest abre a hunting ground: quase nunca é preciso fazer a quest inteira. Os nomes das quests levam à TibiaWiki, com o passo a passo. Na Seção 1, a linha **Libere antes** de cada faixa repete as que as hunting grounds daquela faixa pedem.
+
+| Quest | Parte necessária | Primeira faixa | Abre | Premium | Onde |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | missão Burning Heat, a partir do level 12 | 8–20 | Crimson Court (Targuna) | não | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão | 8–20 | Nibelor, Nibelor Crystal Spiders | sim | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | abre as portas da mina | 20–30 com Stealth Ring | Corym Mines (Venore) | não | Corym Mines |
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | para o barco do Buddel, a TibiaWiki sugere level 25 para a quest | 30–40 | Hrodmir Stone Golem Caves, Okolnir frost dragons | sim | Svargrond |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | a partir do level 80; a TibiaWiki sugere 120 | 40–50 com leech | Crystal Grounds (Gnomegate) | em parte | Gnomegate |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | parte The Curse Spreads, a TibiaWiki sugere level 100 para a quest | 60–70 com Protector | Last Sanctum | sim | Grimvale |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | iniciada, a TibiaWiki sugere level 60+ para a quest | 70–80 com Protector | Fenrock Dragon Lair | sim | Beregar |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | missão 4, a TibiaWiki sugere level 70+ para a quest | 80–90 com leech | Vengoth Werewolf Cave | sim | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | só as primeiras missões, até a tarefa dos minotauros para o Terrence; as lutas em time vêm depois | 100–110 com leech | Oramond Fury Dungeon | sim | Oramond |
+| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius; sem level mínimo | 100–110 com Protector | Old Masonry | sim | Halls of Hope |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte de Goroma: level 20, 30 madeiras e dinheiro da viagem, para o barco do Jack Fate | 100–110 com Stealth Ring | Dragon Lairs (Goroma) | sim | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | a TibiaWiki sugere level 130+ para a quest | 140–150 com Protector | Deeplings Library (Fiehonja), Fiehonja deeplings | sim | Gray Beach |
+| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | a TibiaWiki sugere level 61 para a quest | 180–190 com leech | Sea Serpent Area | sim | Sea Serpent Area |
+
 ## Seção 1: Mecânicas básicas
 Nesta seção você usa só o básico: a sua arma, as magias de ataque `exori infir min` e `exori`, a magia de cura `exura ico`, poções, equipamento normal e um amuleto e um anel que nunca acabam. Todo o resto vem depois.
 
@@ -347,13 +366,15 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 50–60 (~20 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 74, ataque da arma 42. Equipamento com bom custo-benefício, cada peça abaixo de ~226k: Relic Sword, Deepling Squelcher ou Warrior's Axe (sword, club ou axe), com Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~70k | ~170k | Edron 129 / ~30 s | Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~70k | ~160k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 25% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Antes do que a TibiaWiki sugere (level 80). Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 25% da vida. Vende bem: Stonerefiner's Skull |
 
 **Bom para lucro**
 

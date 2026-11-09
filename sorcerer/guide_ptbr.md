@@ -94,6 +94,21 @@ Os números de XP e loot são estimativas para um sorcerer típico: alguém com 
 
 As estimativas também contam que uma wave acerta uns 2,5 monstros em média, e que você caça no mesmo ritmo dos testes do guia de knight: andar, juntar monstros e lootear tomam a maior parte do tempo, não o ataque em si.
 
+## Quests de acesso
+Algumas hunting grounds das listas só abrem depois de parte de uma quest. Esta tabela junta todas, na ordem em que você vai precisar delas pela primeira vez, para você fazer cada uma quando estiver por perto. **Parte necessária** é o quanto da quest abre a hunting ground: quase nunca é preciso fazer a quest inteira. Os nomes das quests levam à TibiaWiki, com o passo a passo. Na Seção 1, a linha **Libere antes** de cada faixa repete as que as hunting grounds daquela faixa pedem.
+
+| Quest | Parte necessária | Primeira faixa | Abre | Premium | Onde |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | missão Burning Heat, a partir do level 12 | 8–20 | Crimson Court (Targuna) | não | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão | 8–20 | Nibelor, Nibelor Crystal Spiders | sim | Svargrond |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | a partir do level 80; a TibiaWiki sugere 120 | 30–40 com Magic Shield | Crystal Grounds (Gnomegate) | em parte | Gnomegate |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | abre as portas da mina | 30–40 com invisibilidade | Corym Mines (Venore) | não | Corym Mines |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold | 30–40 com prey | Meriana Gargoyle Cave | sim | Liberty Bay |
+| [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | missão Troubled Animals, a TibiaWiki sugere level 100 para a quest | 40–50 com Magic Shield | Feyrist Meadows | sim | Fields of Glory |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | parte The Curse Spreads, a TibiaWiki sugere level 100 para a quest | 60–70 com Magic Shield | Last Sanctum | sim | Grimvale |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | missão 4, a TibiaWiki sugere level 70+ para a quest | 80–90 com Magic Shield | Vengoth Werewolf Cave | sim | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | só as primeiras missões, até a tarefa dos minotauros para o Terrence; as lutas em time vêm depois | 90–100 com Magic Shield | Oramond Fury Dungeon | sim | Oramond |
+
 ## Seção 1: Mecânicas básicas
 Nesta seção você usa só o básico: a sua wand, duas magias de ataque (um strike para um monstro e uma wave para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
 
@@ -453,12 +468,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 90–100 (~39 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 63, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~145k | ~105k | Port Hope 228 / ~0,9 min | Antes do que a TibiaWiki sugere (level 120). Cuidado: Broken Shaper bate 26% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~100k | ~55k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 28% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~100k | ~55k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 28% da vida. Vende bem: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~95k | ~25k | Farmine 117 / ~30 s | Cuidado: Killer Caiman bate 15% da vida |
 
 **Bom para lucro**
@@ -472,13 +489,15 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 100–110 (~52 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 68, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Vale a pena:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186.000 de experiência).
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 26% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 26% da vida. Vende bem: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~100k | ~25k | Farmine 117 / ~30 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~95k | ~190k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 19% da vida. Vende bem: Elven Hoof |
 
@@ -493,11 +512,13 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 110–120 (~60 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 72, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 24% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 24% da vida. Vende bem: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~105k | ~25k | Farmine 117 / ~30 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~100k | ~205k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 18% da vida. Vende bem: Elven Hoof |
 
@@ -512,12 +533,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 120–130 (~57 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 75, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~165k | ~120k | Port Hope 228 / ~0,9 min | Cuidado: Twisted Shaper bate 29% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~120k | ~65k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 23% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~120k | ~65k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 23% da vida. Vende bem: Stonerefiner's Skull |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~115k | ~30k | Farmine 117 / ~30 s |  |
 
 **Bom para lucro**
@@ -531,12 +554,14 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 130–140 (~63 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 79, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~175k | ~125k | Port Hope 228 / ~0,9 min | Cuidado: Twisted Shaper bate 27% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~125k | ~70k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 21% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~125k | ~70k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 21% da vida. Vende bem: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~120k | ~45k | Port Hope 421 / ~1,8 min | Cuidado: Giant Spider bate 28% da vida. Vende bem: Tarantula Egg |
 
 **Bom para lucro**
@@ -550,13 +575,15 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 140–150 (~69 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 81, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~185k | ~130k | Port Hope 228 / ~0,9 min | Cuidado: Twisted Shaper bate 26% da vida. Vende bem: Ancient Belt Buckle |
 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~45k | não calculado | Cuidado: Worker Golem bate 29% da vida, monstros que invocam. Vende bem: Protective Charm |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~130k | ~70k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 20% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~130k | ~70k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 20% da vida. Vende bem: Stonerefiner's Skull |
 
 **Bom para lucro**
 
@@ -569,6 +596,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 #### Level 150–160 (~77 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 84, Wand of Everblazing.
 
+**Libere antes:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (abre as portas da mina, para Corym Mines (Venore)).
+
 **Vale a pena:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325.000 de experiência; quest longa, com bosses).
 
 **Bom para XP**
@@ -576,7 +605,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~190k | ~135k | Port Hope 228 / ~0,9 min | Cuidado: Twisted Shaper bate 24% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~135k | ~75k | Venore 98 / ~25 s | área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest). Cuidado: Stonerefiner bate 19% da vida. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~135k | ~75k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Precisa da Hidden Threats Quest para as portas da mina; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 19% da vida. Vende bem: Stonerefiner's Skull |
 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~45k | não calculado | Cuidado: Worker Golem bate 27% da vida, monstros que invocam. Vende bem: Protective Charm |
 
 **Bom para lucro**

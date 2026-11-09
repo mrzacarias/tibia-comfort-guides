@@ -84,6 +84,25 @@ Each band shows two short lists: **Good for XP**, the 3 hunting grounds with the
 ### The character the numbers assume
 The XP and loot numbers are estimates for a typical knight: someone whose skill is a little below the usual for their level (30 at level 8, 63 at 30, 96 at 90, 114 at 200), wearing the best gear they could buy with about 3 hours of hunting income. A new character only reaches those skills by training offline from the start (see Section 1). Each band lists that gear. If your skill or gear is better, you'll do better than the tables.
 
+## Access quests
+Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
+
+| Quest | Part needed | First needed | Opens | Premium | Where |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor, Nibelor Crystal Spiders | yes | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 20–30 with a Stealth Ring | Corym Mines (Venore) | no | Corym Mines |
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | for Buddel's boat, TibiaWiki suggests level 25 for the quest | 30–40 | Hrodmir Stone Golem Caves, Okolnir frost dragons | yes | Svargrond |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 40–50 with leech | Crystal Grounds (Gnomegate) | partly | Gnomegate |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest | 60–70 with Protector | Last Sanctum | yes | Grimvale |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest | 70–80 with Protector | Fenrock Dragon Lair | yes | Beregar |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with leech | Vengoth Werewolf Cave | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 100–110 with leech | Oramond Fury Dungeon | yes | Oramond |
+| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed | 100–110 with Protector | Old Masonry | yes | Halls of Hope |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat | 100–110 with a Stealth Ring | Dragon Lairs (Goroma) | yes | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest | 140–150 with Protector | Deeplings Library (Fiehonja), Fiehonja deeplings | yes | Gray Beach |
+| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | TibiaWiki suggests level 61 for the quest | 180–190 with leech | Sea Serpent Area | yes | Sea Serpent Area |
+
 ## Section 1: Basic mechanics
 In this section you use only the basics: your weapon, the `exori infir min` and `exori` attack spells, the `exura ico` healing spell, potions, normal gear, and an amulet and ring that never run out. Everything else comes later.
 
@@ -344,13 +363,15 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 50–60 (~20 hours to the next band)
 **Typical knight in this band:** skill 74, weapon attack 42. Good-value gear, each piece under ~226k: Relic Sword, Deepling Squelcher or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~70k | ~170k | Edron 129 / ~30 s | Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~70k | ~160k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 25% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 25% of HP. Sells: Stonerefiner's Skull |
 
 **Good for gold**
 

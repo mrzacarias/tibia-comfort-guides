@@ -91,6 +91,22 @@ The XP and loot numbers are estimates for a typical paladin: someone whose dista
 
 The estimates also assume that `exevo mas san` hits about 2.5 monsters on average, and that you fight at the same pace as the knight guide's tests: walking, gathering monsters and looting take most of the time, not the attacking itself.
 
+## Access quests
+Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
+
+| Quest | Part needed | First needed | Opens | Premium | Where |
+|---|---|---|---|---|---|
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor | yes | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 30–40 with a Stealth Ring | Corym Mines (Venore) | no | Corym Mines |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 70–80 with prey | Crystal Grounds (Gnomegate) | partly | Gnomegate |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with leech | Vengoth Werewolf Cave | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 120–130 with leech | Oramond Fury Dungeon | yes | Oramond |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat | 130–140 with a Stealth Ring | Dragon Lairs (Goroma) | yes | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest | 160–170 with leech | Deeplings Library (Fiehonja), Fiehonja deeplings | yes | Gray Beach |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest | 200+ with leech | Fenrock Dragon Lair | yes | Beregar |
+| [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | first missions, TibiaWiki suggests level 130+ for the quest | 200+ with leech | Pits of Inferno Dragon Lair | yes | Pits of Inferno |
+
 ## Section 1: Basic mechanics
 In this section you use only the basics: your bow or crossbow, two attack spells (`exori con` for one monster and `exevo mas san` for groups), the `exura` healing spells, potions and normal gear. Everything else comes later.
 
@@ -389,12 +405,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 60–70 (~30 hours to the next band)
 **Typical paladin in this band:** distance fighting 83, Crossbow with Power Bolts.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~75k | ~30k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Bat hits 20% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~65k | ~35k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 26% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~60k | ~150k | Edron 129 / ~30 s | Watch: Wyvern hits 15% of HP. Sells: Wyvern Talisman |
 
 **Good for gold**
@@ -408,12 +426,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 70–80 (~36 hours to the next band)
 **Typical paladin in this band:** distance fighting 89, Crossbow with Power Bolts.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~80k | ~35k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Bat hits 17% of HP |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~70k | ~40k | Venore 98 / ~25 s | Earlier than TibiaWiki suggests (level 80). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 23% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~70k | ~165k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
 
 **Good for gold**
@@ -427,12 +447,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 80–90 (~44 hours to the next band)
 **Typical paladin in this band:** distance fighting 94, Crossbow with Power Bolts.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~80k | ~55k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 29% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~80k | ~45k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 20% of HP. Sells: Stonerefiner's Skull |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
 
 **Good for gold**
@@ -446,12 +468,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 90–100 (~42 hours to the next band)
 **Typical paladin in this band:** distance fighting 100, Crossbow with Prismatic Bolts.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~105k | ~75k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Broken Shaper hits 20% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 18% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 18% of HP. Sells: Stonerefiner's Skull |
 | [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 1 | 1 | ~100k | ~35k | Port Hope 421 / ~1.8 min | Watch: Giant Spider hits 30% of HP. Sells: Tarantula Egg |
 
 **Good for gold**
@@ -465,6 +489,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 100–110 (~48 hours to the next band)
 **Typical paladin in this band:** distance fighting 102, Crossbow with Prismatic Bolts.
 
+**Unlock first:** [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (opens the mine doors, for Corym Mines (Venore)).
+
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
 
 **Good for XP**
@@ -472,7 +498,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~110k | ~80k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 23% of HP. Sells: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area. Watch: Stonerefiner hits 17% of HP. Sells: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~110k | ~60k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Needs the Hidden Threats Quest for the mine doors; run past the Corym on the way down to the Stonerefiners. Watch: Stonerefiner hits 17% of HP. Sells: Stonerefiner's Skull |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~110k | ~95k | Thais 81 / ~20 s | Watch: Animated Ogre Brute hits 29% of HP. Sells: Broken Shamanic Staff |
 
 **Good for gold**
