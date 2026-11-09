@@ -29,6 +29,7 @@ Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas a
 - **Hunt:** um lugar onde você caça. Também é o nome da própria caçada.
 - **Spawn (ou respawn):** os monstros que vivem numa hunt e voltam a aparecer depois que você os mata.
 - **Box:** deixar vários monstros te cercarem e acertar todos de uma vez com uma magia de área. Box maior mata mais rápido, mas machuca mais.
+- **`exori infir min`:** uma magia de ataque fraca que todo knight tem desde o level 1, inclusive em conta free. Acerta até três monstros na sua frente por só 6 de mana.
 - **`exori`:** o ataque em área básico do knight (level 35, conta premium). Acerta todos os monstros colados em você.
 - **`exura ico`:** a magia de cura básica do knight.
 - **XP/h e loot/h:** experiência e gold (o valor do que os monstros dropam) por hora de hunt.
@@ -89,10 +90,10 @@ Cada hunt tem uma tag: **XP** (boa para upar), **lucro** (boa para fazer gold) o
 Os números de XP e loot são estimativas para um knight típico: alguém com skill um pouco abaixo do normal para o level (30 no level 8, 63 no 30, 96 no 90, 114 no 200), usando o melhor equipamento que dá para comprar com umas 3 horas de hunt. Um personagem novo só chega nesses skills treinando offline desde o começo (veja a Seção 1). Cada faixa mostra esse equipamento. Se o seu skill ou equipamento for melhor, você vai render mais do que as tabelas.
 
 ## Seção 1: Mecânicas básicas
-Nesta seção você usa só o básico: a sua arma, a magia de ataque `exori`, a magia de cura `exura ico`, poções, equipamento normal e um amuleto e um anel que nunca acabam. Todo o resto vem depois.
+Nesta seção você usa só o básico: a sua arma, as magias de ataque `exori infir min` e `exori`, a magia de cura `exura ico`, poções, equipamento normal e um amuleto e um anel que nunca acabam. Todo o resto vem depois.
 
 ### Como lutar
-**Antes do level 35**, o knight não tem ataque em área, então lute contra um ou dois monstros por vez com os ataques normais. Cure-se com `exura ico` quando precisar.
+**Antes do level 35**, o knight não tem ataque que acerte tudo em volta, então lute contra um ou dois monstros por vez com os ataques normais. Desde o level 1 você também tem o `exori infir min`: ele custa só 6 de mana, pode ser usado a cada 6 segundos e acerta até três monstros na sua frente. O dano é pequeno, mas quase não gasta mana, então solte ele logo depois de um ataque normal sempre que estiver pronto. Cure-se com `exura ico` quando precisar.
 
 **A partir do level 35** você aprende o `exori` (precisa de conta premium). Ele custa 125 de mana e acerta todos os monstros colados em você, então compensa quando três ou mais monstros te cercam. Isso é fazer **box**:
 1. Entre no spawn e deixe alguns monstros te seguirem.
@@ -217,7 +218,7 @@ A promoção é permanente, mas fica pausada enquanto a sua conta premium estive
 
 ### Jogando com conta free
 Dá para começar no Tibia sem pagar, mas a conta free tem limites de verdade. Os que mais importam para um knight:
-- **Sem `exori`.** É uma magia premium, então o knight free luta só com ataques normais e `exura ico`. Grupos grandes ficam lentos, então lute com um ou dois monstros por vez.
+- **Sem `exori`.** É uma magia premium, então o knight free luta só com ataques normais, `exori infir min` e `exura ico`. Grupos grandes ficam lentos, então lute com um ou dois monstros por vez.
 - **Sem promoção,** então você continua Knight, e sem Wheel of Destiny.
 - **Só seis cidades:** Thais, Carlin, Venore, Ab'Dendriel, Kazordoon e Yalahar. Barcos, tapetes mágicos e steamships para lugares premium ficam fechados, então a maioria das ilhas fica de fora. Targuna e as suas três hunts são free.
 - **Sem o bônus de stamina** (os 50% a mais de experiência nas primeiras 3 horas).
@@ -721,7 +722,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Western Plains (Oramond)](https://tibiamaps.io/map#33527,31940,7:2) | 2 → **1** | 2 → **1** | ~180k | ~50k | Rathleton, depois o oeste de Oramond | **XP**. Não te veem: Glooth Blob. Ainda: Devourer bate 25% da vida |
 
 ## Seção 1b: Mais magias
-A Seção 1 usa só `exori` e `exura ico` de propósito: cada magia a mais é mais um botão para acompanhar durante a hunt. Mas algumas deixam a hunt mais tranquila depois que você se acostuma com o básico. Todas precisam de conta premium.
+A Seção 1 usa só `exori infir min`, `exori` e `exura ico` de propósito: cada magia a mais é mais um botão para acompanhar durante a hunt. Mas algumas deixam a hunt mais tranquila depois que você se acostuma com o básico. Todas precisam de conta premium.
 
 ### Stances: Protector
 A partir do level 20 você pode ligar uma **stance**, que fica ativa até você trocar. Só dá para ter uma ativa por vez.

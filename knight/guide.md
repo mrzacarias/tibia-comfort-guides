@@ -26,6 +26,7 @@ If you test a hunting ground, write down how it went in `spot_tests.md`. Tested 
 - **HP and mana:** your health and the energy you spend on spells. A knight has about 185 + 15 × (level − 8) HP: 815 at level 50, 2,075 at level 134.
 - **Spawn:** the monsters that live in a hunting ground and come back after you kill them.
 - **Box, boxing:** letting several monsters surround you and hitting them all at once with an area spell. Bigger boxes kill faster but hurt more.
+- **`exori infir min`:** a weak attack spell every knight has from level 1, free accounts included. It hits up to three monsters in front of you for only 6 mana.
 - **`exori`:** the knight's basic area attack (level 35, premium account). It hits every monster standing next to you.
 - **`exura ico`:** the knight's basic healing spell.
 - **XP/h, loot/h:** experience and gold (the value of what monsters drop) per hour of hunting.
@@ -86,10 +87,10 @@ Each hunting ground is tagged as an **XP** hunting ground (good for levelling), 
 The XP and loot numbers are estimates for a typical knight: someone whose skill is a little below the usual for their level (30 at level 8, 63 at 30, 96 at 90, 114 at 200), wearing the best gear they could buy with about 3 hours of hunting income. A new character only reaches those skills by training offline from the start (see Section 1). Each band lists that gear. If your skill or gear is better, you'll do better than the tables.
 
 ## Section 1: Basic mechanics
-In this section you use only the basics: your weapon, the `exori` attack spell, the `exura ico` healing spell, potions, normal gear, and an amulet and ring that never run out. Everything else comes later.
+In this section you use only the basics: your weapon, the `exori infir min` and `exori` attack spells, the `exura ico` healing spell, potions, normal gear, and an amulet and ring that never run out. Everything else comes later.
 
 ### How to fight
-**Before level 35**, a knight has no area attack, so fight one or two monsters at a time with your normal attacks. Heal with `exura ico` when you need it.
+**Before level 35**, a knight has no attack that hits all around, so fight one or two monsters at a time with your normal attacks. From level 1 you also have `exori infir min`: it costs only 6 mana, can be cast every 6 seconds and hits up to three monsters in front of you. The damage is small, but it's almost free, so cast it right after a normal attack whenever it's ready. Heal with `exura ico` when you need it.
 
 **From level 35** you learn `exori` (it needs a premium account). It costs 125 mana and hits every monster standing next to you, so it pays off when three or more monsters surround you. This is called **boxing**:
 1. Walk into the spawn and let a few monsters follow you.
@@ -214,7 +215,7 @@ The promotion is permanent, but it pauses while your premium time is over.
 
 ### Playing on a free account
 You can start Tibia without paying, but a free account has real limits. The ones that matter most for a knight:
-- **No `exori`.** It's a premium spell, so a free knight fights with normal attacks and `exura ico` only. Big groups stay slow, so fight one or two monsters at a time.
+- **No `exori`.** It's a premium spell, so a free knight fights with normal attacks, `exori infir min` and `exura ico` only. Big groups stay slow, so fight one or two monsters at a time.
 - **No promotion,** so you stay a Knight, and no Wheel of Destiny.
 - **Six cities only:** Thais, Carlin, Venore, Ab'Dendriel, Kazordoon and Yalahar. Boats, magic carpets and steamships to premium places are closed, so most islands are out. Targuna and its three hunting grounds are free.
 - **No stamina bonus** (the 50% extra experience in the first 3 hours).
@@ -718,7 +719,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Western Plains (Oramond)](https://tibiamaps.io/map#33527,31940,7:2) | 2 → **1** | 2 → **1** | ~180k | ~50k | Rathleton, then western Oramond | **XP**. Can't see you: Glooth Blob. Still: Devourer hits 25% of HP |
 
 ## Section 1b: More spells
-Section 1 uses only `exori` and `exura ico` on purpose: every extra spell is one more button to watch during the hunt. But a few of them make hunting calmer once you're used to the basics. All of them need a premium account.
+Section 1 uses only `exori infir min`, `exori` and `exura ico` on purpose: every extra spell is one more button to watch during the hunt. But a few of them make hunting calmer once you're used to the basics. All of them need a premium account.
 
 ### Stances: Protector
 From level 20 you can switch on a **stance**, which lasts until you change it. Only one can be active at a time.
