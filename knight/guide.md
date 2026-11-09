@@ -87,21 +87,21 @@ The XP and loot numbers are estimates for a typical knight: someone whose skill 
 ## Access quests
 Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
 
-| Quest | Part needed | First needed | Opens | Premium | Where |
-|---|---|---|---|---|---|
-| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor, Nibelor Crystal Spiders | yes | Svargrond |
-| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 20–30 with a Stealth Ring | Corym Mines (Venore) | no | Corym Mines |
-| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | for Buddel's boat, TibiaWiki suggests level 25 for the quest | 30–40 | Hrodmir Stone Golem Caves, Okolnir frost dragons | yes | Svargrond |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 40–50 with leech | Crystal Grounds (Gnomegate) | partly | Gnomegate |
-| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest | 60–70 with Protector | Last Sanctum | yes | Grimvale |
-| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest | 70–80 with Protector | Fenrock Dragon Lair | yes | Beregar |
-| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with leech | Vengoth Werewolf Cave | yes | Yalahar |
-| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 100–110 with leech | Oramond Fury Dungeon | yes | Oramond |
-| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed | 100–110 with Protector | Old Masonry | yes | Halls of Hope |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat | 100–110 with a Stealth Ring | Dragon Lairs (Goroma) | yes | Liberty Bay |
-| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest | 140–150 with Protector | Deeplings Library (Fiehonja), Fiehonja deeplings | yes | Gray Beach |
-| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | TibiaWiki suggests level 61 for the quest | 180–190 with leech | Sea Serpent Area | yes | Sea Serpent Area |
+| Quest | Part needed: hunting grounds it opens | First needed | Premium | Where |
+|---|---|---|---|---|
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | needed before the Ice Islands Quest, TibiaWiki suggests level 25 for the quest: Nibelor, Nibelor Crystal Spiders<br>for Buddel's boat, TibiaWiki suggests level 25 for the quest: Hrodmir Stone Golem Caves, Okolnir frost dragons | 8–20 | yes | Svargrond |
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12: Crimson Court (Targuna) | 8–20 | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission: Nibelor, Nibelor Crystal Spiders | 8–20 | yes | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors: Corym Mines (Venore) | 20–30 with a Stealth Ring | no | Corym Mines |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120: Crystal Grounds (Gnomegate) | 40–50 with leech | partly | Gnomegate |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest: Last Sanctum | 60–70 with Protector | yes | Grimvale |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest: Fenrock Dragon Lair | 70–80 with Protector | yes | Beregar |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest: Vengoth Werewolf Cave | 80–90 with leech | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later: Oramond Fury Dungeon | 100–110 with leech | yes | Oramond |
+| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed: Old Masonry | 100–110 with Protector | yes | Halls of Hope |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat: Dragon Lairs (Goroma) | 100–110 with a Stealth Ring | yes | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest: Deeplings Library (Fiehonja), Fiehonja deeplings | 140–150 with Protector | yes | Gray Beach |
+| [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | TibiaWiki suggests level 61 for the quest: Sea Serpent Area | 180–190 with leech | yes | Sea Serpent Area |
 
 ## Section 1: Basic mechanics
 In this section you use only the basics: your weapon, the `exori infir min` and `exori` attack spells, the `exura ico` healing spell, potions, normal gear, and an amulet and ring that never run out. Everything else comes later.
@@ -247,8 +247,8 @@ The table below lists the best hunting grounds a free account can use in each ba
 | Level | Good for XP | Good for gold |
 |---|---|---|
 | 8–20 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, 20k XP/h, 20k loot/h<br>[Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H1, 20k XP/h, 15k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, 10k XP/h, 70k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, 20k XP/h, 20k loot/h |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, 45k XP/h, 11k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, 30k XP/h, 30k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~100k loot/h<br>[The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2): P1 H1, ~19k XP/h, ~55k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h |
-| 30–40 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2): P1 H1, ~40k XP/h, ~13k loot/h<br>[Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2): P1 H1, ~30k XP/h, ~35k loot/h<br>[Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2): P1 H1, ~30k XP/h, ~50k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, ~13k XP/h, ~105k loot/h<br>[Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~25k XP/h, ~85k loot/h<br>[Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2): P1 H1, ~25k XP/h, ~85k loot/h |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): P0 H0, 45k XP/h, 11k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h<br>[Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): P0 H0, 30k XP/h, 30k loot/h | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2): P0 H0, 10k XP/h, 70k loot/h<br>[The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2): P1 H1, ~19k XP/h, ~55k loot/h<br>[Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): P0 H0, 40k XP/h, 55k loot/h |
+| 30–40 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2): P1 H1, ~40k XP/h, ~13k loot/h<br>[Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2): P1 H1, ~30k XP/h, ~35k loot/h<br>[Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2): P1 H1, ~30k XP/h, ~50k loot/h | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2): P1 H1, ~25k XP/h, ~85k loot/h<br>[Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2): P1 H1, ~25k XP/h, ~85k loot/h<br>[The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2): P1 H1, ~30k XP/h, ~80k loot/h |
 | 40–50 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~105k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~105k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~60k XP/h, ~140k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~50k XP/h, ~105k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~55k XP/h, ~105k loot/h |
 | 50–60 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~70k XP/h, ~160k loot/h<br>[Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~70k XP/h, ~40k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~60k XP/h, ~120k loot/h | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P1 H1, ~70k XP/h, ~165k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~60k XP/h, ~120k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~60k XP/h, ~120k loot/h |
 | 60–70 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~80k XP/h, ~190k loot/h<br>[Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2): P1 H1, ~75k XP/h, ~45k loot/h<br>[Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2): P1 H1, ~70k XP/h, ~25k loot/h | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2): P0 H0, ~80k XP/h, ~190k loot/h<br>[Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2): P1 H1, ~70k XP/h, ~140k loot/h<br>[Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2): P1 H1, ~70k XP/h, ~140k loot/h |
@@ -281,7 +281,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 8–20 (~2.1 hours to the next band)
 **Typical knight in this band:** skill 30, weapon attack 25. Good-value gear, each piece under ~33k: Serpent Sword, Morning Star or Orcish Axe (sword, club or axe), with Golden Armor, Knight Legs, Royal Helmet, Carapace Shield, Boots of Haste.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -295,14 +295,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | 6k | 75k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). **Tested** (level 23, sword 47): 300 gold of supplies per hour, almost no healing, Winter Wolf Fur sold for about 4k. Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Watch: Polar Bear hits 16% of HP. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 70k | Thais 188 / ~47 s | **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 1 | 1 | ~5k | ~70k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Watch: Polar Bear hits 16% of HP. Sells: Winter Wolf Fur |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) ✓ | 0 | 0 | 40k | 55k | Targuna, then Sterling's sea turtle (free) | **Tested** solo (level 19 to 23, sword 41): no supplies. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 27% of HP. Sells: Gold Tooth |
 
 #### Level 20–30 (~4.5 hours to the next band)
 **Typical knight in this band:** skill 50, weapon attack 31. Good-value gear, each piece under ~71k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Dragon Scale Mail, Golden Legs, Royal Helmet, Rift Shield, Boots of Haste.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -316,14 +316,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~100k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~12k | ~85k | Farmine 98 / ~24 s | Watch: Gnarlhound hits 19% of HP. Sells: Shaggy Tail |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | 6k | 75k | Svargrond 182 / ~46 s | **Tested** (level 23, sword 47): 300 gold of supplies per hour, almost no healing, Winter Wolf Fur sold for about 4k. Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | 6k | 75k | Svargrond 182 / ~46 s | **Tested** (level 23, sword 47): 300 gold of supplies per hour, almost no healing, Winter Wolf Fur sold for about 4k. Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 70k | Thais 188 / ~47 s | **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
 
 #### Level 30–40 (~9.6 hours to the next band)
 **Typical knight in this band:** skill 63, weapon attack 37. Good-value gear, each piece under ~133k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
 
-**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Hrodmir Stone Golem Caves), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -337,7 +337,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~50k | ~125k | Edron 129 / ~30 s | Earlier than TibiaWiki suggests (level 40). Watch: Wyvern hits 28% of HP. Sells: Wyvern Talisman |
 
@@ -743,8 +743,8 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **0** | 3 → **0** | ~15k | ~210k | Kazordoon 137 / ~35 s | Earlier than TibiaWiki suggests (level 30). Gloom wolf days are great for money and bad for XP. Can't see you: Ghost Wolf, Gloom Wolf. Sells: Gloom Wolf Fur |
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Thais 188 / ~47 s | Can't see you: Wasp. Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k | Farmine 98 / ~24 s | Can't see you: Gnarlhound. Sells: Shaggy Tail |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~16k | ~80k | Svargrond, on foot over the ice | Earlier than TibiaWiki suggests (level 30). Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 30–40 with a Stealth Ring (~8.6 hours to the next band)
 
@@ -1120,9 +1120,9 @@ These tables grade the Section 1 hunting grounds with Protector's 15% less damag
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k |  |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~16k | ~80k | Earlier than TibiaWiki suggests (level 30) |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | 6k | 75k |  |
 
 #### Level 30–40 with Protector (~8.0 hours to the next band)
 
@@ -1827,9 +1827,9 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k |  |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **0** | 1 → **0** | ~12k | ~85k |  |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **1** | ~16k | ~80k | Earlier than TibiaWiki suggests (level 30) |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **0** | 2 → **1** | ~30k | ~75k | Earlier than TibiaWiki suggests (level 40) |
 
 #### Level 30–40 with leech (~8.3 hours to the next band)
 
@@ -2199,8 +2199,8 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | 7k | 75k | Earlier than TibiaWiki suggests (level 20). Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | 10k | 70k | Damage-reduction prey on Wasp |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 1 → **0** | 1 → **0** | ~5k | ~70k | Earlier than TibiaWiki suggests (level 20). Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 → **0** | 0 → **0** | 45k | 55k | Damage-reduction prey on Pirate Quartermaster, XP prey on Pirate Cook |
 
 #### Level 20–30 with prey (~4.2 hours to the next band)
@@ -2217,9 +2217,9 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 → **0** | 0 → **0** | ~13k | ~100k | Damage-reduction prey on Wasp |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 → **1** | 1 → **1** | ~12k | ~85k | Damage-reduction prey on Gnarlhound |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~17k | ~80k | Earlier than TibiaWiki suggests (level 30). Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 → **0** | 0 → **0** | 7k | 75k | Damage-reduction prey on Polar Bear, XP prey on Winter Wolf |
 
 #### Level 30–40 with prey (~7.9 hours to the next band)
 

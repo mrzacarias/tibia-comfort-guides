@@ -94,18 +94,19 @@ The estimates also assume that `exevo mas san` hits about 2.5 monsters on averag
 ## Access quests
 Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
 
-| Quest | Part needed | First needed | Opens | Premium | Where |
-|---|---|---|---|---|---|
-| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor | yes | Svargrond |
-| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 30–40 with a Stealth Ring | Corym Mines (Venore) | no | Corym Mines |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 70–80 with prey | Crystal Grounds (Gnomegate) | partly | Gnomegate |
-| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with leech | Vengoth Werewolf Cave | yes | Yalahar |
-| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 120–130 with leech | Oramond Fury Dungeon | yes | Oramond |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat | 130–140 with a Stealth Ring | Dragon Lairs (Goroma) | yes | Liberty Bay |
-| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest | 160–170 with leech | Deeplings Library (Fiehonja), Fiehonja deeplings | yes | Gray Beach |
-| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest | 200+ with leech | Fenrock Dragon Lair | yes | Beregar |
-| [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | first missions, TibiaWiki suggests level 130+ for the quest | 200+ with leech | Pits of Inferno Dragon Lair | yes | Pits of Inferno |
+| Quest | Part needed: hunting grounds it opens | First needed | Premium | Where |
+|---|---|---|---|---|
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | needed before the Ice Islands Quest, TibiaWiki suggests level 25 for the quest: Nibelor | 8–20 | yes | Svargrond |
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12: Crimson Court (Targuna) | 8–20 | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission: Nibelor | 8–20 | yes | Svargrond |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors: Corym Mines (Venore) | 30–40 with a Stealth Ring | no | Corym Mines |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120: Crystal Grounds (Gnomegate) | 70–80 with prey | partly | Gnomegate |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest: Vengoth Werewolf Cave | 80–90 with leech | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later: Oramond Fury Dungeon | 120–130 with leech | yes | Oramond |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat: Dragon Lairs (Goroma) | 130–140 with a Stealth Ring | yes | Liberty Bay |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | TibiaWiki suggests level 130+ for the quest: Deeplings Library (Fiehonja), Fiehonja deeplings | 160–170 with leech | yes | Gray Beach |
+| [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | started, TibiaWiki suggests level 60+ for the quest: Fenrock Dragon Lair | 200+ with leech | yes | Beregar |
+| [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | first missions, TibiaWiki suggests level 130+ for the quest: Pits of Inferno Dragon Lair | 200+ with leech | yes | Pits of Inferno |
 
 ## Section 1: Basic mechanics
 In this section you use only the basics: your bow or crossbow, two attack spells (`exori con` for one monster and `exevo mas san` for groups), the `exura` healing spells, potions and normal gear. Everything else comes later.
@@ -300,7 +301,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 8–20 (~7.1 hours to the next band)
 **Typical paladin in this band:** distance fighting 30, Crossbow with Bolts.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -314,14 +315,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~2k | ~30k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~2k | ~30k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~4k | ~30k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~2k | ~15k | Farmine 98 / ~24 s | Earlier than TibiaWiki suggests (level 20). Watch: Gnarlhound hits 28% of HP. Sells: Shaggy Tail |
 
 #### Level 20–30 (~14 hours to the next band)
 **Typical paladin in this band:** distance fighting 52, Crossbow with Bolts.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -335,14 +336,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~45k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~45k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~5k | ~25k | Svargrond, on foot over the ice | Earlier than TibiaWiki suggests (level 30). Watch: Mammoth hits 27% of HP. Sells: Winter Wolf Fur |
 
 #### Level 30–40 (~20 hours to the next band)
 **Typical paladin in this band:** distance fighting 66, Crossbow with Piercing Bolts.
 
-**Unlock first:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -356,14 +357,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~90k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~90k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~85k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~9k | ~60k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 
 #### Level 40–50 (~35 hours to the next band)
 **Typical paladin in this band:** distance fighting 72, Crossbow with Piercing Bolts.
 
-**Unlock first:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -377,14 +378,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~100k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~100k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~90k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~10k | ~65k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 
 #### Level 50–60 (~30 hours to the next band)
 **Typical paladin in this band:** distance fighting 77, Crossbow with Piercing Bolts.
 
-**Unlock first:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -398,7 +399,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~50k | ~125k | Edron 129 / ~30 s | Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
 

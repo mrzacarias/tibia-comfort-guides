@@ -94,17 +94,18 @@ The estimates also assume that a wave hits about 2.5 monsters on average, and th
 ## Access quests
 Some hunting grounds in the lists open only after part of a quest. This table gathers them in the order you'll first need them, so you can do each one while you're nearby. **Part needed** is how much of the quest opens the hunting ground: you rarely need the whole quest. The quest names link to TibiaWiki for the walkthrough. In Section 1, each band's **Unlock first** line repeats the ones its hunting grounds need.
 
-| Quest | Part needed | First needed | Opens | Premium | Where |
-|---|---|---|---|---|---|
-| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12 | 8–20 | Crimson Court (Targuna) | no | Targuna |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission | 8–20 | Nibelor, Nibelor Crystal Spiders | yes | Svargrond |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120 | 30–40 with Magic Shield | Crystal Grounds (Gnomegate) | partly | Gnomegate |
-| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors | 30–40 with invisibility | Corym Mines (Venore) | no | Corym Mines |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold | 30–40 with prey | Meriana Gargoyle Cave | yes | Liberty Bay |
-| [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | Troubled Animals mission, TibiaWiki suggests level 100 for the quest | 40–50 with Magic Shield | Feyrist Meadows | yes | Fields of Glory |
-| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest | 60–70 with Magic Shield | Last Sanctum | yes | Grimvale |
-| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest | 80–90 with Magic Shield | Vengoth Werewolf Cave | yes | Yalahar |
-| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later | 90–100 with Magic Shield | Oramond Fury Dungeon | yes | Oramond |
+| Quest | Part needed: hunting grounds it opens | First needed | Premium | Where |
+|---|---|---|---|---|
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | needed before the Ice Islands Quest, TibiaWiki suggests level 25 for the quest: Nibelor, Nibelor Crystal Spiders | 8–20 | yes | Svargrond |
+| [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | Burning Heat mission, from level 12: Crimson Court (Targuna) | 8–20 | no | Targuna |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | first mission: Nibelor, Nibelor Crystal Spiders | 8–20 | yes | Svargrond |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | from level 80; TibiaWiki suggests 120: Crystal Grounds (Gnomegate) | 30–40 with Magic Shield | partly | Gnomegate |
+| [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | opens the mine doors: Corym Mines (Venore) | 30–40 with invisibility | no | Corym Mines |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold: Meriana Gargoyle Cave | 30–40 with prey | yes | Liberty Bay |
+| [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | Troubled Animals mission, TibiaWiki suggests level 100 for the quest: Feyrist Meadows | 40–50 with Magic Shield | yes | Fields of Glory |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | The Curse Spreads part, TibiaWiki suggests level 100 for the quest: Last Sanctum | 60–70 with Magic Shield | yes | Grimvale |
+| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | mission 4, TibiaWiki suggests level 70+ for the quest: Vengoth Werewolf Cave | 80–90 with Magic Shield | yes | Yalahar |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | only the early missions, up to the minotaur task for Terrence; the team fights come later: Oramond Fury Dungeon | 90–100 with Magic Shield | yes | Oramond |
 
 ## Section 1: Basic mechanics
 In this section you use only the basics: your wand, two attack spells (a strike for one monster and a wave for groups), the `exura` healing spells, potions and normal gear. Everything else comes later.
@@ -305,7 +306,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 #### Level 8–20 (~4.6 hours to the next band)
 **Typical sorcerer in this band:** magic level 10, Wand of Vortex.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -319,14 +320,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~50k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~3k | ~50k | Svargrond 182 / ~46 s | Earlier than TibiaWiki suggests (level 20). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~6k | ~45k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~3k | ~20k | Farmine 98 / ~24 s | Earlier than TibiaWiki suggests (level 20). Watch: Gnarlhound hits 19% of HP. Sells: Shaggy Tail |
 
 #### Level 20–30 (~9.5 hours to the next band)
 **Typical sorcerer in this band:** magic level 18, Wand of Decay.
 
-**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (Burning Heat mission, from level 12, for Crimson Court (Targuna)), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -341,13 +342,13 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | Sells: Honeycomb |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~9k | ~45k | Svargrond, on foot over the ice | Earlier than TibiaWiki suggests (level 30). Watch: Mammoth hits 22% of HP. Sells: Winter Wolf Fur |
 
 #### Level 30–40 (~22 hours to the next band)
 **Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy.
 
-**Unlock first:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -361,14 +362,14 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~85k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~85k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~85k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~12k | ~55k | Svargrond, on foot over the ice | Watch: Mammoth hits 19% of HP. Sells: Winter Wolf Fur |
 
 #### Level 40–50 (~18 hours to the next band)
 **Typical sorcerer in this band:** magic level 32, Wand of Inferno.
 
-**Unlock first:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
+**Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
 **Good for XP**
 
@@ -382,7 +383,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Farmine 98 / ~24 s | Sells: Shaggy Tail |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~120k | Svargrond, on foot over the ice | Watch: Mammoth hits 16% of HP. Sells: Winter Wolf Fur |
 
