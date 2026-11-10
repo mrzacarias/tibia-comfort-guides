@@ -258,7 +258,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~115k | ~80k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 27% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~115k | ~80k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Earlier than TibiaWiki suggests (level 120). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Twisted Shaper hits 27% of HP. Sells: Ancient Belt Buckle |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 0 | 0 | ~110k | ~45k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~90k | ~210k | Kazordoon 137 / ~34 s | Only on poacher days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Sells: Wyvern Talisman |
 
@@ -277,7 +277,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~125k | ~85k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 24% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~125k | ~85k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Earlier than TibiaWiki suggests (level 120). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Twisted Shaper hits 24% of HP. Sells: Ancient Belt Buckle |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 1 | 1 | ~110k | ~55k | Svargrond, on foot over the ice | Paralyze. Watch: Crystal Spider hits 28% of HP, slows or summons. Sells: Wyvern Talisman |
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 1 | 1 | ~100k | ~19k | Port Hope 331 / ~1.4 min | Earlier than TibiaWiki suggests (level 110). Watch: Golden Servant Replica hits 18% of HP. Sells: Might Ring |
 
@@ -296,7 +296,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~135k | ~95k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Broken Shaper hits 18% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~135k | ~95k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Earlier than TibiaWiki suggests (level 120). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Broken Shaper hits 18% of HP. Sells: Ancient Belt Buckle |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~130k | ~50k | Issavi ~10 / ~5 s (+ shell) | Earlier than TibiaWiki suggests (level 100). Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 30% of HP |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 1 | 1 | 125k | 150k | Venore 98 / ~25 s | **Tested** (level 91, club 107): 4.2k gold of supplies per hour, 15.7k healing/h, high-price world. [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 
@@ -318,7 +318,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~140k | ~95k | Port Hope 449 / ~1.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Shaper Matriarch hits 29% of HP. Sells: Ancient Belt Buckle |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~140k | ~100k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 19% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~140k | ~100k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Earlier than TibiaWiki suggests (level 120). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Twisted Shaper hits 19% of HP. Sells: Ancient Belt Buckle |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~135k | ~50k | Issavi ~10 / ~5 s (+ shell) | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech. Watch: Exotic Cave Spider hits 27% of HP |
 
 **Good for gold**
@@ -338,7 +338,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~155k | ~30k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 29% of HP. Sells: Stone Skin Amulet |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~145k | ~100k | Port Hope 449 / ~1.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Shaper Matriarch hits 26% of HP. Sells: Ancient Belt Buckle |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~145k | ~100k | Port Hope 228 / ~0.9 min | Earlier than TibiaWiki suggests (level 120). Watch: Twisted Shaper hits 17% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~145k | ~100k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Earlier than TibiaWiki suggests (level 120). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Twisted Shaper hits 17% of HP. Sells: Ancient Belt Buckle |
 
 **Good for gold**
 
@@ -356,7 +356,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~165k | ~30k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 27% of HP. Sells: Stone Skin Amulet |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~150k | ~105k | Port Hope 228 / ~0.9 min | Watch: Twisted Shaper hits 16% of HP. Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~150k | ~105k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Watch: Twisted Shaper hits 16% of HP. Sells: Ancient Belt Buckle |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~145k | ~90k | Port Hope 449 / ~1.9 min | Watch: Shaper Matriarch hits 24% of HP. Sells: Ancient Belt Buckle |
 
 **Good for gold**
@@ -395,7 +395,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~170k | ~30k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 23% of HP. Sells: Stone Skin Amulet |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 28% of HP. Sells: Might Ring |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~155k | ~110k | Port Hope 228 / ~0.9 min | Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~155k | ~110k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Sells: Ancient Belt Buckle |
 
 **Good for gold**
 
@@ -416,7 +416,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~175k | ~30k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 22% of HP. Sells: Stone Skin Amulet |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 26% of HP. Sells: Might Ring |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~160k | ~110k | Port Hope 228 / ~0.9 min | Sells: Ancient Belt Buckle |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~160k | ~110k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Sells: Ancient Belt Buckle |
 
 **Good for gold**
 
