@@ -367,16 +367,16 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Sells: Wyvern Talisman |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~105k | ~215k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
-#### Level 130–140 (~56 hours to the next band)
+#### Level 130–140 (~52 hours to the next band)
 **Typical knight in this band:** skill 103, weapon attack 50. Good-value gear, each piece under ~223k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 0 | 0 | 185k | 80k | Venore 98 / ~25 s | **Tested** (level 137, sword 115): 2k gold of supplies per hour, almost no healing, loot counted at NPC prices (the Market pays more). [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~165k | ~30k | not computed | Earlier than TibiaWiki suggests (level 250). Through a Water Vortex under the Outlaw Camp; a [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) hideout. Watch: Misguided Thief hits 25% of HP. Sells: Stone Skin Amulet |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 30% of HP. Sells: Might Ring |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~150k | ~105k | Port Hope 228 / ~0.9 min | Sells: Ancient Belt Buckle |
 
 **Good for gold**
 

@@ -370,16 +370,16 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~105k | ~215k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 130–140 (~56 horas até a próxima faixa)
+#### Level 130–140 (~52 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 103, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~223k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 0 | 0 | 185k | 80k | Venore 98 / ~25 s | **Testado** (level 137, sword 115): 2k gold de supplies por hora, quase sem cura, loot contado a preço de NPC (o Market paga mais). Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 1 | 1 | ~165k | ~30k | não calculado | Antes do que a TibiaWiki sugere (level 250). Por um Water Vortex embaixo do Outlaw Camp; um esconderijo da [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Misguided Thief bate 25% da vida. Vende bem: Stone Skin Amulet |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 30% da vida. Vende bem: Might Ring |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 0 | 0 | ~150k | ~105k | Port Hope 228 / ~0,9 min | Vende bem: Ancient Belt Buckle |
 
 **Bom para lucro**
 
