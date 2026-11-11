@@ -373,7 +373,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 0 | 0 | 185k | 105k | Venore 98 / ~25 s | **Tested** (level 135, sword 115): 2k gold of supplies per hour, almost no healing, 81k loot/h on that world. [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 30% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 30% of HP. Sells: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~150k | ~100k | Port Hope 449 / ~1.9 min | Watch: Shaper Matriarch hits 22% of HP. Sells: Ancient Belt Buckle |
 
 **Good for gold**
@@ -392,7 +392,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~190k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 28% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 28% of HP. Sells: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~150k | ~100k | Port Hope 449 / ~1.9 min | Watch: Shaper Matriarch hits 21% of HP. Sells: Ancient Belt Buckle |
 
 **Good for gold**
@@ -413,7 +413,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~195k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 26% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 26% of HP. Sells: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~155k | ~100k | Port Hope 449 / ~1.9 min | Watch: Shaper Matriarch hits 20% of HP. Sells: Ancient Belt Buckle |
 
 **Good for gold**
@@ -433,7 +433,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~195k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~190k | ~80k | not computed | Watch: Moohtant hits 29% of HP. Sells: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 24% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 24% of HP. Sells: Might Ring |
 
 **Good for gold**
 
@@ -452,7 +452,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~200k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~195k | ~80k | not computed | Watch: Moohtant hits 27% of HP. Sells: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~165k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 23% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~165k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 23% of HP. Sells: Might Ring |
 
 **Good for gold**
 
@@ -471,7 +471,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~205k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~200k | ~85k | not computed | Watch: Moohtant hits 26% of HP. Sells: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 22% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 22% of HP. Sells: Might Ring |
 
 **Good for gold**
 
@@ -490,7 +490,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~210k | ~105k | Venore 98 / ~25 s | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~200k | ~85k | not computed | Watch: Moohtant hits 25% of HP. Sells: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Watch: Cult Scholar hits 21% of HP. Sells: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 21% of HP. Sells: Might Ring |
 
 **Good for gold**
 
@@ -1700,15 +1700,15 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~170k |  |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~55k | ~160k |  |
 
-#### Level 80–90 with leech (~31 hours to the next band)
+#### Level 80–90 with leech (~29 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Notes |
 |---|---|---|---|---|---|
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~125k | ~25k | Plus a rare Might Ring (~14k) about once every 4 hours, not counted in Loot/h |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~115k | ~95k |  |
 | [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 2 → **0** | 2 → **1** | ~110k | ~40k |  |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 1 → **0** | 1 → **0** | ~110k | ~55k |  |
 
 **Good for gold**
 

@@ -376,7 +376,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 0 | 0 | 185k | 105k | Venore 98 / ~25 s | **Testado** (level 135, sword 115): 2k gold de supplies por hora, quase sem cura, 81k de loot/h naquele mundo. Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 30% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 30% da vida. Vende bem: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~150k | ~100k | Port Hope 449 / ~1,9 min | Cuidado: Shaper Matriarch bate 22% da vida. Vende bem: Ancient Belt Buckle |
 
 **Bom para lucro**
@@ -395,7 +395,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~190k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 28% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~155k | ~35k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 28% da vida. Vende bem: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~150k | ~100k | Port Hope 449 / ~1,9 min | Cuidado: Shaper Matriarch bate 21% da vida. Vende bem: Ancient Belt Buckle |
 
 **Bom para lucro**
@@ -416,7 +416,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~195k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 26% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 26% da vida. Vende bem: Might Ring |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 | 1 | ~155k | ~100k | Port Hope 449 / ~1,9 min | Cuidado: Shaper Matriarch bate 20% da vida. Vende bem: Ancient Belt Buckle |
 
 **Bom para lucro**
@@ -436,7 +436,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~195k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~190k | ~80k | não calculado | Cuidado: Moohtant bate 29% da vida. Vende bem: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 24% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 24% da vida. Vende bem: Might Ring |
 
 **Bom para lucro**
 
@@ -455,7 +455,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~200k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~195k | ~80k | não calculado | Cuidado: Moohtant bate 27% da vida. Vende bem: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~165k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 23% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~165k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 23% da vida. Vende bem: Might Ring |
 
 **Bom para lucro**
 
@@ -474,7 +474,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~205k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~200k | ~85k | não calculado | Cuidado: Moohtant bate 26% da vida. Vende bem: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 22% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 22% da vida. Vende bem: Might Ring |
 
 **Bom para lucro**
 
@@ -493,7 +493,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 0 | 0 | ~210k | ~105k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 1 | 1 | ~200k | ~85k | não calculado | Cuidado: Moohtant bate 25% da vida. Vende bem: Moohtant Horn |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest). Cuidado: Cult Scholar bate 21% da vida. Vende bem: Might Ring |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~170k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 21% da vida. Vende bem: Might Ring |
 
 **Bom para lucro**
 
@@ -1703,15 +1703,15 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~170k |  |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~55k | ~160k |  |
 
-#### Level 80–90 com leech (~31 horas até a próxima faixa)
+#### Level 80–90 com leech (~29 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~125k | ~25k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 4 horas, fora do Loot/h |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~115k | ~95k |  |
 | [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 2 → **0** | 2 → **1** | ~110k | ~40k |  |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 1 → **0** | 1 → **0** | ~110k | ~55k |  |
 
 **Bom para lucro**
 
