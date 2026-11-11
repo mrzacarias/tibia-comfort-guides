@@ -916,7 +916,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | "Nibelor 2" mission started, TibiaWiki suggests level 130+ for the quest: Tyrsung<br>first mission: Nibelor | 20–30 | yes | Svargrond |
 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold: Meriana Gargoyle Cave<br>Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; it also unlocks Marina's sea turtles: Laguna Islands, Blood Crabs | 30–40 | yes | Liberty Bay |
 | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | for the caverns, TibiaWiki suggests level 40 for the quest: Treasure Island | 80–90 | yes | Treasure Island |
-| [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) | it opens the portal to the hunting ground, TibiaWiki suggests level 70 for the quest: Lion's Rock (Darashia) | 140–150 | yes | Lion's Rock |
+| [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) | it opens the portal to the hunting ground, TibiaWiki suggests level 70 for the quest: Lion's Rock (Darashia) | 90–100 | yes | Lion's Rock |
 
 #### Level 20–30 behind quests (~13 hours to the next band)
 
@@ -1052,33 +1052,35 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~135k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Watch: Zombie hits 16% of HP. Sells: Half-Eaten Brain |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~65k | ~120k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
 
-#### Level 90–100 behind quests (~65 hours to the next band)
+#### Level 90–100 behind quests (~48 hours to the next band)
+
+**Unlock first:** [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) (it opens the portal to the hunting ground, for Lion's Rock (Darashia)).
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~140k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~65k | ~125k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~60k | ~120k | Liberty Bay, then a sea turtle | Needs turtle permission (Eleonore part of the Shattered Isles Quest); Bloody Pincers. Sells: Turtle Shell |
-
-**Good for gold**
-
-| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
-|---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~190k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) ✓ | 1 | 1 | 130k | 90k | Darashia 172 / ~45 s | **Tested** in the lion parts (level 92, club 107): 6.8k gold of supplies per hour, 16.1k healing/h, high-price world, 100k loot/h on that world. Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 29% of HP, summoners. Sells: Might Ring |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~140k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~65k | ~125k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
 
-#### Level 100–110 behind quests (~77 hours to the next band)
+**Good for gold**
+
+| Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
+|---|---|---|---|---|---|---|
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~190k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
+| [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~140k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~65k | ~125k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
+
+#### Level 100–110 behind quests (~58 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~130k | ~95k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 26% of HP, summoners. Sells: Might Ring |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~140k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~70k | ~130k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~65k | ~60k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing |
 
 **Good for gold**
 
@@ -1088,15 +1090,15 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~140k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~70k | ~130k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
 
-#### Level 110–120 behind quests (~87 hours to the next band)
+#### Level 110–120 behind quests (~68 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~130k | ~100k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 24% of HP, summoners. Sells: Might Ring |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~145k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~75k | ~145k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~70k | ~60k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing |
 
 **Good for gold**
 
@@ -1106,15 +1108,15 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~75k | ~145k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~75k | ~145k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
 
-#### Level 120–130 behind quests (~95 hours to the next band)
+#### Level 120–130 behind quests (~74 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~140k | ~105k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 22% of HP, summoners. Sells: Might Ring |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~85k | ~165k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~150k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~70k | ~65k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing |
 
 **Good for gold**
 
@@ -1124,15 +1126,15 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~85k | ~165k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~150k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
 
-#### Level 130–140 behind quests (~108 hours to the next band)
+#### Level 130–140 behind quests (~85 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~140k | ~110k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 20% of HP, summoners. Sells: Might Ring |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~165k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) ✓ | 0 | 0 | 85k | 150k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | **Tested** (level 134, sword 115): 87 gold of supplies, 135k loot/h on that world. Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) ✓ | 0 | 0 | 75k | 155k | Liberty Bay, then a sea turtle | **Tested** (level 134, sword 115). Needs turtle permission (Eleonore part of the Shattered Isles Quest); Bloody Pincers. Sells: Turtle Shell |
 
 **Good for gold**
 
@@ -1144,13 +1146,11 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 #### Level 140–150 behind quests (~92 hours to the next band)
 
-**Unlock first:** [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) (it opens the portal to the hunting ground, for Lion's Rock (Darashia)).
-
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~60k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 19% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 19% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~95k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~165k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1168,7 +1168,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~60k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 17% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 17% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1186,7 +1186,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~60k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 16% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 16% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1204,7 +1204,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~60k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 15% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 15% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1222,7 +1222,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~60k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1240,7 +1240,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~65k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~130k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1258,7 +1258,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~65k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~130k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
