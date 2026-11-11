@@ -8,6 +8,7 @@ Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each 
 | Sorcerer | [sorcerer/guide.md](sorcerer/guide.md) | [sorcerer/guide_ptbr.md](sorcerer/guide_ptbr.md) | Untested estimates |
 | Paladin | [paladin/guide.md](paladin/guide.md) | [paladin/guide_ptbr.md](paladin/guide_ptbr.md) | Untested estimates |
 | Monk | [monk/guide.md](monk/guide.md) | [monk/guide_ptbr.md](monk/guide_ptbr.md) | Untested estimates |
+| Knight, 0 to 100 | [knight/zero_to_100.md](knight/zero_to_100.md) | [knight/zero_to_100_ptbr.md](knight/zero_to_100_ptbr.md) | The fastest comfortable route to level 100 and what the character sells for; estimates |
 
 How each guide works:
 - It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, skinning and dusting, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
