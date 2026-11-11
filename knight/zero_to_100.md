@@ -2,7 +2,7 @@
 
 This guide takes a new knight from character creation to level 100 as fast as comfort allows, and shows what the character is worth on the Char Bazaar at the end. It builds on the [knight guide](guide.md): the same comfort grades (only hunting grounds with Prep and Hunt of 0 or 1), the same hunting grounds and the same model. It assumes a premium account. Every number is an estimate; the last part explains how they're made.
 
-**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and hand in only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with sword about 78. A knight like that has sold for a median of about **283 TC**.
+**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with sword about 78. A knight like that has sold for a median of about **299 TC**.
 
 ## What the plan assumes
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
@@ -24,10 +24,10 @@ This guide takes a new knight from character creation to level 100 as fast as co
 | 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 4.5 h | ~122k | ~42k |
 | 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 7.5 h | ~124k | ~53k |
 | 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 9.0 h | ~154k | ~77k |
-| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 12.0 h | ~168k | ~86k |
-| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 13.0 h | ~182k | ~95k |
-| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 15.0 h | ~204k | ~106k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 19.0 h | ~207k | ~106k |
+| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 11.0 h | ~168k | ~86k |
+| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 12.5 h | ~181k | ~95k |
+| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 15.5 h | ~204k | ~106k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 20.0 h | ~207k | ~106k |
 
 XP/h counts the low level bonus and green stamina. Gold/h is loot minus potions and rings, with Market prices.
 
@@ -58,14 +58,14 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – |
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2.5 h | ~98k | ~15k |
 | 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5.5 h | ~101k | ~17k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.5 h | ~99k | ~26k |
-| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 11.5 h | ~111k | ~129k |
-| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 14.5 h | ~120k | ~138k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 18.0 h | ~129k | ~156k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~99k | ~26k |
+| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 11.0 h | ~111k | ~129k |
+| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 14.0 h | ~120k | ~138k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 19.5 h | ~129k | ~156k |
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21.0 h | ~135k | ~163k |
-| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 22.5 h | ~154k | ~234k |
+| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 21.0 h | ~154k | ~234k |
 
-That's level 100 on day 36 instead of 28, with sword 80 (more days of training). But Forgotten Tomb loots much more, so it leaves 14.6M of gold instead of 6.9M, and makes more TC per month: about 439 against 342 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
+That's level 100 on day 35 instead of 28, with sword 80 (more days of training). But Forgotten Tomb loots much more, so it leaves 14.0M of gold instead of 6.9M, and makes more TC per month: about 439 against 388 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
 
 ### Without the ring
 The route is slower but loots more:
@@ -75,17 +75,19 @@ The route is slower but loots more:
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – |
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2.5 h | ~98k | ~15k |
 | 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5.5 h | ~101k | ~17k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.5 h | ~99k | ~26k |
-| 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14.5 h | ~96k | ~22k |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 16.5 h | ~111k | ~68k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 18.0 h | ~130k | ~156k |
-| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21.0 h | ~136k | ~163k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 18.5 h | ~212k | ~105k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~99k | ~26k |
+| 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14.5 h | ~97k | ~22k |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15.5 h | ~110k | ~68k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 16.5 h | ~130k | ~156k |
+| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 20.5 h | ~135k | ~163k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 19.5 h | ~212k | ~105k |
 
-## Weekly delivery tasks: only the cheap ones
-The **Task Board** gives each character 6 delivery tasks and 6 kill tasks a week, reset on Monday at server save (9 of each with the Permanent Weekly Task Expansion, 750 TC in the Store). A delivery task gives **half a level of experience up to level 82**, and 1,994 × your level after that. Kill tasks give the same, with a cap (200k experience for beginner tasks, 800k for adept).
+## Weekly tasks: only the cheap ones
+The **Task Board** gives each character 6 delivery tasks and 6 kill tasks a week, reset on Monday at server save (9 of each with the Permanent Weekly Task Expansion, 750 TC in the Store). The list is drawn for you: you can't choose or reroll it. A delivery task gives **half a level of experience up to level 82**, and 1,994 × your level after that. Kill tasks give the same, with a cap (200k experience for beginner tasks, 800k for adept).
 
-The catch is the items. Each delivery asks for 5 to 500 of an item drawn from 484 possible ones, mostly creature products, some armors and weapons. At Market prices the middle amount costs about 191k gold for half of them, and only 5% cost less than 20k. At low levels, half a level is worth little, so most deliveries cost more than the hunting they save.
+**One kill task is free: "Any Creature", 1,000 kills of anything.** Your hunting gets there in the first days of each week, on any route (kills of summons don't count). The timeline below counts it.
+
+The catch is the delivery items. Each delivery asks for 5 to 500 of an item drawn from 484 possible ones, mostly creature products, some armors and weapons; the amount is random within the item's own range (Swarmer Antennas 50–100, Silver Poniards 10–20). At Market prices the middle amount costs about 191k gold for half of them, and only 5% cost less than 20k. At low levels, half a level is worth little, so most deliveries cost more than the hunting they save.
 
 The rule: **hand in a delivery only when its items cost less than what you'd loot in the time its experience saves.** On the ring route, that means:
 
@@ -95,7 +97,7 @@ The rule: **hand in a delivery only when its items cost less than what you'd loo
 | 40 | 37k | 17 min | 15k | 2% |
 | 50 | 59k | 23 min | 30k | 10% |
 | 60 | 86k | 33 min | 47k | 21% |
-| 70 | 117k | 39 min | 61k | 28% |
+| 70 | 117k | 39 min | 62k | 28% |
 | 80 | 154k | 45 min | 80k | 34% |
 | 90 | 179k | 53 min | 93k | 36% |
 | 100 | 199k | 57 min | 99k | 37% |
@@ -103,7 +105,9 @@ The rule: **hand in a delivery only when its items cost less than what you'd loo
 - **Deliver on Sunday,** the last day before the reset: the experience depends on your level when you hand it in, so later pays more.
 - **Keep what your hunting ground drops** if one of the week's deliveries asks for it: that one is free.
 - **Check the price on your world's Market** before buying; it can be very different from the numbers above (Antica, November 2026).
-- **Kill tasks** are worth doing when the creature lives where you already hunt (a Stonerefiner task is free experience). Going somewhere else for one costs about as much hunting time as the experience it gives. The timeline below doesn't count them.
+- **The other kill tasks** ask for few kills of easy creatures (24 to 56 in a sample week). One gives the same experience as a delivery, so it's worth the "Hunting time it replaces" in the table above. Do it when the creature lives where you already hunt (a Stonerefiner task is free experience). Go somewhere else for one only when the trip and the kills take less than that time: almost never at low levels, often near level 100 for an easy creature close to a boat or depot. The timeline counts only the Any Creature task.
+- **Keep Task Difficulty at Beginner** (on the Bounty Tasks tab): its 200k experience cap never binds before level 100 (a task gives 199,401 there), and harder difficulties bring harder creatures.
+- **Ignore the rest of the Task Board while raising.** Bounty tasks give little experience (800 to 2,300 at Beginner in a sample), and the Bounty Talisman's bonuses work only against the current bounty creature. Hunting Task Points and Soulseals, paid after the week, buy outfits, mounts, Promotion Points and Soulpit fights, not experience.
 
 ## Prey: why it barely helps here
 The prey system (Ctrl+Y) gives a 2-hour bonus against one creature: a damage boost (7–25%), damage reduction (12–30%), bonus experience (13–40%) or improved loot (13–40%). Premium accounts have 2 slots. Each slot offers 9 random creatures; the list rerolls for free every 20 hours, or for 150 gold × your level. The bonus type is random when you pick.
@@ -124,22 +128,21 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 ## Week by week
 | Week | Level (ring) | Sword / shielding | Level (no ring) | Sword / shielding |
 |---|---|---|---|---|
-| 1 | 56 | 64 / 57 | 51 | 64 / 57 |
-| 2 | 74 | 71 / 63 | 65 | 71 / 63 |
-| 3 | 88 | 75 / 67 | 78 | 75 / 67 |
-| 4 | 100 | 78 / 70 | 88 | 78 / 70 |
-| 5 | 100 (28) | 78 / 70 | 98 | 80 / 73 |
-| 6 | 100 (28) | 78 / 70 | 100 (36) | 80 / 73 |
+| 1 | 56 | 64 / 57 | 52 | 64 / 57 |
+| 2 | 75 | 71 / 63 | 66 | 71 / 63 |
+| 3 | 89 | 75 / 67 | 78 | 75 / 67 |
+| 4 | 101 | 78 / 70 | 89 | 78 / 70 |
+| 5 | 100 (28) | 78 / 70 | 100 | 80 / 73 |
 
 Skills are after each day's training. Once a route reaches level 100, its column shows the day it got there.
 
 ## Which plan
 | Plan | Level 100 on day | Hours hunted | Sword at 100 | Deliveries handed in | Gold left |
 |---|---|---|---|---|---|
-| Stealth Ring + delivery tasks | 28 | 84 | 78 | ~7 | 6.9M |
-| Ring + tasks, Corym Mines always taken | 36 | 108 | 80 | ~15 | 14.6M |
+| Stealth Ring + weekly tasks | 28 | 84 | 78 | ~7 | 6.9M |
+| Ring + tasks, Corym Mines always taken | 35 | 105 | 80 | ~15 | 14.0M |
 | Stealth Ring only | 30 | 90 | 78 | – | 7.8M |
-| No ring + delivery tasks | 36 | 108 | 80 | ~10 | 9.5M |
+| No ring + weekly tasks | 35 | 105 | 80 | ~10 | 9.1M |
 | No ring, no tasks | 40 | 120 | 81 | – | 11.6M |
 
 The ring is the fastest. Without it, the route takes longer but loots more (Forgotten Tomb and the Corym caves, with no rings to pay), so it leaves more gold at the end. Gold left = loot minus potions, rings and deliveries, without gear.
@@ -152,11 +155,11 @@ What knights like this sold for (sold auctions on exiva.pro, levels within 10% a
 | Level | Sword | Sales | Median | Middle half |
 |---|---|---|---|---|
 | 56 (end of week 1) | 64 | 21 | 151 TC | 57–258 |
-| 74 (end of week 2) | 71 | 39 | 203 TC | 100–400 |
-| 88 (end of week 3) | 75 | 57 | 151 TC | 101–251 |
-| 100 (end of week 4) | 78 | 54 | 283 TC | 115–600 |
+| 75 (end of week 2) | 71 | 38 | 204 TC | 101–400 |
+| 89 (end of week 3) | 75 | 54 | 151 TC | 101–251 |
+| 101 (end of week 4) | 78 | 51 | 299 TC | 121–600 |
 
-The price doesn't grow from level 50 to about 85, then rises about 1.9× by level 100. **Sell right after level 100**, not on the way.
+The price doesn't grow from level 50 to about 85, then rises about 2.0× by level 100. **Sell right after level 100**, not on the way.
 
 The world matters as much as the level. Each sale's price compared with the median for its level and skill (255 sales):
 
@@ -176,17 +179,17 @@ The world matters as much as the level. Each sale's price compared with the medi
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + delivery tasks | 41 | ~358 | ~262 | ~303 |
-| 2 | Ring + tasks, Corym Mines always taken | 50 | ~496 | ~297 | ~331 |
-| 2 | No ring + delivery tasks | 51 | ~400 | ~235 | ~268 |
-| 3 | Stealth Ring + delivery tasks | 28 | ~319 | ~342 | ~392 |
-| 3 | Ring + tasks, Corym Mines always taken | 36 | ~526 | ~439 | ~482 |
-| 3 | No ring + delivery tasks | 36 | ~407 | ~339 | ~383 |
-| 5 | Stealth Ring + delivery tasks | 21 | ~392 | ~560 | ~635 |
-| 5 | Ring + tasks, Corym Mines always taken | 27 | ~635 | ~705 | ~764 |
-| 5 | No ring + delivery tasks | 27 | ~485 | ~539 | ~601 |
+| 2 | Stealth Ring + weekly tasks | 39 | ~349 | ~269 | ~311 |
+| 2 | Ring + tasks, Corym Mines always taken | 49 | ~495 | ~303 | ~337 |
+| 2 | No ring + weekly tasks | 49 | ~398 | ~244 | ~278 |
+| 3 | Stealth Ring + weekly tasks | 28 | ~362 | ~388 | ~447 |
+| 3 | Ring + tasks, Corym Mines always taken | 35 | ~512 | ~439 | ~484 |
+| 3 | No ring + weekly tasks | 35 | ~399 | ~342 | ~387 |
+| 5 | Stealth Ring + weekly tasks | 21 | ~393 | ~562 | ~637 |
+| 5 | Ring + tasks, Corym Mines always taken | 26 | ~607 | ~701 | ~761 |
+| 5 | No ring + weekly tasks | 26 | ~457 | ~528 | ~588 |
 
-TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **342 TC a month**, and about 392 on an Optional PvP, green world (×1.21).
+TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **388 TC a month**, and about 447 on an Optional PvP, green world (×1.21).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -215,8 +218,8 @@ Another way to make a character worth selling is to leave it at level 8 and only
 Days count from sword 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 28 days and 84 hours of play, for about 319 TC (the sale plus the gold left). About 11.4 TC per day.
-- **A level 8 trained to skill 110:** about 669 days of training, for about 318 TC. That's 0.48 TC per day, about 24 times less, but it needs only about 11 hours of logins in total.
+- **Raising to 100:** 28 days and 84 hours of play, for about 362 TC (the sale plus the gold left). About 12.9 TC per day.
+- **A level 8 trained to skill 110:** about 669 days of training, for about 318 TC. That's 0.48 TC per day, about 27 times less, but it needs only about 11 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
@@ -226,5 +229,5 @@ So raising is the income, and a trained level 8 is a passive extra on the side:
 
 ## How the numbers are made
 - **The route:** a day-by-day simulation with the knight guide's model (its appendix) at the character's real level and skill. XP × the low level bonus × green stamina; skill from offline training only, with TibiaWiki's formulas.
-- **Delivery tasks:** TibiaWiki's Delivery Task list, with Market prices from tibiamarket.top (Antica, November 2026).
+- **Weekly tasks:** the Any Creature task once the week's modelled kills reach 1,000; deliveries from TibiaWiki's Delivery Task list, with Market prices from tibiamarket.top (Antica, November 2026).
 - **Prices:** sold auctions on exiva.pro.

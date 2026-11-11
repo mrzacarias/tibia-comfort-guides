@@ -2,7 +2,7 @@
 
 Este guia leva um knight novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de knight](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça só as tarefas de entrega baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **283 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **299 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -24,10 +24,10 @@ Este guia leva um knight novo da criação do personagem até o level 100 o mais
 | 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 4,5 h | ~122k | ~42k |
 | 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 7,5 h | ~124k | ~53k |
 | 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 9,0 h | ~154k | ~77k |
-| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 12,0 h | ~168k | ~86k |
-| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 13,0 h | ~182k | ~95k |
-| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,0 h | ~204k | ~106k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 19,0 h | ~207k | ~106k |
+| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 11,0 h | ~168k | ~86k |
+| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 12,5 h | ~181k | ~95k |
+| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,5 h | ~204k | ~106k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 20,0 h | ~207k | ~106k |
 
 O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos poções e rings, com preços do Market.
 
@@ -58,14 +58,14 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,5 h | ~98k | ~15k |
 | 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5,5 h | ~101k | ~17k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~26k |
-| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 11,5 h | ~111k | ~129k |
-| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 14,5 h | ~120k | ~138k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 18,0 h | ~129k | ~156k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,0 h | ~99k | ~26k |
+| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 11,0 h | ~111k | ~129k |
+| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 14,0 h | ~120k | ~138k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 19,5 h | ~129k | ~156k |
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21,0 h | ~135k | ~163k |
-| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 22,5 h | ~154k | ~234k |
+| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 21,0 h | ~154k | ~234k |
 
-Isso dá level 100 no dia 36 em vez de 28, com sword 80 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 14.6M de gold em vez de 6.9M, e rende mais TC por mês: uns 439 contra 342 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
+Isso dá level 100 no dia 35 em vez de 28, com sword 80 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 14.0M de gold em vez de 6.9M, e rende mais TC por mês: uns 439 contra 388 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
 
 ### Sem o ring
 A rota é mais lenta mas dá mais loot:
@@ -75,17 +75,19 @@ A rota é mais lenta mas dá mais loot:
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,5 h | ~98k | ~15k |
 | 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5,5 h | ~101k | ~17k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~26k |
-| 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14,5 h | ~96k | ~22k |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 16,5 h | ~111k | ~68k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 18,0 h | ~130k | ~156k |
-| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21,0 h | ~136k | ~163k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 18,5 h | ~212k | ~105k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,0 h | ~99k | ~26k |
+| 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14,5 h | ~97k | ~22k |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15,5 h | ~110k | ~68k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 16,5 h | ~130k | ~156k |
+| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 20,5 h | ~135k | ~163k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 19,5 h | ~212k | ~105k |
 
-## Tarefas semanais de entrega: só as baratas
-O **Task Board** dá a cada personagem 6 tarefas de entrega e 6 de matar por semana, que renovam na segunda-feira no server save (9 de cada com a Permanent Weekly Task Expansion, 750 TC na Store). Uma entrega dá **meio level de experiência até o level 82**, e 1.994 × o seu level depois disso. As de matar dão o mesmo, com um limite (200k de experiência nas iniciantes, 800k nas adeptas).
+## Tarefas semanais: só as baratas
+O **Task Board** dá a cada personagem 6 tarefas de entrega e 6 de matar por semana, que renovam na segunda-feira no server save (9 de cada com a Permanent Weekly Task Expansion, 750 TC na Store). A lista é sorteada para você: não dá para escolher nem trocar. Uma entrega dá **meio level de experiência até o level 82**, e 1.994 × o seu level depois disso. As de matar dão o mesmo, com um limite (200k de experiência nas iniciantes, 800k nas adeptas).
 
-O problema são os itens. Cada entrega pede de 5 a 500 unidades de um item sorteado entre 484 possíveis, a maioria produtos de criatura, alguns armors e armas. A preço de Market, a quantidade do meio custa uns 191k de gold para metade deles, e só 5% custam menos de 20k. Nos levels baixos, meio level vale pouco, então a maioria das entregas custa mais que a hunt que ela economiza.
+**Uma tarefa de matar sai de graça: "Any Creature", 1.000 kills de qualquer criatura.** A sua hunt chega lá nos primeiros dias de cada semana, em qualquer rota (kills de invocações não contam). A linha do tempo abaixo conta ela.
+
+O problema são os itens das entregas. Cada entrega pede de 5 a 500 unidades de um item sorteado entre 484 possíveis, a maioria produtos de criatura, alguns armors e armas, e a quantidade é aleatória dentro da faixa do item (Swarmer Antenna 50–100, Silver Poniard 10–20). A preço de Market, a quantidade do meio custa uns 191k de gold para metade deles, e só 5% custam menos de 20k. Nos levels baixos, meio level vale pouco, então a maioria das entregas custa mais que a hunt que ela economiza.
 
 A regra: **entregue só quando os itens custam menos do que você lootaria no tempo que a experiência dela economiza.** Na rota com ring, isso dá:
 
@@ -95,7 +97,7 @@ A regra: **entregue só quando os itens custam menos do que você lootaria no te
 | 40 | 37k | 17 min | 15k | 2% |
 | 50 | 59k | 23 min | 30k | 10% |
 | 60 | 86k | 33 min | 47k | 21% |
-| 70 | 117k | 39 min | 61k | 28% |
+| 70 | 117k | 39 min | 62k | 28% |
 | 80 | 154k | 45 min | 80k | 34% |
 | 90 | 179k | 53 min | 93k | 36% |
 | 100 | 199k | 57 min | 99k | 37% |
@@ -103,7 +105,9 @@ A regra: **entregue só quando os itens custam menos do que você lootaria no te
 - **Entregue no domingo,** o último dia antes de renovar: a experiência depende do seu level na hora da entrega, então mais tarde paga mais.
 - **Guarde o que a sua hunt dropa** se uma das entregas da semana pede: essa sai de graça.
 - **Confira o preço no Market do seu mundo** antes de comprar; ele pode ser bem diferente dos números acima (Antica, novembro de 2026).
-- **As tarefas de matar** valem quando a criatura vive onde você já caça (uma tarefa de Stonerefiner é experiência de graça). Ir a outro lugar para fazer uma custa mais ou menos o tempo de hunt que a experiência dela vale. A linha do tempo abaixo não conta elas.
+- **As outras tarefas de matar** pedem poucas kills de criaturas fáceis (de 24 a 56 numa semana de exemplo). Uma dá a mesma experiência que uma entrega, então vale o "Tempo de hunt que ela substitui" da tabela acima. Faça quando a criatura vive onde você já caça (uma tarefa de Stonerefiner é experiência de graça). Vá a outro lugar só quando a viagem e as kills levam menos que esse tempo: quase nunca nos levels baixos, muitas vezes perto do level 100 para uma criatura fácil perto de um barco ou depot. A linha do tempo só conta a Any Creature.
+- **Deixe a Task Difficulty em Beginner** (na aba Bounty Tasks): o limite de 200k de experiência dela nunca pesa antes do level 100 (uma tarefa dá 199.401 lá), e dificuldades maiores trazem criaturas mais difíceis.
+- **Ignore o resto do Task Board enquanto sobe.** As Bounty Tasks dão pouca experiência (de 800 a 2.300 na Beginner num exemplo), e os bônus do Bounty Talisman só valem contra a criatura da bounty atual. Os Hunting Task Points e os Soulseals, pagos depois da semana, compram outfits, mounts, Promotion Points e lutas no Soulpit, não experiência.
 
 ## Prey: por que quase não ajuda aqui
 O sistema de prey (Ctrl+Y) dá um bônus de 2 horas contra uma criatura: mais dano (7–25%), menos dano recebido (12–30%), experiência extra (13–40%) ou loot melhor (13–40%). Contas premium têm 2 slots. Cada slot oferece 9 criaturas aleatórias; a lista renova de graça a cada 20 horas, ou por 150 gold × o seu level. O tipo do bônus é aleatório quando você escolhe.
@@ -124,22 +128,21 @@ Então: guarde os 3 wildcards grátis de cada semana. A cada duas semanas, gaste
 ## Semana a semana
 | Semana | Level (ring) | Sword / shielding | Level (sem ring) | Sword / shielding |
 |---|---|---|---|---|
-| 1 | 56 | 64 / 57 | 51 | 64 / 57 |
-| 2 | 74 | 71 / 63 | 65 | 71 / 63 |
-| 3 | 88 | 75 / 67 | 78 | 75 / 67 |
-| 4 | 100 | 78 / 70 | 88 | 78 / 70 |
-| 5 | 100 (28) | 78 / 70 | 98 | 80 / 73 |
-| 6 | 100 (28) | 78 / 70 | 100 (36) | 80 / 73 |
+| 1 | 56 | 64 / 57 | 52 | 64 / 57 |
+| 2 | 75 | 71 / 63 | 66 | 71 / 63 |
+| 3 | 89 | 75 / 67 | 78 | 75 / 67 |
+| 4 | 101 | 78 / 70 | 89 | 78 / 70 |
+| 5 | 100 (28) | 78 / 70 | 100 | 80 / 73 |
 
 Os skills são depois do treino de cada dia. Quando uma rota chega no level 100, a coluna dela mostra o dia em que chegou.
 
 ## Qual plano
 | Plano | Level 100 no dia | Horas de hunt | Sword no 100 | Entregas feitas | Gold que sobra |
 |---|---|---|---|---|---|
-| Stealth Ring + entregas | 28 | 84 | 78 | ~7 | 6.9M |
-| Ring + entregas, Corym Mines sempre ocupada | 36 | 108 | 80 | ~15 | 14.6M |
+| Stealth Ring + tarefas semanais | 28 | 84 | 78 | ~7 | 6.9M |
+| Ring + tarefas, Corym Mines sempre ocupada | 35 | 105 | 80 | ~15 | 14.0M |
 | Só Stealth Ring | 30 | 90 | 78 | – | 7.8M |
-| Sem ring + entregas | 36 | 108 | 80 | ~10 | 9.5M |
+| Sem ring + tarefas semanais | 35 | 105 | 80 | ~10 | 9.1M |
 | Sem ring, sem tarefas | 40 | 120 | 81 | – | 11.6M |
 
 O ring é o mais rápido. Sem ele, a rota demora mais mas dá mais loot (Forgotten Tomb e as cavernas de Corym, sem rings para pagar), então sobra mais gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
@@ -152,11 +155,11 @@ Por quanto knights assim foram vendidos (leilões vendidos no exiva.pro, level a
 | Level | Sword | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
 | 56 (fim da semana 1) | 64 | 21 | 151 TC | 57–258 |
-| 74 (fim da semana 2) | 71 | 39 | 203 TC | 100–400 |
-| 88 (fim da semana 3) | 75 | 57 | 151 TC | 101–251 |
-| 100 (fim da semana 4) | 78 | 54 | 283 TC | 115–600 |
+| 75 (fim da semana 2) | 71 | 38 | 204 TC | 101–400 |
+| 89 (fim da semana 3) | 75 | 54 | 151 TC | 101–251 |
+| 101 (fim da semana 4) | 78 | 51 | 299 TC | 121–600 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe umas 1,9 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe umas 2,0 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
 O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (255 vendas):
 
@@ -176,17 +179,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + entregas | 41 | ~358 | ~262 | ~303 |
-| 2 | Ring + entregas, Corym Mines sempre ocupada | 50 | ~496 | ~297 | ~331 |
-| 2 | Sem ring + entregas | 51 | ~400 | ~235 | ~268 |
-| 3 | Stealth Ring + entregas | 28 | ~319 | ~342 | ~392 |
-| 3 | Ring + entregas, Corym Mines sempre ocupada | 36 | ~526 | ~439 | ~482 |
-| 3 | Sem ring + entregas | 36 | ~407 | ~339 | ~383 |
-| 5 | Stealth Ring + entregas | 21 | ~392 | ~560 | ~635 |
-| 5 | Ring + entregas, Corym Mines sempre ocupada | 27 | ~635 | ~705 | ~764 |
-| 5 | Sem ring + entregas | 27 | ~485 | ~539 | ~601 |
+| 2 | Stealth Ring + tarefas semanais | 39 | ~349 | ~269 | ~311 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 49 | ~495 | ~303 | ~337 |
+| 2 | Sem ring + tarefas semanais | 49 | ~398 | ~244 | ~278 |
+| 3 | Stealth Ring + tarefas semanais | 28 | ~362 | ~388 | ~447 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 35 | ~512 | ~439 | ~484 |
+| 3 | Sem ring + tarefas semanais | 35 | ~399 | ~342 | ~387 |
+| 5 | Stealth Ring + tarefas semanais | 21 | ~393 | ~562 | ~637 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 26 | ~607 | ~701 | ~761 |
+| 5 | Sem ring + tarefas semanais | 26 | ~457 | ~528 | ~588 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **342 TC por mês**, e uns 392 num mundo Optional PvP verde (×1,21).
+TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **388 TC por mês**, e uns 447 num mundo Optional PvP verde (×1,21).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -215,8 +218,8 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de sword 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 319 TC (a venda mais o gold que sobra). Uns 11,4 TC por dia.
-- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 24 vezes menos, mas pede só umas 11 horas de login no total.
+- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 362 TC (a venda mais o gold que sobra). Uns 12,9 TC por dia.
+- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 27 vezes menos, mas pede só umas 11 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
@@ -226,5 +229,5 @@ Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de knight (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki.
-- **Tarefas de entrega:** a lista de Delivery Task da TibiaWiki, com preços do Market do tibiamarket.top (Antica, novembro de 2026).
+- **Tarefas semanais:** a Any Creature assim que as kills da semana no modelo chegam a 1.000; entregas da lista de Delivery Task da TibiaWiki, com preços do Market do tibiamarket.top (Antica, novembro de 2026).
 - **Preços:** leilões vendidos no exiva.pro.
