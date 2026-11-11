@@ -95,7 +95,7 @@ In this section you use only the basics: your weapon, the `exori infir min` and 
 **Stay safe:** always know your way out, and leave when your HP falls to about half.
 
 ### Gear
-In Section 1 you wear only items that never run out, so there are no charges or timers to watch. Each band's gear line lists good-value weapons and armor.
+In Section 1 you wear only items that never run out, so there are no charges or timers to watch. Each band's gear line lists good-value weapons, armor, amulet and ring. A piece with physical protection (like the Zaoan helmet and legs) counts it on top of its armor: 5% less physical damage is worth more than a few armor points once monsters hit hard.
 - **Amulet and ring:** a Platinum Amulet, then a Foxtail Amulet from level 100 (5% less physical damage), and a Butterfly Ring from level 50.
 - **Elemental hunting grounds:** where one element does most of the damage, an elemental armor (Lavos, Crystalline, Swamplair or Voltage, level 60) helps; the notes say when.
 
@@ -155,7 +155,7 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of its **Good for XP** list. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
 #### Level 20–30 (~4.5 hours to the next band)
-**Typical knight in this band:** skill 50, weapon attack 31. Good-value gear, each piece under ~71k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Dragon Scale Mail, Golden Legs, Royal Helmet, Rift Shield, Boots of Haste.
+**Typical knight in this band:** skill 50, weapon attack 31. Good-value gear, each piece under ~37k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Golden Armor, Zaoan Legs, Royal Helmet, Carapace Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -174,7 +174,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) ✓ | 0 | 0 | 40k | 50k | Targuna, then Sterling's sea turtle (free) | **Tested** solo (level 19 to 23, sword 41): no supplies, 53k loot/h on that world. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 
 #### Level 30–40 (~12 hours to the next band)
-**Typical knight in this band:** skill 63, weapon attack 37. Good-value gear, each piece under ~133k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
+**Typical knight in this band:** skill 63, weapon attack 37. Good-value gear, each piece under ~73k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Dragon Scale Mail, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -193,7 +193,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 1 | 1 | ~25k | ~80k | Carlin 126 / ~32 s | Watch: Valkyrie hits 23% of HP. Sells: Protective Charm |
 
 #### Level 40–50 (~14 hours to the next band)
-**Typical knight in this band:** skill 68, weapon attack 40. Good-value gear, each piece under ~263k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
+**Typical knight in this band:** skill 68, weapon attack 40. Good-value gear, each piece under ~107k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -212,7 +212,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~135k | Svargrond, on foot over the ice | Watch: Mammoth hits 17% of HP. Sells: Winter Wolf Fur |
 
 #### Level 50–60 (~21 hours to the next band)
-**Typical knight in this band:** skill 74, weapon attack 42. Good-value gear, each piece under ~226k: Relic Sword, Deepling Squelcher or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Boots of Haste.
+**Typical knight in this band:** skill 74, weapon attack 42. Good-value gear, each piece under ~121k: Relic Sword, Deepling Squelcher or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -231,7 +231,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~70k | ~165k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
 
 #### Level 60–70 (~25 hours to the next band)
-**Typical knight in this band:** skill 80, weapon attack 44. Good-value gear, each piece under ~233k: Mystic Blade, Metal Bat or Vile Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Badger Boots.
+**Typical knight in this band:** skill 80, weapon attack 44. Good-value gear, each piece under ~129k: Mystic Blade, Metal Bat or Vile Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -250,7 +250,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~50k | ~185k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 19% of HP, slows or summons. Sells: Piece of Swampling Wood |
 
 #### Level 70–80 (~30 hours to the next band)
-**Typical knight in this band:** skill 85, weapon attack 46. Good-value gear, each piece under ~195k: Crystalline Sword, Onyx Flail or Hive Scythe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Badger Boots.
+**Typical knight in this band:** skill 85, weapon attack 46. Good-value gear, each piece under ~146k: Crystalline Sword, Onyx Flail or Hive Scythe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -269,7 +269,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 16% of HP, slows or summons. Sells: Piece of Swampling Wood |
 
 #### Level 80–90 (~32 hours to the next band)
-**Typical knight in this band:** skill 90, weapon attack 47. Good-value gear, each piece under ~181k: Crystalline Sword, Onyx Flail or Deepling Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 90, weapon attack 47. Good-value gear, each piece under ~149k: Crystalline Sword, Onyx Flail or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -288,7 +288,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 
 #### Level 90–100 (~37 hours to the next band)
-**Typical knight in this band:** skill 96, weapon attack 48. Good-value gear, each piece under ~196k: Blade of Corruption, Onyx Flail or Deepling Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 96, weapon attack 48. Good-value gear, each piece under ~152k: Blade of Corruption, Onyx Flail or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -307,7 +307,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) ✓ | 0 | 1 | 90k | 195k | Carlin 173 / ~45 s | **Tested** (level ~90, club 107): 1.8k healing/h, high-price world, 215k loot/h on that world. Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Sells: Elven Hoof |
 
 #### Level 100–110 (~40 hours to the next band)
-**Typical knight in this band:** skill 98, weapon attack 49. Good-value gear, each piece under ~205k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 98, weapon attack 49. Good-value gear, each piece under ~155k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
 
@@ -328,7 +328,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 0 | 1 | ~95k | ~200k | Carlin 173 / ~45 s | Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Sells: Elven Hoof |
 
 #### Level 110–120 (~46 hours to the next band)
-**Typical knight in this band:** skill 100, weapon attack 49. Good-value gear, each piece under ~208k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 100, weapon attack 49. Good-value gear, each piece under ~153k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -347,7 +347,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 0 | 0 | ~105k | ~205k | Carlin 173 / ~45 s | Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Sells: Elven Hoof |
 
 #### Level 120–130 (~49 hours to the next band)
-**Typical knight in this band:** skill 101, weapon attack 50. Good-value gear, each piece under ~217k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 101, weapon attack 50. Good-value gear, each piece under ~163k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -366,7 +366,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~105k | ~215k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 130–140 (~54 hours to the next band)
-**Typical knight in this band:** skill 103, weapon attack 50. Good-value gear, each piece under ~223k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 103, weapon attack 50. Good-value gear, each piece under ~167k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -385,7 +385,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 140–150 (~61 hours to the next band)
-**Typical knight in this band:** skill 105, weapon attack 50. Good-value gear, each piece under ~226k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Rift Shield, Draken Boots.
+**Typical knight in this band:** skill 105, weapon attack 50. Good-value gear, each piece under ~171k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -404,7 +404,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 150–160 (~69 hours to the next band)
-**Typical knight in this band:** skill 106, weapon attack 50. Good-value gear, each piece under ~229k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 106, weapon attack 50. Good-value gear, each piece under ~174k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
 
@@ -425,7 +425,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 160–170 (~72 hours to the next band)
-**Typical knight in this band:** skill 108, weapon attack 50. Good-value gear, each piece under ~233k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 108, weapon attack 50. Good-value gear, each piece under ~176k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -444,7 +444,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 170–180 (~80 hours to the next band)
-**Typical knight in this band:** skill 109, weapon attack 50. Good-value gear, each piece under ~237k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 109, weapon attack 50. Good-value gear, each piece under ~176k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -463,7 +463,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 180–190 (~88 hours to the next band)
-**Typical knight in this band:** skill 111, weapon attack 50. Good-value gear, each piece under ~236k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 111, weapon attack 50. Good-value gear, each piece under ~177k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -482,7 +482,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 190–200 (~96 hours to the next band)
-**Typical knight in this band:** skill 112, weapon attack 50. Good-value gear, each piece under ~233k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 112, weapon attack 50. Good-value gear, each piece under ~178k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -501,7 +501,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 200+
-**Typical knight in this band:** skill 114, weapon attack 50. Good-value gear, each piece under ~225k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Magic Plate Armor, Golden Legs, Demon Helmet, Prismatic Shield, Draken Boots.
+**Typical knight in this band:** skill 114, weapon attack 50. Good-value gear, each piece under ~178k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Prismatic Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
