@@ -187,7 +187,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~20k | ~14k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 6 hours, not counted in Loot/h. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 16% of HP. Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~20k | ~13k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 4 hours, not counted in Loot/h. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 16% of HP. Sells: Infernoid Ember |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~20k | ~19k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 16% of HP. Sells: Gold Tooth |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 16% of HP. Sells: Lizard Tail |
 
@@ -586,7 +586,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~14k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 6 hours, not counted in Loot/h. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~20k | ~13k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 4 hours, not counted in Loot/h. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul. Sells: Infernoid Ember |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~20k | ~19k | Targuna, then Sterling's sea turtle (free) | Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | Targuna depot, on the island | Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 

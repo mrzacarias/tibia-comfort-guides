@@ -181,16 +181,16 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of its **Good for XP** list. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
-#### Level 20–30 (~9.5 hours to the next band)
+#### Level 20–30 (~9.6 hours to the next band)
 **Typical sorcerer in this band:** magic level 18, Wand of Decay.
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 20% of HP. Sells: Lizard Tail |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~19k | ~25k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 20% of HP. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~19k | ~16k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Watch: Pirate Quartermaster hits 20% of HP. Sells: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~18k | ~11k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 8 hours, not counted in Loot/h. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 20% of HP. Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~18k | ~10k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 5 hours, not counted in Loot/h. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Watch: Infernoid Blob hits 20% of HP. Sells: Infernoid Ember |
 
 **Good for gold**
 
@@ -198,7 +198,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~7k | ~30k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Watch: Lizard Executioner hits 20% of HP. Sells: Lizard Tail |
+| [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 | 1 | ~9k | ~25k | Carlin 260 / ~1.1 min | Watch: Amazon hits 26% of HP. Sells: Protective Charm |
 
 #### Level 30–40 (~24 hours to the next band)
 **Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy.
@@ -582,15 +582,15 @@ Like Section 2, these tables grade the hunting grounds with invisibility and lis
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal.
 
-#### Level 20–30 with invisibility (~9.5 hours to the next band)
+#### Level 20–30 with invisibility (~9.6 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | Targuna depot, on the island | Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~19k | ~25k | Targuna depot, on the island | Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~16k | Targuna, then Sterling's sea turtle (free) | Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~11k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 8 hours, not counted in Loot/h. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~10k | Targuna, portal in Emiliana's house | Plus a rare Might Ring (~14k) about once every 5 hours, not counted in Loot/h. Can't see you: Infernoid Blob, Infernoid Hound, Infernoid Soul. Sells: Infernoid Ember |
 
 **Good for gold**
 

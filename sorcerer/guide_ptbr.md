@@ -184,16 +184,16 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média da sua lista **Bom para XP**. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 20–30 (~9,5 horas até a próxima faixa)
+#### Level 20–30 (~9,6 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 18, Wand of Decay.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 20% da vida. Vende bem: Lizard Tail |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~19k | ~25k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 20% da vida. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~19k | ~16k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 20% da vida. Vende bem: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~18k | ~11k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 8 horas, fora do Loot/h. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 20% da vida. Vende bem: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~18k | ~10k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 5 horas, fora do Loot/h. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 20% da vida. Vende bem: Infernoid Ember |
 
 **Bom para lucro**
 
@@ -201,7 +201,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | Vende bem: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~7k | ~30k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~20k | ~25k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 20% da vida. Vende bem: Lizard Tail |
+| [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 | 1 | ~9k | ~25k | Carlin 260 / ~1,1 min | Cuidado: Amazon bate 26% da vida. Vende bem: Protective Charm |
 
 #### Level 30–40 (~24 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy.
@@ -585,15 +585,15 @@ Como na Seção 2, estas tabelas dão as notas das hunts com a invisibilidade e 
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar.
 
-#### Level 20–30 com invisibilidade (~9,5 horas até a próxima faixa)
+#### Level 20–30 com invisibilidade (~9,6 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~20k | ~25k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~19k | ~25k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~16k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~11k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 8 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul, Infernoid Spiritual. Vende bem: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~10k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 5 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul. Vende bem: Infernoid Ember |
 
 **Bom para lucro**
 

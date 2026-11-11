@@ -167,7 +167,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) ✓ | 0 | 0 | 45k | 18k | Targuna, portal na casa da Emiliana | **Testado** (level 23, sword 47): 800 gold de supplies por hora, 11k de loot/h naquele mundo. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Vende bem: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) ✓ | 0 | 1 | 45k | 20k | Targuna, portal na casa da Emiliana | **Testado** (level 23, sword 47): 800 gold de supplies por hora, 11k de loot/h naquele mundo. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Vende bem: Infernoid Ember |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) ✓ | 0 | 0 | 40k | 50k | Targuna, depois tartaruga do Sterling (grátis) | **Testado** solo (level 19 a 23, sword 41): sem supplies, 53k de loot/h naquele mundo. Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) ✓ | 0 | 0 | 30k | 35k | depot de Targuna, na própria ilha | **Testado** (level 23, sword 47): sem supplies, parou após 20 minutos sem cap, 31k de loot/h naquele mundo. Lizards; as Lizard Statues lá dentro curam o veneno deles. Vende bem: Lizard Tail |
 
@@ -179,16 +179,16 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | 11k | 60k | Venore 262 / ~1,1 min | **Testado** (level 26, sword 48): 200 gold de supplies por hora, quase sem cura, 72k de loot/h naquele mundo. Vende bem: Medicine Pouch |
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~17k | ~55k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 33% da vida. Vende bem: Protective Charm |
 
-#### Level 30–40 (~11 horas até a próxima faixa)
+#### Level 30–40 (~8,9 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 63, ataque da arma 37. Equipamento com bom custo-benefício, cada peça abaixo de ~73k: Epee, Sapphire Hammer ou Beastslayer Axe (sword, club ou axe), com Dragon Scale Mail, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 1 | ~60k | ~45k | Targuna, portal na casa da Emiliana | Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Vende bem: Infernoid Ember |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 | 0 | ~40k | ~50k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~40k | ~10k | Ab'Dendriel 84 / ~20 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves); poucos monstros. Cuidado: Cyclops Drone bate 37% da vida. Vende bem: Cyclops Toe |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~40k | ~11k | Thais 236 / ~59 s | Vende bem: Arrow |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~40k | ~11k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 43% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -198,16 +198,16 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 75k | Thais 188 / ~47 s | **Testado** (level 19, sword 41): sem supplies. Vende bem: Honeycomb |
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 23% da vida. Vende bem: Protective Charm |
 
-#### Level 40–50 (~19 horas até a próxima faixa)
+#### Level 40–50 (~16 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 68, ataque da arma 40. Equipamento com bom custo-benefício, cada peça abaixo de ~107k: Assassin Dagger, Shadow Sceptre ou Warrior's Axe (sword, club ou axe), com Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 1 | ~60k | ~45k | Targuna, portal na casa da Emiliana | Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Vende bem: Infernoid Ember |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~50k | ~105k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 28% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~40k | ~11k | Thais 236 / ~59 s | Vende bem: Arrow |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~40k | ~12k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 33% da vida. Vende bem: Battle Shield |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 | 0 | ~40k | ~50k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 
 **Bom para lucro**
 
@@ -2567,14 +2567,15 @@ Como funciona luta a luta, os números de uma hunt crescem com o seu level do je
 - Os supplies são uma estimativa aproximada.
 - Ele não sabe de outros jogadores na mesma hunt, nem de áreas que mudam todo dia (Poacher Caves, Forsaken Mine).
 - Se o dinheiro de uma hunt vem de um único item (como a Gloom Wolf Fur), caçar muito ali pode derrubar o preço desse item no Market.
-- As hunts que faltam no mapa do Canary (como as de Targuna) usam a estimativa antiga, mais simples.
+- Targuna é mais nova que o mapa do Canary, então os monstros e os spawns de lá vêm de outro servidor de código aberto. A vida, a experiência e a armadura deles batem com a TibiaWiki, mas os ataques acertam mais vezes do que os testes mostraram, então as notas de Targuna vêm dos testes.
+- As poucas hunts que faltam nos dois mapas (como os Lost Dwarves da Forsaken Mine) usam a estimativa antiga, mais simples.
 
 Use os números para comparar as hunts entre si, não como promessa.
 
 ## Fontes
 - **TibiaWiki** (tibia.fandom.com, em inglês): hunts, criaturas, itens, magias, poções, imbuements, charms, prey, Wheel of Destiny, Weapon Proficiency, stamina, bênçãos, Vocation Adjustments 2026.
 - **Preços do Market:** tibiamarket.top (Antica, Quidera, Yovera), nov/2026.
-- **Monstros e spawns:** o servidor de código aberto Canary (opentibiabr/canary, novembro de 2026): arquivos dos monstros e mapa.
+- **Monstros e spawns:** o servidor de código aberto Canary (opentibiabr/canary, novembro de 2026): arquivos dos monstros e mapa. Os de Targuna vêm do project-ravoc (uma versão do Crystal Server 15.30, cys9211/project-ravoc no GitHub, outubro de 2026).
 - **Golpes e status reais:** a Cyclopedia e o server log dos knights do guia.
 - **Levels de algumas hunts:** a rota de knight 2026 testada pelo Rick Games (YouTube).
 - **Distâncias do depot:** mapa de caminhada do tibiamaps.io e coordenadas da TibiaWiki.

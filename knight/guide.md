@@ -164,7 +164,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) ✓ | 0 | 0 | 45k | 18k | Targuna, portal in Emiliana's house | **Tested** (level 23, sword 47): 800 gold of supplies per hour, 11k loot/h on that world. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) ✓ | 0 | 1 | 45k | 20k | Targuna, portal in Emiliana's house | **Tested** (level 23, sword 47): 800 gold of supplies per hour, 11k loot/h on that world. Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) ✓ | 0 | 0 | 40k | 50k | Targuna, then Sterling's sea turtle (free) | **Tested** solo (level 19 to 23, sword 41): no supplies, 53k loot/h on that world. Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) ✓ | 0 | 0 | 30k | 35k | Targuna depot, on the island | **Tested** (level 23, sword 47): no supplies, stopped after 20 minutes when out of capacity, 31k loot/h on that world. Lizards; the Lizard Statues inside cure their poison. Sells: Lizard Tail |
 
@@ -176,16 +176,16 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | 11k | 60k | Venore 262 / ~1.1 min | **Tested** (level 26, sword 48): 200 gold of supplies per hour, almost no healing, 72k loot/h on that world. Sells: Medicine Pouch |
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~17k | ~55k | Carlin 195 / ~49 s | Watch: Valkyrie hits 33% of HP. Sells: Protective Charm |
 
-#### Level 30–40 (~11 hours to the next band)
+#### Level 30–40 (~8.9 hours to the next band)
 **Typical knight in this band:** skill 63, weapon attack 37. Good-value gear, each piece under ~73k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Dragon Scale Mail, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 1 | ~60k | ~45k | Targuna, portal in Emiliana's house | Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 | 0 | ~40k | ~50k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~40k | ~10k | Ab'Dendriel 84 / ~20 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves); few monsters. Watch: Cyclops Drone hits 37% of HP. Sells: Cyclops Toe |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~40k | ~11k | Thais 236 / ~59 s | Sells: Arrow |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~40k | ~11k | Yalahar 192 / ~48 s, Maris's boat to Mistrock | Watch: Cyclops Smith hits 43% of HP. Sells: Battle Shield |
 
 **Good for gold**
 
@@ -195,16 +195,16 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 75k | Thais 188 / ~47 s | **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Watch: Valkyrie hits 23% of HP. Sells: Protective Charm |
 
-#### Level 40–50 (~19 hours to the next band)
+#### Level 40–50 (~16 hours to the next band)
 **Typical knight in this band:** skill 68, weapon attack 40. Good-value gear, each piece under ~107k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 0 | 1 | ~60k | ~45k | Targuna, portal in Emiliana's house | Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~50k | ~105k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 28% of HP, slows or summons. Sells: Elven Hoof |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~40k | ~11k | Thais 236 / ~59 s | Sells: Arrow |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~40k | ~12k | Yalahar 192 / ~48 s, Maris's boat to Mistrock | Watch: Cyclops Smith hits 33% of HP. Sells: Battle Shield |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 0 | 0 | ~40k | ~50k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 
 **Good for gold**
 
@@ -2564,14 +2564,15 @@ Because it works fight by fight, a hunting ground's numbers grow with your level
 - Supplies are a rough estimate.
 - It doesn't know about other players in the same hunting ground, or about areas that change every day (Poacher Caves, Forsaken Mine).
 - If a hunting ground's money comes from one single item (like Gloom Wolf Fur), hunting it a lot can push that item's Market price down.
-- Hunting grounds missing from Canary's map (like Targuna's) use the older, simpler estimate.
+- Targuna is newer than Canary's map, so its monsters and spawns come from another open-source server. Their HP, experience and armor match TibiaWiki, but their attacks hit more often than the tests showed, so Targuna's grades come from the tests.
+- The few hunting grounds missing from both maps (like the Lost Dwarves in the Forsaken Mine) use the older, simpler estimate.
 
 Use the numbers to compare hunting grounds with each other, not as promises.
 
 ## Sources
 - **TibiaWiki** (tibia.fandom.com): hunting places, creatures, items, spells, potions, imbuements, charms, prey, Wheel of Destiny, weapon proficiency, stamina, blessings, Vocation Adjustments 2026.
 - **Market prices:** tibiamarket.top (Antica, Quidera, Yovera), Nov 2026.
-- **Monsters and spawns:** the Canary open-source server (opentibiabr/canary, November 2026): monster files and map.
+- **Monsters and spawns:** the Canary open-source server (opentibiabr/canary, November 2026): monster files and map. Targuna's from project-ravoc (a Crystal Server 15.30 build, cys9211/project-ravoc on GitHub, October 2026).
 - **Real hits and stats:** the Cyclopedia and server logs of the guide's knights.
 - **Levels for a few hunting grounds:** Rick Games' tested 2026 knight route (YouTube).
 - **Depot distances:** tibiamaps.io walkability map and TibiaWiki coordinates.
