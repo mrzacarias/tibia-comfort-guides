@@ -160,6 +160,35 @@ Not counted:
 
 Prices scatter a lot: half of the sales fall in a range 2 to 5 times wide. Sold characters often carry extras a fresh one doesn't have (outfits, mounts, charms). Treat these numbers as a rough guide.
 
+## Should I raise to 100 or have a level 8 with high skill?
+Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. Low-level knights with high skill do sell, but only from about skill 94, and the price grows slowly with each point (sold auctions on exiva.pro, levels 8 to 20, all worlds):
+
+| Skill | Days of offline training | Sales | Median | TC after fees | TC per day |
+|---|---|---|---|---|---|
+| 94–95 | ~146 | 5 | 66 TC | nothing | – |
+| 96–97 | ~176 | 3 | 69 TC | nothing | – |
+| 100–101 | ~258 | 27 | 122 TC | ~45 | 0.17 |
+| 102–103 | ~312 | 7 | 200 TC | ~114 | 0.36 |
+| 104–105 | ~378 | 8 | 235 TC | ~144 | 0.38 |
+| 106–107 | ~457 | 9 | 151 TC | ~70 | 0.15 |
+| 108–109 | ~553 | 10 | 279 TC | ~183 | 0.33 |
+| 110–111 | ~669 | 26 | 432 TC | ~318 | 0.48 |
+| 112–113 | ~810 | 6 | 501 TC | ~378 | 0.47 |
+| 114–115 | ~980 | 3 | 856 TC | ~691 | 0.71 |
+| 118–119 | ~1434 | 3 | 1751 TC | ~1478 | 1.03 |
+
+Days count from sword 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
+
+Compared side by side:
+- **Raising to 100:** 28 days and 84 hours of play, for about 347 TC (the sale plus the gold left). About 12.4 TC per day.
+- **A level 8 trained to skill 110:** about 669 days of training, for about 318 TC. That's 0.48 TC per day, about 26 times less, but it needs only about 11 hours of logins in total.
+
+So raising is the income, and a trained level 8 is a passive extra on the side:
+- **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
+- **Space out the sales.** An account can have only one auction at a time.
+- **Don't keep training the level 100.** At levels 90 to 110, knights with skill 100–109 sold for a median of 201 TC (117 sales), no more than the 300 TC of skill 76–81, so hundreds of days of extra training don't pay.
+- **Low-level prices rest on few sales** (3–27 per skill), and they're best in North America.
+
 ## How the numbers are made
 - **The route:** a day-by-day simulation with the knight guide's model (its appendix) at the character's real level and skill. XP × the low level bonus × green stamina; skill from offline training only, with TibiaWiki's formulas.
 - **Delivery tasks:** TibiaWiki's Delivery Task list, with Market prices from tibiamarket.top (Antica, November 2026).

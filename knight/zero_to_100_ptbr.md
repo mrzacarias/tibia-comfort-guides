@@ -160,6 +160,35 @@ Fora da conta:
 
 Os preços variam bastante: metade das vendas cai numa faixa de 2 a 5 vezes de largura. Personagens vendidos muitas vezes têm extras que um novo não tem (outfits, montarias, charms). Use estes números como uma referência aproximada.
 
+## Subir até o 100 ou ter um level 8 com skill alto?
+Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Knights de level baixo com skill alto vendem, mas só a partir de uns skill 94, e o preço cresce devagar a cada ponto (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos):
+
+| Skill | Dias de treino offline | Vendas | Mediana | TC depois das taxas | TC por dia |
+|---|---|---|---|---|---|
+| 94–95 | ~146 | 5 | 66 TC | nada | – |
+| 96–97 | ~176 | 3 | 69 TC | nada | – |
+| 100–101 | ~258 | 27 | 122 TC | ~45 | 0,17 |
+| 102–103 | ~312 | 7 | 200 TC | ~114 | 0,36 |
+| 104–105 | ~378 | 8 | 235 TC | ~144 | 0,38 |
+| 106–107 | ~457 | 9 | 151 TC | ~70 | 0,15 |
+| 108–109 | ~553 | 10 | 279 TC | ~183 | 0,33 |
+| 110–111 | ~669 | 26 | 432 TC | ~318 | 0,48 |
+| 112–113 | ~810 | 6 | 501 TC | ~378 | 0,47 |
+| 114–115 | ~980 | 3 | 856 TC | ~691 | 0,71 |
+| 118–119 | ~1434 | 3 | 1751 TC | ~1478 | 1,03 |
+
+Os dias contam a partir de sword 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
+
+Lado a lado:
+- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 347 TC (a venda mais o gold que sobra). Uns 12,4 TC por dia.
+- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 26 vezes menos, mas pede só umas 11 horas de login no total.
+
+Então subir de level é a renda, e um level 8 treinado é um extra passivo:
+- **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
+- **Espace as vendas.** Uma conta só pode ter um leilão por vez.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, knights com skill 100–109 foram vendidos por uma mediana de 201 TC (117 vendas), não mais que os 300 TC do skill 76–81, então centenas de dias de treino extra não compensam.
+- **Os preços de level baixo vêm de poucas vendas** (3–27 por skill), e são melhores na América do Norte.
+
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de knight (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki.
 - **Tarefas de entrega:** a lista de Delivery Task da TibiaWiki, com preços do Market do tibiamarket.top (Antica, novembro de 2026).
