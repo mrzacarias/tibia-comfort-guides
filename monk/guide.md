@@ -1852,7 +1852,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~195k | ~80k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~170k | ~50k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~160k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~160k | ~100k |  |
 
 **Good for gold**
 
@@ -1870,7 +1870,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~200k | ~85k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~175k | ~50k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~165k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~165k | ~100k |  |
 
 **Good for gold**
 
@@ -1888,7 +1888,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~205k | ~85k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~180k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~170k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~170k | ~105k |  |
 
 **Good for gold**
 
@@ -1906,7 +1906,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~210k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~180k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~170k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~175k | ~105k |  |
 
 **Good for gold**
 
@@ -1924,7 +1924,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~215k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~185k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~175k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~180k | ~110k |  |
 
 **Good for gold**
 
@@ -1942,7 +1942,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~220k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~190k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~180k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~180k | ~110k |  |
 
 **Good for gold**
 
@@ -2259,8 +2259,8 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~235k | ~90k | Damage-reduction prey on Moohtant, XP prey on Worm Priestess |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 | [Marapur Turtles (Great Pearl Fan Reef)](https://tibiamaps.io/map#33743,32774,8:2) | 2 → **1** | 3 → **1** | ~180k | ~95k | Damage-reduction prey on Foam Stalker |
-| [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
 
 **Good for gold**
 
@@ -2268,7 +2268,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
 ## Section 4: Wheel of Destiny and gems
 From level 51, after promotion and with a premium account, you get **1 point per level** to spend on the Wheel of Destiny, a big circle of permanent perks: 40 points at level 90, 84 at 134 and 150 at 200. You can move your points around for free in any temple.

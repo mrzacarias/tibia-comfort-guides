@@ -1855,7 +1855,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~195k | ~80k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~170k | ~50k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~160k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~160k | ~100k |  |
 
 **Bom para lucro**
 
@@ -1873,7 +1873,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~200k | ~85k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~175k | ~50k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~165k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~165k | ~100k |  |
 
 **Bom para lucro**
 
@@ -1891,7 +1891,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~205k | ~85k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~180k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~170k | ~60k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~170k | ~105k |  |
 
 **Bom para lucro**
 
@@ -1909,7 +1909,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~210k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~180k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~170k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~175k | ~105k |  |
 
 **Bom para lucro**
 
@@ -1927,7 +1927,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~215k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~185k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~175k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~180k | ~110k |  |
 
 **Bom para lucro**
 
@@ -1945,7 +1945,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **0** | 2 → **1** | ~220k | ~90k |  |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | 2 → **0** | 2 → **1** | ~190k | ~55k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~180k | ~65k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **0** | 2 → **1** | ~180k | ~110k |  |
 
 **Bom para lucro**
 
@@ -2262,8 +2262,8 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~235k | ~90k | Prey de redução de dano em Moohtant, prey de XP em Worm Priestess |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 | [Marapur Turtles (Great Pearl Fan Reef)](https://tibiamaps.io/map#33743,32774,8:2) | 2 → **1** | 3 → **1** | ~180k | ~95k | Prey de redução de dano em Foam Stalker |
-| [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Prey de redução de dano em Drillworm, prey de XP em Wyvern |
 
 **Bom para lucro**
 
@@ -2271,7 +2271,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Prey de redução de dano em Drillworm, prey de XP em Wyvern |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 
 ## Seção 4: Wheel of Destiny e gemas
 A partir do level 51, depois da promoção e com conta premium, você ganha **1 ponto por level** para gastar na Wheel of Destiny (a Roda do Destino), um grande círculo de perks permanentes: 40 pontos no level 90, 84 no 134 e 150 no 200. Dá para remanejar os pontos de graça em qualquer templo.

@@ -2126,7 +2126,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~145k | ~110k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | 165k | 110k | Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
 
-#### Level 140–150 with prey (~62 hours to the next band)
+#### Level 140–150 with prey (~60 hours to the next band)
 
 **Good for XP**
 
@@ -2134,7 +2134,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Drefia Wyrm Lair](https://tibiamaps.io/map#33070,32396,13:2) | 2 → **1** | 2 → **1** | ~175k | ~60k | Damage-reduction prey on Wyrm, XP prey on Elder Wyrm. Still: skip Grim Reaper (hits half your HP) |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~170k | ~115k | Damage-reduction prey on Twisted Shaper, XP prey on Broken Shaper |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 1 → **0** | 1 → **0** | ~150k | ~70k | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~165k | ~90k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
 **Good for gold**
 
@@ -2162,7 +2162,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 1 → **0** | 1 → **0** | ~130k | ~125k | Damage-reduction prey on Dragon, XP prey on Wyvern |
 
-#### Level 160–170 with prey (~78 hours to the next band)
+#### Level 160–170 with prey (~75 hours to the next band)
 
 **Good for XP**
 
@@ -2170,7 +2170,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~185k | ~55k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 1 → **0** | 1 → **0** | ~170k | ~105k | Damage-reduction prey on Shaper Matriarch, XP prey on Broken Shaper |
-| [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~155k | ~120k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~170k | ~95k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
 **Good for gold**
 
@@ -2430,23 +2430,23 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~95k | ~105k |  |
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~190k | ~80k |  |
 
-#### Level 160–170 with the Wheel (~108 hours to the next band)
+#### Level 160–170 with the Wheel (~95 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~155k | ~95k |  |
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~145k | ~120k |  |
 | [Demon Hell](https://tibiamaps.io/map#33211,31638,13:2) | 0 → **0** | 2 → **0** | ~120k | – | Still: summoners, skip Demon (hits half your HP) |
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 1 → **0** | 1 → **0** | ~105k | ~40k |  |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~145k | ~120k |  |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~155k | ~95k |  |
 | [Foreigner Quarter](https://tibiamaps.io/map#32709,31308,7:2) | 0 → **0** | 2 → **0** | ~90k | ~70k | Still: skip Serpent Spawn (hits half your HP) |
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 1 → **0** | 1 → **0** | ~105k | ~40k |  |
 
 #### Level 170–180 with the Wheel (~122 hours to the next band)
 

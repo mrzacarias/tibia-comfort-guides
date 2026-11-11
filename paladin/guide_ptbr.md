@@ -2218,15 +2218,15 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
 
-#### Level 180–190 com prey (~90 horas até a próxima faixa)
+#### Level 180–190 com prey (~83 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~225k | ~70k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Prey de redução de dano em Drillworm, prey de XP em Wyvern |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~155k | ~85k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
 
 **Bom para lucro**
 
@@ -2234,9 +2234,9 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Prey de redução de dano em Drillworm, prey de XP em Wyvern |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 
-#### Level 190–200 com prey (~82 horas até a próxima faixa)
+#### Level 190–200 com prey (~80 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -2244,7 +2244,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~255k | ~100k | Prey de redução de dano em Moohtant, prey de XP em Worm Priestess |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~235k | ~70k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **0** | 1 → **0** | ~190k | ~130k | Prey de redução de dano em Waspoid, prey de XP em Crawler |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~205k | ~115k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 
 **Bom para lucro**
 
@@ -2252,7 +2252,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~180k | ~140k | Prey de redução de dano em Drillworm, prey de XP em Wyvern |
 | [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **0** | 1 → **0** | ~190k | ~130k | Prey de redução de dano em Waspoid, prey de XP em Crawler |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~205k | ~115k | Prey de redução de dano em Orc Cult Priest, prey de XP em Orc Cult Inquisitor |
 
 #### Level 200+ com prey
 

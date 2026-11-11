@@ -2215,15 +2215,15 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
 
-#### Level 180–190 with prey (~90 hours to the next band)
+#### Level 180–190 with prey (~83 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~225k | ~70k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~155k | ~85k | Damage-reduction prey on Bog Raider, XP prey on Rotworm |
 
 **Good for gold**
 
@@ -2231,9 +2231,9 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~175k | ~135k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~110k | ~125k | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~200k | ~110k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
-#### Level 190–200 with prey (~82 hours to the next band)
+#### Level 190–200 with prey (~80 hours to the next band)
 
 **Good for XP**
 
@@ -2241,7 +2241,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 2 → **1** | 2 → **1** | ~255k | ~100k | Damage-reduction prey on Moohtant, XP prey on Worm Priestess |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~235k | ~70k | Damage-reduction prey on Exotic Cave Spider, XP prey on Exotic Bat |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **0** | 1 → **0** | ~190k | ~130k | Damage-reduction prey on Waspoid, XP prey on Crawler |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~205k | ~115k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
 **Good for gold**
 
@@ -2249,7 +2249,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 2 → **1** | 2 → **1** | ~180k | ~140k | Damage-reduction prey on Drillworm, XP prey on Wyvern |
 | [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 → **0** | 1 → **0** | ~190k | ~130k | Damage-reduction prey on Waspoid, XP prey on Crawler |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~105k | ~105k | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
+| [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 2 → **1** | 2 → **1** | ~205k | ~115k | Damage-reduction prey on Orc Cult Priest, XP prey on Orc Cult Inquisitor |
 
 #### Level 200+ with prey
 
