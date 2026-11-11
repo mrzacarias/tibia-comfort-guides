@@ -2,7 +2,7 @@
 
 Este guia leva um knight novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de knight](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça só as tarefas de entrega baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **259 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça só as tarefas de entrega baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **283 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -119,39 +119,39 @@ Por quanto knights assim foram vendidos (leilões vendidos no exiva.pro, level a
 
 | Level | Sword | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
-| 56 (fim da semana 1) | 64 | 19 | 200 TC | 66–266 |
-| 74 (fim da semana 2) | 71 | 31 | 157 TC | 100–400 |
-| 88 (fim da semana 3) | 75 | 53 | 151 TC | 100–250 |
-| 100 (fim da semana 4) | 78 | 50 | 259 TC | 115–600 |
+| 56 (fim da semana 1) | 64 | 21 | 151 TC | 57–258 |
+| 74 (fim da semana 2) | 71 | 39 | 203 TC | 100–400 |
+| 88 (fim da semana 3) | 75 | 57 | 151 TC | 101–251 |
+| 100 (fim da semana 4) | 78 | 54 | 283 TC | 115–600 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe umas 1,6 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe umas 1,9 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
-O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (238 vendas):
+O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (255 vendas):
 
 | Tipo de mundo | Vendas | Preço vs a mediana |
 |---|---|---|
-| BattlEye verde | 211 | ×1,15 |
-| BattlEye amarelo | 27 | ×0,44 |
-| Optional PvP | 84 | ×1,19 |
-| Retro Open PvP | 56 | ×1,01 |
-| Open PvP | 94 | ×0,93 |
-| América do Norte | 72 | ×1,23 |
-| América do Sul | 80 | ×0,92 |
-| Europa | 86 | ×0,89 |
+| BattlEye verde | 228 | ×1,10 |
+| BattlEye amarelo | 27 | ×0,41 |
+| Optional PvP | 89 | ×1,16 |
+| Retro Open PvP | 56 | ×1,00 |
+| Open PvP | 106 | ×0,96 |
+| América do Norte | 76 | ×1,21 |
+| América do Sul | 91 | ×0,95 |
+| Europa | 88 | ×0,89 |
 
 **Crie o personagem em um mundo Optional PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + entregas | 41 | ~359 | ~263 | ~312 |
-| 2 | Sem ring + entregas | 51 | ~269 | ~158 | ~178 |
-| 3 | Stealth Ring + entregas | 28 | ~326 | ~349 | ~412 |
-| 3 | Sem ring + entregas | 36 | ~422 | ~352 | ~408 |
-| 5 | Stealth Ring + entregas | 21 | ~364 | ~520 | ~600 |
-| 5 | Sem ring + entregas | 27 | ~471 | ~523 | ~594 |
+| 2 | Stealth Ring + entregas | 41 | ~359 | ~263 | ~304 |
+| 2 | Sem ring + entregas | 51 | ~269 | ~158 | ~175 |
+| 3 | Stealth Ring + entregas | 28 | ~347 | ~372 | ~428 |
+| 3 | Sem ring + entregas | 36 | ~422 | ~352 | ~398 |
+| 5 | Stealth Ring + entregas | 21 | ~364 | ~520 | ~586 |
+| 5 | Sem ring + entregas | 27 | ~471 | ~523 | ~581 |
 
-TC por personagem = 0,88 × o preço mediano − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **349 TC por mês**, e uns 412 num mundo Optional PvP verde (×1,25).
+TC por personagem = 0,88 × o preço mediano − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **372 TC por mês**, e uns 428 num mundo Optional PvP verde (×1,21).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.

@@ -2,7 +2,7 @@
 
 This guide takes a new knight from character creation to level 100 as fast as comfort allows, and shows what the character is worth on the Char Bazaar at the end. It builds on the [knight guide](guide.md): the same comfort grades (only hunting grounds with Prep and Hunt of 0 or 1), the same hunting grounds and the same model. It assumes a premium account. Every number is an estimate; the last part explains how they're made.
 
-**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and hand in only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with sword about 78. A knight like that has sold for a median of about **259 TC**.
+**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and hand in only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with sword about 78. A knight like that has sold for a median of about **283 TC**.
 
 ## What the plan assumes
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
@@ -119,39 +119,39 @@ What knights like this sold for (sold auctions on exiva.pro, levels within 10% a
 
 | Level | Sword | Sales | Median | Middle half |
 |---|---|---|---|---|
-| 56 (end of week 1) | 64 | 19 | 200 TC | 66–266 |
-| 74 (end of week 2) | 71 | 31 | 157 TC | 100–400 |
-| 88 (end of week 3) | 75 | 53 | 151 TC | 100–250 |
-| 100 (end of week 4) | 78 | 50 | 259 TC | 115–600 |
+| 56 (end of week 1) | 64 | 21 | 151 TC | 57–258 |
+| 74 (end of week 2) | 71 | 39 | 203 TC | 100–400 |
+| 88 (end of week 3) | 75 | 57 | 151 TC | 101–251 |
+| 100 (end of week 4) | 78 | 54 | 283 TC | 115–600 |
 
-The price doesn't grow from level 50 to about 85, then rises about 1.6× by level 100. **Sell right after level 100**, not on the way.
+The price doesn't grow from level 50 to about 85, then rises about 1.9× by level 100. **Sell right after level 100**, not on the way.
 
-The world matters as much as the level. Each sale's price compared with the median for its level and skill (238 sales):
+The world matters as much as the level. Each sale's price compared with the median for its level and skill (255 sales):
 
 | World type | Sales | Price vs the median |
 |---|---|---|
-| Green BattlEye | 211 | ×1.15 |
-| Yellow BattlEye | 27 | ×0.44 |
-| Optional PvP | 84 | ×1.19 |
-| Retro Open PvP | 56 | ×1.01 |
-| Open PvP | 94 | ×0.93 |
-| North America | 72 | ×1.23 |
-| South America | 80 | ×0.92 |
-| Europe | 86 | ×0.89 |
+| Green BattlEye | 228 | ×1.10 |
+| Yellow BattlEye | 27 | ×0.41 |
+| Optional PvP | 89 | ×1.16 |
+| Retro Open PvP | 56 | ×1.00 |
+| Open PvP | 106 | ×0.96 |
+| North America | 76 | ×1.21 |
+| South America | 91 | ×0.95 |
+| Europe | 88 | ×0.89 |
 
 **Create the character on a world with Optional PvP and green BattlEye, ideally in North America.** Never yellow BattlEye. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
 
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + delivery tasks | 41 | ~359 | ~263 | ~312 |
-| 2 | No ring + delivery tasks | 51 | ~269 | ~158 | ~178 |
-| 3 | Stealth Ring + delivery tasks | 28 | ~326 | ~349 | ~412 |
-| 3 | No ring + delivery tasks | 36 | ~422 | ~352 | ~408 |
-| 5 | Stealth Ring + delivery tasks | 21 | ~364 | ~520 | ~600 |
-| 5 | No ring + delivery tasks | 27 | ~471 | ~523 | ~594 |
+| 2 | Stealth Ring + delivery tasks | 41 | ~359 | ~263 | ~304 |
+| 2 | No ring + delivery tasks | 51 | ~269 | ~158 | ~175 |
+| 3 | Stealth Ring + delivery tasks | 28 | ~347 | ~372 | ~428 |
+| 3 | No ring + delivery tasks | 36 | ~422 | ~352 | ~398 |
+| 5 | Stealth Ring + delivery tasks | 21 | ~364 | ~520 | ~586 |
+| 5 | No ring + delivery tasks | 27 | ~471 | ~523 | ~581 |
 
-TC per character = 0.88 × the median price − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **349 TC a month**, and about 412 on an Optional PvP, green world (×1.25).
+TC per character = 0.88 × the median price − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **372 TC a month**, and about 428 on an Optional PvP, green world (×1.21).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
