@@ -2,7 +2,7 @@
 
 Este guia leva um knight novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de knight](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **299 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **283 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -65,7 +65,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21,0 h | ~135k | ~163k |
 | 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 21,0 h | ~154k | ~234k |
 
-Isso dá level 100 no dia 35 em vez de 28, com sword 80 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 14.0M de gold em vez de 6.9M, e rende mais TC por mês: uns 439 contra 388 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
+Isso dá level 100 no dia 35 em vez de 28, com sword 80 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 14.0M de gold em vez de 6.9M, e rende mais TC por mês: uns 439 contra 343 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
 
 ### Sem o ring
 A rota é mais lenta mas dá mais loot:
@@ -157,9 +157,9 @@ Por quanto knights assim foram vendidos (leilões vendidos no exiva.pro, level a
 | 56 (fim da semana 1) | 64 | 21 | 151 TC | 57–258 |
 | 75 (fim da semana 2) | 71 | 38 | 204 TC | 101–400 |
 | 89 (fim da semana 3) | 75 | 54 | 151 TC | 101–251 |
-| 101 (fim da semana 4) | 78 | 51 | 299 TC | 121–600 |
+| 100 (fim da semana 4) | 78 | 54 | 283 TC | 115–600 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe umas 2,0 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe umas 1,9 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
 O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (255 vendas):
 
@@ -180,16 +180,16 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
 | 2 | Stealth Ring + tarefas semanais | 39 | ~349 | ~269 | ~311 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 49 | ~495 | ~303 | ~337 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 49 | ~494 | ~303 | ~337 |
 | 2 | Sem ring + tarefas semanais | 49 | ~398 | ~244 | ~278 |
-| 3 | Stealth Ring + tarefas semanais | 28 | ~362 | ~388 | ~447 |
+| 3 | Stealth Ring + tarefas semanais | 28 | ~320 | ~343 | ~392 |
 | 3 | Ring + tarefas, Corym Mines sempre ocupada | 35 | ~512 | ~439 | ~484 |
 | 3 | Sem ring + tarefas semanais | 35 | ~399 | ~342 | ~387 |
-| 5 | Stealth Ring + tarefas semanais | 21 | ~393 | ~562 | ~637 |
+| 5 | Stealth Ring + tarefas semanais | 21 | ~365 | ~522 | ~588 |
 | 5 | Ring + tarefas, Corym Mines sempre ocupada | 26 | ~607 | ~701 | ~761 |
 | 5 | Sem ring + tarefas semanais | 26 | ~457 | ~528 | ~588 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **388 TC por mês**, e uns 447 num mundo Optional PvP verde (×1,21).
+TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **343 TC por mês**, e uns 392 num mundo Optional PvP verde (×1,21).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -218,8 +218,8 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de sword 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 362 TC (a venda mais o gold que sobra). Uns 12,9 TC por dia.
-- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 27 vezes menos, mas pede só umas 11 horas de login no total.
+- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 320 TC (a venda mais o gold que sobra). Uns 11,4 TC por dia.
+- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 24 vezes menos, mas pede só umas 11 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
