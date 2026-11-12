@@ -47,7 +47,7 @@ Corym Mines is popular, and the route above assumes it's free for your 3 hours e
 | 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~99k XP/h, ~26k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~68k XP/h, ~58k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~65k XP/h, ~73k gold/h |
 | 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~110k XP/h, ~129k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (ring): ~98k XP/h, ~50k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~96k XP/h, ~26k gold/h |
 | 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~116k XP/h, ~138k gold/h | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) (ring): ~105k XP/h, ~67k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~104k XP/h, ~68k gold/h |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~128k XP/h, ~156k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~122k XP/h, ~83k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~120k XP/h, ~84k gold/h |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~128k XP/h, ~155k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~122k XP/h, ~83k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~120k XP/h, ~84k gold/h |
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~130k XP/h, ~163k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~128k XP/h, ~85k gold/h | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): ~123k XP/h, ~79k gold/h |
 | 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2): ~154k XP/h, ~234k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~136k XP/h, ~168k gold/h | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) (ring): ~123k XP/h, ~87k gold/h |
 
@@ -61,11 +61,11 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~99k | ~26k |
 | 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 11.0 h | ~111k | ~129k |
 | 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 14.0 h | ~120k | ~138k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 19.5 h | ~129k | ~156k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 19.5 h | ~129k | ~155k |
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21.0 h | ~135k | ~163k |
 | 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 21.0 h | ~154k | ~234k |
 
-That's level 100 on day 35 instead of 28, with sword 80 (more days of training). But Forgotten Tomb loots much more, so it leaves 14.0M of gold instead of 6.9M, and makes more TC per month: about 439 against 343 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
+That's level 100 on day 35 instead of 28, with sword 80 (more days of training). But Forgotten Tomb loots much more, so it leaves 14.0M of gold instead of 6.9M, and makes more TC per month: about 438 against 343 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
 
 ### Without the ring
 The route is slower but loots more:
@@ -78,7 +78,7 @@ The route is slower but loots more:
 | 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~99k | ~26k |
 | 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14.5 h | ~97k | ~22k |
 | 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15.5 h | ~110k | ~68k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 16.5 h | ~130k | ~156k |
+| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 16.5 h | ~130k | ~155k |
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 20.5 h | ~135k | ~163k |
 | 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 19.5 h | ~212k | ~105k |
 
@@ -180,13 +180,13 @@ The world matters as much as the level. Each sale's price compared with the medi
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
 | 2 | Stealth Ring + weekly tasks | 39 | ~349 | ~269 | ~311 |
-| 2 | Ring + tasks, Corym Mines always taken | 49 | ~494 | ~303 | ~337 |
+| 2 | Ring + tasks, Corym Mines always taken | 49 | ~494 | ~303 | ~336 |
 | 2 | No ring + weekly tasks | 49 | ~398 | ~244 | ~278 |
 | 3 | Stealth Ring + weekly tasks | 28 | ~320 | ~343 | ~392 |
-| 3 | Ring + tasks, Corym Mines always taken | 35 | ~512 | ~439 | ~484 |
+| 3 | Ring + tasks, Corym Mines always taken | 35 | ~511 | ~438 | ~483 |
 | 3 | No ring + weekly tasks | 35 | ~399 | ~342 | ~387 |
 | 5 | Stealth Ring + weekly tasks | 21 | ~365 | ~522 | ~588 |
-| 5 | Ring + tasks, Corym Mines always taken | 26 | ~607 | ~701 | ~761 |
+| 5 | Ring + tasks, Corym Mines always taken | 26 | ~607 | ~700 | ~761 |
 | 5 | No ring + weekly tasks | 26 | ~457 | ~528 | ~588 |
 
 TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **343 TC a month**, and about 392 on an Optional PvP, green world (×1.21).
