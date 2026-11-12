@@ -177,7 +177,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 75k | Thais 188 / ~47 s | **Testado** (level 19, sword 41): sem supplies. Vende bem: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | 11k | 60k | Venore 262 / ~1,1 min | **Testado** (level 26, sword 48): 200 gold de supplies por hora, quase sem cura, 72k de loot/h naquele mundo. Vende bem: Medicine Pouch |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~16k | ~50k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 33% da vida. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~16k | ~50k | Carlin 195 / ~49 s | Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 33% da vida. Vende bem: Protective Charm |
 
 #### Level 30–40 (~9,9 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 50, ataque da arma 37. Equipamento com bom custo-benefício, cada peça abaixo de ~73k: Epee, Sapphire Hammer ou Beastslayer Axe (sword, club ou axe), com Dragon Scale Mail, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.

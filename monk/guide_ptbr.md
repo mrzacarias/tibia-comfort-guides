@@ -221,7 +221,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 30% da vida. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 30% da vida. Vende bem: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 40–50 (~18 horas até a próxima faixa)
@@ -240,7 +240,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~70k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 24% da vida. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 24% da vida. Vende bem: Protective Charm |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 24% da vida. Vende bem: Protective Charm |
 
 #### Level 50–60 (~28 horas até a próxima faixa)
@@ -262,7 +262,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~40k | ~155k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 18% da vida. Vende bem: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~35k | ~105k | Carlin 195 / ~49 s | Cuidado: Valkyrie bate 20% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~35k | ~95k | não calculado | Cuidado: Valkyrie bate 20% da vida. Vende bem: Protective Charm |
 
 #### Level 60–70 (~33 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 68, Sai.
@@ -1684,8 +1684,8 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k | ~160k |  |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~35k | ~105k |  |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~35k | ~95k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **1** | ~45k | ~95k |  |
 
 #### Level 60–70 com leech (~29 horas até a próxima faixa)
 
@@ -1702,8 +1702,8 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~35k | ~105k |  |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~35k | ~100k |  |
+| [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | 2 → **1** | 2 → **1** | ~60k | ~100k |  |
 
 #### Level 70–80 com leech (~36 horas até a próxima faixa)
 
@@ -1721,7 +1721,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~175k |  |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~70k | ~140k |  |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~40k | ~125k |  |
+| [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | 2 → **1** | 2 → **1** | ~70k | ~115k |  |
 
 #### Level 80–90 com leech (~41 horas até a próxima faixa)
 
@@ -2075,7 +2075,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k | ~165k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~90k | ~125k | Prey de redução de dano em Novice of the Cult, prey de XP em Acolyte of the Cult. Ainda: monstros que invocam |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~45k | ~125k | Prey de redução de dano em Valkyrie, prey de XP em Amazon |
+| [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~70k | ~120k | Prey de redução de dano em Ice Golem, prey de XP em Crystal Spider |
 
 #### Level 100–110 com prey (~53 horas até a próxima faixa)
 
@@ -2355,9 +2355,9 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~40k | ~125k |  |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~65k | ~120k |  |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~85k | ~70k | Ainda: monstros que invocam |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~65k |  |
 
 #### Level 100–110 com a Wheel (~71 horas até a próxima faixa)
 
