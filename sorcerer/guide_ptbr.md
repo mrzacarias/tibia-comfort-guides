@@ -185,7 +185,7 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média da sua lista **Bom para XP**. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
 #### Level 20–30 (~9,6 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 18, Wand of Decay.
+**Sorcerer típico desta faixa:** magic level 18, Wand of Decay. Equipamento com bom custo-benefício, cada peça abaixo de ~17k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -204,7 +204,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 | 1 | ~9k | ~25k | Carlin 260 / ~1,1 min | Cuidado: Amazon bate 26% da vida. Vende bem: Protective Charm |
 
 #### Level 30–40 (~24 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy.
+**Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy. Equipamento com bom custo-benefício, cada peça abaixo de ~29k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook of Enlightenment, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -223,7 +223,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 1 | 1 | ~12k | ~40k | Carlin 126 / ~32 s | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
 
 #### Level 40–50 (~19 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 32, Wand of Inferno.
+**Sorcerer típico desta faixa:** magic level 32, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~74k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -242,7 +242,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~105k | Thais 188 / ~47 s | Vende bem: Honeycomb |
 
 #### Level 50–60 (~28 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 40, Wand of Inferno.
+**Sorcerer típico desta faixa:** magic level 40, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~98k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -261,7 +261,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~55k | ~125k | Kazordoon 137 / ~34 s | Só nos dias de animais: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
 
 #### Level 60–70 (~32 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 46, Wand of Inferno.
+**Sorcerer típico desta faixa:** magic level 46, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~88k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -280,7 +280,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~60k | ~145k | Kazordoon 137 / ~34 s | Só nos dias de animais: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
 
 #### Level 70–80 (~36 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 52, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 52, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~106k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Ragnir barbarians).
 
@@ -301,7 +301,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 | 1 | ~50k | ~150k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Bloodwalker bate 20% da vida. Vende bem: Winter Wolf Fur |
 
 #### Level 80–90 (~42 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 58, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 58, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~123k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -320,7 +320,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 23% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 90–100 (~47 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 63, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 63, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~127k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -339,7 +339,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~50k | ~190k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Wilting Leaf Golem bate 20% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 
 #### Level 100–110 (~53 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 68, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 68, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~135k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186.000 de experiência).
 
@@ -360,7 +360,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 19% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 110–120 (~60 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 72, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 72, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~139k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -379,7 +379,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 18% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 120–130 (~58 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 75, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 75, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~149k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -398,7 +398,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 17% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 130–140 (~63 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 79, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 79, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~154k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -417,7 +417,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 16% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 140–150 (~69 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 81, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 81, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~158k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -436,7 +436,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 150–160 (~77 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 84, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 84, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~164k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325.000 de experiência; quest longa, com bosses).
 
@@ -457,7 +457,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 160–170 (~78 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 86, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 86, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~167k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -476,7 +476,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 170–180 (~85 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 88, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 88, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~173k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -495,7 +495,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 180–190 (~92 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 90, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 90, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -514,7 +514,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 190–200 (~99 horas até a próxima faixa)
-**Sorcerer típico desta faixa:** magic level 93, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 93, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
@@ -533,7 +533,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 200+
-**Sorcerer típico desta faixa:** magic level 95, Wand of Everblazing.
+**Sorcerer típico desta faixa:** magic level 95, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 

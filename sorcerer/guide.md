@@ -182,7 +182,7 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of its **Good for XP** list. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
 #### Level 20–30 (~9.6 hours to the next band)
-**Typical sorcerer in this band:** magic level 18, Wand of Decay.
+**Typical sorcerer in this band:** magic level 18, Wand of Decay. Good-value gear, each piece under ~17k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -201,7 +201,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 | 1 | ~9k | ~25k | Carlin 260 / ~1.1 min | Watch: Amazon hits 26% of HP. Sells: Protective Charm |
 
 #### Level 30–40 (~24 hours to the next band)
-**Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy.
+**Typical sorcerer in this band:** magic level 25, Wand of Cosmic Energy. Good-value gear, each piece under ~29k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook of Enlightenment, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -220,7 +220,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 1 | 1 | ~12k | ~40k | Carlin 126 / ~32 s | Watch: Valkyrie hits 29% of HP. Sells: Protective Charm |
 
 #### Level 40–50 (~19 hours to the next band)
-**Typical sorcerer in this band:** magic level 32, Wand of Inferno.
+**Typical sorcerer in this band:** magic level 32, Wand of Inferno. Good-value gear, each piece under ~74k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -239,7 +239,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~105k | Thais 188 / ~47 s | Sells: Honeycomb |
 
 #### Level 50–60 (~28 hours to the next band)
-**Typical sorcerer in this band:** magic level 40, Wand of Inferno.
+**Typical sorcerer in this band:** magic level 40, Wand of Inferno. Good-value gear, each piece under ~98k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -258,7 +258,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~55k | ~125k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 18% of HP. Sells: Wyvern Talisman |
 
 #### Level 60–70 (~32 hours to the next band)
-**Typical sorcerer in this band:** magic level 46, Wand of Inferno.
+**Typical sorcerer in this band:** magic level 46, Wand of Inferno. Good-value gear, each piece under ~88k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -277,7 +277,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~60k | ~145k | Kazordoon 137 / ~34 s | Only on game-animal days: Poacher Caves is a Mini World Change with 3 versions (gloom wolves, poachers or game animals), picked at server save. Gloom wolf days are great for money and bad for XP. Watch: Wyvern hits 16% of HP. Sells: Wyvern Talisman |
 
 #### Level 70–80 (~36 hours to the next band)
-**Typical sorcerer in this band:** magic level 52, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 52, Wand of Everblazing. Good-value gear, each piece under ~106k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Ragnir barbarians).
 
@@ -298,7 +298,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 | 1 | ~50k | ~150k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Watch: Barbarian Bloodwalker hits 20% of HP. Sells: Winter Wolf Fur |
 
 #### Level 80–90 (~42 hours to the next band)
-**Typical sorcerer in this band:** magic level 58, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 58, Wand of Everblazing. Good-value gear, each piece under ~123k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -317,7 +317,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 23% of HP, slows or summons. Sells: Elven Hoof |
 
 #### Level 90–100 (~47 hours to the next band)
-**Typical sorcerer in this band:** magic level 63, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 63, Wand of Everblazing. Good-value gear, each piece under ~127k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -336,7 +336,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~50k | ~190k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: Wilting Leaf Golem hits 20% of HP, slows or summons. Sells: Piece of Swampling Wood |
 
 #### Level 100–110 (~53 hours to the next band)
-**Typical sorcerer in this band:** magic level 68, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 68, Wand of Everblazing. Good-value gear, each piece under ~135k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
 
@@ -357,7 +357,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 19% of HP, slows or summons. Sells: Elven Hoof |
 
 #### Level 110–120 (~60 hours to the next band)
-**Typical sorcerer in this band:** magic level 72, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 72, Wand of Everblazing. Good-value gear, each piece under ~139k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -376,7 +376,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 18% of HP, slows or summons. Sells: Elven Hoof |
 
 #### Level 120–130 (~58 hours to the next band)
-**Typical sorcerer in this band:** magic level 75, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 75, Wand of Everblazing. Good-value gear, each piece under ~149k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -395,7 +395,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 17% of HP, slows or summons. Sells: Elven Hoof |
 
 #### Level 130–140 (~63 hours to the next band)
-**Typical sorcerer in this band:** magic level 79, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 79, Wand of Everblazing. Good-value gear, each piece under ~154k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -414,7 +414,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 16% of HP, slows or summons. Sells: Elven Hoof |
 
 #### Level 140–150 (~69 hours to the next band)
-**Typical sorcerer in this band:** magic level 81, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 81, Wand of Everblazing. Good-value gear, each piece under ~158k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -433,7 +433,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 150–160 (~77 hours to the next band)
-**Typical sorcerer in this band:** magic level 84, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 84, Wand of Everblazing. Good-value gear, each piece under ~164k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
 
@@ -454,7 +454,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 160–170 (~78 hours to the next band)
-**Typical sorcerer in this band:** magic level 86, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 86, Wand of Everblazing. Good-value gear, each piece under ~167k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -473,7 +473,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 170–180 (~85 hours to the next band)
-**Typical sorcerer in this band:** magic level 88, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 88, Wand of Everblazing. Good-value gear, each piece under ~173k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -492,7 +492,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 180–190 (~92 hours to the next band)
-**Typical sorcerer in this band:** magic level 90, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 90, Wand of Everblazing. Good-value gear, each piece under ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -511,7 +511,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 190–200 (~99 hours to the next band)
-**Typical sorcerer in this band:** magic level 93, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 93, Wand of Everblazing. Good-value gear, each piece under ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
@@ -530,7 +530,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 200+
-**Typical sorcerer in this band:** magic level 95, Wand of Everblazing.
+**Typical sorcerer in this band:** magic level 95, Wand of Everblazing. Good-value gear, each piece under ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
 
