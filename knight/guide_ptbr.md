@@ -1155,7 +1155,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 19% da vida, monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 19% da vida, monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~95k | ~80k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~165k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1173,7 +1173,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 17% da vida, monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 17% da vida, monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1191,7 +1191,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 16% da vida, monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 16% da vida, monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1209,7 +1209,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~105k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 15% da vida, monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~105k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: Ancient Scarab bate 15% da vida, monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1227,7 +1227,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~105k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~105k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1245,7 +1245,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1263,7 +1263,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Free account; roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Roaring lions nos andares de baixo. Cuidado: monstros que invocam. Vende bem: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + barco do Buddel | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain. Com Stealth Ring: Preparo 0, Atenção 0 |
 
@@ -1955,12 +1955,12 @@ O jeito confortável usa os dois slots da conta premium:
 As tabelas aqui embaixo contam com uns 20% de redução de dano e 25% a mais de experiência, que é o que você normalmente vai ter depois de uma ou duas wildcards.
 
 ### Charms
-Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa. Dá para usar 6 charms ao mesmo tempo, e mudar um charm de criatura custa 100 gold por level do seu personagem.
+Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página em 3 estágios e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa; os charms menores (abaixo) precisam só do segundo estágio. Dá para usar 6 charms ao mesmo tempo, e mudar um charm de criatura custa 100 gold por level do seu personagem.
 
 Os melhores charms para o conforto:
 - **Dodge** (240 pontos): 5% de chance de não tomar dano nenhum do ataque daquela criatura (10% depois de uma melhoria de mais 360). Coloque no monstro que mais te machuca.
 - **Wound** (240 pontos): cada ataque seu tem 5% de chance de bater 5% da vida máxima da criatura, mais ou menos 1 a 2% de dano a mais. Se a criatura for fraca contra um elemento, o charm daquele elemento é melhor (Freeze, Zap, Enflame, Poison, Curse ou Divine Wrath).
-- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c).
+- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c). Você ganha 50 echoes ao liberar um charm maior e mais 100 e 200 pelos dois upgrades dele, além de 100 na promoção; um charm menor custa 100 echoes.
 - **Low Blow** e **Savage Blow** (800 pontos cada) adicionam golpes críticos. Só compensam depois que você tiver um imbuement de Strike.
 
 Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as notas das tabelas.

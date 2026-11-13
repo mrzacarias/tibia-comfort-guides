@@ -142,7 +142,7 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 None of these are counted in the tables, so they all come on top:
 - **The boosted creature:** every day at server save, one creature starts giving twice the experience and loot, and respawns twice as fast. It's shown on the login screen. If it lives in a hunting ground for your level, hunt there that day.
 - **Bounty tasks** (Task Board): kill a number of one creature for experience and Bounty Points. The points upgrade the **Bounty Talisman** (5,000 gold from NPCs), which adds damage, life leech and loot against your current bounty creature. Pick creatures from a hunting ground you already like.
-- **Weekly tasks** (Task Board): 6 kill and 6 delivery tasks every Monday. Up to level 82, each one gives half a level of experience.
+- **Weekly tasks** (Task Board): 6 kill and 6 delivery tasks every Monday, drawn for you. Each gives half a level of experience up to level 82, and 1,994 × your level after that (about 183k at level 92). One kill task is "Any Creature", 1,000 kills of anything: it completes itself wherever you hunt. Deliveries ask for items you can buy on the Market, so they turn gold into experience: each one saves about 25 minutes of hunting at level 50 and 55 minutes at level 90. On your main, buy them when you have gold to spare. On a character you plan to sell, buy only the cheap ones (the knight's [0 to 100 guide](../knight/zero_to_100.md) shows the limit by level). Prices differ a lot between worlds: 20 Silver Poniards cost 74k on one and 256k on another.
 
 ### Train your magic level while you're offline
 Your magic level decides how hard your spells hit. Use a **Training Statue** (in every big city's training school, and on Targuna; later, a bed in your house), pick **Magic Level + Shielding** and log out. Training starts after 10 minutes and runs up to 12 hours; the time comes back as you play. A new sorcerer gains about 7 or 8 magic levels in the first 12 hours (roughly from 2 to 9 or 10). Hunting trains it much faster, because you spend a lot of mana. It's free, so do it every time you log out, from level 8.
@@ -1969,12 +1969,12 @@ The comfort setup uses both premium slots:
 The tables below assume about 20% damage reduction and 25% more experience, which is what you'll usually have after a wildcard or two.
 
 ### Charms
-Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
+Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry in 3 stages and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry; minor charms (below) need only the second stage. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
 
 The best charms for comfort:
 - **Dodge** (240 points): a 5% chance to take no damage from that creature's attack (10% after an upgrade for 360 more). Put it on the monster that hurts you most.
 - **Wound** (240 points): each of your attacks has a 5% chance to hit for 5% of the creature's maximum health, roughly 1–2% more damage. If the creature is weak to an element, the matching charm is better (Freeze, Zap, Enflame, Poison, Curse or Divine Wrath).
-- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c).
+- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c). You get 50 echoes for unlocking a major charm and 100 and 200 more for its two upgrades, plus 100 at promotion; a minor charm costs 100 echoes.
 - **Low Blow** and **Savage Blow** (800 points each) add critical hits. They only pay off once you have a Strike imbuement.
 
 Charms change your average damage, not the worst hit, so they don't change the grades in the tables.

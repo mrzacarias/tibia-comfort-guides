@@ -124,7 +124,7 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 | Prismatic Bolts | 90 | 66 | 20 |
 | Spectral Bolts | 150 | 78 | 70 |
 
-  Um Bow (400 gold) atira flechas, um quadrado mais longe. Nos levels baixos, as lanças são uma opção barata de uma mão, então dá para usar escudo também.
+  Um Bow (400 gold) atira flechas, um quadrado mais longe. Nos levels baixos, as lanças são uma opção barata de uma mão, então dá para usar escudo também. A **Royal Spear** (level 25, 15 gold nos NPCs) bate mais que os Bolts (ataque 35) e quase nunca quebra, então sai bem mais barata por arremesso; ela já ajuda a partir do level 20, mas alcança 3 quadrados em vez dos 5 do Crossbow.
 - **Amuleto e anel:** uma Platinum Amulet, depois uma Foxtail Amulet a partir do level 100 (5% menos dano físico), e um Butterfly Ring a partir do level 50.
 - **Hunts elementais:** onde um elemento faz a maior parte do dano, uma armadura elemental (Lavos, Crystalline, Swamplair ou Voltage, level 60) ajuda; as notas avisam quando.
 
@@ -145,7 +145,7 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 Nada disso entra nas tabelas, então tudo vem por cima:
 - **A criatura boostada:** todo dia, no server save, uma criatura passa a dar o dobro de experiência e loot e a renascer duas vezes mais rápido. Ela aparece na tela de login. Se ela vive numa hunt do seu level, cace lá nesse dia.
 - **Bounty tasks** (Task Board): mate um número de uma criatura em troca de experiência e Bounty Points. Os pontos melhoram o **Bounty Talisman** (5.000 gold nos NPCs), que dá dano, life leech e loot contra a sua criatura de bounty atual. Escolha criaturas de uma hunt de que você já gosta.
-- **Weekly tasks** (Task Board): 6 tasks de matar e 6 de entrega toda segunda-feira. Até o level 82, cada uma dá meio level de experiência.
+- **Weekly tasks** (Task Board): 6 tasks de matar e 6 de entrega toda segunda-feira, sorteadas para você. Cada uma dá meio level de experiência até o level 82, e 1.994 × o seu level depois disso (uns 183k no level 92). Uma das tasks de matar é "Any Creature", 1.000 kills de qualquer criatura: ela se completa sozinha onde você caçar. As entregas pedem itens que você compra no Market, então elas trocam gold por experiência: cada uma economiza uns 20 minutos de hunt no level 50 e 55 minutos no level 90. No seu main, compre quando tiver gold sobrando. Num personagem que você pretende vender, compre só as baratas (o [guia do 0 ao 100](../knight/zero_to_100_ptbr.md) do knight mostra o limite por level). Os preços mudam muito entre mundos: 20 Silver Poniards custam 74k num e 256k em outro.
 
 ### Treine os seus skills enquanto está offline
 O seu distance fighting decide o quanto você bate, e nos levels baixos ele importa mais que o level. Use uma **Training Statue** (na escola de treino de toda cidade grande e em Targuna; depois, uma cama na sua casa), escolha **Distance Fighting + Shielding** e deslogue. O treino começa depois de 10 minutos e vai até 12 horas; o tempo volta conforme você joga. Um paladin novo chega a mais ou menos distance 40 depois das primeiras 12 horas, o que mais que dobra o dano de cada tiro. É de graça, então faça toda vez que deslogar, desde o level 8.
@@ -185,7 +185,7 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média da sua lista **Bom para XP**. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
 #### Level 20–30 (~17 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 43, Crossbow com Bolts.
+**Paladin típico desta faixa:** distance fighting 43, Crossbow com Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~17k: Crown Armor, Zaoan Legs, Warrior Helmet, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -204,7 +204,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 0 | 0 | ~8k | ~40k | Carlin 126 / ~32 s | Cuidado: Valkyrie bate 34% da vida. Vende bem: Protective Charm |
 
 #### Level 30–40 (~13 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 50, Crossbow com Piercing Bolts.
+**Paladin típico desta faixa:** distance fighting 50, Crossbow com Piercing Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~38k: Golden Armor, Zaoan Legs, Royal Helmet, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -223,7 +223,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 40–50 (~15 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 57, Crossbow com Piercing Bolts.
+**Paladin típico desta faixa:** distance fighting 57, Crossbow com Piercing Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~45k: Dragon Scale Mail, Zaoan Legs, Royal Helmet, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
@@ -242,7 +242,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~70k | não calculado | Cuidado: Valkyrie bate 20% da vida. Vende bem: Protective Charm |
 
 #### Level 50–60 (~25 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 63, Crossbow com Piercing Bolts.
+**Paladin típico desta faixa:** distance fighting 63, Crossbow com Piercing Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~99k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -263,7 +263,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 60–70 (~34 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 68, Crossbow com Power Bolts.
+**Paladin típico desta faixa:** distance fighting 68, Crossbow com Power Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~101k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -284,7 +284,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 70–80 (~39 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 73, Crossbow com Power Bolts.
+**Paladin típico desta faixa:** distance fighting 73, Crossbow com Power Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~111k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Platinum Amulet, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -305,7 +305,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~120k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 80–90 (~48 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 76, Crossbow com Power Bolts.
+**Paladin típico desta faixa:** distance fighting 76, Crossbow com Power Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~123k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -326,7 +326,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~55k | ~145k | não calculado | Vende bem: Protective Charm |
 
 #### Level 90–100 (~48 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 79, Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 79, Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~147k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -347,7 +347,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 100–110 (~51 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 81, Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 81, Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~151k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -370,7 +370,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~90k | ~180k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 110–120 (~60 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 83, Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 83, Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~153k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -391,7 +391,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Vende bem: Winter Wolf Fur |
 
 #### Level 120–130 (~67 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 85, Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 85, Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~161k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -412,7 +412,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~195k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Vende bem: Winter Wolf Fur |
 
 #### Level 130–140 (~77 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 86, Royal Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 86, Royal Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~172k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -433,7 +433,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~55k | ~195k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Vende bem: Winter Wolf Fur |
 
 #### Level 140–150 (~87 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 88, Royal Crossbow com Prismatic Bolts.
+**Paladin típico desta faixa:** distance fighting 88, Royal Crossbow com Prismatic Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~176k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
@@ -454,7 +454,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~55k | ~195k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Vende bem: Winter Wolf Fur |
 
 #### Level 150–160 (~92 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 90, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 90, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~188k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Vale a pena:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325.000 de experiência; quest longa, com bosses).
 
@@ -475,7 +475,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 #### Level 160–170 (~103 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 91, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 91, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~188k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -494,7 +494,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 #### Level 170–180 (~108 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 92, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 92, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~194k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -513,7 +513,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 #### Level 180–190 (~108 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 94, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 94, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~198k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -532,7 +532,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 #### Level 190–200 (~115 horas até a próxima faixa)
-**Paladin típico desta faixa:** distance fighting 96, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 96, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~199k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -551,7 +551,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~65k | ~250k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 #### Level 200+
-**Paladin típico desta faixa:** distance fighting 97, Royal Crossbow com Spectral Bolts.
+**Paladin típico desta faixa:** distance fighting 97, Royal Crossbow com Spectral Bolts. Equipamento com bom custo-benefício, cada peça abaixo de ~202k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
 
@@ -1974,12 +1974,12 @@ O jeito confortável usa os dois slots da conta premium:
 As tabelas aqui embaixo contam com uns 20% de redução de dano e 25% a mais de experiência, que é o que você normalmente vai ter depois de uma ou duas wildcards.
 
 ### Charms
-Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa. Dá para usar 6 charms ao mesmo tempo, e mudar um charm de criatura custa 100 gold por level do seu personagem.
+Toda criatura tem uma página no **Bestiário** (Bestiary). Matar o suficiente daquela criatura completa a página em 3 estágios e dá **Charm Points**, mais para criaturas mais difíceis. Você gasta os pontos para liberar charms e depois coloca cada charm numa criatura com a página completa; os charms menores (abaixo) precisam só do segundo estágio. Dá para usar 6 charms ao mesmo tempo, e mudar um charm de criatura custa 100 gold por level do seu personagem.
 
 Os melhores charms para o conforto:
 - **Dodge** (240 pontos): 5% de chance de não tomar dano nenhum do ataque daquela criatura (10% depois de uma melhoria de mais 360). Coloque no monstro que mais te machuca.
 - **Wound** (240 pontos): cada ataque seu tem 5% de chance de bater 5% da vida máxima da criatura, mais ou menos 1 a 2% de dano a mais. Se a criatura for fraca contra um elemento, o charm daquele elemento é melhor (Freeze, Zap, Enflame, Poison, Curse ou Divine Wrath).
-- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c).
+- **Charms menores** (minor charms), pagos com Minor Charm Echoes em vez de pontos: Vampiric Embrace (mais life leech, se o seu equipamento já tem leech), Gut (6% a mais de produtos de criatura), Bless (você perde 6% menos quando aquela criatura te mata) e Scavenge (chance de 60 a 120% maior de fazer skinning ou dusting naquela criatura; veja a Seção 1c). Você ganha 50 echoes ao liberar um charm maior e mais 100 e 200 pelos dois upgrades dele, além de 100 na promoção; um charm menor custa 100 echoes.
 - **Low Blow** e **Savage Blow** (800 pontos cada) adicionam golpes críticos. Só compensam depois que você tiver um imbuement de Strike.
 
 Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as notas das tabelas.

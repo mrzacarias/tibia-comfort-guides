@@ -1152,7 +1152,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 19% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: Ancient Scarab hits 19% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~95k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~165k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1170,7 +1170,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 17% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: Ancient Scarab hits 17% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1188,7 +1188,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 16% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~100k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: Ancient Scarab hits 16% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1206,7 +1206,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~105k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: Ancient Scarab hits 15% of HP, summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~150k | ~105k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: Ancient Scarab hits 15% of HP, summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1224,7 +1224,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~105k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~155k | ~105k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~100k | ~80k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~90k | ~170k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1242,7 +1242,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1260,7 +1260,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Free; roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
+| [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 1 | 1 | ~165k | ~115k | Darashia 172 / ~45 s | Roaring lions on the lower floors. Watch: summoners. Sells: Might Ring |
 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 1 | 1 | ~105k | ~85k | Svargrond + Buddel boat | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Quara Tentacle |
 | [Treasure Island](https://tibiamaps.io/map#32156,32948,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain. With a Stealth Ring: Prep 0, Hunt 0 |
 
@@ -1952,12 +1952,12 @@ The comfort setup uses both premium slots:
 The tables below assume about 20% damage reduction and 25% more experience, which is what you'll usually have after a wildcard or two.
 
 ### Charms
-Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
+Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry in 3 stages and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry; minor charms (below) need only the second stage. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
 
 The best charms for comfort:
 - **Dodge** (240 points): a 5% chance to take no damage from that creature's attack (10% after an upgrade for 360 more). Put it on the monster that hurts you most.
 - **Wound** (240 points): each of your attacks has a 5% chance to hit for 5% of the creature's maximum health, roughly 1–2% more damage. If the creature is weak to an element, the matching charm is better (Freeze, Zap, Enflame, Poison, Curse or Divine Wrath).
-- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c).
+- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c). You get 50 echoes for unlocking a major charm and 100 and 200 more for its two upgrades, plus 100 at promotion; a minor charm costs 100 echoes.
 - **Low Blow** and **Savage Blow** (800 points each) add critical hits. They only pay off once you have a Strike imbuement.
 
 Charms change your average damage, not the worst hit, so they don't change the grades in the tables.

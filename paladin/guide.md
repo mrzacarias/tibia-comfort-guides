@@ -121,7 +121,7 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 | Prismatic Bolts | 90 | 66 | 20 |
 | Spectral Bolts | 150 | 78 | 70 |
 
-  A Bow (400 gold) shoots arrows instead, one square farther. At low levels, spears are a cheap one-handed option, so you can carry a shield too.
+  A Bow (400 gold) shoots arrows instead, one square farther. At low levels, spears are a cheap one-handed option, so you can carry a shield too. The **Royal Spear** (level 25, 15 gold at NPCs) hits harder than Bolts (attack 35) and rarely breaks, so it costs far less per throw; it already helps from about level 20, but reaches 3 squares instead of the Crossbow's 5.
 - **Amulet and ring:** a Platinum Amulet, then a Foxtail Amulet from level 100 (5% less physical damage), and a Butterfly Ring from level 50.
 - **Elemental hunting grounds:** where one element does most of the damage, an elemental armor (Lavos, Crystalline, Swamplair or Voltage, level 60) helps; the notes say when.
 
@@ -142,7 +142,7 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 None of these are counted in the tables, so they all come on top:
 - **The boosted creature:** every day at server save, one creature starts giving twice the experience and loot, and respawns twice as fast. It's shown on the login screen. If it lives in a hunting ground for your level, hunt there that day.
 - **Bounty tasks** (Task Board): kill a number of one creature for experience and Bounty Points. The points upgrade the **Bounty Talisman** (5,000 gold from NPCs), which adds damage, life leech and loot against your current bounty creature. Pick creatures from a hunting ground you already like.
-- **Weekly tasks** (Task Board): 6 kill and 6 delivery tasks every Monday. Up to level 82, each one gives half a level of experience.
+- **Weekly tasks** (Task Board): 6 kill and 6 delivery tasks every Monday, drawn for you. Each gives half a level of experience up to level 82, and 1,994 × your level after that (about 183k at level 92). One kill task is "Any Creature", 1,000 kills of anything: it completes itself wherever you hunt. Deliveries ask for items you can buy on the Market, so they turn gold into experience: each one saves about 20 minutes of hunting at level 50 and 55 minutes at level 90. On your main, buy them when you have gold to spare. On a character you plan to sell, buy only the cheap ones (the knight's [0 to 100 guide](../knight/zero_to_100.md) shows the limit by level). Prices differ a lot between worlds: 20 Silver Poniards cost 74k on one and 256k on another.
 
 ### Train your skills while you're offline
 Your distance fighting decides how hard you hit, and at low levels it matters more than your level. Use a **Training Statue** (in every big city's training school, and on Targuna; later, a bed in your house), pick **Distance Fighting + Shielding** and log out. Training starts after 10 minutes and runs up to 12 hours; the time comes back as you play. A new paladin reaches roughly distance 40 after the first 12 hours, which more than doubles the damage of every shot. It's free, so do it every time you log out, from level 8.
@@ -182,7 +182,7 @@ Under the gear line, **Unlock first** lists the quests the band's hunting ground
 Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided by the average XP/h of its **Good for XP** list. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
 
 #### Level 20–30 (~17 hours to the next band)
-**Typical paladin in this band:** distance fighting 43, Crossbow with Bolts.
+**Typical paladin in this band:** distance fighting 43, Crossbow with Bolts. Good-value gear, each piece under ~17k: Crown Armor, Zaoan Legs, Warrior Helmet, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -201,7 +201,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 0 | 0 | ~8k | ~40k | Carlin 126 / ~32 s | Watch: Valkyrie hits 34% of HP. Sells: Protective Charm |
 
 #### Level 30–40 (~13 hours to the next band)
-**Typical paladin in this band:** distance fighting 50, Crossbow with Piercing Bolts.
+**Typical paladin in this band:** distance fighting 50, Crossbow with Piercing Bolts. Good-value gear, each piece under ~38k: Golden Armor, Zaoan Legs, Royal Helmet, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -220,7 +220,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 40–50 (~15 hours to the next band)
-**Typical paladin in this band:** distance fighting 57, Crossbow with Piercing Bolts.
+**Typical paladin in this band:** distance fighting 57, Crossbow with Piercing Bolts. Good-value gear, each piece under ~45k: Dragon Scale Mail, Zaoan Legs, Royal Helmet, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
 
@@ -239,7 +239,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~70k | not computed | Watch: Valkyrie hits 20% of HP. Sells: Protective Charm |
 
 #### Level 50–60 (~25 hours to the next band)
-**Typical paladin in this band:** distance fighting 63, Crossbow with Piercing Bolts.
+**Typical paladin in this band:** distance fighting 63, Crossbow with Piercing Bolts. Good-value gear, each piece under ~99k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -260,7 +260,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 60–70 (~34 hours to the next band)
-**Typical paladin in this band:** distance fighting 68, Crossbow with Power Bolts.
+**Typical paladin in this band:** distance fighting 68, Crossbow with Power Bolts. Good-value gear, each piece under ~101k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -281,7 +281,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 70–80 (~39 hours to the next band)
-**Typical paladin in this band:** distance fighting 73, Crossbow with Power Bolts.
+**Typical paladin in this band:** distance fighting 73, Crossbow with Power Bolts. Good-value gear, each piece under ~111k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Platinum Amulet, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -302,7 +302,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~120k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 80–90 (~48 hours to the next band)
-**Typical paladin in this band:** distance fighting 76, Crossbow with Power Bolts.
+**Typical paladin in this band:** distance fighting 76, Crossbow with Power Bolts. Good-value gear, each piece under ~123k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -323,7 +323,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~55k | ~145k | not computed | Sells: Protective Charm |
 
 #### Level 90–100 (~48 hours to the next band)
-**Typical paladin in this band:** distance fighting 79, Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 79, Crossbow with Prismatic Bolts. Good-value gear, each piece under ~147k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -344,7 +344,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 100–110 (~51 hours to the next band)
-**Typical paladin in this band:** distance fighting 81, Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 81, Crossbow with Prismatic Bolts. Good-value gear, each piece under ~151k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -367,7 +367,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~90k | ~180k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 110–120 (~60 hours to the next band)
-**Typical paladin in this band:** distance fighting 83, Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 83, Crossbow with Prismatic Bolts. Good-value gear, each piece under ~153k: Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -388,7 +388,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~185k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Sells: Winter Wolf Fur |
 
 #### Level 120–130 (~67 hours to the next band)
-**Typical paladin in this band:** distance fighting 85, Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 85, Crossbow with Prismatic Bolts. Good-value gear, each piece under ~161k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -409,7 +409,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Sells: Winter Wolf Fur |
 
 #### Level 130–140 (~77 hours to the next band)
-**Typical paladin in this band:** distance fighting 86, Royal Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 86, Royal Crossbow with Prismatic Bolts. Good-value gear, each piece under ~172k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -430,7 +430,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~55k | ~195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Sells: Winter Wolf Fur |
 
 #### Level 140–150 (~87 hours to the next band)
-**Typical paladin in this band:** distance fighting 88, Royal Crossbow with Prismatic Bolts.
+**Typical paladin in this band:** distance fighting 88, Royal Crossbow with Prismatic Bolts. Good-value gear, each piece under ~176k: Prismatic Armor, Zaoan Legs, Zaoan Helmet, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
 
@@ -451,7 +451,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~55k | ~195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Sells: Winter Wolf Fur |
 
 #### Level 150–160 (~92 hours to the next band)
-**Typical paladin in this band:** distance fighting 90, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 90, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~188k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
 
@@ -472,7 +472,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
 #### Level 160–170 (~103 hours to the next band)
-**Typical paladin in this band:** distance fighting 91, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 91, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~188k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -491,7 +491,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 
 #### Level 170–180 (~108 hours to the next band)
-**Typical paladin in this band:** distance fighting 92, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 92, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~194k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -510,7 +510,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 
 #### Level 180–190 (~108 hours to the next band)
-**Typical paladin in this band:** distance fighting 94, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 94, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~198k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -529,7 +529,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~60k | ~230k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 
 #### Level 190–200 (~115 hours to the next band)
-**Typical paladin in this band:** distance fighting 96, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 96, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~199k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -548,7 +548,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~65k | ~250k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 
 #### Level 200+
-**Typical paladin in this band:** distance fighting 97, Royal Crossbow with Spectral Bolts.
+**Typical paladin in this band:** distance fighting 97, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~202k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
 
@@ -1971,12 +1971,12 @@ The comfort setup uses both premium slots:
 The tables below assume about 20% damage reduction and 25% more experience, which is what you'll usually have after a wildcard or two.
 
 ### Charms
-Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
+Every creature has a **Bestiary** entry. Killing enough of that creature completes the entry in 3 stages and gives **Charm Points**, more for tougher creatures. You spend the points to unlock charms, and then place each charm on one creature with a completed entry; minor charms (below) need only the second stage. You can use 6 charms at once, and moving a charm to another creature costs 100 gold per level of your character.
 
 The best charms for comfort:
 - **Dodge** (240 points): a 5% chance to take no damage from that creature's attack (10% after an upgrade for 360 more). Put it on the monster that hurts you most.
 - **Wound** (240 points): each of your attacks has a 5% chance to hit for 5% of the creature's maximum health, roughly 1–2% more damage. If the creature is weak to an element, the matching charm is better (Freeze, Zap, Enflame, Poison, Curse or Divine Wrath).
-- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c).
+- **Minor charms**, paid with Minor Charm Echoes instead of points: Vampiric Embrace (more life leech, if your gear already leeches), Gut (6% more creature products), Bless (lose 6% less when that creature kills you) and Scavenge (a 60–120% better chance to skin or dust that creature, see Section 1c). You get 50 echoes for unlocking a major charm and 100 and 200 more for its two upgrades, plus 100 at promotion; a minor charm costs 100 echoes.
 - **Low Blow** and **Savage Blow** (800 points each) add critical hits. They only pay off once you have a Strike imbuement.
 
 Charms change your average damage, not the worst hit, so they don't change the grades in the tables.
