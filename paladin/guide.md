@@ -126,7 +126,7 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Elemental hunting grounds:** where one element does most of the damage, an elemental armor (Lavos, Crystalline, Swamplair or Voltage, level 60) helps; the notes say when.
 
 ### Before you hunt
-- **Stamina:** with a premium account, the first 3 hours from full stamina (42 hours) give 50% more experience, so start your best hunts after a long rest. Below 14 hours you get half the experience and no loot. Stamina comes back while you're logged out.
+- **Stamina:** with a premium account, the first 3 hours from full stamina (42 hours) give 50% more experience, so start your best hunts after a long rest. Below 14 hours you get half the experience and no loot. Stamina comes back while you're logged out, but only after 10 minutes offline, so each quick login between hunts (to check the Market, for example) costs up to 10 minutes of refill, almost 2 minutes of green stamina.
 - **Blessings:** the 5 regular blessings, bought from NPCs in the cities, make you lose about 70% less experience and skill when you die, and you keep your items. They cost about (level − 20) × 1,000 gold up to level 120. They're worth it.
 - **Food:** eat until the game says you're full before the hunt, and again now and then; food makes you regenerate.
 - **Daily reward:** take it every day at the Reward Wall (potions or runes, Prey Wildcards, training weapons, an XP boost). The streak also makes you regenerate faster in temples, depots and houses.

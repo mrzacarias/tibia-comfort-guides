@@ -106,7 +106,7 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Hunts elementais:** onde um elemento faz a maior parte do dano, uma armadura elemental (Lavos, Crystalline, Swamplair ou Voltage, level 60) ajuda; as notas avisam quando.
 
 ### Antes de caçar
-- **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado.
+- **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado, mas só depois de 10 minutos offline, então cada login rápido entre as hunts (para olhar o Market, por exemplo) custa até 10 minutos de recarga, quase 2 minutos de stamina verde.
 - **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena.
 - **Comida:** coma até o jogo dizer que você está cheio antes da hunt e de novo de vez em quando; a comida faz você regenerar.
 - **Daily reward:** pegue todo dia no Reward Wall (poções ou runas, Prey Wildcards, training weapons, um bônus de XP). A sequência de dias também faz você regenerar mais rápido em templos, depots e casas.

@@ -176,7 +176,7 @@ The world matters as much as the level. Each sale's price compared with the medi
 | South America | 154 | ×0.98 |
 | Europe | 160 | ×0.96 |
 
-**Create the character on a world with Retro Open PvP and green BattlEye, ideally in North America.** Never yellow BattlEye. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
+**Create the character on a world with Retro Open PvP and green BattlEye, ideally in North America.** Never yellow BattlEye. That's for selling, though: on retro and hardcore worlds anyone can attack you, and dominant guilds can make life hard for neutral players. For a character you'll keep playing, Optional PvP is the calm choice, since nobody can kill you there. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
 
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |

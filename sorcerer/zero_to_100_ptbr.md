@@ -176,7 +176,7 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 | América do Sul | 154 | ×0,98 |
 | Europa | 160 | ×0,96 |
 
-**Crie o personagem em um mundo Retro Open PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
+**Crie o personagem em um mundo Retro Open PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Mas isso é para vender: em mundos retro e hardcore qualquer um pode te atacar, e guilds dominantes podem infernizar quem é neutro. Para um personagem que você vai continuar jogando, Optional PvP é a escolha tranquila, porque lá ninguém pode te matar. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
