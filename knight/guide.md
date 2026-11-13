@@ -173,8 +173,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 75k | Thais 188 / ~47 s | **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) ✓ | 0 | 0 | 25k | 70k | Carlin 195 / ~49 s | **Tested** (level 41, sword ~57): 550 gold of supplies per hour, almost no healing. Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 33% of HP. Sells: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | 11k | 60k | Venore 262 / ~1.1 min | **Tested** (level 26, sword 48): 200 gold of supplies per hour, almost no healing, 72k loot/h on that world. Sells: Medicine Pouch |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~16k | ~50k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 33% of HP. Sells: Protective Charm |
 
 #### Level 30–40 (~9.9 hours to the next band)
 **Typical knight in this band:** skill 50, weapon attack 37. Good-value gear, each piece under ~73k: Epee, Sapphire Hammer or Beastslayer Axe (sword, club or axe), with Dragon Scale Mail, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
@@ -193,7 +193,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~20k | ~80k | Svargrond, on foot over the ice | Watch: Mammoth hits 21% of HP. Sells: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) ✓ | 0 | 0 | 10k | 75k | Thais 188 / ~47 s | **Tested** (level 19, sword 41): no supplies. Sells: Honeycomb |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~18k | ~60k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 23% of HP. Sells: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) ✓ | 0 | 0 | 25k | 70k | Carlin 195 / ~49 s | **Tested** (level 41, sword ~57): 550 gold of supplies per hour, almost no healing. Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 23% of HP. Sells: Protective Charm |
 
 #### Level 40–50 (~18 hours to the next band)
 **Typical knight in this band:** skill 57, weapon attack 40. Good-value gear, each piece under ~107k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.

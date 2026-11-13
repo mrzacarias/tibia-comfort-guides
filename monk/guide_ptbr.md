@@ -221,8 +221,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 30% da vida. Vende bem: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~60k | não calculado | Cuidado: Valkyrie bate 30% da vida. Vende bem: Protective Charm |
 
 #### Level 40–50 (~18 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 57, Nunchaku.
@@ -240,8 +240,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~20k | ~65k | Carlin 195 / ~49 s | Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 24% da vida. Vende bem: Protective Charm |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 24% da vida. Vende bem: Protective Charm |
+| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~12k | ~65k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
 
 #### Level 50–60 (~28 horas até a próxima faixa)
 **Monk típico desta faixa:** fist fighting 63, Nunchaku.
@@ -614,8 +614,8 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~18k | ~55k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~50k | não calculado | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~18k | ~50k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~35k | ~45k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 
 #### Level 30–40 com Stealth Ring (~8,9 horas até a próxima faixa)

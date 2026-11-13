@@ -208,15 +208,15 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~45k | ~55k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Sells: Lizard Tail |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~25k | ~75k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 25% of HP. Sells: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~25k | ~70k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 25% of HP. Sells: Protective Charm |
 | [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 1 | 1 | ~25k | ~25k | not computed | Sells: Turtle Shell |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~25k | ~75k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 25% of HP. Sells: Protective Charm |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Sells: Honeycomb |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~25k | ~70k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 25% of HP. Sells: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 40–50 (~15 hours to the next band)
@@ -234,9 +234,9 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 | 1 | ~25k | ~75k | Carlin 195 / ~49 s | Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 20% of HP. Sells: Protective Charm |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~60k | ~75k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Sells: Honeycomb |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~70k | not computed | Watch: Valkyrie hits 20% of HP. Sells: Protective Charm |
 
 #### Level 50–60 (~25 hours to the next band)
 **Typical paladin in this band:** distance fighting 63, Crossbow with Piercing Bolts.
@@ -615,7 +615,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~16k | ~50k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~16k | ~45k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~16k | ~40k | not computed | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~30k | ~35k | Targuna depot, on the island | Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 
@@ -634,7 +634,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~20k | ~90k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~75k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~70k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~25k | ~65k | not computed | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 
 #### Level 40–50 with a Stealth Ring (~15 hours to the next band)
@@ -653,7 +653,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~20k | ~90k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 3 → **0** | 3 → **0** | ~45k | ~90k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~75k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~60k | ~75k | Targuna, then Sterling's sea turtle (free) | Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 
 #### Level 50–60 with a Stealth Ring (~22 hours to the next band)
 
@@ -1682,7 +1682,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~40k | ~85k |  |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~65k | ~80k |  |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~75k |  |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~70k |  |
 
 #### Level 60–70 with leech (~30 hours to the next band)
 
