@@ -62,23 +62,27 @@ Todo sorcerer toma poção de mana para soltar magia, então elas não contam co
 Existe um terceiro tipo de conforto, o **conhecimento**: quanto do jogo você precisa entender. É para isso que servem as seções. Cada seção tem um **kit**, as coisas que todo mundo naquela seção usa. Na Seção 2, por exemplo, todo mundo tem os dois imbuements de leech, então eles não contam contra a nota de Preparo de uma hunt.
 
 ### Como uma hunt recebe a nota
-Enquanto as hunts não forem testadas com um sorcerer, todas as notas vêm dos monstros, usando os dados da TibiaWiki. A pergunta principal é: **quanto o monstro comum mais forte da hunt consegue te bater num único turno, comparado com a sua vida total?** "Comum" quer dizer pelo menos 1 em cada 10 monstros dali. A conta é feita no level mais baixo de cada faixa.
+Enquanto as hunts não forem testadas com um sorcerer, todas as notas vêm do modelo luta a luta do apêndice. Ele olha duas coisas para o sorcerer típico da faixa:
+- **Quanto você precisa se curar:** a vida que os monstros te tiram numa hora, depois da sua armadura, do seu spellbook e das proteções, contada em barras de vida cheias.
+- **O pior momento:** o turno mais pesado de uma puxada típica, com todos os monstros dela batendo o máximo ao mesmo tempo, como parte da sua vida.
 
-Por exemplo, no level 50 você tem cerca de 395 de HP. Um monstro que bate 120 num turno tira uns 30% da sua vida, o que deixa a hunt com Atenção 2.
-
-| Um monstro comum consegue te bater… | Atenção | Preparo |
+| Cura por hora | Pior turno | Atenção e Preparo |
 |---|---|---|
-| menos de 15% da sua vida | 0 | 0 |
-| de 15% a 30% | 1 | 1 |
-| de 30% a 50% | 2 | 2 |
-| metade da sua vida ou mais | 3 | 3 |
+| menos de 3 barras de vida | menos de 30% da sua vida | 0 |
+| menos de 15 | menos de 50% | 1 |
+| menos de 40 | menos de 80% | 2 |
+| mais | mais | 3 |
 
-Algumas outras coisas mudam a nota:
-- **Kitar.** O sorcerer luta de longe, então os golpes corpo a corpo de um monstro contam só pela metade: de vez em quando você vai ser pego, num canto ou quando um grupo te cerca. Magias e armas arremessadas te alcançam de qualquer jeito, então contam inteiras. Por isso, monstros que soltam magia ou jogam spears pesam muito mais para um sorcerer do que para um knight.
-- **Dano elemental.** Dano de fogo, gelo, energia, terra e morte passa direto pela armadura normal. Se a maior parte do dano de uma hunt é elemental, a nota de Atenção sobe um degrau, e normalmente você vai querer um equipamento especial (Preparo 2).
+A nota é a primeira linha em que os dois números cabem. Por exemplo, uma hunt em que você cura 10 barras de vida por hora e o pior turno tira 40% da sua vida fica com Atenção 1.
+
+**Kitar.** O sorcerer luta de longe, então os golpes corpo a corpo de um monstro contam só pela metade: de vez em quando você vai ser pego, num canto ou quando um grupo te cerca. Magias e armas arremessadas te alcançam de qualquer jeito, então contam inteiras. Por isso, monstros que soltam magia ou jogam spears pesam muito mais para um sorcerer do que para um knight. Com tão pouca vida, a mesma hunt muitas vezes sai com nota maior que no guia de knight.
+
+Algumas coisas ainda sobem a nota:
 - **Monstros invisíveis.** Você não consegue vê-los para atacar, então a hunt fica com Atenção 3.
-- **Monstros que invocam outros** (os famosos "summoners"), ou um monstro raro capaz de tirar metade da sua vida num turno, deixam a hunt com pelo menos Atenção 2.
-- **Equipamento especial.** Se a hunt pede um item específico, como um Dwarven Ring, o Preparo é 2.
+- **Um monstro raro capaz de tirar metade da sua vida num turno** deixa a hunt com pelo menos Atenção 2.
+- **Equipamento especial.** Se a hunt pede um item específico, como uma armadura elemental ou um Dwarven Ring, o Preparo é 2.
+
+Os monstros que invocam outros entram no modelo: o dano dos invocados conta na sua cura.
 
 Algumas hunts ficam totalmente de fora: as cheias de summoners, ou com muitos monstros que te machucam mas não dão experiência.
 
@@ -88,9 +92,9 @@ Uma hunt só aparece a partir do level que a TibiaWiki sugere para ela (a TibiaW
 Cada faixa mostra duas listas curtas: **Bom para XP**, as 3 hunts com mais experiência por hora, e **Bom para lucro**, as 3 com mais loot por hora. As hunts cujo loot não paga as poções que elas gastam ficam de fora. As duas listas só pegam hunts confortáveis (Preparo e Atenção 0 ou 1) e aceitam um 2 só quando menos de 3 se encaixam. Uma hunt pode estar nas duas listas. As seções seguintes só mostram uma faixa quando o sistema delas muda essas listas. As hunts que exigem uma quest antes ficam de fora de todas as seções, menos da Seção 1b (a Targuna Quest e começar a The New Frontier Quest não contam), e as hunts a mais de uns 2 minutos do depot ficam só na Seção 1c. As tabelas começam no level 20, e as Seções 2 a 4 no level 50.
 
 ### O personagem dos números
-Os números de XP e loot são estimativas para um sorcerer típico: alguém com magic level um pouco abaixo do normal para o level (10 no level 8, 25 no 30, 58 no 80, 80 no 134, 95 no 200), usando a melhor wand que um NPC vende para aquele level. Cada faixa mostra esse magic level e essa wand. Se os seus forem melhores, você vai render mais do que as tabelas.
+Os números de XP e loot são estimativas para um sorcerer típico: alguém com magic level um pouco abaixo do normal para o level (10 no level 8, 25 no 30, 58 no 80, 80 no 134, 95 no 200), usando a melhor wand que um NPC vende para aquele level. Ele veste a melhor armadura que daria para comprar com umas 3 horas de loot. Cada faixa mostra esse magic level e essa wand. Se os seus forem melhores, você vai render mais do que as tabelas.
 
-As estimativas também contam que uma wave acerta uns 2,5 monstros em média, e que você caça no mesmo ritmo dos testes do guia de knight: andar, juntar monstros e lootear tomam a maior parte do tempo, não o ataque em si.
+As estimativas também contam que você solta wave em todo grupo de 2 ou mais (o `exevo flam hur` acerta até 4 monstros, o `exevo vis hur` até 6) com strikes no meio, e usa strike nos monstros sozinhos, sempre com o elemento mais fraco de cada monstro.
 
 ## Seção 1: Mecânicas básicas
 Nesta seção você usa só o básico: a sua wand, duas magias de ataque (um strike para um monstro e uma wave para grupos), as magias de cura `exura`, poções e equipamento normal. Todo o resto vem depois.
@@ -159,7 +163,7 @@ As tabelas começam no level 20, porque os primeiros levels rendem mais em **Tar
 | [A long lost treasure](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#A_long_lost_treasure) | Sterling | 10 | Em Aragonia, mate 20 piratas e use 10 tortoise eggs; leve o mapa da Morla ao Sterling e cave no lugar marcado (leve rope e shovel) | 3.000 de experiência e uma Adventurer Backpack |
 | [Burning Heat](https://tibia.fandom.com/wiki/Targuna_Quest/Spoiler#Burning_Heat) | Emiliana | 12 | Desça pelo Crimson Court e vença o Herald of Fire | 5.000 de experiência e a montaria Reliable Ram (dê os nabos para o carneiro) |
 
-As hunts de Targuna continuam nas listas de 20–30, então fique até o level 20 a 25. Antes de sair de Newhaven, a ilha inicial, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest); não dá para voltar. No continente, a [The Scatterbrained Sorcerer Quest](https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest) (começa em Thais, 10.650 de experiência) é a melhor das primeiras.
+O Hidden Lizard Temple e Aragonia, de Targuna, voltam nas listas de 30–70, então dá para voltar depois. Antes de sair de Newhaven, a ilha inicial, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest); não dá para voltar. No continente, a [The Scatterbrained Sorcerer Quest](https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest) (começa em Thais, 10.650 de experiência) é a melhor das primeiras.
 
 ### Promoção no level 20
 No **level 20**, com conta premium, compre a sua **promoção** por 20.000 gold e vire a **Master Sorcerer**. O lugar mais fácil é o King Tibianus III, no castelo de Thais; os governantes de Carlin, Kazordoon, Ankrahmun e Beregar e o Rotem Valos no Adventurers' Guild também vendem. Compre assim que tiver o gold: você perde 30% menos experiência e skill quando morre, regenera mais rápido, pode aprender magias só de promovidos e, a partir do level 51, ganha pontos da Wheel of Destiny (Seção 4). Ela fica pausada enquanto a premium estiver acabada.
@@ -184,161 +188,169 @@ Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts d
 
 O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida pela XP/h média da sua lista **Bom para XP**. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
 
-#### Level 20–30 (~9,6 horas até a próxima faixa)
+#### Level 20–30 (~10 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 18, Wand of Decay. Equipamento com bom custo-benefício, cada peça abaixo de ~17k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~19k | ~25k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 20% da vida. Vende bem: Lizard Tail |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~19k | ~16k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Cuidado: Pirate Quartermaster bate 20% da vida. Vende bem: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~18k | ~10k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 5 horas, fora do Loot/h. Infernoids; atravesse os campos de fogo ou desligue-os pisando nas placas do chão; Exige a missão Burning Heat da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Cuidado: Infernoid Blob bate 20% da vida. Vende bem: Infernoid Ember |
+| [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | 1 | 1 | ~18k | ~17k | Port Hope 95 / ~24 s | Mais um raro Turtle Shell (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Vende bem: Bloody Pincers |
+| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~17k | ~5k | Thais 236 / ~59 s | Vende bem: Arrow |
+| [Edron Rotworm Cave](https://tibiamaps.io/map#33213,31890,7:2) | 0 | 0 | ~16k | ~3k | Edron 126 / ~32 s |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~9k | ~70k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~7k | ~30k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
-| [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 | 1 | ~9k | ~25k | Carlin 260 / ~1,1 min | Cuidado: Amazon bate 26% da vida. Vende bem: Protective Charm |
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
+| [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~10k | ~55k | Venore 262 / ~1,1 min | Vende bem: Medicine Pouch |
+| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 0 | 0 | ~8k | ~45k | Carlin 126 / ~32 s | Cuidado: Valkyrie bate 35% da vida. Vende bem: Protective Charm |
 
-#### Level 30–40 (~24 horas até a próxima faixa)
+#### Level 30–40 (~13 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 25, Wand of Cosmic Energy. Equipamento com bom custo-benefício, cada peça abaixo de ~29k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook of Enlightenment, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~20k | ~6k | Thais 236 / ~59 s | Vende bem: Arrow |
-| [Nomad Cave](https://tibiamaps.io/map#33205,32544,7:2) | 0 | 0 | ~15k | ~1k | Ankrahmun 372 / ~1,6 min | Exige a Arito's Task iniciada |
-| [Tarantula Caves (Port Hope)](https://tibiamaps.io/map#32726,32794,7:2) | 1 | 1 | ~15k | ~16k | Port Hope 219 / ~55 s | Veneno: leve Cure Poison. Cuidado: Tarantula bate 16% da vida, precisa de Cure Poison. Vende bem: Centipede Leg |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~45k | ~50k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 17% da vida. Vende bem: Lizard Tail |
+| [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 0 | 0 | ~25k | ~30k | não calculado | Vende bem: Turtle Shell |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~11k | ~85k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~12k | ~55k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 19% da vida. Vende bem: Winter Wolf Fur |
-| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 1 | 1 | ~12k | ~40k | Carlin 126 / ~32 s | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~95k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 19% da vida. Vende bem: Winter Wolf Fur |
+| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
 
-#### Level 40–50 (~19 horas até a próxima faixa)
+#### Level 40–50 (~16 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 32, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~74k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~45k | ~110k | Edron 129 / ~30 s | Cuidado: Wyvern bate 21% da vida. Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~45k | ~105k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 21% da vida. Vende bem: Wyvern Talisman |
-| [Thais Wolf Den](https://tibiamaps.io/map#32505,32283,7:2) | 0 | 0 | ~40k | ~11k | Thais 236 / ~59 s | Vende bem: Arrow |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~45k | ~55k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Vende bem: Lizard Tail |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~45k | ~16k | não calculado | Cuidado: Frost Giant bate 42% da vida. Vende bem: Ice Cube |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~120k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 16% da vida. Vende bem: Winter Wolf Fur |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~45k | ~110k | Edron 129 / ~30 s | Cuidado: Wyvern bate 21% da vida. Vende bem: Wyvern Talisman |
-| [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~13k | ~105k | Thais 188 / ~47 s | Vende bem: Honeycomb |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~100k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 16% da vida. Vende bem: Winter Wolf Fur |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~30k | ~80k | não calculado | Cuidado: Valkyrie bate 25% da vida. Vende bem: Protective Charm |
 
-#### Level 50–60 (~28 horas até a próxima faixa)
+#### Level 50–60 (~23 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 40, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~98k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Butterfly Ring.
 
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~55k | ~135k | Edron 129 / ~30 s | Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~55k | ~125k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
-| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 0 | 0 | ~40k | ~65k | não calculado | Vende bem: Mammoth Tusk |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | não calculado | Cuidado: Frost Giant bate 37% da vida. Vende bem: Ice Cube |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
+| [Tarantula Caves (Port Hope)](https://tibiamaps.io/map#32726,32794,7:2) | 1 | 1 | ~50k | ~55k | Port Hope 219 / ~55 s | Veneno: leve Cure Poison. Cuidado: precisa de Cure Poison. Vende bem: Centipede Leg |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~30k | ~135k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~55k | ~135k | Edron 129 / ~30 s | Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
-| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~55k | ~125k | Kazordoon 137 / ~34 s | Só nos dias de animais: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~45k | ~175k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 22% da vida. Vende bem: Winter Wolf Fur |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~130k | não calculado | Cuidado: Valkyrie bate 22% da vida. Vende bem: Protective Charm |
 
-#### Level 60–70 (~32 horas até a próxima faixa)
+#### Level 60–70 (~31 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 46, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~88k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~65k | ~155k | Edron 129 / ~30 s | Cuidado: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 | 1 | ~65k | ~145k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~60k | ~125k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 28% da vida. Vende bem: Elven Hoof |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | não calculado | Cuidado: Frost Giant bate 33% da vida. Vende bem: Ice Cube |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~60k | ~125k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 28% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 | 1 | ~65k | ~155k | Edron 129 / ~30 s | Cuidado: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~30k | ~145k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
-| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~60k | ~145k | Kazordoon 137 / ~34 s | Só nos dias de animais: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Cuidado: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~45k | ~185k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 19% da vida. Vende bem: Winter Wolf Fur |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~135k | não calculado | Cuidado: Valkyrie bate 19% da vida. Vende bem: Protective Charm |
 
 #### Level 70–80 (~36 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 52, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~106k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
-**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Ragnir barbarians).
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~75k | ~175k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~75k | ~145k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 25% da vida. Vende bem: Elven Hoof |
+| [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | 1 | 1 | ~75k | ~125k | Carlin 349 / ~1,5 min | Cuidado: Pirate Marauder bate 22% da vida. Vende bem: Stone Skin Amulet |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~75k | ~145k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 25% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 | 1 | ~70k | ~110k | não calculado | Vende bem: Mammoth Tusk |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~75k | ~180k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~75k | ~175k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 | 1 | ~50k | ~150k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Bloodwalker bate 20% da vida. Vende bem: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~200k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 17% da vida. Vende bem: Winter Wolf Fur |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~55k | ~155k | não calculado | Cuidado: Valkyrie bate 17% da vida. Vende bem: Protective Charm |
 
 #### Level 80–90 (~42 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 58, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~123k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
+
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~80k | ~190k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~80k | ~195k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~80k | ~160k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 23% da vida. Vende bem: Elven Hoof |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~80k | ~195k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~80k | ~190k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~85k | ~30k | não calculado | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 1 | 1 | ~80k | ~19k | Ankrahmun 162 / ~40 s | Vende bem: Terramite Legs |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 23% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 90–100 (~47 horas até a próxima faixa)
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~200k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~190k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 16% da vida. Vende bem: Winter Wolf Fur |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 23% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+
+#### Level 90–100 (~49 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 63, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~127k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
+
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, para Bittermor barbarians).
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~100k | ~55k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 28% da vida. Vende bem: Stonerefiner's Skull |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~90k | ~205k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~90k | ~175k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 21% da vida. Vende bem: Elven Hoof |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~25k | Ab'Dendriel 84 / ~20 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves); poucos monstros. Cuidado: Cyclops Drone bate 23% da vida. Vende bem: Cyclops Toe |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | não calculado | Cuidado: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 1 | 1 | ~80k | ~19k | Ankrahmun 162 / ~40 s | Vende bem: Terramite Legs |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~90k | ~215k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~90k | ~205k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~50k | ~190k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Wilting Leaf Golem bate 20% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~200k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~190k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Vende bem: Winter Wolf Fur |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~90k | ~180k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 21% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 100–110 (~53 horas até a próxima faixa)
+#### Level 100–110 (~58 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 68, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~135k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186.000 de experiência).
@@ -347,95 +359,95 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~105k | ~60k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 26% da vida. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~95k | ~190k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 19% da vida. Vende bem: Elven Hoof |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 19% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~95k | ~25k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 22% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | não calculado | Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~95k | ~230k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~95k | ~220k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~60k | ~240k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Wilting Leaf Golem bate 18% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~200k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 19% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 110–120 (~60 horas até a próxima faixa)
+#### Level 110–120 (~64 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 72, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~139k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~115k | ~65k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 24% da vida. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~100k | ~205k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Cuidado: Wilting Leaf Golem bate 18% da vida. Vende bem: Elven Hoof |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 18% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 21% da vida. Vende bem: Battle Shield |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 1 | 1 | ~100k | ~45k | Darashia 261 / ~1,1 min | Cuidado: Minotaur Mage bate 31% da vida. Vende bem: Flask of Embalming Fluid |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~100k | ~235k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Wilting Leaf Golem bate 17% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~55k | ~215k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 18% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 120–130 (~58 horas até a próxima faixa)
+#### Level 120–130 (~71 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 75, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~149k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~165k | ~115k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 29% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~120k | ~65k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 23% da vida. Vende bem: Stonerefiner's Skull |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~110k | ~35k | não calculado | Vende bem: Battle Shield |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 17% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 19% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~105k | ~245k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Wilting Leaf Golem bate 16% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 17% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~55k | ~215k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
-#### Level 130–140 (~63 horas até a próxima faixa)
+#### Level 130–140 (~81 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 79, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~154k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~175k | ~125k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 27% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~125k | ~70k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 21% da vida. Vende bem: Stonerefiner's Skull |
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 | 1 | ~120k | ~45k | Port Hope 421 / ~1,8 min | Cuidado: Giant Spider bate 28% da vida. Vende bem: Tarantula Egg |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 16% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~105k | ~40k | não calculado | Cuidado: Frost Giant bate 18% da vida. Vende bem: Ice Cube |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~110k | ~260k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 16% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~55k | ~215k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
-#### Level 140–150 (~69 horas até a próxima faixa)
+#### Level 140–150 (~92 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 81, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~158k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~185k | ~130k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 26% da vida. Vende bem: Ancient Belt Buckle |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~40k | não calculado | Cuidado: Worker Golem bate 29% da vida, monstros que invocam. Vende bem: Protective Charm |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~130k | ~70k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 20% da vida. Vende bem: Stonerefiner's Skull |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 1 | 1 | ~110k | ~85k | Darashia 266 / ~1,1 min | Cuidado: Shadow Pupil bate 41% da vida, monstros que invocam. Vende bem: Horoscope |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~115k | ~270k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~60k | ~235k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
-#### Level 150–160 (~77 horas até a próxima faixa)
+#### Level 150–160 (~104 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 84, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~164k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325.000 de experiência; quest longa, com bosses).
@@ -444,93 +456,93 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~190k | ~135k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 24% da vida. Vende bem: Ancient Belt Buckle |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~135k | ~75k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Cuidado: Stonerefiner bate 19% da vida. Vende bem: Stonerefiner's Skull |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~130k | ~40k | não calculado | Cuidado: Worker Golem bate 27% da vida, monstros que invocam. Vende bem: Protective Charm |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 | 1 | ~115k | ~190k | Yalahar 252 / ~1,1 min | Porta de level 30; novices e acolytes. Cuidado: Novice of the Cult bate 28% da vida, dano quase todo elemental, monstros que invocam. Vende bem: Rope Belt |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~120k | ~280k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~110k | ~235k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~60k | ~235k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
-#### Level 160–170 (~78 horas até a próxima faixa)
+#### Level 160–170 (~100 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 86, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~167k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~195k | ~140k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 23% da vida. Vende bem: Ancient Belt Buckle |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~170k | ~60k | Issavi ~10 / ~5 s (+ shell) | Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Cave Spider bate 29% da vida |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 | 1 | ~150k | ~110k | Liberty Bay 205 / ~51 s | Cuidado: Waspoid bate 29% da vida. Vende bem: Crawler Head Plating |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~135k | ~140k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 23% da vida. Vende bem: Cheese Cutter |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~135k | ~135k | Carlin 64 / ~15 s | Coryms, como nas Corym Caves de Venore e Tiquanda. Cuidado: Corym Vanguard bate 23% da vida. Vende bem: Cheese Cutter |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k | ~240k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~125k | ~290k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k | ~240k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~110k | ~235k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Vende bem: Elven Hoof |
 
-#### Level 170–180 (~85 horas até a próxima faixa)
+#### Level 170–180 (~107 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 88, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~173k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~205k | ~145k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 22% da vida. Vende bem: Ancient Belt Buckle |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~175k | ~65k | Issavi ~10 / ~5 s (+ shell) | Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Cave Spider bate 27% da vida |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 | 1 | ~155k | ~110k | Liberty Bay 205 / ~51 s | Cuidado: Waspoid bate 28% da vida. Vende bem: Crawler Head Plating |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~145k | ~155k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 22% da vida. Vende bem: Cheese Cutter |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~140k | ~145k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 22% da vida. Vende bem: Cheese Cutter |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~135k | ~135k | Carlin 64 / ~15 s | Coryms, como nas Corym Caves de Venore e Tiquanda. Cuidado: Corym Vanguard bate 22% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~130k | ~300k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k | ~240k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~110k | ~235k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Vende bem: Elven Hoof |
 
-#### Level 180–190 (~92 horas até a próxima faixa)
+#### Level 180–190 (~117 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 90, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~210k | ~150k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 21% da vida. Vende bem: Ancient Belt Buckle |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~180k | ~65k | Issavi ~10 / ~5 s (+ shell) | Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Cave Spider bate 26% da vida |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 | 1 | ~160k | ~115k | Liberty Bay 205 / ~51 s | Cuidado: Waspoid bate 26% da vida. Vende bem: Crawler Head Plating |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~145k | ~155k | Port Hope 76 / ~20 s | Cuidado: Corym Vanguard bate 21% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~145k | ~155k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 21% da vida. Vende bem: Cheese Cutter |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~140k | ~145k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 21% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~135k | ~310k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k | ~240k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~110k | ~235k | Carlin 173 / ~45 s | Elven Hoofs; monstros fáceis: nenhum foge, se cura, invoca ou fica longe. Vende bem: Elven Hoof |
 
-#### Level 190–200 (~99 horas até a próxima faixa)
+#### Level 190–200 (~121 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 93, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~215k | ~150k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 20% da vida. Vende bem: Ancient Belt Buckle |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~185k | ~70k | Issavi ~10 / ~5 s (+ shell) | Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Cave Spider bate 25% da vida |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 1 | 1 | ~165k | ~115k | Liberty Bay 205 / ~51 s | Cuidado: Waspoid bate 25% da vida. Vende bem: Crawler Head Plating |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~160k | ~170k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 20% da vida. Vende bem: Cheese Cutter |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~155k | ~165k | Port Hope 76 / ~20 s | Cuidado: Corym Vanguard bate 20% da vida. Vende bem: Cheese Cutter |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~150k | ~155k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 20% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~135k | ~320k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~135k | ~265k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~65k | ~250k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 #### Level 200+
 **Sorcerer típico desta faixa:** magic level 95, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~177k: Living Armor, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
@@ -539,17 +551,17 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~225k | ~155k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Cuidado: Twisted Shaper bate 19% da vida. Vende bem: Ancient Belt Buckle |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 | 1 | ~190k | ~70k | Issavi ~10 / ~5 s (+ shell) | Reputação nos raids de Pirats (1,500 pontos, A Pirate's Tail Quest). Com o setup completo, jogadores relatam ~375k de lucro/h com ~1,9kk de XP/h (2 relatos no TibiaRoute; o TibiaPal lista 400k a partir do 90). O loot por XP deles bate com este modelo, então a diferença é o ritmo: puxadas grandes que precisam de life leech. Cuidado: Exotic Cave Spider bate 24% da vida |
-| [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 1 | 1 | ~185k | ~140k | Darashia 267 / ~1,1 min | Cuidado: Putrid Mummy bate 26% da vida, paralisam ou invocam. Vende bem: Little Bowl of Myrrh |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~160k | ~170k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 19% da vida. Vende bem: Cheese Cutter |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~155k | ~165k | Port Hope 76 / ~20 s | Cuidado: Corym Vanguard bate 19% da vida. Vende bem: Cheese Cutter |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~150k | ~155k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 19% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 0 | 0 | ~140k | ~330k | Kazordoon 137 / ~34 s | Só nos dias de poachers: Poacher Caves é uma Mini World Change com 3 versões (gloom wolves, poachers ou animais), sorteada no server save. Dias de gloom wolves são ótimos para lucro e ruins para XP. Vende bem: Wyvern Talisman |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~100k | ~240k | Edron 129 / ~30 s | Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~135k | ~265k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~65k | ~250k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 
 ## Seção 1a: Invisibilidade
 A partir do level 35 você pode usar **`utana vid`** (440 de mana), que te deixa invisível por 3 minutos e 20 segundos. Muitos monstros não enxergam jogadores invisíveis, então simplesmente te ignoram. Jogadores contam que esses monstros não te atacam nem chamam ajuda, mesmo enquanto você bate neles. Cyclops, forest furies, gloom wolves, amazons e barbarians são alguns deles. Monstros mais fortes, como dragons e dwarf guards, enxergam jogadores invisíveis e te atacam normalmente.
@@ -585,329 +597,329 @@ Como na Seção 2, estas tabelas dão as notas das hunts com a invisibilidade e 
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar.
 
-#### Level 20–30 com invisibilidade (~9,6 horas até a próxima faixa)
+#### Level 20–30 com invisibilidade (~3,9 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~19k | ~25k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
-| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~19k | ~16k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
-| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 → **0** | 1 → **0** | ~18k | ~10k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 5 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul. Vende bem: Infernoid Ember |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 2 → **0** | 2 → **0** | ~55k | ~50k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~45k | ~50k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 3 → **0** | 3 → **0** | ~40k | ~20k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 5 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul. Vende bem: Infernoid Ember |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 1 → **0** | 3 → **0** | ~8k | ~40k | Edron 135 / ~34 s | Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
-| [Fields of Glory](https://tibiamaps.io/map#32362,31683,7:2) | 2 → **0** | 2 → **0** | ~9k | ~30k | Carlin 126 / ~32 s | Não te veem: Amazon, Valkyrie, Wasp, Wolf. Vende bem: Protective Charm |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **0** | 2 → **0** | ~9k | ~30k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~25k | ~65k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~55k | não calculado | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~45k | ~50k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 
-#### Level 30–40 com invisibilidade (~26 horas até a próxima faixa)
+#### Level 30–40 com invisibilidade (~8,0 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~18k | ~35k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 2 → **0** | 2 → **0** | ~16k | ~4k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Não te veem: Cyclops, Cyclops Drone, Cyclops Smith. Vende bem: Battle Shield |
-| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~15k | ~20k | não calculado | Não te veem: Mammoth. Vende bem: Mammoth Tusk |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 2 → **0** | 2 → **0** | ~55k | ~60k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 2 → **0** | 2 → **0** | ~55k | ~20k | Targuna, portal na casa da Emiliana | Mais um raro Might Ring (~14k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul. Vende bem: Infernoid Ember |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~45k | ~50k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **0** | 3 → **0** | ~10k | ~140k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~12k | ~55k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 1 → **0** | 3 → **0** | ~11k | ~50k | Edron 135 / ~34 s | Não te veem: Bug, Goblin, Goblin Assassin, Goblin Scavenger. Vende bem: Bone Club |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~95k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **0** | 2 → **0** | ~25k | ~70k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 2 → **0** | 2 → **0** | ~55k | ~60k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
 
-#### Level 40–50 com invisibilidade (~19 horas até a próxima faixa)
+#### Level 40–50 com invisibilidade (~14 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~45k | ~90k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~45k | ~105k | Kazordoon 137 / ~34 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Poacher, Wolf. Ainda: Wyvern bate 21% da vida. Vende bem: Wyvern Talisman |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~45k | ~90k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Não te veem: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Vende bem: Gold Tooth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 2 → **0** | 2 → **0** | ~60k | ~25k | Targuna, portal na casa da Emiliana | Não te veem: Infernoid Blob, Infernoid Hound, Infernoid Soul. Vende bem: Infernoid Ember |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~55k | ~14k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~30k | ~235k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Ainda: Wyvern bate 21% da vida. Vende bem: Gloom Wolf Fur |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~120k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~35k | ~95k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter, Barbarian Skullhunter, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~55k | ~110k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~100k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) | 3 → **1** | 3 → **1** | ~55k | ~95k | Darashia 99 / ~25 s, depois teleporte para Gnomegate, depois The Spike | Não te veem: Crypt Shambler, Demon Skeleton, Gargoyle. Ainda: Mummy bate 34% da vida. Vende bem: Flask of Embalming Fluid |
 
-#### Level 50–60 com invisibilidade (~26 horas até a próxima faixa)
+#### Level 50–60 com invisibilidade (~18 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~55k | ~125k | Kazordoon 137 / ~34 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Poacher, Wolf. Ainda: Wyvern bate 18% da vida. Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~55k | ~105k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~55k | ~110k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~85k | ~20k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 18% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~40k | ~280k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Ainda: Wyvern bate 18% da vida. Vende bem: Gloom Wolf Fur |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~40k | ~115k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter, Barbarian Skullhunter, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~30k | ~110k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k | ~175k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-#### Level 60–70 com invisibilidade (~32 horas até a próxima faixa)
+#### Level 60–70 com invisibilidade (~24 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Kazordoon 137 / ~34 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Poacher, Wolf. Ainda: Wyvern bate 16% da vida. Vende bem: Wyvern Talisman |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~60k | ~125k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~60k | ~125k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~90k | ~20k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~45k | ~325k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Ainda: Wyvern bate 16% da vida. Vende bem: Gloom Wolf Fur |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~45k | ~130k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter, Barbarian Skullhunter, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~35k | ~125k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k | ~185k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-#### Level 70–80 com invisibilidade (~38 horas até a próxima faixa)
+#### Level 70–80 com invisibilidade (~30 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~135k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~95k | ~25k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~95k | ~180k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~50k | ~380k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~50k | ~150k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter, Barbarian Skullhunter, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~185k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 80–90 com invisibilidade (~41 horas até a próxima faixa)
+#### Level 80–90 com invisibilidade (~26 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~90k | ~50k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~160k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~190k | ~105k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Liberty Bay 82 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 40% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~105k | ~115k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 40% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~55k | ~420k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~160k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~190k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
 
-#### Level 90–100 com invisibilidade (~47 horas até a próxima faixa)
+#### Level 90–100 com invisibilidade (~30 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~100k | ~55k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~90k | ~175k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k | ~180k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~195k | ~160k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~120k | ~130k | Edron + barco para Cormaya | Não te veem: Leaf Golem, Wilting Leaf Golem. Ainda: Haunted Treeling bate 46% da vida. Vende bem: Dowser |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~115k | ~125k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 37% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 3 → **0** | ~60k | ~465k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k | ~180k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~60k | ~240k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~100k | ~220k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~210k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Ainda: Mummy bate 19% da vida. Vende bem: Flask of Embalming Fluid |
 
-#### Level 100–110 com invisibilidade (~53 horas até a próxima faixa)
+#### Level 100–110 com invisibilidade (~34 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~105k | ~60k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~95k | ~190k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~220k | ~180k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k | ~130k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 34% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~120k | ~130k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 34% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~65k | ~500k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~95k | ~190k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~100k | ~220k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~215k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Ainda: Mummy bate 18% da vida. Vende bem: Flask of Embalming Fluid |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 
-#### Level 110–120 com invisibilidade (~60 horas até a próxima faixa)
+#### Level 110–120 com invisibilidade (~36 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~115k | ~65k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~150k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 32% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 32% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~70k | ~530k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Ainda: Mummy bate 17% da vida. Vende bem: Flask of Embalming Fluid |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~55k | ~215k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 
-#### Level 120–130 com invisibilidade (~68 horas até a próxima faixa)
+#### Level 120–130 com invisibilidade (~43 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~120k | ~65k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~150k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 30% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 30% da vida. Vende bem: Cheese Cutter |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Ainda: Mummy bate 16% da vida. Vende bem: Flask of Embalming Fluid |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-
-#### Level 130–140 com invisibilidade (~77 horas até a próxima faixa)
+#### Level 130–140 com invisibilidade (~50 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~125k | ~70k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 28% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 28% da vida. Vende bem: Cheese Cutter |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Não te veem: Leaf Golem, Wilting Leaf Golem, Forest Fury. Vende bem: Elven Hoof |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-
-#### Level 140–150 com invisibilidade (~91 horas até a próxima faixa)
+#### Level 140–150 com invisibilidade (~58 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~130k | ~70k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~110k | ~75k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 → **0** | 1 → **0** | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Não te veem: Cyclops, Cyclops Drone, Cyclops Smith. Vende bem: Battle Shield |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 26% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 26% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~55k | ~85k | Edron 306 / ~1,3 min | Não te veem: Demon Skeleton. Vende bem: Rotten Piece of Cloth |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 150–160 com invisibilidade (~100 horas até a próxima faixa)
+#### Level 150–160 com invisibilidade (~66 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~135k | ~75k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~115k | ~80k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 → **0** | 1 → **0** | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Não te veem: Cyclops, Cyclops Drone, Cyclops Smith. Vende bem: Battle Shield |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 25% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 25% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~55k | ~85k | Edron 306 / ~1,3 min | Não te veem: Demon Skeleton. Vende bem: Rotten Piece of Cloth |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~240k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-#### Level 160–170 com invisibilidade (~111 horas até a próxima faixa)
+#### Level 160–170 com invisibilidade (~75 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~140k | ~80k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~120k | ~85k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 → **0** | 1 → **0** | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Não te veem: Cyclops, Cyclops Drone, Cyclops Smith. Vende bem: Battle Shield |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 23% da vida. Vende bem: Cheese Cutter |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Venore 108 / ~25 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 23% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 170–180 com invisibilidade (~130 horas até a próxima faixa)
+#### Level 170–180 com invisibilidade (~82 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~145k | ~80k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~120k | ~85k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~165k | ~60k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 109 / ~27 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter. Ainda: Ice Witch bate 35% da vida. Vende bem: Knife |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Ainda: Corym Vanguard bate 22% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 180–190 com invisibilidade (~144 horas até a próxima faixa)
+#### Level 180–190 com invisibilidade (~95 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~150k | ~85k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~120k | ~85k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~165k | ~60k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 109 / ~27 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter. Ainda: Ice Witch bate 34% da vida. Vende bem: Knife |
+| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~125k | ~140k | Edron + barco para Cormaya | Não te veem: Leaf Golem, Wilting Leaf Golem. Ainda: Haunted Treeling bate 26% da vida. Vende bem: Dowser |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 190–200 com invisibilidade (~158 horas até a próxima faixa)
+#### Level 190–200 com invisibilidade (~98 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~155k | ~85k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~120k | ~85k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~260k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~175k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 109 / ~27 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter. Ainda: Ice Witch bate 32% da vida. Vende bem: Knife |
+| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~135k | ~150k | Edron + barco para Cormaya | Não te veem: Leaf Golem, Wilting Leaf Golem. Ainda: Haunted Treeling bate 25% da vida. Vende bem: Dowser |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 200+ com invisibilidade
 
@@ -915,17 +927,17 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 0 → **0** | 2 → **0** | ~120k | ~85k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Não te veem: Larva. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~260k | ~195k | Venore 98 / ~25 s | Não te veem: Stonerefiner. Vende bem: Stonerefiner's Skull |
+| [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~190k | ~145k | Ankrahmun 250 / ~1,0 min | Não te veem: Larva, Scarab. Vende bem: Flask of Embalming Fluid |
+| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~175k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 109 / ~27 s | Não te veem: Barbarian Bloodwalker, Barbarian Headsplitter. Ainda: Ice Witch bate 31% da vida. Vende bem: Knife |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Poacher Caves, Gloomy (Ferngrim's Gate)](https://tibiamaps.io/map#32754,31928,7:2) | 0 → **0** | 3 → **0** | ~75k | ~560k | Kazordoon 137 / ~35 s | Dias de gloom wolves são ótimos para lucro e ruins para XP. Não te veem: Ghost Wolf, Gloom Wolf. Vende bem: Gloom Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~145k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
-| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 0 → **0** | 2 → **0** | ~80k | ~90k | não calculado | Vende bem: Stone Skin Amulet |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 ## Seção 1b: Hunts atrás de quests
 As outras seções deixam de fora toda hunt que exige uma quest antes, porque quests tomam tempo e muitos jogadores acham isso chato. Duas não contam: a Targuna Quest, que todo mundo faz na ilha, e começar a The New Frontier Quest, que é só conversar com o Ongulf. Esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. Quando a Seção 1a facilita alguma delas, a nota avisa.
@@ -935,31 +947,29 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Quest | Parte necessária: hunts que abre | Primeira faixa | Premium | Onde |
 |---|---|---|---|---|
-| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | para o barco do Buddel, a TibiaWiki sugere level 25 para a quest: Hrodmir Stone Golem Caves, Tyrsung<br>exigida antes da Ice Islands Quest, a TibiaWiki sugere level 25 para a quest: Nibelor<br>para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, a TibiaWiki sugere level 25 para a quest: Ragnir barbarians, Bittermor barbarians, Barbarian Settlements, Krimhorn barbarians | 20–30 | sim | Svargrond |
-| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | primeira missão: Nibelor<br>missão "Nibelor 2" iniciada, a TibiaWiki sugere level 130+ para a quest: Tyrsung | 20–30 | sim | Svargrond |
+| [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | para o barco do Buddel, a TibiaWiki sugere level 25 para a quest: Tyrsung, Hrodmir Stone Golem Caves<br>exigida antes da Ice Islands Quest, a TibiaWiki sugere level 25 para a quest: Nibelor<br>para o barco do Buddel, ou vá a pé pelo Formorgar Glacier, a TibiaWiki sugere level 25 para a quest: Bittermor barbarians, Krimhorn barbarians, Ragnir barbarians | 20–30 | sim | Svargrond |
+| [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | missão "Nibelor 2" iniciada, a TibiaWiki sugere level 130+ para a quest: Tyrsung<br>primeira missão: Nibelor | 20–30 | sim | Svargrond |
 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold: Meriana Gargoyle Cave<br>parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina: Laguna Islands, Blood Crabs | 30–40 | sim | Liberty Bay |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) | a partir do level 80; a TibiaWiki sugere 120: Crystal Grounds (Gnomegate) | 160–170 | em parte | Gnomegate |
-| [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | missão 4, a TibiaWiki sugere level 70+ para a quest: Vengoth Werewolf Cave | 200+ | sim | Yalahar |
 
-#### Level 20–30 atrás de quests (~24 horas até a próxima faixa)
+#### Level 20–30 atrás de quests (~11 horas até a próxima faixa)
 
-**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Hrodmir Stone Golem Caves; a TibiaWiki sugere level 25 para a quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor; a TibiaWiki sugere level 25 para a quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
+**Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Tyrsung; a TibiaWiki sugere level 25 para a quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Tyrsung; a TibiaWiki sugere level 130+ para a quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor; a TibiaWiki sugere level 25 para a quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~11k | ~10k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 22% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 2 | 2 | ~25k | ~9k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | Mais um raro Mammoth Tusk (~2k) cerca de uma vez a cada 4 horas, fora do Loot/h. O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 59% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 2 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~7k | ~90k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~4k | ~70k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~11k | ~10k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 22% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~7k | ~90k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 2 | 2 | ~25k | ~9k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | Mais um raro Mammoth Tusk (~2k) cerca de uma vez a cada 4 horas, fora do Loot/h. O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 59% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 2 |
 
-#### Level 30–40 atrás de quests (~34 horas até a próxima faixa)
+#### Level 30–40 atrás de quests (~12 horas até a próxima faixa)
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave).
 
@@ -967,19 +977,19 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~16k | ~25k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~15k | ~14k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~85k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 2 | 2 | ~40k | ~65k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 | 2 | ~35k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 2 | 2 | ~30k | ~10k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | Mais um raro Mammoth Tusk (~2k) cerca de uma vez a cada 3 horas, fora do Loot/h. O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 49% da vida, evite Pirate Cutthroat (bate metade da sua vida). Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 2 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~6k | ~85k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~16k | ~25k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~15k | ~14k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~7k | ~95k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 2 | 2 | ~40k | ~65k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Mais um raro Bloody Pincers (~13k) cerca de uma vez a cada 3 horas, fora do Loot/h. Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 | 2 | ~35k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 19% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 40–50 atrás de quests (~24 horas até a próxima faixa)
+#### Level 40–50 atrás de quests (~25 horas até a próxima faixa)
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
 
@@ -987,316 +997,310 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~40k | ~70k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~35k | ~35k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Cuidado: Stone Golem bate 16% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~30k | ~65k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~55k | ~95k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~40k | ~85k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~7k | ~100k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~40k | ~70k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~30k | ~65k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~7k | ~100k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~55k | ~95k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~40k | ~85k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Cuidado: Thornback Tortoise bate 16% da vida. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 50–60 atrás de quests (~34 horas até a próxima faixa)
+#### Level 50–60 atrás de quests (~20 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~45k | ~90k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~45k | ~40k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~35k | ~75k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~85k | ~160k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~70k | ~145k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~55k | ~20k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 37% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~45k | ~90k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~35k | ~75k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~14k | ~185k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~85k | ~160k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~70k | ~145k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 60–70 atrás de quests (~42 horas até a próxima faixa)
+#### Level 60–70 atrás de quests (~26 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~50k | ~100k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~50k | ~45k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~40k | ~85k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~85k | ~165k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~75k | ~160k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~65k | ~60k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~50k | ~100k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~40k | ~85k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~14k | ~185k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~85k | ~165k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~75k | ~160k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 70–80 atrás de quests (~46 horas até a próxima faixa)
-
-**Libere antes:** [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Tyrsung; a TibiaWiki sugere level 130+ para a quest).
+#### Level 70–80 atrás de quests (~33 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~60k | ~120k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~55k | ~55k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~55k | ~25k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 29% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~90k | ~175k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~80k | ~170k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~70k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~60k | ~120k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~50k | ~100k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~195k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~90k | ~175k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~80k | ~170k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 80–90 atrás de quests (~54 horas até a próxima faixa)
+#### Level 80–90 atrás de quests (~42 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~70k | ~130k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~65k | ~60k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~60k | ~25k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 27% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~175k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~70k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~70k | ~130k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~195k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~95k | ~180k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~175k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 90–100 atrás de quests (~62 horas até a próxima faixa)
+#### Level 90–100 atrás de quests (~48 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~75k | ~140k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~70k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~65k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 24% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~110k | ~210k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~175k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~75k | ~70k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~75k | ~140k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~110k | ~210k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~195k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~175k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 100–110 atrás de quests (~71 horas até a próxima faixa)
+#### Level 100–110 atrás de quests (~58 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~75k | ~75k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 22% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~115k | ~215k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~180k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~75k | ~70k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~115k | ~215k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~195k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~85k | ~180k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 110–120 atrás de quests (~83 horas até a próxima faixa)
+#### Level 110–120 atrás de quests (~64 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~80k | ~75k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 21% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~125k | ~240k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~90k | ~190k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~125k | ~240k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~90k | ~190k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 120–130 atrás de quests (~96 horas até a próxima faixa)
+#### Level 120–130 atrás de quests (~75 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 19% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~125k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~95k | ~195k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~125k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~95k | ~195k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 130–140 atrás de quests (~112 horas até a próxima faixa)
+#### Level 130–140 atrás de quests (~85 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 18% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 140–150 atrás de quests (~129 horas até a próxima faixa)
+#### Level 140–150 atrás de quests (~99 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 17% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 150–160 atrás de quests (~148 horas até a próxima faixa)
+#### Level 150–160 atrás de quests (~113 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 1 | 1 | ~70k | ~30k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 16% da vida. Vende bem: Ice Cube. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
-| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~55k | ~110k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 160–170 atrás de quests (~139 horas até a próxima faixa)
-
-**Libere antes:** [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (a partir do level 80; a TibiaWiki sugere 120, para Crystal Grounds (Gnomegate)).
+#### Level 160–170 atrás de quests (~127 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~120k | ~210k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 29% da vida. Vende bem: Wyvern Talisman |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~120k | ~210k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 29% da vida. Vende bem: Wyvern Talisman |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 170–180 atrás de quests (~154 horas até a próxima faixa)
+#### Level 170–180 atrás de quests (~143 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~125k | ~220k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 27% da vida. Vende bem: Wyvern Talisman |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~85k | ~80k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~125k | ~220k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 27% da vida. Vende bem: Wyvern Talisman |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 1 | 1 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 180–190 atrás de quests (~170 horas até a próxima faixa)
+#### Level 180–190 atrás de quests (~151 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~130k | ~225k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 26% da vida. Vende bem: Wyvern Talisman |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~105k | ~95k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~130k | ~225k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 26% da vida. Vende bem: Wyvern Talisman |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~130k | ~245k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~15k | ~210k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~100k | ~205k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
-#### Level 190–200 atrás de quests (~187 horas até a próxima faixa)
+#### Level 190–200 atrás de quests (~155 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~230k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 25% da vida. Vende bem: Wyvern Talisman |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~140k | ~250k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~115k | ~105k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~105k | ~215k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~230k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 25% da vida. Vende bem: Wyvern Talisman |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~140k | ~250k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~17k | ~225k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~105k | ~215k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 #### Level 200+ atrás de quests
 
-**Libere antes:** [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (missão 4, para Vengoth Werewolf Cave).
-
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Vengoth Werewolf Cave](https://tibiamaps.io/map#32980,31497,7:2) | 1 | 1 | ~220k | ~80k | Yalahar 158 / ~40 s, barco do Harlow para Vengoth, depois 169 / ~42 s | O barco do Harlow exige a missão 4 da [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest). Cuidado: Werewolf bate 30% da vida. Vende bem: Werewolf Fur |
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~240k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 24% da vida. Vende bem: Wyvern Talisman |
-| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~85k | ~85k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~140k | ~250k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 0 | 0 | ~115k | ~105k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 163 / ~41 s | O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Vende bem: Stone Wing |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~105k | ~215k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Crystal Grounds (Gnomegate)](https://tibiamaps.io/map#33002,31868,13:2) | 1 | 1 | ~135k | ~240k | Darashia 99 / ~25 s, depois teleporte para Gnomegate | Wyverns e earth elementals; exige a [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot%27s_Burden_Quest) (acesso a Gnomegate). Cuidado: Earth Elemental bate 24% da vida. Vende bem: Wyvern Talisman |
-| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~80k | ~155k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
-| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~9k | ~130k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 0 | 0 | ~140k | ~250k | Liberty Bay 9 / ~2 s, barco do Captain Waverider para Meriana (diga "Peg Leg"), depois 48 / ~12 s | Barco saindo de Liberty Bay; Stone Wings; Exige a parte Access to Meriana da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Vende bem: Stone Wing |
+| [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~17k | ~225k | Svargrond 182 / ~46 s | Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
+| [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,7:2) | 0 | 0 | ~105k | ~215k | Liberty Bay, depois uma sea turtle | Exige permissão das tartarugas (parte da Eleonore na Shattered Isles Quest); Bloody Pincers. Vende bem: Turtle Shell |
 
 ## Seção 1c: Hunts com viagem longa
 As outras seções também deixam de fora as hunts a mais de uns 2 minutos do depot, contando cada barco ou tartaruga como uns 30 segundos: cada ida para vender o loot ou repor supplies custa esse tempo duas vezes. Muitas são boas, então esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. A coluna Depot mostra a viagem. As hunts que também exigem uma quest estão na Seção 1b.
 
-#### Level 20–30 com viagem longa (~31 horas até a próxima faixa)
+#### Level 20–30 com viagem longa (~13 horas até a próxima faixa)
 
 **Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Gnarlhound Caves).
 
@@ -1304,319 +1308,319 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~14k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~6k | ~40k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~14k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
 
-#### Level 30–40 com viagem longa (~35 horas até a próxima faixa)
+#### Level 30–40 com viagem longa (~17 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 2 | 2 | ~15k | ~5k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 32% da vida, evite Dwarf Geomancer (bate metade da sua vida). Vende bem: Battle Shield. Com invisibilidade: Preparo 1, Atenção 2 |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~13k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 22% da vida. Vende bem: Sandcrawler Shell |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~8k | ~55k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 2 | 2 | ~35k | ~14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 64% da vida. Vende bem: Stone Wing |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 2 | 2 | ~25k | ~60k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 22% da vida. Vende bem: Sandcrawler Shell |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~16k | ~130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~8k | ~55k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~13k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 22% da vida. Vende bem: Sandcrawler Shell |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 2 | 2 | ~15k | ~5k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 32% da vida, evite Dwarf Geomancer (bate metade da sua vida). Vende bem: Battle Shield. Com invisibilidade: Preparo 1, Atenção 2 |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~16k | ~130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 2 | 2 | ~25k | ~60k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 22% da vida. Vende bem: Sandcrawler Shell |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 2 | 2 | ~35k | ~14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 64% da vida. Vende bem: Stone Wing |
 
-#### Level 40–50 com viagem longa (~31 horas até a próxima faixa)
+#### Level 40–50 com viagem longa (~43 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~35k | ~12k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 28% da vida. Vende bem: Battle Shield |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~30k | ~75k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 19% da vida. Vende bem: Sandcrawler Shell |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~25k | ~70k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 19% da vida. Vende bem: Sandcrawler Shell |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~17k | ~135k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~14k | ~60k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~18k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~30k | ~75k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 19% da vida. Vende bem: Sandcrawler Shell |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~35k | ~12k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 28% da vida. Vende bem: Battle Shield |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~17k | ~135k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~25k | ~70k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 19% da vida. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~14k | ~60k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 50–60 com viagem longa (~43 horas até a próxima faixa)
+#### Level 50–60 com viagem longa (~51 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~40k | ~14k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 24% da vida. Vende bem: Battle Shield |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~35k | ~90k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 17% da vida. Vende bem: Sandcrawler Shell |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~20k | ~150k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~40k | ~95k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 17% da vida. Vende bem: Sandcrawler Shell |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~25k | ~190k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k | ~90k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~20k | ~150k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~35k | ~90k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 17% da vida. Vende bem: Sandcrawler Shell |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~40k | ~14k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 24% da vida. Vende bem: Battle Shield |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~25k | ~190k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~40k | ~95k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Terramite bate 17% da vida. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k | ~90k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 60–70 com viagem longa (~39 horas até a próxima faixa)
+#### Level 60–70 com viagem longa (~61 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~70k | ~17k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 20% da vida |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~45k | ~16k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 21% da vida. Vende bem: Battle Shield |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~40k | ~100k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 0 | 0 | ~30k | ~13k | Thais 499 / ~2,1 min | Vende bem: Honeycomb |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~190k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~170k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~40k | ~100k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~70k | ~17k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 20% da vida |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~190k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k | ~90k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 70–80 com viagem longa (~43 horas até a próxima faixa)
+#### Level 70–80 com viagem longa (~70 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~80k | ~20k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 18% da vida |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~55k | ~20k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 29% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~55k | ~19k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 19% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 0 | 0 | ~35k | ~15k | Thais 499 / ~2,1 min | Vende bem: Honeycomb |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~270k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~30k | ~195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~55k | ~20k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 29% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~270k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 80–90 com viagem longa (~50 horas até a próxima faixa)
+#### Level 80–90 com viagem longa (~41 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~85k | ~20k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 17% da vida |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~60k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 26% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~60k | ~20k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~120k | ~25k | Port Hope 524 / ~2,2 min | Cuidado: Lizard Sentinel bate 17% da vida, monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~80k | ~30k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~30k | ~215k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~60k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 26% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~270k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 90–100 com viagem longa (~60 horas até a próxima faixa)
+#### Level 90–100 com viagem longa (~50 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 1 | 1 | ~95k | ~25k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Killer Caiman bate 15% da vida |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~65k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 24% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
-| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~60k | ~20k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~125k | ~25k | Port Hope 524 / ~2,2 min | Cuidado: Lizard Sentinel bate 16% da vida, monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~85k | ~30k | Port Hope 562 / ~2,3 min | Cuidado: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~65k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 24% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~270k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 100–110 com viagem longa (~63 horas até a próxima faixa)
+#### Level 100–110 com viagem longa (~53 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~100k | ~25k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~80k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 29% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~70k | ~25k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 22% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~135k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~85k | ~30k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~80k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 29% da vida. Vende bem: Stone Wing |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~80k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 29% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~270k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~45k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 110–120 com viagem longa (~72 horas até a próxima faixa)
+#### Level 110–120 com viagem longa (~59 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~105k | ~25k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~85k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 27% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~75k | ~30k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 21% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~140k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~85k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 27% da vida. Vende bem: Stone Wing |
 
-#### Level 120–130 com viagem longa (~81 horas até a próxima faixa)
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+
+#### Level 120–130 com viagem longa (~70 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~115k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~140k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 26% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~80k | ~30k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 19% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 26% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 130–140 com viagem longa (~90 horas até a próxima faixa)
+#### Level 130–140 com viagem longa (~82 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~120k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 24% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~85k | ~30k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 18% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~145k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 24% da vida. Vende bem: Stone Wing |
 
-#### Level 140–150 com viagem longa (~101 horas até a próxima faixa)
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+
+#### Level 140–150 com viagem longa (~94 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~125k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~145k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 22% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~90k | ~35k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 17% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 22% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 150–160 com viagem longa (~113 horas até a próxima faixa)
+#### Level 150–160 com viagem longa (~108 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~130k | ~30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~145k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 21% da vida. Vende bem: Stone Wing |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~90k | ~35k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 16% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 21% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 160–170 com viagem longa (~125 horas até a próxima faixa)
+#### Level 160–170 com viagem longa (~121 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~135k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 1 | 1 | ~95k | ~35k | Venore 543 / ~2,3 min | Cuidado: Demon Skeleton bate 15% da vida. Vende bem: Battle Shield. Com invisibilidade: Preparo 0, Atenção 0 |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~150k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 20% da vida. Vende bem: Stone Wing |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 20% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 170–180 com viagem longa (~137 horas até a próxima faixa)
+#### Level 170–180 com viagem longa (~136 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~135k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~100k | ~35k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~150k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 19% da vida. Vende bem: Stone Wing |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 19% da vida. Vende bem: Stone Wing |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 180–190 com viagem longa (~150 horas até a próxima faixa)
-
-**Bom para XP**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~140k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~100k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 18% da vida. Vende bem: Stone Wing |
-
-**Bom para lucro**
-
-| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
-|---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~100k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
-
-#### Level 190–200 com viagem longa (~163 horas até a próxima faixa)
+#### Level 180–190 com viagem longa (~143 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~145k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~105k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 17% da vida. Vende bem: Stone Wing |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~150k | ~30k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~110k | ~45k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 18% da vida. Vende bem: Stone Wing |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~95k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~105k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~295k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 1 | 1 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~115k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+
+#### Level 190–200 com viagem longa (~148 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~155k | ~35k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~120k | ~50k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 17% da vida. Vende bem: Stone Wing |
+| [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~105k | ~35k | Port Hope 562 / ~2,3 min | Vende bem: Battle Shield |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
+|---|---|---|---|---|---|---|
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~40k | ~325k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~80k | ~195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard High Guard bate 24% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~65k | ~165k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 #### Level 200+ com viagem longa
 
@@ -1624,17 +1628,17 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 0 | 0 | ~150k | ~40k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~110k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
-| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~90k | ~35k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 17% da vida. Vende bem: Stone Wing |
+| [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 1 | 1 | ~155k | ~35k | Port Hope 524 / ~2,2 min | Cuidado: monstros que invocam |
+| [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 1 | 1 | ~120k | ~50k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 17% da vida. Vende bem: Stone Wing |
+| [Plains of Havoc](https://tibiamaps.io/map#32735,32297,7:2) | 1 | 1 | ~105k | ~50k | Venore 527 / ~2,2 min | Cuidado: monstros que invocam. Vende bem: Wyvern Talisman |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~225k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~50k | ~125k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
-| [Underground Nightmare Knights Base](https://tibiamaps.io/map#32782,32349,10:2) | 0 | 0 | ~110k | ~40k | Venore 543 / ~2,3 min | Vende bem: Battle Shield |
+| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~40k | ~325k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~80k | ~195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard High Guard bate 23% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~65k | ~165k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 ## Seção 2: Imbuements
 Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um sorcerer confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armadura e Basic Void no capacete**.
@@ -1667,275 +1671,275 @@ Estas tabelas dão as notas das hunts com o kit e mostram as 3 melhores para XP 
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 
-#### Level 50–60 com leech (~26 horas até a próxima faixa)
+#### Level 50–60 com leech (~19 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~55k | ~135k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~55k | ~125k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **1** | ~55k | ~105k |  |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~85k | ~20k |  |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k |  |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 2 → **0** | 2 → **0** | ~70k | ~105k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~55k | ~135k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~55k | ~125k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~40k | ~115k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k | ~175k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~175k |  |
+| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **1** | ~55k | ~110k |  |
 
-#### Level 60–70 com leech (~32 horas até a próxima faixa)
+#### Level 60–70 com leech (~25 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~65k | ~155k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~60k | ~125k |  |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~90k | ~20k |  |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 2 → **0** | 2 → **0** | ~75k | ~18k |  |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~65k | ~155k |  |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~45k | ~130k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k | ~185k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~175k |  |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~50k | ~135k |  |
 
-#### Level 70–80 com leech (~35 horas até a próxima faixa)
+#### Level 70–80 com leech (~29 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **0** | 2 → **1** | ~80k | ~40k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k |  |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~95k | ~25k |  |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 2 → **1** | 2 → **1** | ~95k | ~30k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k | ~180k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~50k | ~150k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~75k | ~145k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~185k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k | ~180k |  |
 
-#### Level 80–90 com leech (~39 horas até a próxima faixa)
+#### Level 80–90 com leech (~35 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **1** | ~90k | ~50k |  |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **0** | 2 → **1** | ~90k | ~45k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~160k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k |  |
+| [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 2 → **1** | 2 → **1** | ~95k | ~80k | Ainda: monstros que invocam |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k | ~185k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~80k | ~165k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~160k |  |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~55k | ~160k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k | ~185k |  |
 
-#### Level 90–100 com leech (~46 horas até a próxima faixa)
+#### Level 90–100 com leech (~38 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~100k | ~55k |  |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **0** | 2 → **1** | ~95k | ~50k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~90k | ~175k |  |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~115k | ~120k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~115k | ~115k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~210k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k | ~180k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~90k | ~175k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~60k | ~240k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~100k | ~220k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~210k |  |
 
-#### Level 100–110 com leech (~46 horas até a próxima faixa)
+#### Level 100–110 com leech (~44 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~130k | ~50k |  |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~105k | ~60k |  |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 → **0** | 2 → **1** | ~105k | ~25k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Ainda: monstros que invocam |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k | ~130k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~120k | ~130k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~120k | ~120k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~195k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~95k | ~190k |  |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~100k | ~220k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~215k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k |  |
 
-#### Level 110–120 com leech (~53 horas até a próxima faixa)
+#### Level 110–120 com leech (~45 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~135k | ~50k |  |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 → **0** | 2 → **1** | ~115k | ~35k | Ainda: monstros que invocam |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~115k | ~65k |  |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~150k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~135k | ~140k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~100k | ~205k |  |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~55k | ~215k |  |
 
-#### Level 120–130 com leech (~52 horas até a próxima faixa)
+#### Level 120–130 com leech (~53 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~165k | ~115k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~145k | ~55k |  |
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~125k | ~130k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 22 horas, fora do Loot/h |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~150k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~135k | ~140k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k |  |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
 
-#### Level 130–140 com leech (~58 horas até a próxima faixa)
+#### Level 130–140 com leech (~62 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~175k | ~125k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~150k | ~55k |  |
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~130k | ~140k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 21 horas, fora do Loot/h |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~135k | ~140k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~120k | ~230k |  |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~130k | ~140k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 21 horas, fora do Loot/h |
 
-#### Level 140–150 com leech (~60 horas até a próxima faixa)
+#### Level 140–150 com leech (~70 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~185k | ~130k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~170k | ~110k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~160k | ~60k |  |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~145k | ~105k | Ainda: monstros que invocam |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~135k | ~145k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 20 horas, fora do Loot/h |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~185k | ~130k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~110k | ~165k |  |
 
-#### Level 150–160 com leech (~66 horas até a próxima faixa)
+#### Level 150–160 com leech (~80 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~190k | ~135k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~180k | ~115k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **0** | 2 → **1** | ~165k | ~60k |  |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~150k | ~110k | Ainda: monstros que invocam |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~140k | ~150k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 19 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~190k | ~135k |  |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~240k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~115k | ~190k | Ainda: monstros que invocam |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~110k | ~165k |  |
 
-#### Level 160–170 com leech (~73 horas até a próxima faixa)
+#### Level 160–170 com leech (~91 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~195k | ~140k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~185k | ~120k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~170k | ~60k |  |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~150k | ~110k | Ainda: monstros que invocam |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~145k | ~155k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~195k | ~140k |  |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~115k | ~190k | Ainda: monstros que invocam |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~110k | ~165k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~120k | ~165k | Ainda: monstros que invocam |
 
-#### Level 170–180 com leech (~79 horas até a próxima faixa)
+#### Level 170–180 com leech (~96 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~205k | ~145k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~190k | ~125k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~175k | ~65k |  |
+| [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~175k | ~130k | Ainda: monstros que invocam |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~150k | ~110k | Ainda: monstros que invocam |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~150k | ~160k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~205k | ~145k |  |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~115k | ~190k | Ainda: monstros que invocam |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~110k | ~165k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~120k | ~165k | Ainda: monstros que invocam |
 
-#### Level 180–190 com leech (~86 horas até a próxima faixa)
+#### Level 180–190 com leech (~97 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~210k | ~150k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~195k | ~130k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~180k | ~65k |  |
+| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 2 → **1** | 2 → **1** | ~190k | ~40k | Ainda: monstros que invocam |
+| [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~175k | ~130k | Ainda: monstros que invocam |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~150k | ~35k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~155k | ~165k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~210k | ~150k |  |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~125k | ~135k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~115k | ~190k | Ainda: monstros que invocam |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~110k | ~165k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k | ~165k | Ainda: monstros que invocam |
 
-#### Level 190–200 com leech (~92 horas até a próxima faixa)
+#### Level 190–200 com leech (~102 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~215k | ~150k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~205k | ~135k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 1 → **0** | 1 → **0** | ~185k | ~70k |  |
+| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 2 → **1** | 2 → **1** | ~200k | ~45k | Ainda: monstros que invocam |
+| [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~190k | ~145k | Ainda: monstros que invocam |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~160k | ~115k | Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **0** | 2 → **1** | ~160k | ~170k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~215k | ~150k |  |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~130k | ~140k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~125k | ~205k | Ainda: monstros que invocam |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 → **0** | 1 → **0** | ~115k | ~180k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~130k | ~175k | Ainda: monstros que invocam |
 
 #### Level 200+ com leech
 
@@ -1943,17 +1947,17 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~225k | ~155k |  |
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **0** | 2 → **1** | ~215k | ~40k |  |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **0** | 2 → **1** | ~210k | ~135k |  |
+| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 2 → **1** | 2 → **1** | ~200k | ~45k | Ainda: monstros que invocam |
+| [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~190k | ~145k | Ainda: monstros que invocam |
+| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~160k | ~40k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 1 → **0** | 1 → **0** | ~165k | ~175k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h |
-| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 → **0** | 1 → **0** | ~225k | ~155k |  |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~135k | ~145k |  |
+| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~125k | ~305k |  |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~280k |  |
+| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~125k | ~205k | Ainda: monstros que invocam |
 
 ## Seção 3: Charms e prey
 Charms e prey te dão bônus contra monstros específicos. Depois de liberados, custam pouco ou nada, mas você precisa escolher e trocar conforme muda de hunt.
@@ -1991,179 +1995,179 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~55k | ~135k | Prey de redução de dano em Wyvern |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~55k | ~125k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Poacher |
-| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~50k | ~11k | Prey de redução de dano em Cyclops Drone, prey de XP em Cyclops |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 3 → **2** | 3 → **2** | ~85k | ~35k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
+| [Orc Peninsula](https://tibiamaps.io/map#32324,32039,7:2) | 2 → **1** | 2 → **1** | ~50k | ~15k | Prey de redução de dano em Orc Rider, prey de XP em War Wolf |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~30k | ~12k | Prey de redução de dano em Rorc |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~55k | ~135k | Prey de redução de dano em Wyvern |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~55k | ~125k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Poacher |
-| [Carlin Amazon Camp](https://tibiamaps.io/map#32422,31605,7:2) | 1 → **0** | 1 → **0** | ~25k | ~65k | Prey de redução de dano em Amazon, prey de XP em Spider |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 3 → **2** | 3 → **2** | ~85k | ~35k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
+| [Orc Peninsula](https://tibiamaps.io/map#32324,32039,7:2) | 2 → **1** | 2 → **1** | ~50k | ~15k | Prey de redução de dano em Orc Rider, prey de XP em War Wolf |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~30k | ~12k | Prey de redução de dano em Rorc |
 
-#### Level 60–70 com prey (~30 horas até a próxima faixa)
+#### Level 60–70 com prey (~27 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~70k | ~25k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~65k | ~155k | Prey de redução de dano em Wyvern |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Poacher |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 2 → **1** | 2 → **1** | ~75k | ~18k | Prey de redução de dano em Terramite |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~75k | ~80k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 2 → **1** | 2 → **1** | ~65k | ~25k | Prey de redução de dano em Infernoid Blob, prey de XP em Infernoid Soul |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 1 → **0** | 1 → **0** | ~65k | ~155k | Prey de redução de dano em Wyvern |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Poacher |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 2 → **1** | 2 → **1** | ~50k | ~70k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~75k | ~80k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
+| [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 2 → **1** | 2 → **1** | ~65k | ~25k | Prey de redução de dano em Infernoid Blob, prey de XP em Infernoid Soul |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 2 → **1** | 2 → **1** | ~75k | ~18k | Prey de redução de dano em Terramite |
 
-#### Level 70–80 com prey (~40 horas até a próxima faixa)
+#### Level 70–80 com prey (~32 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~85k | ~30k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~65k | ~35k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
-| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 2 → **1** | 2 → **1** | ~50k | ~25k | Prey de redução de dano em Fire Devil, prey de XP em Dark Apprentice |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~90k | ~30k | Prey de redução de dano em Dwarf Guard, prey de XP em Dwarf Soldier |
+| [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 2 → **1** | 2 → **1** | ~80k | ~19k | Prey de redução de dano em Terramite |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~80k | ~90k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~40k | ~125k | Prey de redução de dano em Barbarian Headsplitter, prey de XP em Mammoth |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~45k | ~120k | Prey de redução de dano em Valkyrie, prey de XP em Amazon |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~45k | ~105k | Prey de redução de dano em Valkyrie, prey de XP em Amazon |
+| [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **1** | ~75k | ~135k | Prey de redução de dano em Orc Warrior, prey de XP em Orc Berserker. Ainda: monstros que invocam |
+| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~80k | ~90k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
+| [Ab'Dendriel Elf Cave](https://tibiamaps.io/map#32646,31619,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Prey de redução de dano em Elf Scout, prey de XP em Elf |
 
-#### Level 80–90 com prey (~40 horas até a próxima faixa)
+#### Level 80–90 com prey (~36 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~95k | ~35k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~90k | ~50k | Prey de redução de dano em Stonerefiner |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~75k | ~40k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~105k | ~25k | Prey de redução de dano em Cyclops Drone, prey de XP em Cyclops |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k | ~45k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
+| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 2 → **1** | 2 → **1** | ~80k | ~40k | Prey de redução de dano em Fire Devil, prey de XP em Dark Apprentice |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~40k | ~125k | Prey de redução de dano em Barbarian Headsplitter, prey de XP em Mammoth |
-| [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~45k | ~120k | Prey de redução de dano em Valkyrie, prey de XP em Amazon |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~45k | ~110k | Prey de redução de dano em Valkyrie, prey de XP em Amazon |
+| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 2 → **1** | 2 → **1** | ~65k | ~90k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
+| [Ab'Dendriel Elf Cave](https://tibiamaps.io/map#32646,31619,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Prey de redução de dano em Elf Scout, prey de XP em Elf |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k | ~45k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
 
-#### Level 90–100 com prey (~46 horas até a próxima faixa)
+#### Level 90–100 com prey (~56 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~100k | ~35k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~95k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~90k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k | ~45k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~65k | ~240k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Haunted Treeling |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~65k | ~160k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~95k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~90k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~65k | ~240k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Haunted Treeling |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~55k | ~190k | Prey de redução de dano em Barbarian Headsplitter, prey de XP em Mammoth |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
 
-#### Level 100–110 com prey (~52 horas até a próxima faixa)
+#### Level 100–110 com prey (~74 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~110k | ~40k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~100k | ~95k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~100k | ~95k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k | ~45k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~50k | ~75k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h. Prey de redução de dano em Tarantula, prey de XP em Dworc Fleshhunter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Haunted Treeling |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~65k | ~160k | Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~100k | ~95k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~50k | ~75k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h. Prey de redução de dano em Tarantula, prey de XP em Dworc Fleshhunter |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k | ~45k | Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
 
-#### Level 110–120 com prey (~56 horas até a próxima faixa)
+#### Level 110–120 com prey (~99 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~115k | ~55k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 → **0** | 2 → **1** | ~115k | ~35k | Prey de redução de dano em Worker Golem, prey de XP em Gang Member. Ainda: monstros que invocam |
-| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 0 → **0** | 2 → **0** | ~115k | ~40k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
+| [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 2 → **1** | 2 → **1** | ~75k | ~20k | Prey de redução de dano em Orc Berserker, prey de XP em Fire Devil. Ainda: monstros que invocam |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~50k | ~80k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h. Prey de redução de dano em Tarantula, prey de XP em Dworc Fleshhunter |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Haunted Treeling |
-| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~105k | ~100k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 1 → **0** | 1 → **0** | ~35k | ~85k | Prey de redução de dano em Rotworm, prey de XP em Goblin |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~50k | ~80k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h. Prey de redução de dano em Tarantula, prey de XP em Dworc Fleshhunter |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k | Prey de redução de dano em Vampire, prey de XP em Ghoul |
 
-#### Level 120–130 com prey (~54 horas até a próxima faixa)
+#### Level 120–130 com prey (~66 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~175k | ~55k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~120k | ~60k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 → **0** | 2 → **1** | ~120k | ~35k | Prey de redução de dano em Worker Golem, prey de XP em Gang Member. Ainda: monstros que invocam |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
+| [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~120k | ~80k | Prey de redução de dano em Shadow Pupil, prey de XP em Demon Skeleton. Ainda: monstros que invocam |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~105k | ~25k | Prey de redução de dano em Scarab, prey de XP em Larva. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Haunted Treeling |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~100k | ~115k | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
+| [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~120k | ~80k | Prey de redução de dano em Shadow Pupil, prey de XP em Demon Skeleton. Ainda: monstros que invocam |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~105k | ~25k | Prey de redução de dano em Scarab, prey de XP em Larva. Ainda: monstros que invocam |
 
-#### Level 130–140 com prey (~64 horas até a próxima faixa)
+#### Level 130–140 com prey (~74 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~185k | ~55k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 → **0** | 2 → **1** | ~130k | ~40k | Prey de redução de dano em Worker Golem, prey de XP em Gang Member. Ainda: monstros que invocam |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
+| [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~120k | ~80k | Prey de redução de dano em Shadow Pupil, prey de XP em Demon Skeleton. Ainda: monstros que invocam |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~115k | ~30k | Prey de redução de dano em Scarab, prey de XP em Larva. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~70k | ~130k | Prey de redução de dano em Crypt Shambler, prey de XP em Ghoul |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~60k | ~85k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
+| [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~120k | ~80k | Prey de redução de dano em Shadow Pupil, prey de XP em Demon Skeleton. Ainda: monstros que invocam |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~115k | ~30k | Prey de redução de dano em Scarab, prey de XP em Larva. Ainda: monstros que invocam |
 
-#### Level 140–150 com prey (~77 horas até a próxima faixa)
+#### Level 140–150 com prey (~74 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~190k | ~60k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~105k | ~55k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~145k | ~135k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~60k | ~85k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 2 → **1** | 2 → **1** | ~75k | ~65k | Prey de redução de dano em Carniphila, prey de XP em Mutated Human |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~145k | ~135k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
 
 #### Level 150–160 com prey (~78 horas até a próxima faixa)
 
@@ -2171,89 +2175,89 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~200k | ~60k | Prey de redução de dano em Exotic Cave Spider, prey de XP em Exotic Bat |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~145k | ~40k | Prey de redução de dano em Brimstone Bug, prey de XP em Wailing Widow |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~105k | ~55k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~160k | ~155k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~145k | ~135k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~105k | ~105k | Prey de redução de dano em Haunted Treeling, prey de XP em Wilting Leaf Golem |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~60k | ~85k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 2 → **1** | 2 → **1** | ~75k | ~65k | Prey de redução de dano em Carniphila, prey de XP em Mutated Human |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~130k | ~240k | Prey de redução de dano em Crypt Shambler, prey de XP em Ghoul |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~160k | ~155k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
 
-#### Level 160–170 com prey (~90 horas até a próxima faixa)
+#### Level 160–170 com prey (~60 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~150k | ~155k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~150k | ~40k | Prey de redução de dano em Brimstone Bug, prey de XP em Wailing Widow |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~140k | ~80k | Prey de redução de dano em Stonerefiner |
+| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 3 → **2** | 3 → **2** | ~270k | ~45k | Prey de redução de dano em Golden Servant Replica, prey de XP em Diamond Servant Replica |
+| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 3 → **2** | 3 → **2** | ~230k | ~80k | Prey de redução de dano em Giant Spider, prey de XP em Tarantula |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~165k | ~110k | Prey de redução de dano em Dwarf Guard, prey de XP em Lost Husher. Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~150k | ~155k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~60k | ~85k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~140k | ~80k | Prey de redução de dano em Stonerefiner |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 3 → **2** | 3 → **2** | ~165k | ~155k | Prey de redução de dano em Dragon, prey de XP em Wyvern |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~160k | ~155k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~165k | ~110k | Prey de redução de dano em Dwarf Guard, prey de XP em Lost Husher. Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
 
-#### Level 170–180 com prey (~98 horas até a próxima faixa)
+#### Level 170–180 com prey (~144 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~155k | ~160k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~155k | ~40k | Prey de redução de dano em Brimstone Bug, prey de XP em Wailing Widow |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~145k | ~80k | Prey de redução de dano em Stonerefiner |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~160k | ~155k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 2 → **1** | 2 → **1** | ~105k | ~80k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul. Ainda: monstros que invocam |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k | ~75k | Prey de redução de dano em Rotworm, prey de XP em Slime. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~155k | ~160k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 18 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 → **1** | 2 → **1** | ~110k | ~105k | Prey de redução de dano em Dragon, prey de XP em Wyvern |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~145k | ~80k | Prey de redução de dano em Stonerefiner |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~160k | ~155k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
+| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 2 → **1** | 2 → **1** | ~105k | ~80k | Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul. Ainda: monstros que invocam |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k | ~75k | Prey de redução de dano em Rotworm, prey de XP em Slime. Ainda: monstros que invocam |
 
-#### Level 180–190 com prey (~107 horas até a próxima faixa)
+#### Level 180–190 com prey (~95 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~160k | ~165k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~160k | ~45k | Prey de redução de dano em Brimstone Bug, prey de XP em Wailing Widow |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~150k | ~85k | Prey de redução de dano em Stonerefiner |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~240k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~160k | ~110k | Prey de redução de dano em Scarab, prey de XP em Ancient Scarab. Ainda: monstros que invocam |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k | ~165k | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~160k | ~165k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 1 → **0** | 1 → **0** | ~90k | ~120k | Prey de redução de dano em Ice Golem, prey de XP em Crystal Spider |
-| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 → **1** | 2 → **1** | ~115k | ~110k | Prey de redução de dano em Dragon, prey de XP em Wyvern |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~240k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k | ~165k | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~160k | ~110k | Prey de redução de dano em Scarab, prey de XP em Ancient Scarab. Ainda: monstros que invocam |
 
-#### Level 190–200 com prey (~101 horas até a próxima faixa)
+#### Level 190–200 com prey (~99 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **1** | 2 → **1** | ~220k | ~135k | Prey de redução de dano em Shaper Matriarch, prey de XP em Broken Shaper |
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~165k | ~170k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~165k | ~45k | Prey de redução de dano em Brimstone Bug, prey de XP em Wailing Widow |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~260k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~170k | ~115k | Prey de redução de dano em Scarab, prey de XP em Ancient Scarab. Ainda: monstros que invocam |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~135k | ~175k | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~165k | ~170k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h. Prey de redução de dano em Ogre Brute, prey de XP em Clomp |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **1** | 2 → **1** | ~220k | ~135k | Prey de redução de dano em Shaper Matriarch, prey de XP em Broken Shaper |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k | Prey de redução de dano em Elf Arcanist, prey de XP em Firestarter |
+| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~100k | ~195k | Prey de redução de dano em Elf Arcanist, prey de XP em Firestarter |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~260k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~135k | ~175k | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 
 #### Level 200+ com prey
 
@@ -2261,17 +2265,17 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 2 → **1** | 2 → **1** | ~250k | ~40k | Prey de redução de dano em Misguided Thief, prey de XP em Misguided Bully |
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **1** | 2 → **1** | ~230k | ~135k | Prey de redução de dano em Shaper Matriarch, prey de XP em Broken Shaper |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 0 → **0** | 2 → **0** | ~125k | ~65k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~260k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~170k | ~120k | Prey de redução de dano em Scarab, prey de XP em Ancient Scarab. Ainda: monstros que invocam |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 → **0** | 1 → **0** | ~130k | ~45k | Prey de redução de dano em Frost Giant, prey de XP em Frost Giantess |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 2 → **1** | 2 → **1** | ~230k | ~135k | Prey de redução de dano em Shaper Matriarch, prey de XP em Broken Shaper |
-| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k | Prey de redução de dano em Elf Arcanist, prey de XP em Firestarter |
-| [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 1 → **0** | 1 → **0** | ~90k | ~120k | Prey de redução de dano em Ice Golem, prey de XP em Crystal Spider |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~260k | ~195k | Prey de redução de dano em Stonerefiner |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~170k | ~120k | Prey de redução de dano em Scarab, prey de XP em Ancient Scarab. Ainda: monstros que invocam |
+| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 → **1** | 2 → **1** | ~85k | ~75k | Prey de redução de dano em Vampire, prey de XP em Demon Skeleton |
 
 ## Seção 4: Wheel of Destiny e gemas
 A partir do level 51, depois da promoção e com conta premium, você ganha **1 ponto por level** para gastar na Wheel of Destiny (a Roda do Destino), um grande círculo de perks permanentes: 40 pontos no level 90, 84 no 134 e 150 no 200. Dá para remanejar os pontos de graça em qualquer templo.
@@ -2289,197 +2293,231 @@ Mais tarde, a Wheel também recebe **gemas**, que adicionam bônus extras, como 
 ### Lendo as tabelas da Seção 4
 Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma estimativa grosseira de uns 0,5 de HP a mais por level acima do 50. É pouco, então poucas hunts mudam aqui: a Wheel ajuda um sorcerer principalmente com o Enhanced Magic Shield e com magias mais fortes, que as tabelas não contam. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total.
 
-#### Level 80–90 com a Wheel (~54 horas até a próxima faixa)
+#### Level 60–70 com a Wheel (~21 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 3 → **2** | 3 → **2** | ~75k | ~85k |  |
-| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 2 → **1** | 2 → **1** | ~50k | ~30k |  |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~95k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 3 → **2** | 3 → **2** | ~75k | ~85k |  |
-| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 2 → **1** | 2 → **1** | ~50k | ~30k |  |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~95k |  |
 
-#### Level 90–100 com a Wheel (~52 horas até a próxima faixa)
+#### Level 70–80 com a Wheel (~42 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Frost Dragon Tunnel](https://tibiamaps.io/map#32106,31112,5:2) | 3 → **2** | 3 → **2** | ~100k | ~30k |  |
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 3 → **2** | 3 → **2** | ~65k | ~55k |  |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k |  |
+| [Kazordoon Minotaurs](https://tibiamaps.io/map#32491,31966,7:2) | 1 → **0** | 1 → **0** | ~45k | ~17k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 3 → **2** | 3 → **2** | ~65k | ~55k |  |
-| [Frost Dragon Tunnel](https://tibiamaps.io/map#32106,31112,5:2) | 3 → **2** | 3 → **2** | ~100k | ~30k |  |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k |  |
+| [Kazordoon Minotaurs](https://tibiamaps.io/map#32491,31966,7:2) | 1 → **0** | 1 → **0** | ~45k | ~17k |  |
 
-#### Level 100–110 com a Wheel (~60 horas até a próxima faixa)
+#### Level 80–90 com a Wheel (~37 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 3 → **2** | 3 → **2** | ~110k | ~120k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 24 horas, fora do Loot/h |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 3 → **2** | 3 → **2** | ~100k | ~30k |  |
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~55k | ~160k |  |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~95k | ~25k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~55k | ~160k |  |
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 3 → **2** | 3 → **2** | ~110k | ~120k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 24 horas, fora do Loot/h |
-| [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 0 → **0** | 2 → **0** | ~25k | ~65k | Ainda: evite Orc Warlord (bate metade da sua vida) |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~95k | ~25k |  |
 
-#### Level 110–120 com a Wheel (~82 horas até a próxima faixa)
+#### Level 90–100 com a Wheel (~86 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 3 → **2** | 3 → **2** | ~100k | ~40k |  |
-| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~55k | ~25k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 3 → **2** | 3 → **2** | ~100k | ~40k |  |
-| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~55k | ~25k |  |
+| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k |  |
 
-#### Level 120–130 com a Wheel (~80 horas até a próxima faixa)
+#### Level 100–110 com a Wheel (~76 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~115k | ~60k |  |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~95k | ~115k |  |
-| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 2 → **1** | 2 → **1** | ~75k | ~10k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k | ~45k |  |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~45k | ~75k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~95k | ~115k |  |
-| [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~115k | ~60k |  |
-| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 2 → **1** | 2 → **1** | ~75k | ~10k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h |
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~45k | ~75k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k | ~45k |  |
 
-#### Level 130–140 com a Wheel (~93 horas até a próxima faixa)
+#### Level 110–120 com a Wheel (~79 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 2 → **1** | 2 → **1** | ~110k | ~35k |  |
+| [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 2 → **1** | 2 → **1** | ~70k | ~20k | Ainda: monstros que invocam |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k |  |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 1 → **0** | 1 → **0** | ~50k | ~80k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 16 horas, fora do Loot/h |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k |  |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 2 → **1** | 2 → **1** | ~110k | ~35k |  |
+
+#### Level 120–130 com a Wheel (~51 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~145k | ~105k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~145k | ~105k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
+
+#### Level 130–140 com a Wheel (~54 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **2** | 3 → **2** | ~240k | ~195k |  |
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~140k | ~330k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
+| [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~140k | ~330k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~110k | ~220k |  |
-| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k |  |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~65k | ~130k |  |
+| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **2** | 3 → **2** | ~240k | ~195k |  |
 
-#### Level 150–160 com a Wheel (~86 horas até a próxima faixa)
+#### Level 140–150 com a Wheel (~95 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~165k | ~60k |  |
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 2 → **1** | 2 → **1** | ~145k | ~110k | Ainda: evite Hive Overseer (bate metade da sua vida) |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~95k | ~105k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~105k | ~30k | Ainda: monstros que invocam |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 2 → **1** | 2 → **1** | ~145k | ~110k | Ainda: evite Hive Overseer (bate metade da sua vida) |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~95k | ~105k |  |
-| [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 2 → **1** | 2 → **1** | ~165k | ~60k |  |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~235k |  |
+| [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~105k | ~30k | Ainda: monstros que invocam |
 
-#### Level 160–170 com a Wheel (~161 horas até a próxima faixa)
+#### Level 150–160 com a Wheel (~89 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 → **0** | 1 → **0** | ~100k | ~30k |  |
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 → **0** | 1 → **0** | ~85k | ~30k |  |
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~135k | ~140k |  |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~135k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~240k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 1 → **0** | 1 → **0** | ~55k | ~85k |  |
-| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 → **1** | 2 → **1** | ~65k | ~60k |  |
-| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~45k | ~45k |  |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~240k |  |
+| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~135k | ~140k |  |
+| [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~135k |  |
 
-#### Level 170–180 com a Wheel (~105 horas até a próxima faixa)
+#### Level 160–170 com a Wheel (~75 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 → **2** | 3 → **2** | ~170k | ~60k | Ainda: monstros que invocam |
+| [Spider Caves](https://tibiamaps.io/map#32844,32871,7:2) | 3 → **2** | 3 → **2** | ~220k | ~80k |  |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~160k | ~110k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 3 → **2** | 3 → **2** | ~155k | ~155k |  |
+
+**Bom para lucro**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 3 → **2** | 3 → **2** | ~155k | ~155k |  |
+| [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k | ~155k |  |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~160k | ~110k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
+
+#### Level 170–180 com a Wheel (~78 horas até a próxima faixa)
+
+**Bom para XP**
+
+| Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
+|---|---|---|---|---|---|
+| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 3 → **2** | 3 → **2** | ~235k | ~45k |  |
+| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~195k | ~150k | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: evite Death Priest (bate metade da sua vida) |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 3 → **2** | 3 → **2** | ~145k | ~30k | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h |
-| [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 3 → **2** | 3 → **2** | ~110k | ~40k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 2 → **1** | 2 → **1** | ~70k | ~65k |  |
-| [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 3 → **2** | 3 → **2** | ~170k | ~60k | Ainda: monstros que invocam |
-| [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 3 → **2** | 3 → **2** | ~110k | ~40k |  |
+| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~195k | ~150k | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: evite Death Priest (bate metade da sua vida) |
+| [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 3 → **2** | 3 → **2** | ~120k | ~120k | Ainda: monstros que invocam, evite Elder Bonelord (bate metade da sua vida) |
+| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 2 → **1** | 2 → **1** | ~100k | ~80k | Ainda: monstros que invocam |
 
-#### Level 180–190 com a Wheel (~144 horas até a próxima faixa)
+#### Level 180–190 com a Wheel (~159 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~155k | ~165k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~140k | ~45k |  |
-| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 1 → **0** | 1 → **0** | ~55k | ~30k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k | ~165k | Ainda: monstros que invocam |
+| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~90k | ~185k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~155k | ~165k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~140k | ~45k |  |
-| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 1 → **0** | 1 → **0** | ~55k | ~30k |  |
+| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~90k | ~185k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k | ~165k | Ainda: monstros que invocam |
 
-#### Level 190–200 com a Wheel (~122 horas até a próxima faixa)
+#### Level 190–200 com a Wheel (~165 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~160k | ~170k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~155k | ~85k |  |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~145k | ~45k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~130k | ~175k | Ainda: monstros que invocam |
+| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~95k | ~195k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 2 → **1** | 2 → **1** | ~160k | ~170k | Mais um raro Voodoo Doll (~510k) cerca de uma vez a cada 17 horas, fora do Loot/h |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 → **0** | 1 → **0** | ~155k | ~85k |  |
-| [Krailos Spider Lair (brimstone bugs)](https://tibiamaps.io/map#33686,31744,7:2) | 2 → **1** | 2 → **1** | ~145k | ~45k |  |
+| [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~95k | ~195k |  |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~130k | ~175k | Ainda: monstros que invocam |
 
 #### Level 200+ com a Wheel
 
@@ -2487,17 +2525,17 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Glooth Bandit Hideouts](https://tibiamaps.io/map#33659,31958,12:2) | 2 → **1** | 2 → **1** | ~170k | ~55k |  |
-| [Crystal Gardens](https://tibiamaps.io/map#32020,32888,6:2) | 0 → **0** | 2 → **0** | ~130k | ~125k | Ainda: evite Drillworm (bate metade da sua vida) |
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~105k | ~40k |  |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~160k | ~120k | Ainda: monstros que invocam |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~25k |  |
+| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 → **1** | 2 → **1** | ~80k | ~75k |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Crystal Gardens](https://tibiamaps.io/map#32020,32888,6:2) | 0 → **0** | 2 → **0** | ~130k | ~125k | Ainda: evite Drillworm (bate metade da sua vida) |
-| [Glooth Bandit Hideouts](https://tibiamaps.io/map#33659,31958,12:2) | 2 → **1** | 2 → **1** | ~170k | ~55k |  |
-| [Krimhorn barbarians](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~105k | ~40k |  |
+| [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~160k | ~120k | Ainda: monstros que invocam |
+| [Ghostship](https://tibiamaps.io/map#33321,32184,7:2) | 2 → **1** | 2 → **1** | ~80k | ~75k |  |
+| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k | ~25k |  |
 
 ## Seção 5: Weapon Proficiency
 Cada monstro que você mata com uma wand equipada aumenta a **proficiency** daquela wand. Cada level de proficiency libera uma escolha de perks para ela, como mais dano, mais críticos ou mais leech. Você escolhe um perk por level. Dá para escolher em qualquer lugar, mas trocar um perk exige uma área de proteção.
@@ -2528,28 +2566,34 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 Com imbuements, charms, prey, a Wheel e as gemas, a Weapon Proficiency e equipamento com tier, você tem o que os jogadores chamam de **full setup**.
 
 ## Apêndice: como os números são feitos
-Ninguém publica números de hunt para sorcerer sem full setup, então os números de XP e loot são calculados. Veja como, em palavras simples.
+Ninguém publica números de hunt para sorcerer sem full setup, então a XP, o loot e as notas das tabelas de sorcerer são calculados do mesmo jeito que no guia de knight, com as magias, a vida e o equipamento de um sorcerer. Veja como, em palavras simples.
 
-1. **Monstros e loot.** Para cada hunt, a TibiaWiki diz quais monstros vivem ali, quanta experiência e vida cada um tem, e o que dropa e com que frequência. Cada drop vale o maior entre o preço da loja e o preço do Market (o preço do meio em três mundos grandes, nov/2026). Drops muito raros (menos de 1 em 1.000 mortes) contam pelo preço da loja, para a sorte grande não inflar os números.
-2. **Quais monstros você encontra.** A mistura de monstros vem de onde eles aparecem perto da entrada da hunt, numa cópia do mapa do jogo feita por fãs.
-3. **Quanto você bate.** Cada magia tem uma base power na TibiaWiki (strike 45, fire wave 40, energy wave 150). O dano é a base power vezes o seu Magic Power, (level + 4 × magic level) ÷ 100. O modelo usa a rotação da Seção 1 (wave, strike, wave, strike; a partir do level 38, energy wave, fire wave, strike, fire wave), conta uns 2,5 monstros por wave e soma os tiros da wand.
-4. **Elementos.** O dano de cada magia é multiplicado pelo quanto cada monstro toma daquele elemento, então a fire wave não faz nada nos dragons. Os strikes e a wand usam o elemento mais fraco do monstro entre fogo, energia e morte.
-5. **Quão rápido você mata.** Ainda não há testes com sorcerer, então o ritmo é igual ao dos testes de level 134 do guia de knight (uns 144k de dano por hora), ajustado pelo quanto o sorcerer típico bate em cada level. Como no modelo do knight, ele é corrigido pela vida dos monstros e limitado a 550 mortes por hora e ao que a hunt consegue renascer.
-6. **Gastos.** A mana dessas magias, menos o que a wand devolve e uns 1 de mana por segundo de regeneração, é paga com Mana Potions (56 gold por uns 100 de mana). As poções de vida entram pela nota de Preparo, como no guia de knight.
-7. **Notas.** Como no guia de knight, mas com a vida de um sorcerer, e os golpes corpo a corpo dos monstros contam pela metade porque você kita.
+1. **Você.** O sorcerer típico de cada faixa: o level, o magic level e o equipamento da faixa. As magias e as curas usam a base power da TibiaWiki (strike 45, fire wave 40, energy wave 150) vezes o seu Magic Power, (level + 4 × magic level) ÷ 100; a mesma fórmula bate com o `exori` e o `exura ico` reais dos knights. A wand soma os tiros dela e devolve um pouco de mana. O seu spellbook bloqueia um pouco; a sua armadura e as proteções seguram o resto.
+2. **Os monstros.** Vida, experiência e loot vêm da TibiaWiki; armadura, fraquezas, cura, ataques e os ajudantes que eles invocam vêm do servidor de código aberto Canary.
+3. **A hunt.** Onde cada monstro aparece vem do mapa do Canary: quais vêm juntos numa puxada, quanto você anda entre eles e com que rapidez eles voltam.
+4. **Uma luta de cada vez.** Para cada puxada: quanto tempo leva para matar (cada magia depois da fraqueza do monstro ao elemento dela, então a fire wave não faz nada nos dragons; os strikes usam o elemento que o monstro mais sente entre fogo, energia e morte; em 2 ou mais monstros, as waves acertam até 4 com o `exevo flam hur` e 6 com o `exevo vis hur`, com strikes no meio; os tiros da wand), quanto eles te machucam (depois da sua armadura, do spellbook e das proteções; os golpes corpo a corpo contam pela metade, porque você kita) e como você se cura (`exura`, `exura gran` a partir do level 20, poções nos momentos de susto). A caminhada e o loot preenchem o tempo entre as puxadas.
+5. **Juntando tudo.** As mortes por hora, até onde o respawn deixa, dão a XP/h e o loot/h. Cada drop vale o que for maior: o preço do NPC ou o do Market (o preço do meio em três mundos grandes, novembro de 2026); drops mais raros que uma vez a cada 3 horas ficam de fora. A cura dá as notas; as Mana Potions das magias e das curas (depois do que a regeneração e a wand devolvem) e as poções de vida dão os supplies.
 
-**Até onde confiar neles:**
-- Nada aqui foi testado com um sorcerer ainda. O ritmo, principalmente, foi emprestado das hunts de knight.
-- As estimativas não sabem de andar entre monstros espalhados, de outros jogadores na mesma hunt, nem de áreas que mudam todo dia (Poacher Caves, Forsaken Mine).
-- O kite é contado de um jeito bem simples (metade do dano corpo a corpo). Monstros rápidos, monstros que te deixam lento e cavernas apertadas deixam tudo mais difícil.
-- Se o dinheiro de uma hunt vem de um único item (como a Gloom Wolf Fur), caçar muito ali pode derrubar o preço dele no Market.
+Como funciona luta a luta, os números de uma hunt crescem com o seu level do jeito que crescem de verdade: golpes mais fortes, caminhada mais rápida e mais vida, até a hunt ficar sem monstros.
 
-Use os números para comparar hunts entre si, não como promessa.
+**Quanto confiar neles:**
+- Nada aqui foi testado com um sorcerer ainda. O tempo extra de cada luta (se mexer, lootear, alguns segundos a mais abaixo do level 50) foi emprestado de 17 hunts de knight.
+- Onde um teste de knight mediu o loot de uma hunt, os números de sorcerer usam ele também: o que um monstro dropa não depende de quem mata.
+- O kite é contado de um jeito simples (metade do dano corpo a corpo). Monstros rápidos, monstros que te deixam lento e cavernas apertadas deixam tudo mais difícil.
+- O Magic Shield, as runas e as magias maiores não entram na conta; elas deixam a hunt mais segura e mais rápida do que as tabelas dizem.
+- Os supplies são uma estimativa aproximada.
+- Ele não sabe de outros jogadores na mesma hunt, nem de áreas que mudam todo dia (Poacher Caves, Forsaken Mine).
+- Se o dinheiro de uma hunt vem de um único item (como a Gloom Wolf Fur), caçar muito ali pode derrubar o preço desse item no Market.
+- Targuna é mais nova que o mapa do Canary, então os monstros e os spawns de lá vêm de outro servidor de código aberto. Os ataques deles acertam mais vezes do que os testes de knight de lá mostraram, então as notas de Targuna saem um pouco duras.
+- As poucas hunts que faltam nos dois mapas (como os Lost Dwarves da Forsaken Mine) usam a estimativa antiga, mais simples.
+
+Use os números para comparar as hunts entre si, não como promessa.
 
 ## Fontes
 - **TibiaWiki** (tibia.fandom.com, em inglês): hunts, criaturas, itens, magias, poções, imbuements, charms, prey, Wheel of Destiny, Weapon Proficiency, stamina, bênçãos, Vocation Adjustments 2026.
 - **Preços do Market:** tibiamarket.top (Antica, Quidera, Yovera), nov/2026.
-- **Spawns:** mapa OT do canary (otservbr-monster.xml).
+- **Monstros, spawns e vocações:** o servidor de código aberto Canary (opentibiabr/canary, novembro de 2026): arquivos de monstros, mapa e configuração das vocações. Os de Targuna vêm do project-ravoc (uma versão do Crystal Server 15.30, cys9211/project-ravoc no GitHub, outubro de 2026).
+- **Golpes reais:** a Cyclopedia e o server log dos knights do guia de knight (para conferir a fórmula das magias).
 - **Distâncias do depot:** mapa de caminhada do tibiamaps.io e coordenadas da TibiaWiki.
 - **Números com full setup:** TibiaPal (https://tibiapal.com/hunting), TibiaRoute, tibiastats.pl.
 - **Planejadores:** https://tibiapal.com/wheels, https://tibiapal.com/weapon-proficiency, https://tibiapal.com/imbue
