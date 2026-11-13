@@ -224,7 +224,7 @@ Compared side by side:
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
 - **Space out the sales.** An account can have only one auction at a time.
-- **Don't keep training the level 100.** At levels 90 to 110, knights with skill 100–109 sold for a median of 201 TC (117 sales), no more than the 300 TC of skill 76–81, so hundreds of days of extra training don't pay.
+- **Don't keep training the level 100.** At levels 90 to 110, knights with skill 100–109 sold for a median of 210 TC (160 sales), no more than the 300 TC of skill 76–81, so hundreds of days of extra training don't pay.
 - **Low-level prices rest on few sales** (3–27 per skill), and they're best in North America.
 
 ## How the numbers are made

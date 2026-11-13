@@ -224,7 +224,7 @@ Lado a lado:
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
-- **Não continue treinando o level 100.** Nos levels 90 a 110, knights com skill 100–109 foram vendidos por uma mediana de 201 TC (117 vendas), não mais que os 300 TC do skill 76–81, então centenas de dias de treino extra não compensam.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, knights com skill 100–109 foram vendidos por uma mediana de 210 TC (160 vendas), não mais que os 300 TC do skill 76–81, então centenas de dias de treino extra não compensam.
 - **Os preços de level baixo vêm de poucas vendas** (3–27 por skill), e são melhores na América do Norte.
 
 ## Como os números são feitos
