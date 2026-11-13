@@ -165,11 +165,12 @@ As hunts de Targuna continuam nas listas de 20–30, então fique até o level 2
 No **level 20**, com conta premium, compre a sua **promoção** por 20.000 gold e vire a **Royal Paladin**. O lugar mais fácil é o King Tibianus III, no castelo de Thais; os governantes de Carlin, Kazordoon, Ankrahmun e Beregar e o Rotem Valos no Adventurers' Guild também vendem. Compre assim que tiver o gold: você perde 30% menos experiência e skill quando morre, regenera mais rápido, pode aprender magias só de promovidos e, a partir do level 51, ganha pontos da Wheel of Destiny (Seção 4). Ela fica pausada enquanto a premium estiver acabada.
 
 ### Magias para aprender depois
-As tabelas usam só o básico, mas algumas magias deixam a caçada mais tranquila quando você se acostuma (todas precisam de premium):
+As tabelas usam só o básico, mas algumas magias deixam a caçada mais tranquila quando você se acostuma (quase todas precisam de premium):
 - **Divine Defiance** (stance, depois da promoção): 12% de chance de desviar de ataques de monstros que não estão colados em você, e `exevo mas san` e curas mais fortes.
 - **`utura`** (level 50) te cura ao longo de um minuto: solte antes de cada grupo. O **`exura gran san`** (level 60) é uma cura enorme de uma vez.
 - **`exori san`** (level 40) é um `exori con` sagrado para undeads e demônios, e o **`exori gran con`** (level 90) um `exori con` bem mais forte.
 - **Shatterstorm Arrows** (level 50, uns 45 gold cada) acertam 13 quadrados em volta do seu alvo a cada tiro. Elas matam grupos bem mais rápido, mas cada tiro custa gold.
+- **Magias de munição:** nenhuma magia cria bolts hoje, só arrows para bow. O **`exevo con flam`** (level 25, 290 de mana, 3 soul points) cria 8 **Burst Arrows**, que nunca erram e também acertam os 8 quadrados em volta do alvo: dano em área bem antes do `exevo mas san` ou das Shatterstorm Arrows. Em poções de mana, isso dá uns 20 gold por flecha, então crie com a mana que sobra e guarde para os pulls grandes. O **`exevo con`** (level 13, 100 de mana) cria 10 arrows comuns, que custam mais em mana do que os 3 gold que o NPC cobra.
 - **`utani hur`** (level 14) te deixa 30% mais rápido, a sua melhor ferramenta para kitar, e uma runa de **Magic Wall** (level 32) fecha um corredor por uns 20 segundos.
 - **Itens de emergência:** leve uma **Stone Skin Amulet** (80% menos dano físico e de morte por 5 golpes) ou um **Might Ring** (20% menos dano por 20 golpes) na mochila e coloque quando um pull der errado. Cada um custa uns 10–19k no Market.
 

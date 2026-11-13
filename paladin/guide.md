@@ -162,11 +162,12 @@ Targuna's hunting grounds are still in the 20–30 lists, so stay until level 20
 At **level 20**, with a premium account, buy your **promotion** for 20,000 gold to become a **Royal Paladin**. The easiest place is King Tibianus III in Thais's castle; the rulers of Carlin, Kazordoon, Ankrahmun and Beregar and Rotem Valos at the Adventurers' Guild sell it too. Buy it as soon as you have the gold: you lose 30% less experience and skill when you die, regenerate faster, can learn promotion-only spells, and from level 51 get Wheel of Destiny points (Section 4). It pauses while your premium time is over.
 
 ### Spells worth learning later
-The tables use only the basics, but a few spells make hunting calmer once you're used to them (all need premium):
+The tables use only the basics, but a few spells make hunting calmer once you're used to them (most need premium):
 - **Divine Defiance** (stance, after promotion): a 12% chance to dodge attacks from monsters that aren't next to you, and stronger `exevo mas san` and heals.
 - **`utura`** (level 50) heals you over a minute: cast it before each group. **`exura gran san`** (level 60) is a huge heal at once.
 - **`exori san`** (level 40) is a holy `exori con` for undead and demons, and **`exori gran con`** (level 90) a much stronger `exori con`.
 - **Shatterstorm Arrows** (level 50, about 45 gold each) hit 13 squares around your target with every shot. They kill groups much faster, but every shot costs gold.
+- **Ammunition spells:** no spell makes bolts any more, only arrows for a bow. **`exevo con flam`** (level 25, 290 mana, 3 soul points) makes 8 **Burst Arrows**, which never miss and also hit the 8 squares around your target: area damage long before `exevo mas san` or Shatterstorm Arrows. In mana potions that's about 20 gold an arrow, so make them with spare mana and save them for big pulls. **`exevo con`** (level 13, 100 mana) makes 10 plain arrows, which cost more in mana than the 3 gold an NPC asks.
 - **`utani hur`** (level 14) makes you 30% faster, your best kiting tool, and a **Magic Wall** rune (level 32) blocks a corridor for about 20 seconds.
 - **Emergency items:** keep a **Stone Skin Amulet** (80% less physical and death damage for 5 hits) or a **Might Ring** (20% less damage for 20 hits) in your backpack, and put it on when a pull goes wrong. Each costs about 10–19k on the Market.
 
