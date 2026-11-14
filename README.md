@@ -12,6 +12,7 @@ Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each 
 | Sorcerer, 0 to 100 | [sorcerer/zero_to_100.md](sorcerer/zero_to_100.md) | [sorcerer/zero_to_100_ptbr.md](sorcerer/zero_to_100_ptbr.md) | The same for a sorcerer; untested estimates |
 | Paladin, 0 to 100 | [paladin/zero_to_100.md](paladin/zero_to_100.md) | [paladin/zero_to_100_ptbr.md](paladin/zero_to_100_ptbr.md) | The same for a paladin; untested estimates |
 | Monk, 0 to 100 | [monk/zero_to_100.md](monk/zero_to_100.md) | [monk/zero_to_100_ptbr.md](monk/zero_to_100_ptbr.md) | The same for a monk; untested estimates |
+| Knight, Bestiary | [knight/bestiary.md](knight/bestiary.md) | [knight/bestiary_ptbr.md](knight/bestiary_ptbr.md) | Which creatures to finish in each 50-level band up to 500, where and how long, the guilds and quests that open them, and the Bosstiary; estimates |
 
 How each guide works:
 - It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, skinning and dusting, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
