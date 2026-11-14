@@ -2,7 +2,7 @@
 
 Este guia leva um knight novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de knight](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com sword por volta de 78. Um knight assim foi vendido por uma mediana de uns **283 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **23 dias** (69 horas de hunt), com sword por volta de 76. Um knight assim foi vendido por uma mediana de uns **202 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -20,14 +20,14 @@ Este guia leva um knight novo da criação do personagem até o level 100 o mais
 | Levels | Hunt | Ring | Horas | XP/h | Gold/h |
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,5 h | ~98k | ~15k |
-| 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 4,5 h | ~122k | ~42k |
-| 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 7,5 h | ~124k | ~44k |
-| 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 9,0 h | ~154k | ~64k |
-| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 11,5 h | ~168k | ~73k |
-| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 12,5 h | ~182k | ~80k |
-| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,5 h | ~204k | ~89k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 19,5 h | ~207k | ~96k |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
+| 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 3,5 h | ~158k | ~42k |
+| 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 6,0 h | ~151k | ~57k |
+| 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 7,5 h | ~191k | ~83k |
+| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 8,5 h | ~213k | ~94k |
+| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 11,5 h | ~228k | ~104k |
+| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 13,0 h | ~236k | ~105k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,5 h | ~239k | ~105k |
 
 O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos poções e rings, com preços do Market.
 
@@ -44,12 +44,12 @@ As escolhas de bom custo-benefício do guia de knight para cada faixa (por slot,
 |---|---|---|---|
 | 8–20 | Spike Sword (880), Crown Armor (11k), Zaoan Legs (14k), Warrior Helmet (5k), Vampire Shield (15k), Fur Boots (2k), Platinum Amulet (3k), Guardian Ring (Newhaven Quest) | 51k | – |
 | 20–30 | Crimson Sword (610), Golden Armor (21k), Royal Helmet (30k), Carapace Shield (31k), Boots of Haste (31k) | 113k | – |
-| 30–40 | Epee (8k), Dragon Scale Mail (44k), Zaoan Helmet (56k), Rift Shield (51k) | 159k | 47k |
-| 40–50 | Assassin Dagger (19k), Magic Plate Armor (93k) | 112k | 146k |
-| 50–60 | Relic Sword (30k), Butterfly Ring (3k) | 32k | 537k |
-| 60–70 | Mystic Blade (59k), Badger Boots (21k) | 80k | 1.1M |
-| 70–80 | Crystalline Sword (16k), Guardian Boots (103k) | 119k | 1.9M |
-| 80–90 | Gearwheel Chain (5k) | 5k | 2.8M |
+| 30–40 | Epee (8k), Dragon Scale Mail (44k), Zaoan Helmet (56k), Rift Shield (51k) | 159k | 43k |
+| 40–50 | Assassin Dagger (19k), Magic Plate Armor (93k) | 112k | 155k |
+| 50–60 | Relic Sword (30k), Butterfly Ring (3k) | 32k | 480k |
+| 60–70 | Mystic Blade (59k), Badger Boots (21k) | 80k | 950k |
+| 70–80 | Crystalline Sword (16k), Guardian Boots (103k) | 119k | 1.7M |
+| 80–90 | Gearwheel Chain (5k) | 5k | 3.0M |
 | 90–100 | Blade of Corruption (65k) | 65k | 4.1M |
 
 Tudo isso custa uns 738k (uns 17 TC em gold), menos o que as peças trocadas em cada linha rendem de volta no Market. O gold da rota alcança a lista por volta do level 50. Antes disso, compre a sword primeiro, porque é a velocidade de matar que faz a rota andar, e o resto conforme o gold entra.
@@ -59,30 +59,30 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 
 | Levels | Primeira opção | Segunda | Terceira |
 |---|---|---|---|
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~100k XP/h, ~15k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~83k XP/h, ~33k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~82k XP/h, ~46k gold/h |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~88k XP/h, ~16k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~79k XP/h, ~46k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~78k XP/h, ~44k gold/h |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~99k XP/h, ~23k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~68k XP/h, ~47k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~65k XP/h, ~73k gold/h |
-| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~110k XP/h, ~129k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (ring): ~98k XP/h, ~50k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~96k XP/h, ~23k gold/h |
-| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~116k XP/h, ~138k gold/h | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) (ring): ~105k XP/h, ~67k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~104k XP/h, ~68k gold/h |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~128k XP/h, ~155k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~122k XP/h, ~83k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~120k XP/h, ~84k gold/h |
-| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~130k XP/h, ~163k gold/h | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~128k XP/h, ~85k gold/h | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2): ~123k XP/h, ~79k gold/h |
-| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2): ~154k XP/h, ~234k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~136k XP/h, ~168k gold/h | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) (ring): ~123k XP/h, ~87k gold/h |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~136k XP/h, ~13k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~91k XP/h, ~28k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~90k XP/h, ~39k gold/h |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~118k XP/h, ~18k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~86k XP/h, ~70k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (ring): ~85k XP/h, ~4k gold/h |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~99k XP/h, ~19k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~95k XP/h, ~49k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~81k XP/h, ~83k gold/h |
+| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) (ring): ~126k XP/h, ~78k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~122k XP/h, ~78k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2): ~108k XP/h, ~10k gold/h |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~140k XP/h, ~83k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~135k XP/h, ~85k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~131k XP/h, ~159k gold/h |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~144k XP/h, ~94k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~139k XP/h, ~93k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~139k XP/h, ~169k gold/h |
+| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~150k XP/h, ~95k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~145k XP/h, ~180k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~143k XP/h, ~94k gold/h |
+| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~153k XP/h, ~95k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~148k XP/h, ~184k gold/h | [Shadow Tomb](https://tibiamaps.io/map#33255,32833,7:2) (ring): ~134k XP/h, ~62k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
 | Levels | Hunt | Ring | Horas | XP/h | Gold/h |
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,5 h | ~98k | ~15k |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5,5 h | ~101k | ~16k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,0 h | ~99k | ~23k |
-| 50–60 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 11,0 h | ~111k | ~129k |
-| 60–70 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 14,0 h | ~120k | ~138k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 19,5 h | ~129k | ~155k |
-| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 21,0 h | ~135k | ~163k |
-| 90–100 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | – | 21,0 h | ~154k | ~234k |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~101k | ~19k |
+| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | sim | 9,0 h | ~137k | ~78k |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 14,0 h | ~142k | ~83k |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15,5 h | ~151k | ~94k |
+| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k |
+| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 24,0 h | ~153k | ~95k |
 
-Isso dá level 100 no dia 35 em vez de 28, com sword 80 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 13.9M de gold em vez de 6.0M, e rende mais TC por mês: uns 438 contra 319 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
+Isso dá level 100 no dia 33 em vez de 23, com sword 79 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 7.5M de gold em vez de 5.9M, e rende menos TC por mês: uns 308 contra 443 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
 
 ### Sem o ring
 A rota é mais lenta mas dá mais loot:
@@ -90,14 +90,14 @@ A rota é mais lenta mas dá mais loot:
 | Levels | Hunt | Ring | Horas | XP/h | Gold/h |
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,5 h | ~98k | ~15k |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 5,5 h | ~101k | ~16k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,0 h | ~99k | ~23k |
-| 50–60 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | – | 14,5 h | ~97k | ~22k |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15,5 h | ~110k | ~68k |
-| 70–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 16,5 h | ~130k | ~155k |
-| 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | – | 20,5 h | ~135k | ~163k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 19,5 h | ~212k | ~95k |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~19k |
+| 50–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | – | 12,0 h | ~108k | ~10k |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 12,5 h | ~142k | ~83k |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 17,0 h | ~151k | ~94k |
+| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 15,0 h | ~262k | ~96k |
 
 ## Tarefas semanais: só as baratas
 O **Task Board** dá a cada personagem 6 tarefas de entrega e 6 de matar por semana, que renovam na segunda-feira no server save (9 de cada com a Permanent Weekly Task Expansion, 750 TC na Store). A lista é sorteada para você: não dá para escolher nem trocar. Uma entrega dá **meio level de experiência até o level 82**, e 1.994 × o seu level depois disso. As de matar dão o mesmo, com um limite (200k de experiência nas iniciantes, 800k nas adeptas).
@@ -110,14 +110,14 @@ A regra: **entregue só quando os itens custam menos do que você lootaria no te
 
 | Level | Experiência por entrega | Tempo de hunt que ela substitui | Vale pagar até | Tarefas baratas assim |
 |---|---|---|---|---|
-| 30 | 20k | 9 min | 6k | 0% |
-| 40 | 37k | 17 min | 13k | 1% |
-| 50 | 59k | 23 min | 25k | 7% |
-| 60 | 86k | 33 min | 39k | 17% |
-| 70 | 117k | 39 min | 52k | 23% |
-| 80 | 154k | 45 min | 67k | 31% |
-| 90 | 179k | 53 min | 84k | 35% |
-| 100 | 199k | 57 min | 104k | 38% |
+| 30 | 20k | 7 min | 5k | 0% |
+| 40 | 37k | 14 min | 13k | 1% |
+| 50 | 59k | 19 min | 26k | 8% |
+| 60 | 86k | 26 min | 42k | 19% |
+| 70 | 117k | 31 min | 54k | 24% |
+| 80 | 154k | 40 min | 69k | 31% |
+| 90 | 179k | 45 min | 79k | 33% |
+| 100 | 199k | 50 min | 120k | 40% |
 
 - **Entregue no domingo,** o último dia antes de renovar: a experiência depende do seu level na hora da entrega, então mais tarde paga mais.
 - **Guarde o que a sua hunt dropa** se uma das entregas da semana pede: essa sai de graça.
@@ -145,22 +145,22 @@ Então: guarde os 3 wildcards grátis de cada semana. A cada duas semanas, gaste
 ## Semana a semana
 | Semana | Level (ring) | Sword / shielding | Level (sem ring) | Sword / shielding |
 |---|---|---|---|---|
-| 1 | 56 | 64 / 57 | 51 | 64 / 57 |
-| 2 | 75 | 71 / 63 | 66 | 71 / 63 |
-| 3 | 89 | 75 / 67 | 78 | 75 / 67 |
-| 4 | 100 | 78 / 70 | 89 | 78 / 70 |
-| 5 | 100 (28) | 78 / 70 | 100 | 80 / 73 |
+| 1 | 61 | 64 / 57 | 53 | 64 / 57 |
+| 2 | 82 | 71 / 63 | 70 | 71 / 63 |
+| 3 | 96 | 75 / 67 | 83 | 75 / 67 |
+| 4 | 100 (23) | 76 / 68 | 94 | 78 / 70 |
+| 5 | 100 (23) | 76 / 68 | 100 (31) | 79 / 71 |
 
 Os skills são depois do treino de cada dia. Quando uma rota chega no level 100, a coluna dela mostra o dia em que chegou.
 
 ## Qual plano
 | Plano | Level 100 no dia | Horas de hunt | Sword no 100 | Entregas feitas | Gold que sobra |
 |---|---|---|---|---|---|
-| Stealth Ring + tarefas semanais | 28 | 84 | 78 | ~6 | 6.0M |
-| Ring + tarefas, Corym Mines sempre ocupada | 35 | 105 | 80 | ~15 | 13.9M |
-| Só Stealth Ring | 30 | 90 | 78 | – | 6.8M |
-| Sem ring + tarefas semanais | 35 | 105 | 80 | ~10 | 8.9M |
-| Sem ring, sem tarefas | 40 | 120 | 81 | – | 11.4M |
+| Stealth Ring + tarefas semanais | 23 | 69 | 76 | ~5 | 5.9M |
+| Ring + tarefas, Corym Mines sempre ocupada | 33 | 99 | 79 | ~8 | 7.5M |
+| Só Stealth Ring | 25 | 75 | 76 | – | 6.8M |
+| Sem ring + tarefas semanais | 31 | 93 | 79 | ~6 | 6.1M |
+| Sem ring, sem tarefas | 34 | 102 | 80 | – | 7.1M |
 
 O ring é o mais rápido. Sem ele, a rota demora mais mas dá mais loot (Forgotten Tomb e as cavernas de Corym, sem rings para pagar), então sobra mais gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
 
@@ -171,12 +171,12 @@ Por quanto knights assim foram vendidos (leilões vendidos no exiva.pro, level a
 
 | Level | Sword | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
-| 56 (fim da semana 1) | 64 | 21 | 151 TC | 57–258 |
-| 75 (fim da semana 2) | 71 | 38 | 204 TC | 101–400 |
-| 89 (fim da semana 3) | 75 | 54 | 151 TC | 101–251 |
-| 100 (fim da semana 4) | 78 | 54 | 283 TC | 115–600 |
+| 61 (fim da semana 1) | 64 | 7 | 91 TC | 57–201 |
+| 82 (fim da semana 2) | 71 | 31 | 202 TC | 100–350 |
+| 96 (fim da semana 3) | 75 | 37 | 189 TC | 102–300 |
+| 100 (level 100) | 76 | 37 | 202 TC | 118–438 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe umas 1,9 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe umas 1,4 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
 O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (255 vendas):
 
@@ -196,17 +196,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 39 | ~330 | ~254 | ~296 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 49 | ~493 | ~302 | ~336 |
-| 2 | Sem ring + tarefas semanais | 49 | ~394 | ~241 | ~275 |
-| 3 | Stealth Ring + tarefas semanais | 28 | ~298 | ~319 | ~369 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 35 | ~511 | ~438 | ~483 |
-| 3 | Sem ring + tarefas semanais | 35 | ~394 | ~337 | ~382 |
-| 5 | Stealth Ring + tarefas semanais | 21 | ~338 | ~482 | ~549 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 26 | ~606 | ~699 | ~760 |
-| 5 | Sem ring + tarefas semanais | 26 | ~450 | ~519 | ~580 |
+| 2 | Stealth Ring + tarefas semanais | 33 | ~299 | ~272 | ~315 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~360 | ~235 | ~271 |
+| 2 | Sem ring + tarefas semanais | 44 | ~330 | ~225 | ~263 |
+| 3 | Stealth Ring + tarefas semanais | 23 | ~339 | ~443 | ~515 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~339 | ~308 | ~352 |
+| 3 | Sem ring + tarefas semanais | 31 | ~307 | ~297 | ~343 |
+| 5 | Stealth Ring + tarefas semanais | 17 | ~334 | ~589 | ~671 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~422 | ~528 | ~597 |
+| 5 | Sem ring + tarefas semanais | 23 | ~384 | ~501 | ~573 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **319 TC por mês**, e uns 369 num mundo Optional PvP verde (×1,21).
+TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **443 TC por mês**, e uns 515 num mundo Optional PvP verde (×1,21).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -235,8 +235,8 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de sword 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 298 TC (a venda mais o gold que sobra). Uns 10,6 TC por dia.
-- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 22 vezes menos, mas pede só umas 11 horas de login no total.
+- **Subir até o 100:** 23 dias e 69 horas de jogo, por uns 339 TC (a venda mais o gold que sobra). Uns 14,8 TC por dia.
+- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 31 vezes menos, mas pede só umas 11 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
