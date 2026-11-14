@@ -35,7 +35,24 @@ XP/h counts the low level bonus and green stamina. Gold/h is loot minus potions 
 - **Promotion at level 20:** 20,000 gold at King Tibianus in Thais. You lose 30% less when you die and regenerate faster.
 - **Corym Mines:** in the [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area, on the deepest floor of the Venore Corym Cave. Talking to the Corym Ratter and the Corym Servant opens the mine; you don't have to finish the quest. With a Stealth Ring on, the Stonerefiners can't see you: they never hit you, so you only kill. The Corym Vanguards on the way down can see you, so carry a few health potions.
 - **Stealth Rings:** about 1,000 gold each on the Market, 6 an hour (each lasts 10 minutes). The knight guide's Section 1a explains how to use them.
-- **Gear:** buy what the knight guide's "Typical knight in this band" line shows. The gold numbers here don't count it; sell it before you sell the character, or leave it on.
+- **Gear:** see "Gear by level" below. The gold numbers here don't count it; sell it before you sell the character, or leave it on.
+
+### Gear by level
+The knight guide's good-value picks for each band (per slot, the best piece that costs at most 3 hours of the band's typical loot), with a sword, since the route trains Sword Fighting. Each row lists only what changes from the band before, at Market prices.
+
+| Levels | Buy | Cost | Route gold by then |
+|---|---|---|---|
+| 8–20 | Spike Sword (880), Crown Armor (11k), Zaoan Legs (14k), Warrior Helmet (5k), Vampire Shield (15k), Fur Boots (2k), Platinum Amulet (3k), Guardian Ring (Newhaven Quest) | 51k | – |
+| 20–30 | Crimson Sword (610), Golden Armor (21k), Royal Helmet (30k), Carapace Shield (31k), Boots of Haste (31k) | 113k | – |
+| 30–40 | Epee (8k), Dragon Scale Mail (44k), Zaoan Helmet (56k), Rift Shield (51k) | 159k | 47k |
+| 40–50 | Assassin Dagger (19k), Magic Plate Armor (93k) | 112k | 146k |
+| 50–60 | Relic Sword (30k), Butterfly Ring (3k) | 32k | 537k |
+| 60–70 | Mystic Blade (59k), Badger Boots (21k) | 80k | 1.1M |
+| 70–80 | Crystalline Sword (16k), Guardian Boots (103k) | 119k | 1.9M |
+| 80–90 | Gearwheel Chain (5k) | 5k | 2.8M |
+| 90–100 | Blade of Corruption (65k) | 65k | 4.1M |
+
+All of it costs about 738k (about 17 TC in gold), less what the pieces each row replaces sell back for on the Market. The route's gold catches up with the list at about level 50. Before that, buy the sword first, since kill speed is what moves the route, and the rest as the gold comes in.
 
 ### If Corym Mines is full
 Corym Mines is popular, and the route above assumes it's free for your 3 hours every day. When someone is already there, go down this list for your level, best first. "(ring)" means you wear the Stealth Ring there too.
