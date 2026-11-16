@@ -120,10 +120,28 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
 
 ### Bônus extras
-Nada disso entra nas tabelas, então tudo vem por cima:
+As tabelas não contam a criatura boostada nem o Task Board abaixo, então os dois vêm por cima.
 - **A criatura boostada:** todo dia, no server save, uma criatura passa a dar o dobro de experiência e loot e a renascer duas vezes mais rápido. Ela aparece na tela de login. Se ela vive numa hunt do seu level, cace lá nesse dia.
-- **Bounty tasks** (Task Board): mate um número de uma criatura em troca de experiência e Bounty Points. Os pontos melhoram o **Bounty Talisman** (5.000 gold nos NPCs), que dá dano, life leech e loot contra a sua criatura de bounty atual. Escolha criaturas de uma hunt de que você já gosta.
-- **Weekly tasks** (Task Board): 6 tasks de matar e 6 de entrega toda segunda-feira, sorteadas para você. Cada uma dá meio level de experiência até o level 82, e 1.994 × o seu level depois disso (uns 183k no level 92). Uma das tasks de matar é "Any Creature", 1.000 kills de qualquer criatura: ela se completa sozinha onde você caçar. As entregas pedem itens que você compra no Market, então elas trocam gold por experiência: cada uma economiza uns 20 minutos de hunt no level 50 e 50 minutos no level 90. No seu main, compre quando tiver gold sobrando. Num personagem que você pretende vender, compre só as baratas (o [guia do 0 ao 100](zero_to_100_ptbr.md) mostra o limite por level). Os preços mudam muito entre mundos: 20 Silver Poniards custam 74k num e 256k em outro.
+
+### Task Board: bounty tasks e weekly tasks
+O Task Board rende em qualquer level, desde as primeiras hunts.
+
+**Compre um Bounty Talisman assim que tiver 5.000 gold.** Os joalheiros das cidades vendem, e ele vai no extra slot. Mesmo sem nenhum upgrade, ele dá **2,5% a mais de dano, 2,5% de life leech e 2,5% a mais de loot** contra a sua criatura de bounty atual, e 5% de chance de uma kill contar em dobro no Bestiary. Ele só funciona enquanto você usa, e só contra essa criatura. Os upgrades ficam no personagem, não no item.
+
+**Bounty tasks:** escolha uma dificuldade (a mesma opção escolhe as suas weekly tasks de matar) e o board oferece 3 criaturas. Pegue uma, mate a quantidade pedida (kills de invocações não contam) e entregue a task para ganhar um pouco de experiência, Bounty Points e um Reroll Token, que troca as 3 ofertas por outras. De vez em quando uma task vem Silver (o dobro de experiência e pontos) ou Gold (quatro vezes).
+
+| Dificuldade | Criaturas (dificuldade no Bestiary) | Kills | Bounty Points |
+|---|---|---|---|
+| Beginner | Easy | 50–100 | 3 |
+| Adept | Easy e Medium | 100–200 | 7 |
+| Expert | Medium e Hard | 200–400 | 16 |
+| Master | Hard e Challenging | 300–600 | 27 |
+
+- **Pegue uma criatura da hunt aonde você já ia.** A task se completa sozinha e o talisman funciona a hunt inteira. Se nenhuma das 3 ofertas serve, use um Reroll Token. O Bestiary mostra a dificuldade de cada criatura: Cyclops e Minotaurs são Easy, já Stonerefiners, Dragons e Wyverns são Medium, então só aparecem do Adept para cima.
+- **Criaturas preferidas:** marque a criatura principal da sua hunt como preferida e ela aparece mais vezes. O primeiro slot é de graça; os próximos custam 300, 600, 900 e 1.200 pontos.
+- **Gaste os pontos no talisman.** O primeiro upgrade de um bônus custa 5 pontos e cada um seguinte custa 12 a mais (5, 17, 29, 41 e assim por diante), por 0,5% cada (1% na chance do Bestiary). Chegar a 5% custa 145 pontos no total, e 10% custa 1.335. Depois de 10% cada upgrade dá menos: 0,25%, e 0,1% a partir de 20%. Comece pelo dano, que acelera toda kill, e depois o life leech.
+
+**Weekly tasks:** 6 tasks de matar e 6 de entrega toda segunda-feira, sorteadas para você. Cada uma dá meio level de experiência até o level 82, e 1.994 × o seu level depois disso (uns 183k no level 92). Uma das tasks de matar é "Any Creature", 1.000 kills de qualquer criatura: ela se completa sozinha onde você caçar. As entregas pedem itens que você compra no Market, então elas trocam gold por experiência: cada uma economiza uns 20 minutos de hunt no level 50 e 50 minutos no level 90. No seu main, compre quando tiver gold sobrando. Num personagem que você pretende vender, compre só as baratas (o [guia do 0 ao 100](zero_to_100_ptbr.md) mostra o limite por level). Os preços mudam muito entre mundos: 20 Silver Poniards custam 74k num e 256k em outro.
 
 ### Treine os seus skills enquanto está offline
 O seu skill de sword (ou club, ou axe) decide o quanto você bate, e nos levels baixos ele importa mais que o level. Use uma **Training Statue** (na escola de treino de toda cidade grande e em Targuna; depois, uma cama na sua casa), escolha **Sword Fighting + Shielding** (ou club ou axe) e deslogue. O treino começa depois de 10 minutos e vai até 12 horas; o tempo volta conforme você joga. Um knight novo vai de uns sword 16 e shielding 12 para sword 43 e shielding 36 nas primeiras 12 horas, o que mais que dobra o seu dano. É de graça, então faça toda vez que deslogar, desde o level 8.

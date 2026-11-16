@@ -117,10 +117,28 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot.
 
 ### Bonuses on top
-None of these are counted in the tables, so they all come on top:
+The tables don't count the boosted creature or the Task Board below, so both come on top.
 - **The boosted creature:** every day at server save, one creature starts giving twice the experience and loot, and respawns twice as fast. It's shown on the login screen. If it lives in a hunting ground for your level, hunt there that day.
-- **Bounty tasks** (Task Board): kill a number of one creature for experience and Bounty Points. The points upgrade the **Bounty Talisman** (5,000 gold from NPCs), which adds damage, life leech and loot against your current bounty creature. Pick creatures from a hunting ground you already like.
-- **Weekly tasks** (Task Board): 6 kill and 6 delivery tasks every Monday, drawn for you. Each gives half a level of experience up to level 82, and 1,994 × your level after that (about 183k at level 92). One kill task is "Any Creature", 1,000 kills of anything: it completes itself wherever you hunt. Deliveries ask for items you can buy on the Market, so they turn gold into experience: each one saves about 20 minutes of hunting at level 50 and 50 minutes at level 90. On your main, buy them when you have gold to spare. On a character you plan to sell, buy only the cheap ones (the [0 to 100 guide](zero_to_100.md) shows the limit by level). Prices differ a lot between worlds: 20 Silver Poniards cost 74k on one and 256k on another.
+
+### Task Board: bounty and weekly tasks
+The Task Board pays at every level, from your first hunts.
+
+**Buy a Bounty Talisman as soon as you have 5,000 gold.** Jewellers in the cities sell it, and it goes in the extra slot. Even with no upgrades it gives **2.5% more damage, 2.5% life leech and 2.5% more loot** against your current bounty creature, and a 5% chance that a kill counts twice in the Bestiary. It works only while you wear it, and only against that creature. Its upgrades belong to your character, not to the item.
+
+**Bounty tasks:** choose a difficulty (the same setting picks your weekly kill tasks) and the board offers 3 creatures. Take one, kill that many (summons' kills don't count) and report the task for a little experience, Bounty Points and a Reroll Token, which swaps the 3 offers for new ones. Now and then a task comes as Silver (twice the experience and points) or Gold (four times).
+
+| Difficulty | Creatures (Bestiary difficulty) | Kills | Bounty Points |
+|---|---|---|---|
+| Beginner | Easy | 50–100 | 3 |
+| Adept | Easy and Medium | 100–200 | 7 |
+| Expert | Medium and Hard | 200–400 | 16 |
+| Master | Hard and Challenging | 300–600 | 27 |
+
+- **Take a creature from the hunting ground you're going to anyway.** The task then finishes by itself and the talisman works the whole hunt. If none of the 3 offers fits, use a Reroll Token. The Bestiary shows each creature's difficulty: Cyclopes and Minotaurs are Easy, while Stonerefiners, Dragons and Wyverns are Medium, so they come only from Adept up.
+- **Preferred creatures:** mark your hunting ground's main creature as preferred and it shows up more often. The first slot is free; the next ones cost 300, 600, 900 and 1,200 points.
+- **Spend the points on the talisman.** A bonus's first upgrade costs 5 points and each next one 12 more (5, 17, 29, 41 and so on), for 0.5% each (1% for the Bestiary chance). Reaching 5% costs 145 points in total, and 10% costs 1,335. Past 10% each upgrade adds less: 0.25%, then 0.1% from 20%. Start with damage, which speeds up every kill, then life leech.
+
+**Weekly tasks:** 6 kill and 6 delivery tasks every Monday, drawn for you. Each gives half a level of experience up to level 82, and 1,994 × your level after that (about 183k at level 92). One kill task is "Any Creature", 1,000 kills of anything: it completes itself wherever you hunt. Deliveries ask for items you can buy on the Market, so they turn gold into experience: each one saves about 20 minutes of hunting at level 50 and 50 minutes at level 90. On your main, buy them when you have gold to spare. On a character you plan to sell, buy only the cheap ones (the [0 to 100 guide](zero_to_100.md) shows the limit by level). Prices differ a lot between worlds: 20 Silver Poniards cost 74k on one and 256k on another.
 
 ### Train your skills while you're offline
 Your sword (or club, or axe) skill decides how hard you hit, and at low levels it matters more than your level. Use a **Training Statue** (in every big city's training school, and on Targuna; later, a bed in your house), pick **Sword Fighting + Shielding** (or club or axe) and log out. Training starts after 10 minutes and runs up to 12 hours; the time comes back as you play. A new knight goes from about sword 16 and shielding 12 to sword 43 and shielding 36 in the first 12 hours, which more than doubles your damage. It's free, so do it every time you log out, from level 8.
