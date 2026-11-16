@@ -1643,7 +1643,7 @@ O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com
 - Dá para farmar os materiais: Vampire Teeth de vampires (Edron Vampire Crypt), Rope Belts para o Void de cultistas (Cult Cave, Liberty Bay) e Bloody Pincers para o Intricate Vampirism de blood crabs (Laguna Islands).
 
 ### Lendo as tabelas da Seção 2
-Estas tabelas dão as notas das hunts com o kit e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total. As notas mostram a mudança, por exemplo "2 → **0**". Os números de XP e loot são as estimativas da Seção 1, então trate como um mínimo: com leech você deve render mais, mas quanto ainda não foi testado.
+Estas tabelas dão as notas das hunts com o kit e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total. As notas mostram a mudança, por exemplo "2 → **0**". Os números de XP e loot são as estimativas da Seção 1, então trate como um mínimo: com leech você deve render mais. Um teste até agora, nas Corym Mines com um knight level 99 usando os dois imbuements Basic e Shield Bash: quase nenhum supply, uns 80% menos cura e 28% mais kills que o mesmo knight no level 91 sem nenhum dos dois.
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 

@@ -1640,7 +1640,7 @@ The kit costs about 74k gold per 20 hours of fighting, around 3.7k per hour. Cos
 - You can farm the materials: Vampire Teeth from vampires (Edron Vampire Crypt), Rope Belts for Void from cultists (Cult Cave, Liberty Bay), and Bloody Pincers for Intricate Vampirism from blood crabs (Laguna Islands).
 
 ### Reading the Section 2 tables
-These tables grade the hunting grounds with the kit and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total. The grades show the change, for example "2 → **0**". The XP and loot numbers are the Section 1 estimates, so treat them as a minimum: with leech you should do better, but by how much isn't tested yet.
+These tables grade the hunting grounds with the kit and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total. The grades show the change, for example "2 → **0**". The XP and loot numbers are the Section 1 estimates, so treat them as a minimum: with leech you should do better. One test so far, at Corym Mines with a level 99 knight using both Basic imbuements and Shield Bash: almost no supplies, about 80% less healing, and 28% more kills than the same knight at level 91 without either.
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
