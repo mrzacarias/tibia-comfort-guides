@@ -124,8 +124,12 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot.
 
 ### Bonuses on top
-The tables don't count the boosted creature or the Task Board below, so both come on top.
+The tables don't count any of these or the Task Board below, so they all come on top.
 - **The boosted creature:** every day at server save, one creature starts giving twice the experience and loot, and respawns twice as fast. It's shown on the login screen. If it lives in a hunting ground for your level, hunt there that day.
+- **Echo Raids:** now and then a creature leaves an echo behind. Setting it off brings 8 more of that creature, or 4 influenced ones (stronger, and they give Dust), for 10 minutes. About 1 time in 10 (1 in 5 once that creature's Bestiary entry is finished) an **Echo Warden** comes instead: a stronger version that also makes the creatures near it stronger. A Warden always drops a Basic imbuement scroll and a weapon proficiency catalyst, and the first Warden of each creature gives 1 to 30 charm points, more for tougher creatures. It's your choice: on a hunting ground that already keeps you busy, walk past the echo.
+- **Discovery:** the Cyclopedia map splits Tibia into areas, each with points of interest to find. Find all of them in an area and you get 100 to 195 extra speed there for good, which makes walking between pulls and getting away easier. It's worth doing around the hunting grounds you use most.
+- **Animus Mastery:** fiendish monsters (rare, at most 4 on a world at a time; `exiva moe res` points the way to one) drop a Soul Core about 1 time in 6, and Soul Cores also sell on the Market. Use one at the Soulpit, north-east of Hrodmir, and survive the waves of that creature it starts: from then on, that creature gives 2% more experience (up to 4% as you unlock more creatures). The waves don't get easier when you go alone, and dying there costs the usual, so it's optional.
+- **Loyalty:** each 360 days of premium time the account has used add 5% to your skills, a small boost (about one level at skill 100), up to 50%. It only comes with time.
 
 ### Task Board: bounty and weekly tasks
 The Task Board pays at every level, from your first hunts.
@@ -149,6 +153,8 @@ The Task Board pays at every level, from your first hunts.
 
 ### Train your skills while you're offline
 Your sword (or club, or axe) skill decides how hard you hit, and at low levels it matters more than your level. Use a **Training Statue** (in every big city's training school, and on Targuna; later, a bed in your house), pick **Sword Fighting + Shielding** (or club or axe) and log out. Training starts after 10 minutes and runs up to 12 hours; the time comes back as you play. A new knight goes from about sword 16 and shielding 12 to sword 43 and shielding 36 in the first 12 hours, which more than doubles your damage. It's free, so do it every time you log out, from level 8.
+
+**Faster, for gold:** an **exercise weapon** used on an exercise dummy (every training school has them) trains in 17 minutes what offline training does in about 4 hours. Each costs about 347k gold from magic shop and equipment NPCs, or 25 TC in the Store, so leave them for when gold comes easily. There are exercise swords, axes and clubs. An exercise shield does the same for shielding (about 8 hours' worth). The daily reward's training weapons are small free ones.
 
 ### Levels 8 to 20: Targuna
 The tables start at level 20, because the first levels are best spent on **Targuna**, the island for levels 8 to 20: its quests are safe, its depot is a few seconds from its hunting grounds, and its monsters drop potions you'll use later. Train offline for 12 hours first, then do the three missions of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). With the hunting you do along the way, they take you to about level 20.

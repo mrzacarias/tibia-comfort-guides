@@ -127,8 +127,12 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
 
 ### Bônus extras
-As tabelas não contam a criatura boostada nem o Task Board abaixo, então os dois vêm por cima.
+As tabelas não contam nada disto nem o Task Board abaixo, então tudo vem por cima.
 - **A criatura boostada:** todo dia, no server save, uma criatura passa a dar o dobro de experiência e loot e a renascer duas vezes mais rápido. Ela aparece na tela de login. Se ela vive numa hunt do seu level, cace lá nesse dia.
+- **Echo Raids:** de vez em quando uma criatura deixa um eco para trás. Ativar o eco traz mais 8 daquela criatura, ou 4 influenced (mais fortes, e que dão Dust), por 10 minutos. Mais ou menos 1 vez em 10 (1 em 5 depois de completar a página do Bestiary daquela criatura) vem um **Echo Warden** no lugar: uma versão mais forte que também fortalece as criaturas perto dele. O Warden sempre dropa um scroll de imbuement Basic e um catalyst de weapon proficiency, e o primeiro Warden de cada criatura dá de 1 a 30 Charm Points, mais para as mais difíceis. A escolha é sua: numa hunt que já te deixa ocupado, passe reto pelo eco.
+- **Discovery:** o mapa da Cyclopedia divide o Tibia em áreas, cada uma com pontos de interesse para achar. Ache todos os de uma área e você ganha de 100 a 195 de speed nela para sempre, o que facilita andar entre as puxadas e fugir. Vale a pena em volta das hunts que você mais usa.
+- **Animus Mastery:** monstros fiendish (raros, no máximo 4 por mundo ao mesmo tempo; `exiva moe res` aponta o caminho para um) dropam um Soul Core mais ou menos 1 vez em 6, e Soul Cores também vendem no Market. Use um no Soulpit, a nordeste de Hrodmir, e sobreviva às ondas daquela criatura: a partir daí, ela dá 2% a mais de experiência (até 4% conforme você libera mais criaturas). As ondas não ficam mais fáceis para quem vai sozinho, e morrer lá custa o de sempre, então é opcional.
+- **Loyalty:** cada 360 dias de premium usados na conta somam 5% aos seus skills, um empurrão pequeno (mais ou menos um level no skill 100), até 50%. Só vem com o tempo.
 
 ### Task Board: bounty tasks e weekly tasks
 O Task Board rende em qualquer level, desde as primeiras hunts.
@@ -152,6 +156,8 @@ O Task Board rende em qualquer level, desde as primeiras hunts.
 
 ### Treine os seus skills enquanto está offline
 O seu skill de sword (ou club, ou axe) decide o quanto você bate, e nos levels baixos ele importa mais que o level. Use uma **Training Statue** (na escola de treino de toda cidade grande e em Targuna; depois, uma cama na sua casa), escolha **Sword Fighting + Shielding** (ou club ou axe) e deslogue. O treino começa depois de 10 minutos e vai até 12 horas; o tempo volta conforme você joga. Um knight novo vai de uns sword 16 e shielding 12 para sword 43 e shielding 36 nas primeiras 12 horas, o que mais que dobra o seu dano. É de graça, então faça toda vez que deslogar, desde o level 8.
+
+**Mais rápido, pagando:** uma **exercise weapon** usada num exercise dummy (toda escola de treino tem) treina em 17 minutos o que o treino offline faz em umas 4 horas. Cada uma custa uns 347k de gold nos NPCs de loja de magia e de equipamento, ou 25 TC na Store, então deixe para quando o gold vier fácil. Há exercise swords, axes e clubs. Um exercise shield faz o mesmo pelo shielding (umas 8 horas). As training weapons da recompensa diária são versões pequenas de graça.
 
 ### Levels 8 a 20: Targuna
 As tabelas começam no level 20, porque os primeiros levels rendem mais em **Targuna**, a ilha dos levels 8 a 20: as quests são seguras, o depot fica a poucos segundos das hunts e os monstros dropam poções que você vai usar depois. Treine offline por 12 horas antes e depois faça as três missões da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Junto com a caçada que você faz no caminho, elas te levam até mais ou menos o level 20.

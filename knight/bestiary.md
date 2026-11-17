@@ -29,6 +29,7 @@ Kill a creature once to open its entry. More kills unlock its details in three s
 - **Weekly kill tasks** (Task Board): up to 6 a week. They pay experience and hunting task points, and the kills count for the Bestiary too.
 - **Boosted creature:** every server save one creature gets double experience, double loot and twice the respawn, so more of it to kill. If it's one you need, that's the day to hunt it.
 - **Paw and Fur tasks** (below): the same kills count for the task and for the Bestiary.
+- **Echo Raids:** now and then a creature leaves an echo behind; setting it off brings 8 more of that creature (or 4 influenced ones) for 10 minutes, all counting for the Bestiary. About 1 time in 10, or 1 in 5 once that entry is finished, an **Echo Warden** comes instead, and the first one you help kill for each creature gives extra charm points: 1 Harmless, 2 Trivial, 5 Easy, 10 Medium, 15 Hard, 30 Challenging.
 - **Charms on what you hunt next:** a finished entry lets you put a charm on that creature. Finishing the easy creatures first gives you charm points for the hard ones.
 
 ### Titles

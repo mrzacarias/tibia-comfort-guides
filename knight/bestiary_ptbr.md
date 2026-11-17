@@ -29,6 +29,7 @@ Mate uma criatura uma vez para abrir a página dela. Mais kills liberam os detal
 - **Weekly tasks de matar** (Task Board): até 6 por semana. Elas dão experiência e hunting task points, e as kills contam para o Bestiário também.
 - **Criatura boosted:** a cada server save uma criatura ganha experiência dobrada, loot dobrado e respawn dobrado, então tem mais dela para matar. Se for uma que você precisa, é o dia de caçá-la.
 - **Tasks da Paw and Fur** (abaixo): as mesmas kills contam para a task e para o Bestiário.
+- **Echo Raids:** de vez em quando uma criatura deixa um eco para trás; ativar o eco traz mais 8 daquela criatura (ou 4 influenced) por 10 minutos, e todas contam para o Bestiário. Mais ou menos 1 vez em 10, ou 1 em 5 depois de completar a página, vem um **Echo Warden** no lugar, e o primeiro que você ajuda a matar de cada criatura dá Charm Points extras: 1 Harmless, 2 Trivial, 5 Easy, 10 Medium, 15 Hard, 30 Challenging.
 - **Charms no que você vai caçar depois:** uma página completa deixa você colocar um charm naquela criatura. Completar as criaturas fáceis primeiro te dá Charm Points para as difíceis.
 
 ### Títulos
