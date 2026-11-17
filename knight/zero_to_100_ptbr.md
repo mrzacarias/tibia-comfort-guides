@@ -17,17 +17,17 @@ Este guia leva um knight novo da criação do personagem até o level 100 o mais
 3. **Em Targuna, no level 8, treine offline primeiro:** use a Training Statue e deslogue por 12 horas. Isso leva o sword de uns 16 para 43 e o shielding de 12 para 36, o que mais que dobra o seu dano.
 
 ## A rota
-| Levels | Hunt | Ring | Horas | XP/h | Gold/h |
-|---|---|---|---|---|---|
-| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
-| 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 3,5 h | ~158k | ~42k |
-| 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 6,0 h | ~151k | ~57k |
-| 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 7,5 h | ~191k | ~83k |
-| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 8,5 h | ~213k | ~94k |
-| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 11,5 h | ~228k | ~104k |
-| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 13,0 h | ~236k | ~105k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,5 h | ~239k | ~105k |
+| Levels | Hunt | Ring | Horas | XP/h | Gold/h | Monstros |
+|---|---|---|---|---|---|---|
+| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 30–40 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 3,5 h | ~158k | ~42k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 40–50 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 6,0 h | ~151k | ~57k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 50–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 7,5 h | ~191k | ~83k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 60–70 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 8,5 h | ~213k | ~94k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 70–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 11,5 h | ~228k | ~104k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 80–90 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 13,0 h | ~236k | ~105k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 15,5 h | ~239k | ~105k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
 
 O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos poções e rings, com preços do Market.
 
@@ -71,34 +71,34 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
-| Levels | Hunt | Ring | Horas | XP/h | Gold/h |
-|---|---|---|---|---|---|
-| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~101k | ~19k |
-| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | sim | 9,0 h | ~137k | ~78k |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 14,0 h | ~142k | ~83k |
-| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15,5 h | ~151k | ~94k |
-| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k |
-| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 24,0 h | ~153k | ~95k |
+| Levels | Hunt | Ring | Horas | XP/h | Gold/h | Monstros |
+|---|---|---|---|---|---|---|
+| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~101k | ~19k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | sim | 9,0 h | ~137k | ~78k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 14,0 h | ~142k | ~83k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 15,5 h | ~151k | ~94k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 24,0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
 
 Isso dá level 100 no dia 33 em vez de 23, com sword 79 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 7.5M de gold em vez de 5.9M, e rende menos TC por mês: uns 340 contra 443 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
 
 ### Sem o ring
 A rota é mais lenta mas dá mais loot:
 
-| Levels | Hunt | Ring | Horas | XP/h | Gold/h |
-|---|---|---|---|---|---|
-| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
-| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~19k |
-| 50–60 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – | 11,5 h | ~115k | ~14k |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 13,0 h | ~143k | ~83k |
-| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 16,5 h | ~151k | ~94k |
-| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 14,5 h | ~261k | ~96k |
+| Levels | Hunt | Ring | Horas | XP/h | Gold/h | Monstros |
+|---|---|---|---|---|---|---|
+| 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~19k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 50–60 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – | 11,5 h | ~115k | ~14k | [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage) |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 13,0 h | ~143k | ~83k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 16,5 h | ~151k | ~94k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 14,5 h | ~261k | ~96k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
 
 ## Tarefas semanais: só as baratas
 O **Task Board** dá a cada personagem 6 tarefas de entrega e 6 de matar por semana, que renovam na segunda-feira no server save (9 de cada com a Permanent Weekly Task Expansion, 750 TC na Store). A lista é sorteada para você: não dá para escolher nem trocar. Uma entrega dá **meio level de experiência até o level 82**, e 1.994 × o seu level depois disso. As de matar dão o mesmo, com um limite (200k de experiência nas iniciantes, 800k nas adeptas).
