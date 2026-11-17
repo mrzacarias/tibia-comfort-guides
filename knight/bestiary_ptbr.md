@@ -112,18 +112,19 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 | Quest | Level | Parte que você precisa | Abre | Criaturas do Bestiário ali | Charm Points |
 |---|---|---|---|---|---|
 | Targuna Quest | 10 | missão Burning Heat, a partir do level 12 | Crimson Court, Crimson Court (Targuna) | 4 | 60 |
-| The Shattered Isles Quest | 20 / 65+ | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; parte Access to Nargor, depois da Access to Meriana: cinco tarefas em Sabrehaven (100 Bread, uma Whisper Beer, uma carta, um Atlas, 5 Pirate Voodoo Dolls), depois peça uma mission ao Duncan; parte de Ramoa: level 35, depois da parte do vulcão de Goroma (Spellbook of Dragha e três corpos frescos) | Laguna Islands, Blood Crabs, Lich Hell (Liberty Bay), Meriana, Meriana Gargoyle Cave, Nargor, Nargor Undead Cave, Ramoa | 19 | 305 |
+| The Shattered Isles Quest | 20 / 65+ | parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; parte Access to Nargor, depois da Access to Meriana: cinco tarefas em Sabrehaven (100 Bread, uma Whisper Beer, uma carta, um Atlas, 5 Pirate Voodoo Dolls), depois peça uma mission ao Duncan; parte de Goroma: level 20, 30 madeiras e dinheiro da viagem, para o barco do Jack Fate; parte de Ramoa: level 35, depois da parte do vulcão de Goroma (Spellbook of Dragha e três corpos frescos); partes de Talahu e Malada: depois da parte de Ramoa (level 35), leve um White, um Brown, um Green e um Dark Mushroom | Goroma, Laguna Islands, Blood Crabs, Lich Hell (Liberty Bay), Malada, Meriana, Meriana Gargoyle Cave, Nargor, Nargor Undead Cave, Ramoa | 21 | 335 |
 | Threatened Dreams Quest | 30 / 100 | missão Troubled Animals | Feyrist Meadows | 11 | 251 |
 | Treasure Island Quest | 0 / 40 | para as cavernas | Treasure Island | 2 | 40 |
-| Barbarian Test Quest | 0 / 25 | exigida antes da Ice Islands Quest; para o barco do Buddel | Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Krimhorn barbarians, Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons, Ragnir barbarians | 16 | 276 |
-| The Ice Islands Quest | 0 / 130+ | primeira missão | Nibelor, Nibelor Crystal Spiders | 6 | 76 |
+| Barbarian Test Quest | 0 / 25 | exigida antes da Ice Islands Quest; para o barco do Buddel | Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Jotunar, Krimhorn barbarians, Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons, Ragnir barbarians, Tyrsung Furrier Camp | 19 | 321 |
+| The Ice Islands Quest | 0 / 130+ | missão "Nibelor 2" iniciada; primeira missão | Jotunar, Nibelor, Nibelor Crystal Spiders, Tyrsung Furrier Camp | 9 | 121 |
 | The New Frontier Quest | 77 / 110+ |  | Chazorai, Farmine Mines, Zao Palace, Zao Palace Antechambers | 5 | 140 |
-| Blood Brothers Quest | 40 / 70+ | missão 4 | Vengoth, Vengoth Werewolf Cave | 4 | 80 |
+| Blood Brothers Quest | 40 / 70+ | missão 4 | Castle (Vengoth), Vengoth, Vengoth Werewolf Cave | 5 | 105 |
 | Between the Lines Quest | 200 |  | Crumbling Caverns | 2 | 100 |
 | The Hidden City of Beregar Quest | 0 / 60+ | iniciada | Beregar Mines, Fenrock Dragon Lair | 2 | 50 |
 | The Postman Missions Quest | 0 / 25 |  | Minotaurs Cult Cave | 3 | 75 |
 | Lion's Rock Quest | 0 / 70 | ela abre o portal para a hunt | Lion's Rock (Darashia) | 2 | 50 |
 | Dark Trails Quest | 150+ | só as primeiras missões, até a tarefa dos minotauros para o Terrence | Abandoned Sewers, Oramond Fury Dungeon | 5 | 150 |
+| Bigfoot's Burden Quest | 80 / 120 | rank II, para o teleporte de Gnomebase Alpha | Mushroom Gardens | 2 | 50 |
 | Lone Medusa Quest | 0 / 70+ |  | Vandura Mountain | 2 | 50 |
 | Hidden Threats Quest | 0 / 50 | iniciada: fale com o Corym Ratter e o Corym Servant | Corym Mines (Venore) | 1 | 25 |
 | Cults of Tibia Quest | 8 / 150 |  | Forbidden Temple (Carlin) | 4 | 100 |
@@ -139,7 +140,7 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 | The Dream Courts Quest | 250 / 250 | exige level 250 | Court of Summer, Court of Winter | 9 | 400 |
 | Adventures of Galthen Quest | 0 / 250 |  | Forest of Life, Iksupan | 8 | 275 |
 | Liquid Black Quest | 0 / 130+ |  | Deeplings Library (Fiehonja), Fiehonja, Fiehonja deeplings | 12 | 251 |
-| Rathleton Quest | 0 / 150 |  | Oramond Dungeon | 1 | 25 |
+| Rathleton Quest | 0 / 150 | pelo menos 50 votos dados | Oramond Dungeon | 1 | 25 |
 | Shards of a Broken Moon Quest | 400+ |  | Forbidden Gardens | 1 | 50 |
 | No Rest for the Wicked Quest | 250 / 500+ |  | Azzilon Castle | 3 | 150 |
 | Roshamuul Quest | 0 / 200 |  | Guzzlemaw Valley, Roshamuul Cistern | 4 | 150 |
@@ -175,7 +176,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Little Corym Charlatan | Easy | 500 | 15 | 8 | [Little Corym Charlatan (spawns próprios)](https://tibiamaps.io/map#33029,32150,8:2) | 200 | 2,5 |  |
 | Amazon | Easy | 500 | 15 | 15 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 198 | 2,5 |  |
 | Tarantula | Easy | 500 | 15 | 35 | [Tarantula Caves (Port Hope)](https://tibiamaps.io/map#32726,32794,7:2) | 202 | 2,5 |  |
-| Frost Giant | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 194 | 2,6 |  |
+| Frost Giant | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 194 | 2,6 | Barbarian Test Quest, The Ice Islands Quest |
 | Mammoth | Easy | 500 | 15 | 40 | [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 185 | 2,7 |  |
 | Ghoul | Easy | 500 | 15 | 20 | [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | 176 | 2,8 |  |
 | Vampire Pig | Medium | 1.000 | 25 | 10 | [Vampire Pig (spawns próprios)](https://tibiamaps.io/map#32745,31453,3:2) | 208 | 4,8 |  |
@@ -193,7 +194,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Troll Legionnaire | Medium | 1.000 | 25 | 10 | [Troll Legionnaire (spawns próprios)](https://tibiamaps.io/map#32788,31455,12:2) | 191 | 5,2 |  |
 | Infernoid Blob | Easy | 500 | 15 | 8 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 155 | 3,2 | Targuna Quest |
 | Killer Rabbit | Easy | 500 | 15 | 10 | [Killer Rabbit (spawns próprios)](https://tibiamaps.io/map#32752,31458,5:2) | 154 | 3,2 |  |
-| Frost Giantess | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 157 | 3,2 |  |
+| Frost Giantess | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 157 | 3,2 | Barbarian Test Quest, The Ice Islands Quest |
 | Pirate Navigator | Easy | 500 | 15 | 8 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 150 | 3,3 |  |
 | Chakoya Windcaller | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 151 | 3,3 |  |
 | Pirate Skeleton | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 153 | 3,3 | The Shattered Isles Quest |
@@ -353,7 +354,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Lizard Commander | Easy | 500 | 15 | 25 | [Hidden Lizard Temple](https://tibiamaps.io/map#31941,31947,9:2) | 10 | 50 |  |
 | Azure Frog | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
 | Tiger | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
-| Hunter | Easy | 500 | 15 | 20 | [Tyrsung Furrier Camp](https://tibiamaps.io/map#32363,31338,7:2) | 10 | 51 |  |
+| Hunter | Easy | 500 | 15 | 20 | [Tyrsung Furrier Camp](https://tibiamaps.io/map#32363,31338,7:2) | 10 | 51 | Barbarian Test Quest, The Ice Islands Quest |
 | Braindeath | Medium | 1.000 | 25 | 45 | [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 12 | 86 |  |
 | Pig | Trivial | 250 | 5 | 8 | [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 14 | 18 |  |
 | Blood Hand | Medium | 1.000 | 25 | 20 | [Drefia](https://tibiamaps.io/map#33018,32443,7:2) | 11 | 91 |  |
@@ -418,7 +419,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Lizard Sentinel | Easy | 500 | 15 | 50 | [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 129 | 3,9 |  |
 | Earth Elemental | Medium | 1.000 | 25 | 50 | [Edron Earth Elemental Cave](https://tibiamaps.io/map#33158,31719,7:2) | 142 | 7,0 |  |
 | Sibang | Easy | 500 | 15 | 50 | [Banuta (surface)](https://tibiamaps.io/map#32807,32542,7:2) | 115 | 4,3 |  |
-| Wiggler | Medium | 1.000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 140 | 7,2 |  |
+| Wiggler | Medium | 1.000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 140 | 7,2 | Bigfoot's Burden Quest |
 | Lizard Templar | Easy | 500 | 15 | 50 | [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 111 | 4,5 |  |
 | Orc Berserker | Medium | 1.000 | 25 | 50 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 131 | 7,6 |  |
 | Killer Caiman | Medium | 1.000 | 25 | 60 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 132 | 7,6 |  |
@@ -440,7 +441,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Shaburak Demon | Medium | 1.000 | 25 | 70 | [Demonwar Crypt](https://tibiamaps.io/map#33290,31936,12:2) | 87 | 12 |  |
 | Bonebeast | Medium | 1.000 | 25 | 70 | [Ramoa](https://tibiamaps.io/map#31931,32567,7:2) | 85 | 12 | The Shattered Isles Quest |
 | Mooh'Tah Warrior | Medium | 1.000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 84 | 12 |  |
-| Island Troll | Trivial | 250 | 5 | 70 | [Goroma](https://tibiamaps.io/map#32095,32583,7:2) | 104 | 2,4 |  |
+| Island Troll | Trivial | 250 | 5 | 70 | [Goroma](https://tibiamaps.io/map#32095,32583,7:2) | 104 | 2,4 | The Shattered Isles Quest |
 | Corym Vanguard | Medium | 1.000 | 25 | 50 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 80 | 12 |  |
 | Wyrm | Medium | 1.000 | 25 | 80 | [Vandura Mountain](https://tibiamaps.io/map#32415,32776,7:2) | 74 | 14 | Lone Medusa Quest |
 | Worm Priestess | Medium | 1.000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 74 | 14 | Dark Trails Quest |
@@ -457,7 +458,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Waspoid | Medium | 1.000 | 25 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 61 | 16 |  |
 | Frost Dragon Hatchling | Medium | 1.000 | 25 | 90 | [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | 60 | 17 | Barbarian Test Quest |
 | Quara Pincher Scout | Medium | 1.000 | 25 | 80 | [Talahu](https://tibiamaps.io/map#31953,32660,7:2) | 59 | 17 |  |
-| Vampire Bride | Medium | 1.000 | 25 | 95 | [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 59 | 17 |  |
+| Vampire Bride | Medium | 1.000 | 25 | 95 | [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 59 | 17 | Blood Brothers Quest |
 | Marid | Medium | 1.000 | 25 | 60 | [Marid Territory (Magician Quarter)](https://tibiamaps.io/map#32820,31121,7:2) | 58 | 17 |  |
 | Cobra | Easy | 500 | 15 | 60 | [Forbidden Temple (Ankrahmun)](https://tibiamaps.io/map#33315,32675,7:2) | 48 | 10 |  |
 | Deer | Trivial | 250 | 5 | 70 | [Darashia Wyrm Hills](https://tibiamaps.io/map#33256,32325,7:2) | 71 | 3,5 |  |
@@ -490,7 +491,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Cult Believer | Medium | 1.000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 28 | 35 | Cults of Tibia Quest |
 | Werehyaena Shaman | Medium | 1.000 | 25 | 70 | [Darashia Wyrm Hills](https://tibiamaps.io/map#33156,32524,11:2) | 28 | 36 |  |
 | Ice Dragon | Medium | 1.000 | 25 | 65 | [The First Dragon's Lair](https://tibiamaps.io/map#32025,32484,11:2) | 28 | 36 |  |
-| Quara Hydromancer Scout | Medium | 1.000 | 25 | 70 | [Malada](https://tibiamaps.io/map#32016,32713,7:2) | 27 | 36 |  |
+| Quara Hydromancer Scout | Medium | 1.000 | 25 | 70 | [Malada](https://tibiamaps.io/map#32016,32713,7:2) | 27 | 36 | The Shattered Isles Quest |
 | Candy Horror | Hard | 2.500 | 50 | 80 | [Chocolate Mines](https://tibiamaps.io/map#33409,32154,9:2) | 34 | 73 |  |
 | Vampire Viscount | Medium | 1.000 | 25 | 60 | [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 27 | 37 |  |
 | Minotaur Cult Zealot | Medium | 1.000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 27 | 38 | The Postman Missions Quest |
@@ -505,7 +506,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Cult Enforcer | Medium | 1.000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 20 | 51 | Cults of Tibia Quest |
 | Moohtant | Medium | 1.000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 19 | 52 | Dark Trails Quest |
 | Nibblemaw | Hard | 2.500 | 50 | 75 | [Chocolate Mines](https://tibiamaps.io/map#33379,32178,9:2) | 24 | 104 |  |
-| Mutated Rat | Medium | 1.000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 18 | 57 |  |
+| Mutated Rat | Medium | 1.000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 18 | 57 | Bigfoot's Burden Quest |
 | Massive Water Elemental | Medium | 1.000 | 25 | 70 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 17 | 58 |  |
 | Ladybug | Easy | 500 | 15 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 13 | 39 |  |
 | Noble Lion | Medium | 1.000 | 25 | 70 | [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 15 | 67 | Lion's Rock Quest |
@@ -627,11 +628,11 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Draken Elite | Hard | 2.500 | 50 | 140 | [Razachai](https://tibiamaps.io/map#33095,31091,9:2) | ? | ? | Wrath of the Emperor Quest |
 
 ### Levels 150–200
-62 criaturas, 96.275 kills, 2.101 Charm Points, umas 4.184 horas (13 sem estimativa). Total acumulado: 11.558 Charm Points, 15.320 horas.
+62 criaturas, 96.275 kills, 2.101 Charm Points, umas 4.184 horas (13 sem estimativa). Total acumulado: 11.558 Charm Points, 15.319 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
-| Ice Witch | Medium | 1.000 | 25 | 180 | [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 163 | 6,1 |  |
+| Ice Witch | Medium | 1.000 | 25 | 180 | [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 172 | 5,8 |  |
 | Deepling Spellsinger | Medium | 1.000 | 25 | 160 | [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 100 | 10 | Liquid Black Quest |
 | Serpent Spawn | Medium | 1.000 | 25 | 150 | [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 89 | 11 |  |
 | Souleater | Medium | 1.000 | 25 | 150 | [Souleater Mountains](https://tibiamaps.io/map#33163,31059,7:2) | 86 | 12 |  |
@@ -695,7 +696,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Hive Overseer | Hard | 2.500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-39 criaturas, 87.000 kills, 1.775 Charm Points, umas 3.341 horas (12 sem estimativa). Total acumulado: 13.333 Charm Points, 18.661 horas.
+39 criaturas, 87.000 kills, 1.775 Charm Points, umas 3.341 horas (12 sem estimativa). Total acumulado: 13.333 Charm Points, 18.660 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -890,7 +891,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Juggernaut | Hard | 2.500 | 50 | 450 | [Grounds of Destruction](https://tibiamaps.io/map#33426,32447,13:2) | 5 | 500 |  |
 
 ### Levels 500+
-83 criaturas, 375.000 kills, 7.500 Charm Points, umas 23.004 horas (55 sem estimativa). Total acumulado: 26.403 Charm Points, 59.174 horas.
+83 criaturas, 375.000 kills, 7.500 Charm Points, umas 23.004 horas (55 sem estimativa). Total acumulado: 26.403 Charm Points, 59.173 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -1003,7 +1004,7 @@ Cada classe dá um título quando todas as páginas dela estão completas (criat
 | Magical | Master / Mistress of Illusion | 58 | 105.515 | 2.390 | 805 | 6.253 (46 de 58) |
 | Undead | Ghosthunter / Ghosthuntress | 94 | 196.525 | 4.355 | 835 | 8.850 (62 de 94) |
 | Construct | Handyman / Handywoman | 36 | 59.045 | 1.431 | 950 | 3.618 (28 de 36) |
-| Human | Manhunter / Manhuntress | 96 | 148.525 | 3.485 | 1110 | 3.512 (64 de 96) |
+| Human | Manhunter / Manhuntress | 96 | 148.525 | 3.485 | 1110 | 3.511 (64 de 96) |
 
 ## Criaturas muito raras
 Elas só aparecem de vez em quando (muitas vezes num único spawn, ou com uma chance quando você mata outra criatura), então não dá para farmar: mate quando encontrar. 5 kills completam cada uma.
@@ -1807,7 +1808,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Hydra | Dragon | Medium | 1.000 | 25 | 80 | [Hydra Hill](https://tibiamaps.io/map#32986,32682,7:2) | 14 |
 | Ice Dragon | Dragon | Medium | 1.000 | 25 | 65 | [The First Dragon's Lair](https://tibiamaps.io/map#32025,32484,11:2) | 36 |
 | Ice Golem | Construct | Medium | 1.000 | 25 | 60 | [Nibelor Crystal Spiders](https://tibiamaps.io/map#32356,31087,7:2) | 9,8 |
-| Ice Witch | Human | Medium | 1.000 | 25 | 180 | [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 6,1 |
+| Ice Witch | Human | Medium | 1.000 | 25 | 180 | [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 5,8 |
 | Icecold Book | Inkborn | Hard | 2.500 | 50 | 525 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 239 |
 | Iceplume Strider | Construct | Hard | 2.500 | 50 | 215 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? |
 | Iks Ahpututu (muito rara) | Undead | Medium | 5 | 50 | 150 | [Iksupan](https://tibia.fandom.com/wiki/Iksupan) | ? |

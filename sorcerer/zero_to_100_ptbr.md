@@ -68,7 +68,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 Isso dá level 100 no dia 33 em vez de 28, com magic level 55 (mais dias de treino). Sobra 6.2M de gold em vez de 4.9M, e rende menos TC por mês: uns 239 contra 250 (veja "Lucro").
 
 ### Sem invisibilidade
-A rota é mais lenta e dá menos loot:
+A rota é mais lenta e dá mais loot:
 
 | Levels | Hunt | Invisível | Horas | XP/h | Gold/h |
 |---|---|---|---|---|---|
@@ -76,8 +76,8 @@ A rota é mais lenta e dá menos loot:
 | 20–30 | [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | – | 6,0 h | ~43k | ~14k |
 | 30–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 6,5 h | ~87k | ~49k |
 | 40–50 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 8,0 h | ~108k | ~76k |
-| 50–60 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | – | 13,0 h | ~104k | ~22k |
-| 60–70 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | – | 17,5 h | ~105k | ~22k |
+| 50–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 13,5 h | ~101k | ~76k |
+| 60–70 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 16,5 h | ~102k | ~76k |
 | 70–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 19,5 h | ~112k | ~118k |
 | 80–90 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | – | 25,5 h | ~124k | ~23k |
 | 90–100 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | – | 29,0 h | ~141k | ~16k |
@@ -130,11 +130,11 @@ Então: guarde os 3 wildcards grátis de cada semana. A cada duas semanas, gaste
 | Semana | Level (invisibilidade) | Magic level / shielding | Level (sem invisibilidade) | Magic level / shielding |
 |---|---|---|---|---|
 | 1 | 54 | 38 / 25 | 49 | 33 / 25 |
-| 2 | 70 | 47 / 27 | 64 | 40 / 27 |
+| 2 | 70 | 47 / 27 | 65 | 41 / 27 |
 | 3 | 84 | 51 / 27 | 76 | 45 / 27 |
-| 4 | 100 | 54 / 28 | 85 | 48 / 28 |
-| 5 | 100 (28) | 54 / 28 | 92 | 51 / 29 |
-| 6 | 100 (28) | 54 / 28 | 100 | 53 / 29 |
+| 4 | 100 | 54 / 28 | 85 | 49 / 28 |
+| 5 | 100 (28) | 54 / 28 | 93 | 51 / 29 |
+| 6 | 100 (28) | 54 / 28 | 100 | 54 / 29 |
 
 Os skills são depois do treino de cada dia. Quando uma rota chega no level 100, a coluna dela mostra o dia em que chegou.
 
@@ -144,10 +144,10 @@ Os skills são depois do treino de cada dia. Quando uma rota chega no level 100,
 | Invisibilidade + tarefas semanais | 28 | 84 | 54 | ~4 | 4.9M |
 | Invisível + tarefas, Corym Mines sempre ocupada | 33 | 99 | 55 | ~5 | 6.2M |
 | Só Invisibilidade | 30 | 90 | 55 | – | 5.8M |
-| Sem invisibilidade + tarefas semanais | 42 | 126 | 53 | ~6 | 4.8M |
-| Sem invisibilidade, sem tarefas | 46 | 138 | 55 | – | 5.8M |
+| Sem invisibilidade + tarefas semanais | 42 | 126 | 54 | ~8 | 6.4M |
+| Sem invisibilidade, sem tarefas | 46 | 138 | 55 | – | 7.6M |
 
-A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra menos gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
+A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra mais gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
 
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
@@ -184,13 +184,13 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 |---|---|---|---|---|---|
 | 2 | Invisibilidade + tarefas semanais | 41 | ~231 | ~169 | ~173 |
 | 2 | Invisível + tarefas, Corym Mines sempre ocupada | 48 | ~257 | ~161 | ~164 |
-| 2 | Sem invisibilidade + tarefas semanais | 60 | ~224 | ~112 | ~115 |
+| 2 | Sem invisibilidade + tarefas semanais | 61 | ~265 | ~131 | ~133 |
 | 3 | Invisibilidade + tarefas semanais | 28 | ~234 | ~250 | ~256 |
 | 3 | Invisível + tarefas, Corym Mines sempre ocupada | 33 | ~263 | ~239 | ~244 |
-| 3 | Sem invisibilidade + tarefas semanais | 42 | ~231 | ~165 | ~169 |
+| 3 | Sem invisibilidade + tarefas semanais | 42 | ~267 | ~191 | ~195 |
 | 5 | Invisibilidade + tarefas semanais | 20 | ~264 | ~397 | ~405 |
 | 5 | Invisível + tarefas, Corym Mines sempre ocupada | 23 | ~288 | ~375 | ~382 |
-| 5 | Sem invisibilidade + tarefas semanais | 30 | ~254 | ~254 | ~260 |
+| 5 | Sem invisibilidade + tarefas semanais | 30 | ~300 | ~300 | ~305 |
 
 TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **250 TC por mês**, e uns 256 num mundo Optional PvP verde (×1,03).
 
