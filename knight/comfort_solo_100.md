@@ -47,7 +47,7 @@ Unlock imbuing with the first part of the [Forgotten Knowledge Quest](https://ti
 - **Blessings:** all seven plus Twist of Fate cost about 138k at level 100, 234k at 200, 306k at 300 and 420k at 500 (or 130 Tibia Coins for the seven in the Store).
 - **Potions:** small **Mana Potions** (56 gold for 75–125 mana) are the cheapest mana per gold. For emergencies carry the best health potion your level allows: Great (level 80), Ultimate (130) or Supreme (200).
 - **Healing spells:** `exura ico` for top-ups, `exura med ico` from level 300, `exura gran ico` (level 80) for emergencies, `utamo tempo` (Protector) when a pull grows.
-- **The Forge:** skip it. Fusing two items works half the time, and a failure costs a tier or destroys a tier 0 item. If you want a tiered item, buy one already made on the Market.
+- **The Forge:** skip fusing. It works half the time, and a failure costs the second copy a tier, or destroys it at tier 0. If you want a tiered item, buy one already made on the Market; to keep a tier when you change items, **Transfer** always works (the new item gets the tier minus one; see the [main guide](guide.md#section-6-the-forge-and-the-full-elite-knight)). Dust you don't need sells as Slivers or Exalted Cores.
 
 ## Hunting grounds
 Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot at Market prices, for a knight at the start of each band. **Hunt** is the grade with the Basic kit. Potions/h is the mana and health potions the model expects; the imbuements cost another ~4k an hour on top, everywhere.

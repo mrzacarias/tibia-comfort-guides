@@ -2576,13 +2576,20 @@ The last step is the **Exaltation Forge** in the Adventurers' Guild. It raises a
 | Legs | Transcendence: chance to become an avatar for 7 seconds | very rare | rare | about 2% |
 | Boots | Amplification: makes the other effects trigger more often | +2.5% | +9% | +57% |
 
-**How it works.** You **fuse** two identical items of the same tier, paying gold and Dust, and get one item of the next tier. It works half the time (65% with an Exalted Core). When it fails, one of the items loses a tier, or is destroyed if it was tier 0. Dust comes from influenced monsters and can't be traded; Exalted Cores are made from it.
+**How it works.** You **fuse** two identical items of the same tier, paying gold and Dust, and get one item of the next tier. It works half the time (65% with an Exalted Core). When it fails, one of the two items loses a tier, or is destroyed if it was tier 0, and the other stays as it was; an Exalted Core makes that loss happen only half the time. So fusing your weapon with a second copy never costs more than the copy. Dust comes from influenced monsters and can't be traded; Exalted Cores are made from it.
 
 **How far an item can go** depends on its classification, from 1 to 4. Class 1 items stop at tier 1, class 2 at tier 2, class 3 at tier 3, and class 4 items reach tier 10.
 
 **What it costs.** Going from tier 0 to 1 costs 25k gold for a class 1 item, 750k for class 2, 4 million for class 3 and 8 million for class 4. The next tiers of a class 4 item cost 20 million, then 40 million, 65 million and more.
 
-**For comfort,** the effect that matters most is Ruse on your armor. At the tiers you can afford early (1 to 3), it's only a 0.5–1.6% dodge chance for millions of gold. It's often cheaper to buy an already-tiered item on the Market than to forge one. Leave the Forge for when everything else is done.
+**Without risk.** Three Forge actions always work:
+- **Transfer** moves a tier from one item to a tier 0 item of the same slot and classification, which gets the tier minus one; the item it comes from is destroyed. A tier 2 transfer (landing as tier 1) costs 100 Dust, 1 Exalted Core and 5 million gold for class 2, 10 million for class 3 or 20 million for class 4. Use it to carry your old weapon's tier to a new one, or to put the tier of a tiered item from the Market on the item you want.
+- **Convergence Fusion** (class 4 only) fuses two different items of the same slot and tier, and always works: 130 Dust and 55 million gold for tier 1, against 8 million for a normal fusion.
+- **Convergence Transfer** (class 4 only) moves a tier without losing one, even to another slot: 160 Dust and 65 million gold for tier 1.
+
+The Forge also turns Dust into Slivers (60 Dust for 3) and Slivers into Exalted Cores (50 each), and raises how much Dust you can carry. Slivers and Exalted Cores sell on the Market, so Dust you don't need is gold. Items must have no imbuement to go into the Forge, so use it when one runs out.
+
+**For comfort,** the effect that matters most is Ruse on your armor. At the tiers you can afford early (1 to 3), it's only a 0.5–1.6% dodge chance for millions of gold. It's often cheaper to buy an already-tiered item on the Market than to forge one, and to move a tier you already own, use Transfer, not Fusion. Leave the Forge for when everything else is done.
 
 With imbuements, charms, prey, the Wheel and gems, weapon proficiency and tiered gear, you have what players call a **full setup**.
 

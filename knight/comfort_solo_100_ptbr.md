@@ -47,7 +47,7 @@ Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tib
 - **Blessings:** as sete mais o Twist of Fate custam uns 138k no level 100, 234k no 200, 306k no 300 e 420k no 500 (ou 130 Tibia Coins pelas sete na Store).
 - **Poções:** as **Mana Potions** pequenas (56 gold por 75 a 125 de mana) são a mana mais barata por gold. Para emergência leve a melhor health potion que o seu level permite: Great (level 80), Ultimate (130) ou Supreme (200).
 - **Magias de cura:** `exura ico` para completar a vida, `exura med ico` do level 300, `exura gran ico` (level 80) para emergência, `utamo tempo` (Protector) quando o pull cresce.
-- **A Forge:** pule. Fundir dois itens dá certo metade das vezes, e uma falha tira um tier ou destrói um item tier 0. Se quiser um item com tier, compre um pronto no Market.
+- **A Forja:** não funda. Dá certo metade das vezes, e uma falha tira um tier da segunda cópia, ou destrói ela se for tier 0. Se quiser um item com tier, compre um pronto no Market; para manter um tier quando trocar de item, o **Transfer** sempre dá certo (o item novo fica com o tier menos um; veja o [guia principal](guide_ptbr.md#seção-6-a-forja-e-o-elite-knight-completo)). O dust que você não usa vende como Slivers ou Exalted Cores.
 
 ## Hunts
 Números por hora de experiência crua (sem bônus de stamina, prey ou criatura boostada) e loot a preço de Market, para um knight no começo de cada faixa. **Atenção** é a nota com o kit Basic. Poções/h são as mana e health potions que o modelo espera; os imbuements custam mais uns 4k por hora, em todas.

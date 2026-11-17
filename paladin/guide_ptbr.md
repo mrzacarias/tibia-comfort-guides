@@ -2582,13 +2582,20 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 | Legs | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
 | Bota | Amplification: faz os outros efeitos ativarem com mais frequência | +2,5% | +9% | +57% |
 
-**Como funciona.** Você **funde** dois itens iguais do mesmo tier, pagando gold e dust, e recebe um item do tier seguinte. Dá certo metade das vezes (65% com um Exalted Core). Quando falha, um dos itens perde um tier, ou é destruído se for tier 0. O dust vem de monstros influenciados e não pode ser negociado; os Exalted Cores são feitos a partir dele.
+**Como funciona.** Você **funde** dois itens iguais do mesmo tier, pagando gold e dust, e recebe um item do tier seguinte. Dá certo metade das vezes (65% com um Exalted Core). Quando falha, um dos dois itens perde um tier, ou é destruído se for tier 0, e o outro fica como estava; com um Exalted Core essa perda só acontece metade das vezes. Então fundir a sua arma com uma segunda cópia nunca custa mais que a cópia. O dust vem de monstros influenciados e não pode ser negociado; os Exalted Cores são feitos a partir dele.
 
 **Até onde um item vai** depende da classificação dele, de 1 a 4. Itens de classe 1 param no tier 1, classe 2 no tier 2, classe 3 no tier 3, e itens de classe 4 chegam ao tier 10.
 
 **Quanto custa.** Ir do tier 0 para o 1 custa 25k de gold num item de classe 1, 750k na classe 2, 4 milhões na classe 3 e 8 milhões na classe 4. Os tiers seguintes de um item de classe 4 custam 20 milhões, depois 40 milhões, 65 milhões e mais.
 
-**Para o conforto,** o efeito que mais importa é o Ruse na armor. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um. Deixe a Forja para quando todo o resto estiver pronto.
+**Sem risco.** Três ações da Forja sempre dão certo:
+- **Transfer** passa o tier de um item para um item tier 0 do mesmo slot e da mesma classe, que fica com o tier menos um; o item de onde ele sai é destruído. Transferir um tier 2 (que chega como tier 1) custa 100 de dust, 1 Exalted Core e 5 milhões de gold na classe 2, 10 milhões na classe 3 ou 20 milhões na classe 4. Use para levar o tier da sua arma antiga para uma nova, ou para pôr no item que você quer o tier de um item com tier do Market.
+- **Convergence Fusion** (só classe 4) funde dois itens diferentes do mesmo slot e tier, e sempre dá certo: 130 de dust e 55 milhões de gold para o tier 1, contra 8 milhões numa fusão normal.
+- **Convergence Transfer** (só classe 4) passa um tier sem perder nenhum, até para outro slot: 160 de dust e 65 milhões de gold para o tier 1.
+
+A Forja também troca dust por Slivers (60 de dust por 3) e Slivers por Exalted Cores (50 cada), e aumenta quanto dust você pode carregar. Slivers e Exalted Cores vendem no Market, então o dust que você não usa vira gold. Os itens precisam estar sem imbuement para entrar na Forja, então use quando um imbuement acabar.
+
+**Para o conforto,** o efeito que mais importa é o Ruse na armor. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um, e para levar um tier que você já tem, use Transfer, não a fusão. Deixe a Forja para quando todo o resto estiver pronto.
 
 Com imbuements, charms, prey, a Wheel e as gemas, a Weapon Proficiency e equipamento com tier, você tem o que os jogadores chamam de **full setup**.
 
