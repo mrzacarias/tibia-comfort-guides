@@ -494,7 +494,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~135k | ~145k | Venore 108 / ~25 s | Watch: Corym Vanguard hits 17% of HP. Sells: Cheese Cutter |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~125k | ~125k | Carlin 64 / ~15 s | Coryms, like the Venore and Tiquanda Corym Caves. Watch: Corym Vanguard hits 17% of HP. Sells: Cheese Cutter |
-| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~120k | ~125k | Liberty Bay 82 / ~20 s | Coryms below Liberty Bay. Watch: Corym Vanguard hits 17% of HP. Sells: Cheese Cutter |
+| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~125k | ~35k | Edron 237 / ~1.0 min | Stay on the upper cyclops floors; behemoths deep. Sells: Battle Shield |
 
 **Good for gold**
 
@@ -2020,15 +2020,15 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~55k | ~95k | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 | [Ab'Dendriel Elf Cave](https://tibiamaps.io/map#32646,31619,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Damage-reduction prey on Elf Scout, XP prey on Elf |
 
-#### Level 60–70 with prey (~23 hours to the next band)
+#### Level 60–70 with prey (~29 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~90k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 3 → **2** | 3 → **2** | ~95k | ~25k | Damage-reduction prey on Cyclops Smith, XP prey on Cyclops Drone. Still: skip Dragon Lord (hits half your HP) |
 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~70k | ~55k | Damage-reduction prey on Dwarf Guard, XP prey on Ghoul. Still: summoners, skip Enslaved Dwarf (hits half your HP) |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~40k | ~16k | Damage-reduction prey on Rorc |
 
 **Good for gold**
 
@@ -2036,7 +2036,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~90k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~70k | ~55k | Damage-reduction prey on Dwarf Guard, XP prey on Ghoul. Still: summoners, skip Enslaved Dwarf (hits half your HP) |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 3 → **2** | 3 → **2** | ~95k | ~25k | Damage-reduction prey on Cyclops Smith, XP prey on Cyclops Drone. Still: skip Dragon Lord (hits half your HP) |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~40k | ~16k | Damage-reduction prey on Rorc |
 
 #### Level 70–80 with prey (~30 hours to the next band)
 
@@ -2306,7 +2306,7 @@ Later, the Wheel also takes **gems**, which add extra bonuses such as more HP or
 ### Reading the Section 4 tables
 These tables assume half your points go into hit-point slices, a rough estimate of about 1 extra HP per level above 50. They grade the Section 1 hunting grounds with that extra health and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total.
 
-#### Level 60–70 with the Wheel (~23 hours to the next band)
+#### Level 60–70 with the Wheel (~22 hours to the next band)
 
 **Good for XP**
 
@@ -2478,12 +2478,13 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~120k | ~125k |  |
 | [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 2 → **1** | 2 → **1** | ~125k | ~35k |  |
 
-#### Level 160–170 with the Wheel (~95 hours to the next band)
+#### Level 160–170 with the Wheel (~86 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~170k | ~105k | Still: summoners, skip Lich (hits half your HP) |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k |  |
 
 **Good for gold**
@@ -2491,6 +2492,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k |  |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~170k | ~105k | Still: summoners, skip Lich (hits half your HP) |
 
 #### Level 170–180 with the Wheel (~95 hours to the next band)
 

@@ -115,7 +115,7 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 | Threatened Dreams Quest | 30 / 100 | missão Troubled Animals | Feyrist Meadows | 11 | 251 |
 | Treasure Island Quest | 0 / 40 | para as cavernas | Treasure Island | 2 | 40 |
 | Barbarian Test Quest | 0 / 25 | exigida antes da Ice Islands Quest; para o barco do Buddel | Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Krimhorn barbarians, Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons, Ragnir barbarians | 16 | 276 |
-| The Ice Islands Quest | 0 / 130+ | primeira missão | Helheim, Nibelor, Nibelor Crystal Spiders | 7 | 101 |
+| The Ice Islands Quest | 0 / 130+ | primeira missão | Nibelor, Nibelor Crystal Spiders | 6 | 76 |
 | The New Frontier Quest | 77 / 110+ |  | Chazorai, Farmine Mines, Zao Palace, Zao Palace Antechambers | 5 | 140 |
 | Blood Brothers Quest | 40 / 70+ | missão 4 | Vengoth, Vengoth Werewolf Cave | 4 | 80 |
 | Between the Lines Quest | 200 |  | Crumbling Caverns | 2 | 100 |
@@ -151,7 +151,7 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points por hora primeiro. **Level** é onde caçar a criatura faz sentido (o apêndice explica como ele é definido); **Kills/h** conta só aquela criatura naquela hunt, e **Horas** é o tempo para completá-la ali. As outras criaturas que você mata no caminho contam para as páginas delas. "?" quer dizer que o modelo não tem estimativa.
 
 ### Levels 0–50
-241 criaturas, 133.625 kills, 3.645 Charm Points, umas 3.486 horas (28 sem estimativa). Total acumulado: 3.645 Charm Points, 3.486 horas.
+241 criaturas, 133.625 kills, 3.645 Charm Points, umas 3.572 horas (27 sem estimativa). Total acumulado: 3.645 Charm Points, 3.572 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -353,6 +353,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Azure Frog | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
 | Tiger | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
 | Hunter | Easy | 500 | 15 | 20 | [Tyrsung Furrier Camp](https://tibiamaps.io/map#32363,31338,7:2) | 10 | 51 |  |
+| Braindeath | Medium | 1.000 | 25 | 45 | [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 12 | 86 |  |
 | Pig | Trivial | 250 | 5 | 8 | [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 14 | 18 |  |
 | Blood Hand | Medium | 1.000 | 25 | 20 | [Drefia](https://tibiamaps.io/map#33018,32443,7:2) | 11 | 91 |  |
 | Sea Captain | Easy | 500 | 15 | 8 | [Aragonia](https://tibiamaps.io/map#33539,32729,8:2) | 9 | 57 |  |
@@ -389,7 +390,6 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Squidgy Slime | Easy | 500 | 15 | 20 | [Horestis Tomb](https://tibia.fandom.com/wiki/Horestis_Tomb) | ? | ? |  |
 | Wisp | Trivial | 250 | 5 | 20 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | ? | ? |  |
 | White Tiger | Easy | 500 | 15 | 30 | [Desert Dungeon](https://tibia.fandom.com/wiki/Desert_Dungeon) | ? | ? |  |
-| Braindeath | Medium | 1.000 | 25 | 35 | [Helheim](https://tibiamaps.io/map#32478,31179,7:2) | ? | ? | The Ice Islands Quest |
 | Filth Toad | Easy | 500 | 15 | 35 | [Tiquanda](https://tibia.fandom.com/wiki/Tiquanda) | ? | ? |  |
 | Nightmare Scion | Medium | 1.000 | 25 | 35 | [Arena and Zoo Quarter](https://tibiamaps.io/map#32677,31231,7:2) | ? | ? |  |
 | High Voltage Elemental | Medium | 1.000 | 25 | 40 | [Oramond Factory Raids](https://tibiamaps.io/map#33549,31953,13:2) | ? | ? |  |
@@ -398,7 +398,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Corrupted Skeleton | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? | ? |  |
 
 ### Levels 50–100
-135 criaturas, 148.050 kills, 3.537 Charm Points, umas 4.464 horas (17 sem estimativa). Total acumulado: 7.182 Charm Points, 7.950 horas.
+135 criaturas, 148.050 kills, 3.537 Charm Points, umas 4.454 horas (17 sem estimativa). Total acumulado: 7.182 Charm Points, 8.026 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -480,6 +480,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Quara Predator | Medium | 1.000 | 25 | 55 | [Quara Grotto](https://tibiamaps.io/map#32208,32887,7:2) | 36 | 28 |  |
 | Massive Earth Elemental | Medium | 1.000 | 25 | 80 | [Truffels Garden (Gnomegate)](https://tibiamaps.io/map#32868,31835,13:2) | 34 | 30 |  |
 | Quara Mantassin | Medium | 1.000 | 25 | 60 | [Sunken Quarter](https://tibiamaps.io/map#32949,31182,7:2) | 34 | 30 |  |
+| Hellspawn | Medium | 1.000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 32 | 31 |  |
 | Crystalcrusher | Medium | 1.000 | 25 | 70 | [Middle Spike](https://tibiamaps.io/map#32242,32604,11:2) | 31 | 32 |  |
 | Baleful Bunny | Medium | 1.000 | 25 | 80 | [Percht Island](https://tibiamaps.io/map#33781,31032,7:2) | 31 | 32 |  |
 | Minotaur Cult Prophet | Medium | 1.000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 30 | 34 | The Postman Missions Quest |
@@ -494,7 +495,6 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Minotaur Cult Zealot | Medium | 1.000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 27 | 38 | The Postman Missions Quest |
 | White Shade | Easy | 500 | 15 | 60 | [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 21 | 24 |  |
 | Candy Floss Elemental | Hard | 2.500 | 50 | 95 | [Dessert Dungeons](https://tibiamaps.io/map#33427,32168,8:2) | 31 | 81 |  |
-| Hellspawn | Medium | 1.000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 24 | 42 |  |
 | Vicious Squire | Medium | 1.000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 23 | 43 |  |
 | Renegade Knight | Medium | 1.000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 23 | 44 |  |
 | Ogre Savage | Medium | 1.000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 22 | 46 |  |
@@ -539,7 +539,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Enslaved Dwarf | Medium | 1.000 | 25 | 95 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | ? | ? |  |
 
 ### Levels 100–150
-81 criaturas, 96.500 kills, 2.275 Charm Points, umas 3.109 horas (14 sem estimativa). Total acumulado: 9.457 Charm Points, 11.060 horas.
+81 criaturas, 96.500 kills, 2.275 Charm Points, umas 3.109 horas (14 sem estimativa). Total acumulado: 9.457 Charm Points, 11.135 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -626,7 +626,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Draken Elite | Hard | 2.500 | 50 | 140 | [Razachai](https://tibiamaps.io/map#33095,31091,9:2) | ? | ? | Wrath of the Emperor Quest |
 
 ### Levels 150–200
-62 criaturas, 96.275 kills, 2.101 Charm Points, umas 4.184 horas (13 sem estimativa). Total acumulado: 11.558 Charm Points, 15.244 horas.
+62 criaturas, 96.275 kills, 2.101 Charm Points, umas 4.184 horas (13 sem estimativa). Total acumulado: 11.558 Charm Points, 15.320 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -694,7 +694,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Hive Overseer | Hard | 2.500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-39 criaturas, 87.000 kills, 1.775 Charm Points, umas 3.341 horas (12 sem estimativa). Total acumulado: 13.333 Charm Points, 18.585 horas.
+39 criaturas, 87.000 kills, 1.775 Charm Points, umas 3.341 horas (12 sem estimativa). Total acumulado: 13.333 Charm Points, 18.661 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -739,7 +739,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Silverfrost Sentinel | Hard | 2.500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-32 criaturas, 66.500 kills, 1.360 Charm Points, umas 3.798 horas (7 sem estimativa). Total acumulado: 14.693 Charm Points, 22.383 horas.
+32 criaturas, 66.500 kills, 1.360 Charm Points, umas 3.798 horas (7 sem estimativa). Total acumulado: 14.693 Charm Points, 22.459 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -777,7 +777,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Raubritter Skirmisher | Hard | 2.500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | The Order of the Stag Quest |
 
 ### Levels 300–350
-27 criaturas, 61.500 kills, 1.235 Charm Points, umas 4.930 horas (5 sem estimativa). Total acumulado: 15.928 Charm Points, 27.314 horas.
+27 criaturas, 61.500 kills, 1.235 Charm Points, umas 4.930 horas (5 sem estimativa). Total acumulado: 15.928 Charm Points, 27.389 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -810,7 +810,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Cyclursus | Hard | 2.500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-39 criaturas, 93.000 kills, 1.875 Charm Points, umas 5.748 horas (8 sem estimativa). Total acumulado: 17.803 Charm Points, 33.061 horas.
+39 criaturas, 93.000 kills, 1.875 Charm Points, umas 5.748 horas (8 sem estimativa). Total acumulado: 17.803 Charm Points, 33.137 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -855,7 +855,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Guardian of Tales | Hard | 2.500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | ? | ? |  |
 
 ### Levels 400–450
-18 criaturas, 45.000 kills, 900 Charm Points, umas 1.743 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 34.804 horas.
+18 criaturas, 45.000 kills, 900 Charm Points, umas 1.743 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 34.880 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -879,7 +879,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Mitmah Seer | Hard | 2.500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 criaturas, 10.000 kills, 200 Charm Points, umas 1.289 horas. Total acumulado: 18.903 Charm Points, 36.093 horas.
+4 criaturas, 10.000 kills, 200 Charm Points, umas 1.289 horas. Total acumulado: 18.903 Charm Points, 36.169 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -889,7 +889,7 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | Juggernaut | Hard | 2.500 | 50 | 450 | [Grounds of Destruction](https://tibiamaps.io/map#33426,32447,13:2) | 5 | 500 |  |
 
 ### Levels 500+
-83 criaturas, 375.000 kills, 7.500 Charm Points, umas 23.004 horas (55 sem estimativa). Total acumulado: 26.403 Charm Points, 59.098 horas.
+83 criaturas, 375.000 kills, 7.500 Charm Points, umas 23.004 horas (55 sem estimativa). Total acumulado: 26.403 Charm Points, 59.174 horas.
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -998,9 +998,9 @@ Cada classe dá um título quando todas as páginas dela estão completas (criat
 | Elemental | Elementalist | 26 | 44.005 | 1.010 | 740 | 2.588 (21 de 26) |
 | Slime | Ooze Blues | 13 | 20.530 | 496 | 755 | 784 (9 de 13) |
 | Vermin | Exterminator | 61 | 86.855 | 1.904 | 795 | 4.130 (50 de 61) |
-| Demon | Demonator | 43 | 83.020 | 1.930 | 800 | 6.798 (32 de 43) |
+| Demon | Demonator | 43 | 83.020 | 1.930 | 800 | 6.788 (32 de 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105.515 | 2.390 | 805 | 6.253 (46 de 58) |
-| Undead | Ghosthunter / Ghosthuntress | 94 | 196.525 | 4.355 | 835 | 8.764 (61 de 94) |
+| Undead | Ghosthunter / Ghosthuntress | 94 | 196.525 | 4.355 | 835 | 8.850 (62 de 94) |
 | Construct | Handyman / Handywoman | 36 | 59.045 | 1.431 | 950 | 3.618 (28 de 36) |
 | Human | Manhunter / Manhuntress | 96 | 148.525 | 3.485 | 1110 | 3.512 (64 de 96) |
 
@@ -1497,7 +1497,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Boogy | Fey | Medium | 1.000 | 25 | 100 | [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 63 |
 | Brachiodemon | Demon | Challenging | 5.000 | 100 | 625 | [Claustrophobic Inferno](https://tibiamaps.io/map#34002,31085,9:2) | 770 |
 | Brain Squid | Inkborn | Hard | 2.500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 368 |
-| Braindeath | Undead | Medium | 1.000 | 25 | 35 | [Helheim](https://tibiamaps.io/map#32478,31179,7:2) | ? |
+| Braindeath | Undead | Medium | 1.000 | 25 | 45 | [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 86 |
 | Bramble Wyrmling | Inkborn | Hard | 2.500 | 50 | 60 | [Book World](https://tibia.fandom.com/wiki/Book_World) | ? |
 | Branchy Crawler | Plant | Challenging | 5.000 | 100 | 675 | [Rotten Wasteland](https://tibiamaps.io/map#33944,31046,11:2) | ? |
 | Breach Brood | Extra Dimensional | Hard | 2.500 | 50 | 200 | [Otherworld](https://tibiamaps.io/map#32101,31349,11:2) | 89 |
@@ -1784,7 +1784,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Hellflayer | Demon | Hard | 2.500 | 50 | 350 | [Grounds of Undeath](https://tibiamaps.io/map#33394,32336,10:2) | 215 |
 | Hellhound | Demon | Hard | 2.500 | 50 | 190 | [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 541 |
 | Hellhunter Inferniarch | Demon | Hard | 2.500 | 50 | 285 | [Azzilon Catacombs](https://tibiamaps.io/map#33792,32318,11:2) | 261 |
-| Hellspawn | Demon | Medium | 1.000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 42 |
+| Hellspawn | Demon | Medium | 1.000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 31 |
 | Herald of Gloom (muito rara) | Demon | Medium | 5 | 50 | 10 | Edron Hero Cave around the Lightbringer's basin. | ? |
 | Hero | Human | Medium | 1.000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 75 |
 | Hibernal Moth | Vermin | Medium | 1.000 | 25 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 17 |
@@ -2275,7 +2275,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 
 **Quanto confiar neles:**
 - As kills por hora vêm dos spawns do mapa e do modelo, conferidas com hunts reais só nas hunts do guia principal.
-- 218 criaturas não têm estimativa: as áreas mais novas não estão nos dados abertos do mapa, e alguns monstros estão fora do alcance do modelo (eles se curam mais rápido do que o knight típico bate, ou dano físico quase não os machuca).
+- 217 criaturas não têm estimativa: as áreas mais novas não estão nos dados abertos do mapa, e alguns monstros estão fora do alcance do modelo (eles se curam mais rápido do que o knight típico bate, ou dano físico quase não os machuca).
 - Outros jogadores na mesma hunt, boosts diários e eventos de respawn rápido não entram na conta.
 - O dano do Shield Bash é uma estimativa (ainda não tem fórmula publicada).
 

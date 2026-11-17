@@ -115,7 +115,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 | Threatened Dreams Quest | 30 / 100 | Troubled Animals mission | Feyrist Meadows | 11 | 251 |
 | Treasure Island Quest | 0 / 40 | for the caverns | Treasure Island | 2 | 40 |
 | Barbarian Test Quest | 0 / 25 | for Buddel's boat; needed before the Ice Islands Quest | Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Krimhorn barbarians, Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons, Ragnir barbarians | 16 | 276 |
-| The Ice Islands Quest | 0 / 130+ | first mission | Helheim, Nibelor, Nibelor Crystal Spiders | 7 | 101 |
+| The Ice Islands Quest | 0 / 130+ | first mission | Nibelor, Nibelor Crystal Spiders | 6 | 76 |
 | The New Frontier Quest | 77 / 110+ |  | Chazorai, Farmine Mines, Zao Palace, Zao Palace Antechambers | 5 | 140 |
 | Blood Brothers Quest | 40 / 70+ | mission 4 | Vengoth, Vengoth Werewolf Cave | 4 | 80 |
 | Between the Lines Quest | 200 |  | Crumbling Caverns | 2 | 100 |
@@ -151,7 +151,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 Each band lists the creatures whose level falls in it, best charm points per hour first. **Level** is where hunting it makes sense (see the appendix for how it's set); **Kills/h** counts only that creature at that hunting ground, and **Hours** is what finishing it takes there. The other creatures you kill on the way count for their own entries. "?" means the model has no estimate.
 
 ### Levels 0–50
-241 creatures, 133,625 kills, 3,645 charm points, about 3,486 hours (28 without an estimate). Running total: 3,645 charm points, 3,486 hours.
+241 creatures, 133,625 kills, 3,645 charm points, about 3,572 hours (27 without an estimate). Running total: 3,645 charm points, 3,572 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -353,6 +353,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Azure Frog | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
 | Tiger | Easy | 500 | 15 | 10 | [Meriana](https://tibiamaps.io/map#32335,32580,7:2) | 10 | 50 | The Shattered Isles Quest |
 | Hunter | Easy | 500 | 15 | 20 | [Tyrsung Furrier Camp](https://tibiamaps.io/map#32363,31338,7:2) | 10 | 51 |  |
+| Braindeath | Medium | 1,000 | 25 | 45 | [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 12 | 86 |  |
 | Pig | Trivial | 250 | 5 | 8 | [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 14 | 18 |  |
 | Blood Hand | Medium | 1,000 | 25 | 20 | [Drefia](https://tibiamaps.io/map#33018,32443,7:2) | 11 | 91 |  |
 | Sea Captain | Easy | 500 | 15 | 8 | [Aragonia](https://tibiamaps.io/map#33539,32729,8:2) | 9 | 57 |  |
@@ -389,7 +390,6 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Squidgy Slime | Easy | 500 | 15 | 20 | [Horestis Tomb](https://tibia.fandom.com/wiki/Horestis_Tomb) | ? | ? |  |
 | Wisp | Trivial | 250 | 5 | 20 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | ? | ? |  |
 | White Tiger | Easy | 500 | 15 | 30 | [Desert Dungeon](https://tibia.fandom.com/wiki/Desert_Dungeon) | ? | ? |  |
-| Braindeath | Medium | 1,000 | 25 | 35 | [Helheim](https://tibiamaps.io/map#32478,31179,7:2) | ? | ? | The Ice Islands Quest |
 | Filth Toad | Easy | 500 | 15 | 35 | [Tiquanda](https://tibia.fandom.com/wiki/Tiquanda) | ? | ? |  |
 | Nightmare Scion | Medium | 1,000 | 25 | 35 | [Arena and Zoo Quarter](https://tibiamaps.io/map#32677,31231,7:2) | ? | ? |  |
 | High Voltage Elemental | Medium | 1,000 | 25 | 40 | [Oramond Factory Raids](https://tibiamaps.io/map#33549,31953,13:2) | ? | ? |  |
@@ -398,7 +398,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Corrupted Skeleton | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? | ? |  |
 
 ### Levels 50–100
-135 creatures, 148,050 kills, 3,537 charm points, about 4,464 hours (17 without an estimate). Running total: 7,182 charm points, 7,950 hours.
+135 creatures, 148,050 kills, 3,537 charm points, about 4,454 hours (17 without an estimate). Running total: 7,182 charm points, 8,026 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -480,6 +480,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Quara Predator | Medium | 1,000 | 25 | 55 | [Quara Grotto](https://tibiamaps.io/map#32208,32887,7:2) | 36 | 28 |  |
 | Massive Earth Elemental | Medium | 1,000 | 25 | 80 | [Truffels Garden (Gnomegate)](https://tibiamaps.io/map#32868,31835,13:2) | 34 | 30 |  |
 | Quara Mantassin | Medium | 1,000 | 25 | 60 | [Sunken Quarter](https://tibiamaps.io/map#32949,31182,7:2) | 34 | 30 |  |
+| Hellspawn | Medium | 1,000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 32 | 31 |  |
 | Crystalcrusher | Medium | 1,000 | 25 | 70 | [Middle Spike](https://tibiamaps.io/map#32242,32604,11:2) | 31 | 32 |  |
 | Baleful Bunny | Medium | 1,000 | 25 | 80 | [Percht Island](https://tibiamaps.io/map#33781,31032,7:2) | 31 | 32 |  |
 | Minotaur Cult Prophet | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 30 | 34 | The Postman Missions Quest |
@@ -494,7 +495,6 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Minotaur Cult Zealot | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 27 | 38 | The Postman Missions Quest |
 | White Shade | Easy | 500 | 15 | 60 | [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 21 | 24 |  |
 | Candy Floss Elemental | Hard | 2,500 | 50 | 95 | [Dessert Dungeons](https://tibiamaps.io/map#33427,32168,8:2) | 31 | 81 |  |
-| Hellspawn | Medium | 1,000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 24 | 42 |  |
 | Vicious Squire | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 23 | 43 |  |
 | Renegade Knight | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 23 | 44 |  |
 | Ogre Savage | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 22 | 46 |  |
@@ -539,7 +539,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Enslaved Dwarf | Medium | 1,000 | 25 | 95 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | ? | ? |  |
 
 ### Levels 100–150
-81 creatures, 96,500 kills, 2,275 charm points, about 3,109 hours (14 without an estimate). Running total: 9,457 charm points, 11,060 hours.
+81 creatures, 96,500 kills, 2,275 charm points, about 3,109 hours (14 without an estimate). Running total: 9,457 charm points, 11,135 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -626,7 +626,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Draken Elite | Hard | 2,500 | 50 | 140 | [Razachai](https://tibiamaps.io/map#33095,31091,9:2) | ? | ? | Wrath of the Emperor Quest |
 
 ### Levels 150–200
-62 creatures, 96,275 kills, 2,101 charm points, about 4,184 hours (13 without an estimate). Running total: 11,558 charm points, 15,244 hours.
+62 creatures, 96,275 kills, 2,101 charm points, about 4,184 hours (13 without an estimate). Running total: 11,558 charm points, 15,320 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -694,7 +694,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Hive Overseer | Hard | 2,500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-39 creatures, 87,000 kills, 1,775 charm points, about 3,341 hours (12 without an estimate). Running total: 13,333 charm points, 18,585 hours.
+39 creatures, 87,000 kills, 1,775 charm points, about 3,341 hours (12 without an estimate). Running total: 13,333 charm points, 18,661 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -739,7 +739,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Silverfrost Sentinel | Hard | 2,500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-32 creatures, 66,500 kills, 1,360 charm points, about 3,798 hours (7 without an estimate). Running total: 14,693 charm points, 22,383 hours.
+32 creatures, 66,500 kills, 1,360 charm points, about 3,798 hours (7 without an estimate). Running total: 14,693 charm points, 22,459 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -777,7 +777,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Raubritter Skirmisher | Hard | 2,500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | The Order of the Stag Quest |
 
 ### Levels 300–350
-27 creatures, 61,500 kills, 1,235 charm points, about 4,930 hours (5 without an estimate). Running total: 15,928 charm points, 27,314 hours.
+27 creatures, 61,500 kills, 1,235 charm points, about 4,930 hours (5 without an estimate). Running total: 15,928 charm points, 27,389 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -810,7 +810,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Cyclursus | Hard | 2,500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-39 creatures, 93,000 kills, 1,875 charm points, about 5,748 hours (8 without an estimate). Running total: 17,803 charm points, 33,061 hours.
+39 creatures, 93,000 kills, 1,875 charm points, about 5,748 hours (8 without an estimate). Running total: 17,803 charm points, 33,137 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -855,7 +855,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Guardian of Tales | Hard | 2,500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | ? | ? |  |
 
 ### Levels 400–450
-18 creatures, 45,000 kills, 900 charm points, about 1,743 hours (6 without an estimate). Running total: 18,703 charm points, 34,804 hours.
+18 creatures, 45,000 kills, 900 charm points, about 1,743 hours (6 without an estimate). Running total: 18,703 charm points, 34,880 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -879,7 +879,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Mitmah Seer | Hard | 2,500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 creatures, 10,000 kills, 200 charm points, about 1,289 hours. Running total: 18,903 charm points, 36,093 hours.
+4 creatures, 10,000 kills, 200 charm points, about 1,289 hours. Running total: 18,903 charm points, 36,169 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -889,7 +889,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Juggernaut | Hard | 2,500 | 50 | 450 | [Grounds of Destruction](https://tibiamaps.io/map#33426,32447,13:2) | 5 | 500 |  |
 
 ### Levels 500+
-83 creatures, 375,000 kills, 7,500 charm points, about 23,004 hours (55 without an estimate). Running total: 26,403 charm points, 59,098 hours.
+83 creatures, 375,000 kills, 7,500 charm points, about 23,004 hours (55 without an estimate). Running total: 26,403 charm points, 59,174 hours.
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
@@ -998,9 +998,9 @@ Each class gives a title when every entry in it is done (very rare and event cre
 | Elemental | Elementalist | 26 | 44,005 | 1,010 | 740 | 2,588 (21 of 26) |
 | Slime | Ooze Blues | 13 | 20,530 | 496 | 755 | 784 (9 of 13) |
 | Vermin | Exterminator | 61 | 86,855 | 1,904 | 795 | 4,130 (50 of 61) |
-| Demon | Demonator | 43 | 83,020 | 1,930 | 800 | 6,798 (32 of 43) |
+| Demon | Demonator | 43 | 83,020 | 1,930 | 800 | 6,788 (32 of 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105,515 | 2,390 | 805 | 6,253 (46 of 58) |
-| Undead | Ghosthunter / Ghosthuntress | 94 | 196,525 | 4,355 | 835 | 8,764 (61 of 94) |
+| Undead | Ghosthunter / Ghosthuntress | 94 | 196,525 | 4,355 | 835 | 8,850 (62 of 94) |
 | Construct | Handyman / Handywoman | 36 | 59,045 | 1,431 | 950 | 3,618 (28 of 36) |
 | Human | Manhunter / Manhuntress | 96 | 148,525 | 3,485 | 1110 | 3,512 (64 of 96) |
 
@@ -1497,7 +1497,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Boogy | Fey | Medium | 1,000 | 25 | 100 | [Feyrist Meadows](https://tibiamaps.io/map#33510,32229,7:2) | 63 |
 | Brachiodemon | Demon | Challenging | 5,000 | 100 | 625 | [Claustrophobic Inferno](https://tibiamaps.io/map#34002,31085,9:2) | 770 |
 | Brain Squid | Inkborn | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 368 |
-| Braindeath | Undead | Medium | 1,000 | 25 | 35 | [Helheim](https://tibiamaps.io/map#32478,31179,7:2) | ? |
+| Braindeath | Undead | Medium | 1,000 | 25 | 45 | [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 86 |
 | Bramble Wyrmling | Inkborn | Hard | 2,500 | 50 | 60 | [Book World](https://tibia.fandom.com/wiki/Book_World) | ? |
 | Branchy Crawler | Plant | Challenging | 5,000 | 100 | 675 | [Rotten Wasteland](https://tibiamaps.io/map#33944,31046,11:2) | ? |
 | Breach Brood | Extra Dimensional | Hard | 2,500 | 50 | 200 | [Otherworld](https://tibiamaps.io/map#32101,31349,11:2) | 89 |
@@ -1784,7 +1784,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Hellflayer | Demon | Hard | 2,500 | 50 | 350 | [Grounds of Undeath](https://tibiamaps.io/map#33394,32336,10:2) | 215 |
 | Hellhound | Demon | Hard | 2,500 | 50 | 190 | [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 541 |
 | Hellhunter Inferniarch | Demon | Hard | 2,500 | 50 | 285 | [Azzilon Catacombs](https://tibiamaps.io/map#33792,32318,11:2) | 261 |
-| Hellspawn | Demon | Medium | 1,000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 42 |
+| Hellspawn | Demon | Medium | 1,000 | 25 | 90 | [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 31 |
 | Herald of Gloom (very rare) | Demon | Medium | 5 | 50 | 10 | Edron Hero Cave around the Lightbringer's basin. | ? |
 | Hero | Human | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 75 |
 | Hibernal Moth | Vermin | Medium | 1,000 | 25 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 17 |
@@ -2275,7 +2275,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 
 **How far to trust them:**
 - Kills per hour come from the map's spawns and the model, checked against real hunts only for the main guide's hunting grounds.
-- 218 creatures have no estimate: the newest areas aren't in the open map data, and some monsters are out of the model's reach (they heal faster than the typical knight hits, or physical damage barely hurts them).
+- 217 creatures have no estimate: the newest areas aren't in the open map data, and some monsters are out of the model's reach (they heal faster than the typical knight hits, or physical damage barely hurts them).
 - Other players in the same hunting ground, daily boosts and rapid-respawn events are not counted.
 - Shield Bash damage is an estimate (no published formula yet).
 

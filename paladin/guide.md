@@ -2117,7 +2117,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Damage-reduction prey on Necromancer, XP prey on Gozzler. Still: summoners, skip Demon (hits half your HP) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Damage-reduction prey on Necromancer, XP prey on Gozzler. Still: summoners, skip Plaguesmith (hits half your HP) |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 3 → **2** | 3 → **2** | ~125k | ~305k | Damage-reduction prey on Wyvern |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~115k | ~270k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
 
@@ -2127,7 +2127,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 3 → **2** | 3 → **2** | ~125k | ~305k | Damage-reduction prey on Wyvern |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~115k | ~270k | Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Bear |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Damage-reduction prey on Necromancer, XP prey on Gozzler. Still: summoners, skip Demon (hits half your HP) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Damage-reduction prey on Necromancer, XP prey on Gozzler. Still: summoners, skip Plaguesmith (hits half your HP) |
 
 #### Level 120–130 with prey (~81 hours to the next band)
 
@@ -2189,7 +2189,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Damage-reduction prey on Zombie, XP prey on Nightmare. Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Damage-reduction prey on Zombie, XP prey on Nightmare. Still: summoners, skip Lich (hits half your HP) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k | Damage-reduction prey on Dragon, XP prey on Scorpion |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~130k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
 
@@ -2198,18 +2198,18 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~130k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Damage-reduction prey on Zombie, XP prey on Nightmare. Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Damage-reduction prey on Zombie, XP prey on Nightmare. Still: summoners, skip Lich (hits half your HP) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k | Damage-reduction prey on Dragon, XP prey on Scorpion |
 
-#### Level 160–170 with prey (~128 hours to the next band)
+#### Level 160–170 with prey (~143 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~140k | ~130k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
-| [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 2 → **1** | 2 → **1** | ~90k | ~75k | Damage-reduction prey on Scarab, XP prey on Larva. Still: summoners |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~80k | ~90k | Damage-reduction prey on Pirate Quartermaster, XP prey on Pirate Navigator |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~230k | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 
 **Good for gold**
 
@@ -2391,7 +2391,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Still: summoners, skip Demon (hits half your HP) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Still: summoners, skip Plaguesmith (hits half your HP) |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 3 → **2** | 3 → **2** | ~135k | ~100k | Still: summoners |
 | [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 3 → **2** | 3 → **2** | ~125k | ~45k | Still: summoners, skip Elder Bonelord (hits half your HP) |
 
@@ -2400,7 +2400,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~105k | ~245k | Gloom wolf days are great for money and bad for XP |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Still: summoners, skip Demon (hits half your HP) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Still: summoners, skip Plaguesmith (hits half your HP) |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 3 → **2** | 3 → **2** | ~135k | ~100k | Still: summoners |
 
 #### Level 120–130 with the Wheel (~86 hours to the next band)
@@ -2457,7 +2457,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Still: summoners, skip Lich (hits half your HP) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k |  |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k | ~60k |  |
 
@@ -2465,11 +2465,11 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Still: summoners, skip Lich (hits half your HP) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k |  |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k | ~60k |  |
 
-#### Level 160–170 with the Wheel (~114 hours to the next band)
+#### Level 160–170 with the Wheel (~120 hours to the next band)
 
 **Good for XP**
 
@@ -2477,7 +2477,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~130k | ~135k |  |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~130k | ~130k |  |
-| [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 2 → **1** | 2 → **1** | ~90k | ~75k | Still: summoners |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~75k | ~90k |  |
 
 **Good for gold**
 

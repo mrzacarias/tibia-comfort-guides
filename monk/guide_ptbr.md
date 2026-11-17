@@ -497,7 +497,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~135k | ~145k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 17% da vida. Vende bem: Cheese Cutter |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~125k | ~125k | Carlin 64 / ~15 s | Coryms, como nas Corym Caves de Venore e Tiquanda. Cuidado: Corym Vanguard bate 17% da vida. Vende bem: Cheese Cutter |
-| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~120k | ~125k | Liberty Bay 82 / ~20 s | Coryms embaixo de Liberty Bay. Cuidado: Corym Vanguard bate 17% da vida. Vende bem: Cheese Cutter |
+| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~125k | ~35k | Edron 237 / ~1,0 min | Stay on the upper cyclops floors; behemoths deep. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -2023,15 +2023,15 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~55k | ~95k | Prey de redução de dano em Wilting Leaf Golem, prey de XP em Forest Fury |
 | [Ab'Dendriel Elf Cave](https://tibiamaps.io/map#32646,31619,7:2) | 1 → **0** | 1 → **0** | ~20k | ~55k | Prey de redução de dano em Elf Scout, prey de XP em Elf |
 
-#### Level 60–70 com prey (~23 horas até a próxima faixa)
+#### Level 60–70 com prey (~29 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 3 → **2** | 3 → **2** | ~95k | ~25k | Prey de redução de dano em Cyclops Smith, prey de XP em Cyclops Drone. Ainda: evite Dragon Lord (bate metade da sua vida) |
 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~70k | ~55k | Prey de redução de dano em Dwarf Guard, prey de XP em Ghoul. Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~40k | ~16k | Prey de redução de dano em Rorc |
 
 **Bom para lucro**
 
@@ -2039,7 +2039,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 3 → **2** | 3 → **2** | ~95k | ~90k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
 | [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~70k | ~55k | Prey de redução de dano em Dwarf Guard, prey de XP em Ghoul. Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 3 → **2** | 3 → **2** | ~95k | ~25k | Prey de redução de dano em Cyclops Smith, prey de XP em Cyclops Drone. Ainda: evite Dragon Lord (bate metade da sua vida) |
+| [Forsaken Mine, Rorcs (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~40k | ~16k | Prey de redução de dano em Rorc |
 
 #### Level 70–80 com prey (~30 horas até a próxima faixa)
 
@@ -2309,7 +2309,7 @@ Mais tarde, a Wheel também recebe **gemas**, que adicionam bônus extras, como 
 ### Lendo as tabelas da Seção 4
 Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma estimativa grosseira de uns 1 de HP a mais por level acima do 50. Elas dão as notas das hunts da Seção 1 com essa vida extra e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total.
 
-#### Level 60–70 com a Wheel (~23 horas até a próxima faixa)
+#### Level 60–70 com a Wheel (~22 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -2481,12 +2481,13 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~120k | ~125k |  |
 | [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 2 → **1** | 2 → **1** | ~125k | ~35k |  |
 
-#### Level 160–170 com a Wheel (~95 horas até a próxima faixa)
+#### Level 160–170 com a Wheel (~86 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~170k | ~105k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k |  |
 
 **Bom para lucro**
@@ -2494,6 +2495,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k |  |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~170k | ~105k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 
 #### Level 170–180 com a Wheel (~95 horas até a próxima faixa)
 

@@ -568,7 +568,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~160k | ~170k | Venore 108 / ~25 s | Watch: Corym Vanguard hits 19% of HP. Sells: Cheese Cutter |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~155k | ~165k | Port Hope 76 / ~20 s | Watch: Corym Vanguard hits 19% of HP. Sells: Cheese Cutter |
-| [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~150k | ~155k | Liberty Bay 82 / ~20 s | Coryms below Liberty Bay. Watch: Corym Vanguard hits 19% of HP. Sells: Cheese Cutter |
+| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~150k | ~45k | Edron 237 / ~1.0 min | Stay on the upper cyclops floors; behemoths deep. Sells: Battle Shield |
 
 **Good for gold**
 

@@ -165,7 +165,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | Krailos 21 / ~5 s | 1 | 244k | 311k | 4k | Espada: Gnome Sword (energia). |
 
 ### Level 600–800 (~8.697 horas até o 800)
-**Novas hunts neste level** (confortáveis agora, não no 500): Lycanthrope Grounds (517k XP, 239k loot), The Wreckoning (444k XP, 183k loot), Quara Grotto (444k XP, 173k loot), Cemetery Quarter (438k XP, 113k loot), Glooth Factory (415k XP, 143k loot), Truffels Garden (Gnomegate) (363k XP, 320k loot).
+**Novas hunts neste level** (confortáveis agora, não no 500): Lycanthrope Grounds (517k XP, 239k loot), The Wreckoning (444k XP, 183k loot), Quara Grotto (444k XP, 173k loot), Glooth Factory (415k XP, 143k loot), Truffels Garden (Gnomegate) (363k XP, 320k loot), Feyrist Meadows (356k XP, 206k loot).
 
 **Melhores para XP**
 

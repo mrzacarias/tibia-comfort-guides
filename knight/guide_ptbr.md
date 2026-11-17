@@ -780,7 +780,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
-#### Level 130–140 com Stealth Ring (~73 horas até a próxima faixa)
+#### Level 130–140 com Stealth Ring (~72 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -2053,7 +2053,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~160k | ~110k | Prey de redução de dano em Stonerefiner |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~150k | ~75k | Prey de redução de dano em Dragon, prey de XP em Scorpion |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 3 → **2** | 3 → **2** | ~115k | ~60k | Prey de redução de dano em Bog Raider, prey de XP em Rotworm |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~115k | ~70k | Prey de redução de dano em Dwarf Guard, prey de XP em Lost Husher. Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
 
 #### Level 90–100 com prey (~26 horas até a próxima faixa)
 
@@ -2179,7 +2179,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~145k | ~140k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Skirmisher |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 → **0** | 1 → **0** | ~130k | ~120k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
-| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~170k | ~85k | Prey de redução de dano em Dragon |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 2 → **1** | 2 → **1** | ~135k | ~85k | Prey de redução de dano em Dwarf Guard, prey de XP em Lost Husher. Ainda: monstros que invocam |
 
 #### Level 160–170 com prey (~87 horas até a próxima faixa)
 
@@ -2315,19 +2315,19 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 |---|---|---|---|---|---|
 | [Fibula Dungeon](https://tibiamaps.io/map#32171,32440,7:2) | 1 → **0** | 1 → **0** | ~45k | ~13k | Ainda: monstros que invocam |
 
-#### Level 80–90 com a Wheel (~31 horas até a próxima faixa)
+#### Level 80–90 com a Wheel (~33 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~115k | ~80k | Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~105k | ~70k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~115k | ~80k | Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~105k | ~70k | Ainda: monstros que invocam, evite Enslaved Dwarf (bate metade da sua vida) |
 
 #### Level 90–100 com a Wheel (~29 horas até a próxima faixa)
 
@@ -2337,24 +2337,23 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 |---|---|---|---|---|---|
 | [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~190k | ~55k |  |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 3 → **2** | 3 → **2** | ~130k | ~70k |  |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~125k | ~95k | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 6 horas, fora do Loot/h. Ainda: um monstro raro bate metade da sua vida |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~130k | ~80k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~125k | ~95k | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 6 horas, fora do Loot/h. Ainda: um monstro raro bate metade da sua vida |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~130k | ~80k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 3 → **2** | 3 → **2** | ~130k | ~70k |  |
-| [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~190k | ~55k |  |
 
-#### Level 100–110 com a Wheel (~51 horas até a próxima faixa)
+#### Level 100–110 com a Wheel (~49 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~150k | ~185k |  |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 3 → **2** | 3 → **2** | ~95k | ~80k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 1 → **0** | 1 → **0** | ~65k | ~65k | Ainda: monstros que invocam |
 
 **Bom para lucro**
@@ -2362,7 +2361,6 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~150k | ~185k |  |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 3 → **2** | 3 → **2** | ~95k | ~80k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 1 → **0** | 1 → **0** | ~65k | ~65k | Ainda: monstros que invocam |
 
 #### Level 110–120 com a Wheel (~67 horas até a próxima faixa)
@@ -2448,18 +2446,18 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~130k | ~140k |  |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 2 → **1** | 2 → **1** | ~130k | ~85k | Ainda: monstros que invocam |
 | [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~170k | ~85k |  |
-| [Folda](https://tibiamaps.io/map#32020,31572,7:2) | 1 → **0** | 1 → **0** | ~45k | ~70k | Ainda: monstros que invocam |
 
-#### Level 160–170 com a Wheel (~76 horas até a próxima faixa)
+#### Level 160–170 com a Wheel (~89 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~195k | ~60k | Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 3 → **2** | 3 → **2** | ~190k | ~155k |  |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~135k | ~105k | Ainda: monstros que invocam |
+| [Ashta'daramai](https://tibiamaps.io/map#33101,32527,7:2) | 3 → **2** | 3 → **2** | ~125k | ~60k | Mais um raro Dirty Turban (~9k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: monstros que invocam |
 
 **Bom para lucro**
 
@@ -2467,7 +2465,7 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 3 → **2** | 3 → **2** | ~190k | ~155k |  |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~135k | ~105k | Ainda: monstros que invocam |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~195k | ~60k | Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
+| [Ashta'daramai](https://tibiamaps.io/map#33101,32527,7:2) | 3 → **2** | 3 → **2** | ~125k | ~60k | Mais um raro Dirty Turban (~9k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: monstros que invocam |
 
 #### Level 170–180 com a Wheel (~118 horas até a próxima faixa)
 
@@ -2537,9 +2535,9 @@ Estas tabelas contam com metade dos seus pontos nas fatias de vida, mais ou meno
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
+| [Formorgar Mines](https://tibiamaps.io/map#32146,31120,9:2) | 3 → **2** | 3 → **2** | ~185k | ~130k | Ainda: monstros que invocam |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~185k | ~100k |  |
 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 3 → **2** | 3 → **2** | ~240k | ~95k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
-| [Glooth Factory](https://tibiamaps.io/map#33549,31928,7:2) | 3 → **2** | 3 → **2** | ~265k | ~95k | Ainda: monstros que invocam |
 
 ## Seção 5: Weapon Proficiency
 Cada monstro que você mata com uma arma equipada aumenta a **proficiência** (proficiency) daquela arma. Cada nível de proficiência libera uma escolha de perks para aquela arma, como mais dano, mais golpes críticos ou mais leech. Você escolhe um perk por nível. Dá para escolher em qualquer lugar, mas trocar um perk exige estar numa zona de proteção.

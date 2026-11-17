@@ -2120,7 +2120,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Prey de redução de dano em Necromancer, prey de XP em Gozzler. Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Prey de redução de dano em Necromancer, prey de XP em Gozzler. Ainda: monstros que invocam, evite Plaguesmith (bate metade da sua vida) |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 3 → **2** | 3 → **2** | ~125k | ~305k | Prey de redução de dano em Wyvern |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~115k | ~270k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Bear |
 
@@ -2130,7 +2130,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 |---|---|---|---|---|---|
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 3 → **2** | 3 → **2** | ~125k | ~305k | Prey de redução de dano em Wyvern |
 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~115k | ~270k | Dias de gloom wolves são ótimos para lucro e ruins para XP. Prey de redução de dano em Wyvern, prey de XP em Bear |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Prey de redução de dano em Necromancer, prey de XP em Gozzler. Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~165k | ~130k | Prey de redução de dano em Necromancer, prey de XP em Gozzler. Ainda: monstros que invocam, evite Plaguesmith (bate metade da sua vida) |
 
 #### Level 120–130 com prey (~81 horas até a próxima faixa)
 
@@ -2192,7 +2192,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Prey de redução de dano em Zombie, prey de XP em Nightmare. Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Prey de redução de dano em Zombie, prey de XP em Nightmare. Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k | Prey de redução de dano em Dragon, prey de XP em Scorpion |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~130k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
 
@@ -2201,18 +2201,18 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~130k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Prey de redução de dano em Zombie, prey de XP em Nightmare. Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~190k | ~110k | Prey de redução de dano em Zombie, prey de XP em Nightmare. Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k | Prey de redução de dano em Dragon, prey de XP em Scorpion |
 
-#### Level 160–170 com prey (~128 horas até a próxima faixa)
+#### Level 160–170 com prey (~143 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~140k | ~130k | Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
-| [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 2 → **1** | 2 → **1** | ~90k | ~75k | Prey de redução de dano em Scarab, prey de XP em Larva. Ainda: monstros que invocam |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~80k | ~90k | Prey de redução de dano em Pirate Quartermaster, prey de XP em Pirate Navigator |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~230k | Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
 
 **Bom para lucro**
 
@@ -2394,7 +2394,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Ainda: monstros que invocam, evite Plaguesmith (bate metade da sua vida) |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 3 → **2** | 3 → **2** | ~135k | ~100k | Ainda: monstros que invocam |
 | [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 3 → **2** | 3 → **2** | ~125k | ~45k | Ainda: monstros que invocam, evite Elder Bonelord (bate metade da sua vida) |
 
@@ -2403,7 +2403,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~105k | ~245k | Dias de gloom wolves são ótimos para lucro e ruins para XP |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Ainda: monstros que invocam, evite Demon (bate metade da sua vida) |
+| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~155k | ~130k | Ainda: monstros que invocam, evite Plaguesmith (bate metade da sua vida) |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 3 → **2** | 3 → **2** | ~135k | ~100k | Ainda: monstros que invocam |
 
 #### Level 120–130 com a Wheel (~86 horas até a próxima faixa)
@@ -2460,7 +2460,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k |  |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k | ~60k |  |
 
@@ -2468,11 +2468,11 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Notas |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Ainda: monstros que invocam, evite Grim Reaper (bate metade da sua vida) |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~180k | ~110k | Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~170k | ~85k |  |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k | ~60k |  |
 
-#### Level 160–170 com a Wheel (~114 horas até a próxima faixa)
+#### Level 160–170 com a Wheel (~120 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -2480,7 +2480,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 |---|---|---|---|---|---|
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~130k | ~135k |  |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~130k | ~130k |  |
-| [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 2 → **1** | 2 → **1** | ~90k | ~75k | Ainda: monstros que invocam |
+| [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 → **0** | 1 → **0** | ~75k | ~90k |  |
 
 **Bom para lucro**
 

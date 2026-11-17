@@ -777,7 +777,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
-#### Level 130–140 with a Stealth Ring (~73 hours to the next band)
+#### Level 130–140 with a Stealth Ring (~72 hours to the next band)
 
 **Good for XP**
 
@@ -2050,7 +2050,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~160k | ~110k | Damage-reduction prey on Stonerefiner |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~150k | ~75k | Damage-reduction prey on Dragon, XP prey on Scorpion |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,7:2) | 3 → **2** | 3 → **2** | ~115k | ~60k | Damage-reduction prey on Bog Raider, XP prey on Rotworm |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~115k | ~70k | Damage-reduction prey on Dwarf Guard, XP prey on Lost Husher. Still: summoners, skip Enslaved Dwarf (hits half your HP) |
 
 #### Level 90–100 with prey (~26 hours to the next band)
 
@@ -2176,7 +2176,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~145k | ~140k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 → **0** | 1 → **0** | ~130k | ~120k | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
-| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~170k | ~85k | Damage-reduction prey on Dragon |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 2 → **1** | 2 → **1** | ~135k | ~85k | Damage-reduction prey on Dwarf Guard, XP prey on Lost Husher. Still: summoners |
 
 #### Level 160–170 with prey (~87 hours to the next band)
 
@@ -2312,19 +2312,19 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 |---|---|---|---|---|---|
 | [Fibula Dungeon](https://tibiamaps.io/map#32171,32440,7:2) | 1 → **0** | 1 → **0** | ~45k | ~13k | Still: summoners |
 
-#### Level 80–90 with the Wheel (~31 hours to the next band)
+#### Level 80–90 with the Wheel (~33 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~115k | ~80k | Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~105k | ~70k | Still: summoners, skip Enslaved Dwarf (hits half your HP) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~115k | ~80k | Still: summoners, skip Grim Reaper (hits half your HP) |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 3 → **2** | 3 → **2** | ~105k | ~70k | Still: summoners, skip Enslaved Dwarf (hits half your HP) |
 
 #### Level 90–100 with the Wheel (~29 hours to the next band)
 
@@ -2334,24 +2334,23 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 |---|---|---|---|---|---|
 | [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~190k | ~55k |  |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 3 → **2** | 3 → **2** | ~130k | ~70k |  |
-| [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~125k | ~95k | Plus a rare Fist on a Stick (~240k) about once every 6 hours, not counted in Loot/h. Still: a rare monster hits half your HP |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~130k | ~80k | Still: summoners, skip Lich (hits half your HP) |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 3 → **2** | 3 → **2** | ~125k | ~95k | Plus a rare Fist on a Stick (~240k) about once every 6 hours, not counted in Loot/h. Still: a rare monster hits half your HP |
+| [Cemetery Quarter](https://tibiamaps.io/map#32761,31077,7:2) | 3 → **2** | 3 → **2** | ~130k | ~80k | Still: summoners, skip Lich (hits half your HP) |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 3 → **2** | 3 → **2** | ~130k | ~70k |  |
-| [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~190k | ~55k |  |
 
-#### Level 100–110 with the Wheel (~51 hours to the next band)
+#### Level 100–110 with the Wheel (~49 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~150k | ~185k |  |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 3 → **2** | 3 → **2** | ~95k | ~80k | Still: summoners, skip Lich (hits half your HP) |
 | [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 1 → **0** | 1 → **0** | ~65k | ~65k | Still: summoners |
 
 **Good for gold**
@@ -2359,7 +2358,6 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~150k | ~185k |  |
-| [Ankrahmun Library Tomb](https://tibiamaps.io/map#33142,32838,7:2) | 3 → **2** | 3 → **2** | ~95k | ~80k | Still: summoners, skip Lich (hits half your HP) |
 | [Tarpit Tomb](https://tibiamaps.io/map#33233,32705,7:2) | 1 → **0** | 1 → **0** | ~65k | ~65k | Still: summoners |
 
 #### Level 110–120 with the Wheel (~67 hours to the next band)
@@ -2445,18 +2443,18 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 → **0** | 1 → **0** | ~130k | ~140k |  |
+| [Undead Cave (Mount Sternum)](https://tibiamaps.io/map#32418,32017,7:2) | 2 → **1** | 2 → **1** | ~130k | ~85k | Still: summoners |
 | [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~170k | ~85k |  |
-| [Folda](https://tibiamaps.io/map#32020,31572,7:2) | 1 → **0** | 1 → **0** | ~45k | ~70k | Still: summoners |
 
-#### Level 160–170 with the Wheel (~76 hours to the next band)
+#### Level 160–170 with the Wheel (~89 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~195k | ~60k | Still: summoners, skip Demon (hits half your HP) |
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 3 → **2** | 3 → **2** | ~190k | ~155k |  |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~135k | ~105k | Still: summoners |
+| [Ashta'daramai](https://tibiamaps.io/map#33101,32527,7:2) | 3 → **2** | 3 → **2** | ~125k | ~60k | Plus a rare Dirty Turban (~9k) about once every 4 hours, not counted in Loot/h. Still: summoners |
 
 **Good for gold**
 
@@ -2464,7 +2462,7 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 |---|---|---|---|---|---|
 | [Drillworm Caves (Kazordoon)](https://tibiamaps.io/map#32658,32012,13:2) | 3 → **2** | 3 → **2** | ~190k | ~155k |  |
 | [Stone Tomb](https://tibiamaps.io/map#33282,32743,7:2) | 2 → **1** | 2 → **1** | ~135k | ~105k | Still: summoners |
-| [Restricted Area (Magician Quarter)](https://tibiamaps.io/map#32849,31046,7:2) | 3 → **2** | 3 → **2** | ~195k | ~60k | Still: summoners, skip Demon (hits half your HP) |
+| [Ashta'daramai](https://tibiamaps.io/map#33101,32527,7:2) | 3 → **2** | 3 → **2** | ~125k | ~60k | Plus a rare Dirty Turban (~9k) about once every 4 hours, not counted in Loot/h. Still: summoners |
 
 #### Level 170–180 with the Wheel (~118 hours to the next band)
 
@@ -2534,9 +2532,9 @@ These tables assume half your points go into hit-point slices, about 1.5 extra H
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Notes |
 |---|---|---|---|---|---|
+| [Formorgar Mines](https://tibiamaps.io/map#32146,31120,9:2) | 3 → **2** | 3 → **2** | ~185k | ~130k | Still: summoners |
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 2 → **1** | 2 → **1** | ~185k | ~100k |  |
 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,7:2) | 3 → **2** | 3 → **2** | ~240k | ~95k | Still: summoners, skip Lich (hits half your HP) |
-| [Glooth Factory](https://tibiamaps.io/map#33549,31928,7:2) | 3 → **2** | 3 → **2** | ~265k | ~95k | Still: summoners |
 
 ## Section 5: Weapon proficiency
 Every monster you kill with a weapon equipped builds up that weapon's **proficiency**. Each proficiency level unlocks a choice of perks for that weapon, such as more damage, more critical hits or more leech. You pick one perk per level. You can pick anywhere, but changing a perk needs a protection zone.

@@ -165,7 +165,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | Krailos 21 / ~5 s | 1 | 244k | 311k | 4k | Sword: Gnome Sword (energy). Ogres |
 
 ### Level 600–800 (~8,697 hours to 800)
-**New at this level** (comfortable now, not at 500): Lycanthrope Grounds (517k XP, 239k loot), The Wreckoning (444k XP, 183k loot), Quara Grotto (444k XP, 173k loot), Cemetery Quarter (438k XP, 113k loot), Glooth Factory (415k XP, 143k loot), Truffels Garden (Gnomegate) (363k XP, 320k loot).
+**New at this level** (comfortable now, not at 500): Lycanthrope Grounds (517k XP, 239k loot), The Wreckoning (444k XP, 183k loot), Quara Grotto (444k XP, 173k loot), Glooth Factory (415k XP, 143k loot), Truffels Garden (Gnomegate) (363k XP, 320k loot), Feyrist Meadows (356k XP, 206k loot).
 
 **Best for XP**
 
