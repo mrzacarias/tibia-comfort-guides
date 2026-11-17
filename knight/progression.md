@@ -72,13 +72,14 @@ Print it, or copy it into a file, and tick what your character has done. For a c
 | ☐ | 100 | [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | Deeper Banuta, the Forbidden Lands |
 | ☐ | 100 | [Liquid Black](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | deeper Fiehonja and the Deeplings Library |
 | ☐ | 130 | [Wrath of the Emperor](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | Razachai, the Rebel Camp, the deep floors of Deeper Banuta |
+| ☐ | 150 | Gems: a regular gem in each colour, each colour powered to 2 in the Wheel | the main guide's Section 4 |
 | ☐ | 150 | [Rathleton](https://tibia.fandom.com/wiki/Rathleton_Quest) | Oramond Dungeon (50 votes) |
 | ☐ | 150 | [Dark Trails](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | Abandoned Sewers, Oramond Fury Dungeon |
 | ☐ | 250 | [Feaster of Souls](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) | Barren Drift |
 | ☐ | 250 | [The Dream Courts](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | Court of Summer, Court of Winter |
 | ☐ | 350 | Wheel: Combat Mastery (300 points in one domain) |  |
 | ☐ | 500 | Elemental swords and their proficiency: Gnome Sword, Summerblade, Winterblade, Lion Longsword | the 100+ guide |
-| ☐ | 500 | Guardian gems with resistance mods |  |
+| ☐ | 500 | Greater gems with life leech or mana leech |  |
 | ☐ | 500 | Bosstiary: 1,500 boss points (a second boss slot) |  |
 
 ## How the Bestiary works

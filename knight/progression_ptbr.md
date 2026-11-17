@@ -72,13 +72,14 @@ Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num 
 | ☐ | 100 | [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | Deeper Banuta, as Forbidden Lands |
 | ☐ | 100 | [Liquid Black](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | Fiehonja funda e a Deeplings Library |
 | ☐ | 130 | [Wrath of the Emperor](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | Razachai, o Rebel Camp, os andares fundos de Deeper Banuta |
+| ☐ | 150 | Gemas: uma gema normal em cada cor, cada cor com 2 de força na Wheel | a Seção 4 do guia principal |
 | ☐ | 150 | [Rathleton](https://tibia.fandom.com/wiki/Rathleton_Quest) | Oramond Dungeon (50 votos) |
 | ☐ | 150 | [Dark Trails](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | Abandoned Sewers, Oramond Fury Dungeon |
 | ☐ | 250 | [Feaster of Souls](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) | Barren Drift |
 | ☐ | 250 | [The Dream Courts](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | Court of Summer, Court of Winter |
 | ☐ | 350 | Wheel: Combat Mastery (300 pontos num domínio) |  |
 | ☐ | 500 | Espadas elementais e a proficiência delas: Gnome Sword, Summerblade, Winterblade, Lion Longsword | o guia 100+ |
-| ☐ | 500 | Guardian gems com mods de resistência |  |
+| ☐ | 500 | Gemas grandes com life leech ou mana leech |  |
 | ☐ | 500 | Bosstiary: 1.500 boss points (um segundo boss slot) |  |
 
 ## Como o Bestiário funciona
