@@ -11,7 +11,7 @@ The yardstick is a tested hunt: a level 99 knight with Basic Vampirism, Basic Vo
 - Each band starts with the hunting grounds it **unlocks**: comfortable at that level, not at the band before.
 
 ## What comfortable means here
-- **Rotation:** auto attack and `exori ico scu` (Shield Bash) on your target, nothing else. The numbers use no `exori`: it costs a lot of mana, so keep it for the moment a pull gets out of hand.
+- **Rotation:** auto attack and `exori ico scu` (Shield Bash) on your target, nothing else. The numbers use no `exori`: it costs a lot of mana, so keep it for the moment a pull gets out of hand. On the main guide's [multi-action buttons](guide.md#how-to-fight), that's one press of the single-target button (Shield Bash first) and the area button only when needed.
 - **Pulls as they come:** the model walks through each hunting ground and fights each spawn with its neighbours, so pulls of 3 or more happen. Rushing can bring 5 to 8 at once, as at the Stonerefiners; walk at the pace that keeps it calm.
 - **Leech does most of the healing**, `exura ico` the rest. The **Hunt** column grades what's left, like the main guide: **0** nothing to watch, **1** a look at your health now and then (the Stonerefiner run was a 1). No listed hunting ground's worst round takes more than the Stonerefiner run's (about 40% of your health).
 - **Potions:** Mana Potions for `exura ico` when Void falls short, and a health potion in a bad moment; the Potions/h column is both together, and it stays under a tenth of the loot (plus 2k).

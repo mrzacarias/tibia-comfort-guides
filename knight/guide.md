@@ -96,6 +96,11 @@ In this section you use only the basics: your weapon, the `exori infir min`, `ex
 
 **Potions** share one short cooldown (about 1 second). Use mana potions to keep casting `exori` and `exori ico scu`, and switch to a health potion when your HP drops fast. Stronger potions unlock at levels 50, 80, 130 and 200.
 
+**Multi-action buttons:** one action bar button can hold up to three spells (right-click it and choose Assign Multiaction). Each press casts the first one that isn't on cooldown, so pressing again while the first is cooling down sends the next. Attack spells share a 2-second cooldown, so the next press works 2 seconds later. A good setup, complete from level 30:
+- **Single target:** `exori ico scu` (level 18), then `exori ico` (16), then `exori hur` (28). One press is Shield Bash; press again only when you want more damage. Shield Bash goes first because it's the strongest and comes back every 4 seconds, so it's cast more often.
+- **Area:** `exori scu` (Shield Slam, level 30), then `exori` (35), then `exori gran` (90). The first press is the cheapest; the 360-mana `exori gran` only fires on the third press in a row, for a pull that got too big.
+- **Healing:** heal spells are ready again after 1 second, before the shared cooldown ends, so the first slot always fires. Keeping `exura infir ico`, `exura ico` and `exura med ico` on one button still keeps them in one place: move the one a hunting ground needs to the first slot. Keep `exura gran ico` (once every 2 minutes) on its own button for emergencies.
+
 **Stay safe:** always know your way out, and leave when your HP falls to about half.
 
 ### Gear

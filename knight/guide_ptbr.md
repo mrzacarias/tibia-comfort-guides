@@ -99,6 +99,11 @@ Nesta seção você usa só o básico: a sua arma, as magias de ataque `exori in
 
 **As poções** dividem um mesmo tempo de espera curto (cerca de 1 segundo). Use poções de mana para continuar soltando `exori` e `exori ico scu` e troque para uma de vida quando a sua vida cair rápido. Poções mais fortes liberam nos levels 50, 80, 130 e 200.
 
+**Botões multi-action:** um botão da action bar pode guardar até três magias (clique com o botão direito e escolha Assign Multiaction). Cada toque solta a primeira que não está em tempo de espera, então tocar de novo enquanto a primeira espera manda a próxima. As magias de ataque dividem um tempo de espera de 2 segundos, então o toque seguinte funciona 2 segundos depois. Uma boa configuração, completa a partir do level 30:
+- **Alvo único:** `exori ico scu` (level 18), depois `exori ico` (16), depois `exori hur` (28). Um toque é o Shield Bash; toque de novo só quando quiser mais dano. O Shield Bash vem primeiro porque é o mais forte e volta a cada 4 segundos, então sai mais vezes.
+- **Área:** `exori scu` (Shield Slam, level 30), depois `exori` (35), depois `exori gran` (90). O primeiro toque é o mais barato; o `exori gran`, de 360 de mana, só sai no terceiro toque seguido, para um pull que ficou grande demais.
+- **Cura:** as magias de cura ficam prontas de novo depois de 1 segundo, antes do tempo de espera compartilhado acabar, então o primeiro espaço sempre sai. Deixar `exura infir ico`, `exura ico` e `exura med ico` num botão só ainda mantém tudo num lugar: passe para o primeiro espaço a que a hunt pede. Deixe o `exura gran ico` (uma vez a cada 2 minutos) num botão separado para emergências.
+
 **Jogue seguro:** saiba sempre por onde sair e saia quando a sua vida chegar mais ou menos à metade.
 
 ### Equipamento

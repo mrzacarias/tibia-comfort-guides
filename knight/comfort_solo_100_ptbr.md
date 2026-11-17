@@ -11,7 +11,7 @@ A régua é uma hunt testada: um knight level 99 com Basic Vampirism, Basic Void
 - Cada faixa começa com as hunts que ela **libera**: confortáveis naquele level, não na faixa anterior.
 
 ## O que é confortável aqui
-- **Rotação:** auto attack e `exori ico scu` (Shield Bash) no alvo, só isso. Os números não usam `exori`: ele gasta muita mana, então guarde para quando um pull sair do controle.
+- **Rotação:** auto attack e `exori ico scu` (Shield Bash) no alvo, só isso. Os números não usam `exori`: ele gasta muita mana, então guarde para quando um pull sair do controle. Nos [botões multi-action](guide_ptbr.md#como-lutar) do guia principal, isso é um toque no botão de alvo único (Shield Bash primeiro) e o botão de área só quando precisar.
 - **Pulls como vierem:** o modelo anda pela hunt e luta com cada spawn junto dos vizinhos, então pulls de 3 ou mais acontecem. Correndo dá para juntar 5 a 8 de uma vez, como nos Stonerefiners; ande no ritmo que mantém tudo tranquilo.
 - **O leech faz quase toda a cura**, o `exura ico` o resto. A coluna **Atenção** dá a nota do que sobra, como no guia principal: **0** nada para vigiar, **1** uma olhada na vida de vez em quando (a hunt de Stonerefiner foi 1). Nenhuma hunt da lista tira mais no pior turno que a hunt de Stonerefiner (uns 40% da sua vida).
 - **Poções:** Mana Potions para o `exura ico` quando o Void não dá conta, e uma health potion num momento ruim; a coluna Poções/h soma as duas, e fica abaixo de um décimo do loot (mais 2k).
