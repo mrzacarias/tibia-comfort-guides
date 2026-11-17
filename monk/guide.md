@@ -234,8 +234,8 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~40k | ~45k | Targuna depot, on the island | Lizards; the Lizard Statues inside cure their poison. Sells: Lizard Tail |
-| [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 0 | 0 | ~25k | ~25k | not computed | Sells: Turtle Shell |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~60k | not computed | Watch: Valkyrie hits 30% of HP. Sells: Protective Charm |
+| [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 0 | 0 | ~25k | ~25k | Yalahar 192 / ~48 s, Maris's boat to Fenrock | Sells: Turtle Shell |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~60k | Venore, north-west of the city | Watch: Valkyrie hits 30% of HP. Sells: Protective Charm |
 
 **Good for gold**
 
@@ -243,7 +243,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Sells: Honeycomb |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~11k | ~60k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~60k | not computed | Watch: Valkyrie hits 30% of HP. Sells: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~60k | Venore, north-west of the city | Watch: Valkyrie hits 30% of HP. Sells: Protective Charm |
 
 #### Level 40–50 (~18 hours to the next band)
 **Typical monk in this band:** fist fighting 57, Nunchaku. Good-value gear, each piece under ~81k: Heat Core, Zaoan Legs, Royal Helmet, Boots of Haste, Harmony Amulet, Guardian Ring.
@@ -261,7 +261,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Sells: Honeycomb |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | not computed | Watch: Valkyrie hits 24% of HP. Sells: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | Venore, north-west of the city | Watch: Valkyrie hits 24% of HP. Sells: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~12k | ~65k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
 
 #### Level 50–60 (~28 hours to the next band)
@@ -283,7 +283,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~40k | ~155k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Watch: Barbarian Headsplitter hits 18% of HP. Sells: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k | ~115k | Venore 262 / ~1.1 min | Sells: Medicine Pouch |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~35k | ~95k | not computed | Watch: Valkyrie hits 20% of HP. Sells: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~35k | ~95k | Venore, north-west of the city | Watch: Valkyrie hits 20% of HP. Sells: Protective Charm |
 
 #### Level 60–70 (~33 hours to the next band)
 **Typical monk in this band:** fist fighting 68, Sai. Good-value gear, each piece under ~116k: Heat Core, Zaoan Legs, Demon Helmet, Badger Boots, Harmony Amulet, Butterfly Ring.
@@ -296,7 +296,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~65k | ~130k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 26% of HP, slows or summons. Sells: Elven Hoof |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~60k | ~25k | Targuna, portal in Emiliana's house | Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~55k | ~20k | not computed | Watch: Frost Giant hits 28% of HP. Sells: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~55k | ~20k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 90 / ~22 s | Watch: Frost Giant hits 28% of HP. Sells: Ice Cube |
 
 **Good for gold**
 
@@ -317,7 +317,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~70k | ~140k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 23% of HP, slows or summons. Sells: Elven Hoof |
 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 1 | 1 | ~65k | ~25k | Targuna, portal in Emiliana's house | Infernoids; cross the fire fields or switch them off with the floor slabs; Needs the Burning Heat mission of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (level 12). Sells: Infernoid Ember |
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~60k | ~25k | not computed | Watch: Frost Giant hits 25% of HP. Sells: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~60k | ~25k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 90 / ~22 s | Watch: Frost Giant hits 25% of HP. Sells: Ice Cube |
 
 **Good for gold**
 
@@ -359,7 +359,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 18% of HP, slows or summons. Sells: Elven Hoof |
 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~80k | ~25k | Yalahar 192 / ~48 s, Maris's boat to Mistrock | Watch: Cyclops Smith hits 22% of HP. Sells: Battle Shield |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~75k | ~25k | not computed | Sells: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~75k | ~25k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 139 / ~35 s | Sells: Battle Shield |
 
 **Good for gold**
 
@@ -635,7 +635,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~50k | not computed | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~50k | Venore, north-west of the city | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~18k | ~50k | Carlin 195 / ~49 s | Can't see you: Amazon, Valkyrie. Sells: Protective Charm |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~35k | ~45k | Targuna depot, on the island | Can't see you: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Sells: Lizard Tail |
 
@@ -654,7 +654,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~25k | ~95k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
-| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 3 → **0** | 3 → **0** | ~35k | ~50k | not computed | Can't see you: Mammoth. Sells: Mammoth Tusk |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 3 → **0** | 3 → **0** | ~35k | ~50k | Svargrond, on foot over the ice, then down a ramp in the Formorgar Glacier | Can't see you: Mammoth. Sells: Mammoth Tusk |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 2 → **0** | 2 → **0** | ~40k | ~50k | Targuna, then Sterling's sea turtle (free) | Can't see you: Pirate Navigator, Pirate Gunner, Pirate Cook, Pirate Quartermaster. Sells: Gold Tooth |
 
 #### Level 40–50 with a Stealth Ring (~16 hours to the next band)
@@ -745,7 +745,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~60k | ~230k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~100k | ~195k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
 #### Level 90–100 with a Stealth Ring (~31 hours to the next band)
 
@@ -799,7 +799,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~65k | ~245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k | ~215k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
 #### Level 120–130 with a Stealth Ring (~46 hours to the next band)
 
@@ -816,7 +816,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~115k | ~220k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 130–140 with a Stealth Ring (~53 hours to the next band)
@@ -834,7 +834,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~115k | ~220k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 140–150 with a Stealth Ring (~62 hours to the next band)
@@ -851,7 +851,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~90k | ~195k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 
@@ -869,7 +869,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~90k | ~195k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 
@@ -888,7 +888,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 170–180 with a Stealth Ring (~95 hours to the next band)
@@ -906,7 +906,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 180–190 with a Stealth Ring (~105 hours to the next band)
@@ -925,7 +925,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~120k | ~230k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
 #### Level 190–200 with a Stealth Ring (~105 hours to the next band)
 
@@ -943,7 +943,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~120k | ~230k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~205k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
 #### Level 200+ with a Stealth Ring
 
@@ -961,7 +961,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~265k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~130k | ~250k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | not computed | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor (after the Meriana Quest) | Not listed in Section 1: without the ring it is too annoying. Can't see you: Pirate Skeleton, Slime, Pirate Ghost. Sells: Stone Skin Amulet |
 
 ## Section 1b: Hunting grounds behind quests
 The other sections leave out every hunting ground that needs a quest first, because quests take time and many players find them a chore. Two don't count: the Targuna Quest, which everyone on the island does anyway, and starting The New Frontier Quest, which is only talking to Ongulf. This section lists those hunting grounds, graded like Section 1, with the same two lists per band. When Section 1a makes one of them easier, its note says so.

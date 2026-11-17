@@ -239,8 +239,8 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~45k | ~50k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Cuidado: Lizard Executioner bate 17% da vida. Vende bem: Lizard Tail |
-| [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 0 | 0 | ~25k | ~30k | não calculado | Vende bem: Turtle Shell |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
+| [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 0 | 0 | ~25k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Fenrock | Vende bem: Turtle Shell |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
 
 **Bom para lucro**
 
@@ -248,7 +248,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~95k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 19% da vida. Vende bem: Winter Wolf Fur |
 | [Thais Wasp Dungeon](https://tibiamaps.io/map#32428,32315,7:2) | 0 | 0 | ~10k | ~75k | Thais 188 / ~47 s | Vende bem: Honeycomb |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | não calculado | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k | ~65k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 29% da vida. Vende bem: Protective Charm |
 
 #### Level 40–50 (~16 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 32, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~74k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Guardian Ring.
@@ -259,7 +259,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 | 1 | ~45k | ~55k | depot de Targuna, na própria ilha | Lizards; as Lizard Statues lá dentro curam o veneno deles. Vende bem: Lizard Tail |
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~45k | ~16k | não calculado | Cuidado: Frost Giant bate 42% da vida. Vende bem: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~45k | ~16k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 90 / ~22 s | Cuidado: Frost Giant bate 42% da vida. Vende bem: Ice Cube |
 
 **Bom para lucro**
 
@@ -267,7 +267,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~100k | Svargrond, a pé pelo gelo | Cuidado: Mammoth bate 16% da vida. Vende bem: Winter Wolf Fur |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~30k | ~80k | não calculado | Cuidado: Valkyrie bate 25% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~30k | ~80k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 25% da vida. Vende bem: Protective Charm |
 
 #### Level 50–60 (~23 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 40, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~98k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Butterfly Ring.
@@ -278,7 +278,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | não calculado | Cuidado: Frost Giant bate 37% da vida. Vende bem: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 90 / ~22 s | Cuidado: Frost Giant bate 37% da vida. Vende bem: Ice Cube |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 | [Tarantula Caves (Port Hope)](https://tibiamaps.io/map#32726,32794,7:2) | 1 | 1 | ~50k | ~55k | Port Hope 219 / ~55 s | Veneno: leve Cure Poison. Cuidado: precisa de Cure Poison. Vende bem: Centipede Leg |
 
@@ -288,7 +288,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~45k | ~175k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 22% da vida. Vende bem: Winter Wolf Fur |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~130k | não calculado | Cuidado: Valkyrie bate 22% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~130k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 22% da vida. Vende bem: Protective Charm |
 
 #### Level 60–70 (~31 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 46, Wand of Inferno. Equipamento com bom custo-benefício, cada peça abaixo de ~88k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
@@ -299,7 +299,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | não calculado | Cuidado: Frost Giant bate 33% da vida. Vende bem: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~65k | ~25k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 90 / ~22 s | Cuidado: Frost Giant bate 33% da vida. Vende bem: Ice Cube |
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~65k | ~80k | Targuna, depois tartaruga do Sterling (grátis) | Pirates; faz parte da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Vende bem: Gold Tooth |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~60k | ~125k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 28% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
@@ -309,7 +309,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~45k | ~185k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~45k | ~175k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 19% da vida. Vende bem: Winter Wolf Fur |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~135k | não calculado | Cuidado: Valkyrie bate 19% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~50k | ~135k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 19% da vida. Vende bem: Protective Charm |
 
 #### Level 70–80 (~36 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 52, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~106k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
@@ -322,7 +322,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | 1 | 1 | ~75k | ~125k | Carlin 349 / ~1,5 min | Cuidado: Pirate Marauder bate 22% da vida. Vende bem: Stone Skin Amulet |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~75k | ~145k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 25% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
-| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 | 1 | ~70k | ~110k | não calculado | Vende bem: Mammoth Tusk |
+| [Mammoth Shearing Factory](https://tibiamaps.io/map#32230,31016,7:2) | 1 | 1 | ~70k | ~110k | Svargrond, a pé pelo gelo, depois descendo uma rampa no Formorgar Glacier | Vende bem: Mammoth Tusk |
 
 **Bom para lucro**
 
@@ -330,7 +330,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~200k | Svargrond, a pé pelo gelo | Vende bem: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Barbarians, winter wolves e mammoths, como em Ragnir; O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest); ou vá a pé pelo Formorgar Glacier. Cuidado: Barbarian Headsplitter bate 17% da vida. Vende bem: Winter Wolf Fur |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~55k | ~155k | não calculado | Cuidado: Valkyrie bate 17% da vida. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~55k | ~155k | Venore, a noroeste da cidade | Cuidado: Valkyrie bate 17% da vida. Vende bem: Protective Charm |
 
 #### Level 80–90 (~42 horas até a próxima faixa)
 **Sorcerer típico desta faixa:** magic level 58, Wand of Everblazing. Equipamento com bom custo-benefício, cada peça abaixo de ~123k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
@@ -341,7 +341,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~85k | ~30k | não calculado | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~85k | ~30k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
 | [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 1 | 1 | ~80k | ~19k | Ankrahmun 162 / ~40 s | Vende bem: Terramite Legs |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~80k | ~165k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 23% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 
@@ -363,7 +363,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~25k | Ab'Dendriel 84 / ~20 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves); poucos monstros. Cuidado: Cyclops Drone bate 23% da vida. Vende bem: Cyclops Toe |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | não calculado | Cuidado: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Cuidado: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
 | [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | 1 | 1 | ~80k | ~19k | Ankrahmun 162 / ~40 s | Vende bem: Terramite Legs |
 
 **Bom para lucro**
@@ -385,7 +385,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~95k | ~195k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 19% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~95k | ~25k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 22% da vida. Vende bem: Battle Shield |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | não calculado | Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~90k | ~30k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -421,7 +421,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~110k | ~35k | não calculado | Vende bem: Battle Shield |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~110k | ~35k | Yalahar 192 / ~48 s, barco do Maris para Fenrock, depois descendo pelas cavernas de Fenrock até Beregar (ore wagons depois da primeira vez) | Vende bem: Battle Shield |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 17% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~100k | ~30k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 19% da vida. Vende bem: Battle Shield |
 
@@ -440,9 +440,9 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | Yalahar 192 / ~48 s, barco do Maris para Fenrock, depois descendo pelas cavernas de Fenrock até Beregar (ore wagons depois da primeira vez) | Vende bem: Battle Shield |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: Wilting Leaf Golem bate 16% da vida, paralisam ou invocam. Vende bem: Elven Hoof |
-| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~105k | ~40k | não calculado | Cuidado: Frost Giant bate 18% da vida. Vende bem: Ice Cube |
+| [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~105k | ~40k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 90 / ~22 s | Cuidado: Frost Giant bate 18% da vida. Vende bem: Ice Cube |
 
 **Bom para lucro**
 
@@ -459,7 +459,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | Yalahar 192 / ~48 s, barco do Maris para Fenrock, depois descendo pelas cavernas de Fenrock até Beregar (ore wagons depois da primeira vez) | Vende bem: Battle Shield |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 1 | 1 | ~110k | ~85k | Darashia 266 / ~1,1 min | Cuidado: Shadow Pupil bate 41% da vida, monstros que invocam. Vende bem: Horoscope |
 
@@ -481,7 +481,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 | 1 | ~115k | ~190k | Yalahar 252 / ~1,1 min | Porta de level 30; novices e acolytes. Cuidado: Novice of the Cult bate 28% da vida, dano quase todo elemental, monstros que invocam. Vende bem: Rope Belt |
-| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | não calculado | Vende bem: Battle Shield |
+| [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 | 1 | ~115k | ~40k | Yalahar 192 / ~48 s, barco do Maris para Fenrock, depois descendo pelas cavernas de Fenrock até Beregar (ore wagons depois da primeira vez) | Vende bem: Battle Shield |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves). Cuidado: paralisam ou invocam. Vende bem: Elven Hoof |
 
 **Bom para lucro**
@@ -636,7 +636,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 2 → **1** | 2 → **1** | ~25k | ~65k | Carlin 195 / ~49 s | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
-| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~55k | não calculado | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 2 → **1** | 2 → **1** | ~20k | ~55k | Venore, a noroeste da cidade | Não te veem: Amazon, Valkyrie. Vende bem: Protective Charm |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 2 → **0** | 2 → **0** | ~45k | ~50k | depot de Targuna, na própria ilha | Não te veem: Lizard Henchman, Lizard Executioner, Lizard Magician, Lizard Swordmaster. Vende bem: Lizard Tail |
 
 #### Level 30–40 com invisibilidade (~8,0 horas até a próxima faixa)
@@ -683,7 +683,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~85k | ~20k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 18% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 18% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -701,7 +701,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~90k | ~20k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~80k | ~155k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~75k | ~25k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Não te veem: Dwarf, Dwarf Soldier. Ainda: Dwarf Guard bate 16% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -719,7 +719,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **0** | 2 → **0** | ~95k | ~25k | Ab'Dendriel 84 / ~20 s | Não te veem: Cyclops, Cyclops Drone. Vende bem: Cyclops Toe |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~95k | ~180k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k | não calculado | Não te veem: Dwarf, Dwarf Soldier. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Não te veem: Dwarf, Dwarf Soldier. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -727,7 +727,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~185k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~185k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 80–90 com invisibilidade (~26 horas até a próxima faixa)
 
@@ -744,7 +744,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k | ~200k | Svargrond, a pé pelo gelo | Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~190k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~190k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~190k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Mammoth, Winter Wolf. Vende bem: Winter Wolf Fur |
 
 #### Level 90–100 com invisibilidade (~30 horas até a próxima faixa)
@@ -853,7 +853,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 150–160 com invisibilidade (~66 horas até a próxima faixa)
 
@@ -889,7 +889,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 170–180 com invisibilidade (~82 horas até a próxima faixa)
 
@@ -907,7 +907,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 180–190 com invisibilidade (~95 horas até a próxima faixa)
 
@@ -925,7 +925,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~260k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~90k | ~215k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 190–200 com invisibilidade (~98 horas até a próxima faixa)
 
@@ -943,7 +943,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 200+ com invisibilidade
 
@@ -961,7 +961,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~70k | ~280k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~235k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | não calculado | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~95k | ~230k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem invisibilidade, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 ## Seção 1b: Hunts atrás de quests
 As outras seções deixam de fora toda hunt que exige uma quest antes, porque quests tomam tempo e muitos jogadores acham isso chato. Duas não contam: a Targuna Quest, que todo mundo faz na ilha, e começar a The New Frontier Quest, que é só conversar com o Ongulf. Esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. Quando a Seção 1a facilita alguma delas, a nota avisa.

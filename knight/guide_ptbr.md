@@ -260,7 +260,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~70k | ~17k | Ab'Dendriel 84 / ~20 s | Só em alguns dias: a mina muda todo dia (Rorcs, Forest Furies, Cyclopes ou Lost Dwarves); poucos monstros. Cuidado: Cyclops Drone bate 23% da vida. Vende bem: Cyclops Toe |
 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 1 | 1 | ~65k | ~20k | Yalahar 192 / ~48 s, barco do Maris para Mistrock | Cuidado: Cyclops Smith bate 27% da vida. Vende bem: Battle Shield |
-| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~65k | ~25k | não calculado | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
+| [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 1 | 1 | ~65k | ~25k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | Cuidado: Dwarf Guard bate 17% da vida. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
@@ -396,7 +396,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~195k | ~160k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~140k | ~25k | não calculado | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Cuidado: Worker Golem bate 19% da vida, monstros que invocam. Vende bem: Protective Charm |
+| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~140k | ~25k | Yalahar, no Factory Quarter | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Cuidado: Worker Golem bate 19% da vida, monstros que invocam. Vende bem: Protective Charm |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~135k | ~140k | Port Hope 76 / ~20 s | Cuidado: Corym Vanguard bate 16% da vida. Vende bem: Cheese Cutter |
 
 **Bom para lucro**
@@ -416,7 +416,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) ✓ | 0 | 0 | 185k | 160k | Venore 98 / ~25 s | **Testado** (level 135, sword 115): 2k gold de supplies por hora, quase sem cura, 81k de loot/h naquele mundo. Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) ✓ | 1 | 1 | 140k | 130k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | **Testado** (level 135, sword 115): 8k gold de supplies por hora, 14,8k de cura/h, 123k de loot/h naquele mundo. Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Vende bem: Ancient Belt Buckle |
-| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~140k | ~25k | não calculado | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Cuidado: Worker Golem bate 18% da vida, monstros que invocam. Vende bem: Protective Charm |
+| [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 1 | 1 | ~140k | ~25k | Yalahar, no Factory Quarter | Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h. Cuidado: Worker Golem bate 18% da vida, monstros que invocam. Vende bem: Protective Charm |
 
 **Bom para lucro**
 
@@ -665,7 +665,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~195k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~80k | ~155k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Ainda: Mummy bate 16% da vida. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~50k | ~135k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~50k | ~135k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 60–70 com Stealth Ring (~19 horas até a próxima faixa)
 
@@ -683,7 +683,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~50k | ~195k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~90k | ~170k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~50k | ~140k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~50k | ~140k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 70–80 com Stealth Ring (~24 horas até a próxima faixa)
 
@@ -700,7 +700,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~55k | ~215k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~175k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~175k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~80k | ~150k | Carlin 173 / ~45 s | Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
 #### Level 80–90 com Stealth Ring (~29 horas até a próxima faixa)
@@ -719,7 +719,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~55k | ~215k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~100k | ~190k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~175k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~175k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 90–100 com Stealth Ring (~41 horas até a próxima faixa)
 
@@ -737,7 +737,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~60k | ~225k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~100k | ~195k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~185k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~65k | ~185k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 100–110 com Stealth Ring (~41 horas até a próxima faixa)
 
@@ -755,7 +755,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~60k | ~230k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~105k | ~200k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 110–120 com Stealth Ring (~49 horas até a próxima faixa)
 
@@ -773,7 +773,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~60k | ~230k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~105k | ~200k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~185k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 120–130 com Stealth Ring (~53 horas até a próxima faixa)
 
@@ -791,7 +791,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 130–140 com Stealth Ring (~72 horas até a próxima faixa)
 
@@ -809,7 +809,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 140–150 com Stealth Ring (~83 horas até a próxima faixa)
 
@@ -827,7 +827,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Não te veem: Bug, Wilting Leaf Golem, Leaf Golem. Vende bem: Piece of Swampling Wood |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~110k | ~215k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~70k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 
 #### Level 150–160 com Stealth Ring (~87 horas até a próxima faixa)
 
@@ -844,7 +844,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~220k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 → **0** | 1 → **0** | ~140k | ~145k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Vende bem: Cheese Cutter |
 
 #### Level 160–170 com Stealth Ring (~100 horas até a próxima faixa)
@@ -862,7 +862,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~220k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 → **0** | 1 → **0** | ~140k | ~145k | Port Hope 76 / ~20 s | Não te veem: Corym Charlatan, Corym Skirmisher. Vende bem: Cheese Cutter |
 
 #### Level 170–180 com Stealth Ring (~118 horas até a próxima faixa)
@@ -880,7 +880,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 → **0** | 1 → **0** | ~115k | ~220k | Edron 269 / ~1,1 min | Não te veem: Crypt Shambler, Skeleton. Vende bem: Flask of Embalming Fluid |
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~70k | ~150k | Venore 207 / ~50 s | Vende bem: Elvish Talisman |
 
 #### Level 180–190 com Stealth Ring (~162 horas até a próxima faixa)
@@ -897,7 +897,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~75k | ~200k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~70k | ~150k | Venore 207 / ~50 s | Vende bem: Elvish Talisman |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 1 → **0** | 1 → **0** | ~100k | ~130k | Kazordoon 453 / ~1,9 min | Não te veem: Orc Berserker, Orc Spearman, Orc Warrior. Vende bem: Broken Shamanic Staff |
 
@@ -915,7 +915,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~80k | ~165k | Venore 207 / ~50 s | Vende bem: Elvish Talisman |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 1 → **0** | 1 → **0** | ~110k | ~145k | Kazordoon 453 / ~1,9 min | Não te veem: Orc Berserker, Orc Spearman, Orc Warrior. Vende bem: Broken Shamanic Staff |
 
@@ -925,7 +925,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Frozen Trench](https://tibiamaps.io/map#32362,31371,7:2) | 1 → **1** | 3 → **1** | ~150k | ~65k | não calculado | Não te veem: Quara Constrictor, Quara Mantassin. Ainda: Massive Water Elemental bate 30% da vida. Vende bem: Might Ring |
+| [Frozen Trench](https://tibiamaps.io/map#32362,31371,7:2) | 1 → **1** | 3 → **1** | ~150k | ~65k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois um mergulho ao sul de lá | Não te veem: Quara Constrictor, Quara Mantassin. Ainda: Massive Water Elemental bate 30% da vida. Vende bem: Might Ring |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~120k | ~135k | Edron + barco para Cormaya | Não te veem: Leaf Golem, Wilting Leaf Golem. Vende bem: Dowser |
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 1 → **0** | 1 → **0** | ~110k | ~110k | Ab'Dendriel 46 / ~12 s | Não te veem: Demon Skeleton, Skeleton. Vende bem: Rotten Piece of Cloth |
 
@@ -933,7 +933,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | não calculado | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
+| [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | – → **0** | – → **0** | ~80k | ~220k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor (depois da Meriana Quest) | Fora da Seção 1: sem o anel, é chato demais. Não te veem: Pirate Skeleton, Slime, Pirate Ghost. Vende bem: Stone Skin Amulet |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 1 → **0** | 1 → **0** | ~80k | ~165k | Venore 207 / ~50 s | Vende bem: Elvish Talisman |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 1 → **0** | 1 → **0** | ~110k | ~145k | Kazordoon 453 / ~1,9 min | Não te veem: Orc Berserker, Orc Spearman, Orc Warrior. Vende bem: Broken Shamanic Staff |
 
