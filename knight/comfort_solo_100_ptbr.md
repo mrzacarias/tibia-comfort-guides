@@ -21,7 +21,7 @@ A régua é uma hunt testada: um knight level 99 com Basic Vampirism, Basic Void
 
 | Item | Imbuement | O que faz | Por hora |
 |---|---|---|---|
-| Armadura | Basic Vampirism (25 Vampire Teeth no shrine) | 5% de life leech | ~1k |
+| Armor | Basic Vampirism (25 Vampire Teeth no shrine) | 5% de life leech | ~1k |
 | Helmet | Basic Void (scroll do Market) | 3% de mana leech | ~3k |
 
 Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (a Seção 2 do guia principal explica). Nada além disso é preciso para estas listas.
@@ -34,7 +34,7 @@ Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tib
 3. Os charms menores **Vampiric Embrace** (+2,4% de life leech) e **Void's Call** (+1,2% de mana leech) no monstro principal: funcionam com leech Basic também, e quase dobram ele.
 4. **Parry** depois; **Low Blow** e **Savage Blow** só com imbuement de Strike.
 
-**Wheel of Destiny.** Um ponto por level do 51 em diante, mais até 50 do Hunting Task Shop (os 10 primeiros custam só 17.500 Hunting Task Points). Encha primeiro as fatias de vida, depois **Battle Instinct** e **Battle Healing** (magias de cura 10% mais fortes cada, o triplo com escudo). Com 300 pontos num domínio (por volta do level 350) pegue a revelation perk **Combat Mastery**: menos dano quanto menor a sua vida, em dobro com escudo. Planeje em tibiapal.com/wheels.
+**Wheel of Destiny.** Um ponto por level do 51 em diante, mais até 50 do Hunting Task Shop (os 10 primeiros custam só 17.500 Hunting Task Points). Encha primeiro as fatias de vida, depois **Battle Instinct** e **Battle Healing** (magias de cura 10% mais fortes cada, o triplo com shield). Com 300 pontos num domínio (por volta do level 350) pegue a revelation perk **Combat Mastery**: menos dano quanto menor a sua vida, em dobro com shield. Planeje em tibiapal.com/wheels.
 
 **Weapon proficiency.** Fique com uma arma principal por faixa; os quatro primeiros levels saem em poucas horas de hunt, e você escolhe perks de dano ou leech.
 

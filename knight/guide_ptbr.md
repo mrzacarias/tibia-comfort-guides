@@ -20,6 +20,8 @@ O jogo tem vários sistemas que deixam o knight mais forte: imbuements, charms, 
 
 Comece pela Seção 1. Encontre o seu level nas tabelas de hunts e escolha uma hunt da lista **Bom para XP** para upar, ou da lista **Bom para lucro** quando precisar de dinheiro para equipamento, supplies ou a promoção. Quando caçar ali ficar fácil, passe para a próxima seção e veja quais hunts novas se abrem.
 
+A partir do level 100, o [Hunt confortável solo no 100+](comfort_solo_100_ptbr.md) é um jeito mais tranquilo de jogar: auto attack e Shield Bash com pulls pequenos, dois imbuements baratos de leech fazendo quase toda a cura, e as melhores hunts por faixa até o level 800+.
+
 Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas aparecem com ✓ e usam números reais em vez de estimativas.
 
 ## Palavras que você vai ver
@@ -28,7 +30,7 @@ Se você testar uma hunt, anote como foi em `spot_tests.md`. As hunts testadas a
 - **Spawn (ou respawn):** os monstros que vivem numa hunt e voltam a aparecer depois que você os mata.
 - **Box:** deixar vários monstros te cercarem e acertar todos de uma vez com uma magia de área. Box maior mata mais rápido, mas machuca mais.
 - **`exori infir min`:** uma magia de ataque fraca que todo knight tem desde o level 1. Acerta até três monstros na sua frente por só 6 de mana.
-- **`exori ico scu` (Shield Bash):** um ataque num alvo só (level 18, premium, 30 de mana, a cada 4 segundos) cujo dano vem da defesa do seu escudo. Também corta pela metade o próximo ataque do alvo. Precisa de escudo.
+- **`exori ico scu` (Shield Bash):** um ataque num alvo só (level 18, premium, 30 de mana, a cada 4 segundos) cujo dano vem da defesa do seu shield. Também corta pela metade o próximo ataque do alvo. Precisa de shield.
 - **`exori`:** o ataque em área básico do knight (level 35, conta premium). Acerta todos os monstros colados em você.
 - **`exura ico`:** a magia de cura básica do knight.
 - **XP/h e loot/h:** experiência e gold (o valor do que os monstros dropam) por hora de hunt.
@@ -60,7 +62,7 @@ Existe um terceiro tipo de conforto, o **conhecimento**: quanto do jogo você pr
 Nas hunts testadas, as notas vêm do que aconteceu de verdade: quanto foi preciso se curar e quanto se gastou com poções.
 
 Nas outras, a nota vem do modelo luta a luta do apêndice. Ele olha duas coisas para o knight típico da faixa:
-- **Quanto você precisa se curar:** a vida que os monstros te tiram numa hora, depois da sua armadura, do escudo e das proteções, contada em barras de vida cheias.
+- **Quanto você precisa se curar:** a vida que os monstros te tiram numa hora, depois da sua armor, do shield e das proteções, contada em barras de vida cheias.
 - **O pior momento:** o turno mais pesado de uma puxada típica, com todos os monstros dela batendo o máximo ao mesmo tempo, como parte da sua vida.
 
 | Cura por hora | Pior turno | Atenção e Preparo |
@@ -75,7 +77,7 @@ A nota é a primeira linha em que os dois números cabem. Por exemplo, uma hunt 
 Algumas coisas ainda sobem a nota:
 - **Monstros invisíveis.** Você não consegue vê-los para atacar, então a hunt fica com Atenção 3.
 - **Um monstro raro capaz de tirar metade da sua vida num turno** deixa a hunt com pelo menos Atenção 2.
-- **Equipamento especial.** Se a hunt pede um item específico, como uma armadura elemental ou um Dwarven Ring, o Preparo é 2.
+- **Equipamento especial.** Se a hunt pede um item específico, como uma armor elemental ou um Dwarven Ring, o Preparo é 2.
 
 Os monstros que invocam outros entram no modelo: o dano dos invocados conta na sua cura.
 
@@ -107,9 +109,9 @@ Nesta seção você usa só o básico: a sua arma, as magias de ataque `exori in
 **Jogue seguro:** saiba sempre por onde sair e saia quando a sua vida chegar mais ou menos à metade.
 
 ### Equipamento
-Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar. A linha de equipamento de cada faixa lista armas, armaduras, amuleto e anel com bom custo-benefício. Uma peça com proteção física (como o Zaoan helmet e as Zaoan legs) conta essa proteção além da armadura: 5% a menos de dano físico vale mais que alguns pontos de armadura quando os monstros batem forte.
+Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar. A linha de equipamento de cada faixa lista armas, armors, amuleto e anel com bom custo-benefício. Uma peça com proteção física (como o Zaoan helmet e as Zaoan legs) conta essa proteção além da armor: 5% a menos de dano físico vale mais que alguns pontos de armor quando os monstros batem forte.
 - **Amuleto e anel:** uma Platinum Amulet, depois uma Foxtail Amulet a partir do level 100 (5% menos dano físico), e um Butterfly Ring a partir do level 50.
-- **Hunts elementais:** onde um elemento faz a maior parte do dano, uma armadura elemental (Lavos, Crystalline, Swamplair ou Voltage, level 60) ajuda; as notas avisam quando.
+- **Hunts elementais:** onde um elemento faz a maior parte do dano, uma armor elemental (Lavos, Crystalline, Swamplair ou Voltage, level 60) ajuda; as notas avisam quando.
 
 ### Antes de caçar
 - **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado, mas só depois de 10 minutos offline, então cada login rápido entre as hunts (para olhar o Market, por exemplo) custa até 10 minutos de recarga, quase 2 minutos de stamina verde.
@@ -1639,14 +1641,14 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~55k | ~130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 ## Seção 2: Imbuements
-Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um knight confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armadura e Basic Void no capacete**.
+Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um knight confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armor e Basic Void no helmet**.
 
 O leech devolve uma parte do seu dano, então só compensa quando você causa bastante dano, mais ou menos do level 30 ao 50 para um knight. Por isso as tabelas da Seção 2 começam no level 50.
 
 ### Como montar
 1. **Libere o imbuing** com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest/Spoiler): nos Halls of Hope, logo ao norte de Thais, entregue 5 Heavy Old Tomes ao Albinius (diga "temple" e depois "yes"). Os tomos custam uns 250 gold no Market, e orcs, trolls, skeletons, ghouls e cyclops dropam.
-2. **Armadura:** num Imbuing Shrine de qualquer cidade grande, coloque Basic Vampirism com 25 Vampire Teeth e uma taxa de 7.500 gold.
-3. **Capacete:** use um scroll de Basic Void do Market. Os scrolls funcionam em qualquer lugar, sem a quest nem o shrine, e para o Void o scroll sai mais barato.
+2. **Armor:** num Imbuing Shrine de qualquer cidade grande, coloque Basic Vampirism com 25 Vampire Teeth e uma taxa de 7.500 gold.
+3. **Helmet:** use um scroll de Basic Void do Market. Os scrolls funcionam em qualquer lugar, sem a quest nem o shrine, e para o Void o scroll sai mais barato.
 
 O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com preços do Market de novembro de 2026:
 
@@ -1661,7 +1663,7 @@ O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com
 
 ### Bom saber
 - As 20 horas só contam enquanto você luta. Tirar um imbuement custa 15.000 gold, então deixe acabar.
-- Cada item tem de 0 a 3 slots e aceita um imbuement de cada tipo. Calças não podem receber imbuement.
+- Cada item tem de 0 a 3 slots e aceita um imbuement de cada tipo. Legs não podem receber imbuement.
 - Valem menos pelo gold, então ficam para depois: **Strike** (golpes críticos, +1% a +4,5% de dano), **Slash, Bash ou Chop** (skill de sword, club ou axe, uns +0,7% de dano por ponto) e **proteção elemental** (3% a 15% menos dano de um elemento).
 - Dá para farmar os materiais: Vampire Teeth de vampires (Edron Vampire Crypt), Rope Belts para o Void de cultistas (Cult Cave, Liberty Bay) e Bloody Pincers para o Intricate Vampirism de blood crabs (Laguna Islands).
 
@@ -2281,8 +2283,8 @@ A partir do level 51, depois da promoção e com conta premium, você ganha **1 
 
 ### Como a Wheel funciona
 - Você começa no meio e enche **fatias** com pontos. Cada ponto dá um pequeno bônus de **dedicação** (dedication). Para o knight, as fatias de vida dão 3 de HP a mais por ponto; outras fatias dão mana, capacidade ou mitigação (cada ponto reduz um pouco o dano que você toma).
-- Uma fatia cheia libera um **perk de convicção** (conviction perk). Os perto do meio são pequenos, mas úteis, como mais mana leech. O **Battle Healing** é o melhor para o conforto (as suas magias de cura curam 10% a mais, e o triplo disso, 30%, enquanto você usa escudo), mas fica no anel de fora, a uns 575 pontos, então é uma meta para o level 600 em diante. Outros melhoram as suas magias: o `exori gran` gasta 30 de mana a menos, o `exura gran ico` cura 125% a mais, e por aí vai.
-- Com 250 pontos num quarto da Wheel (por volta do level 300 para cima) você chega aos grandes **perks de revelação** (revelation perks), como o Combat Mastery (você toma menos dano quanto menor estiver a sua vida, em dobro com escudo).
+- Uma fatia cheia libera um **perk de convicção** (conviction perk). Os perto do meio são pequenos, mas úteis, como mais mana leech. O **Battle Healing** é o melhor para o conforto (as suas magias de cura curam 10% a mais, e o triplo disso, 30%, enquanto você usa shield), mas fica no anel de fora, a uns 575 pontos, então é uma meta para o level 600 em diante. Outros melhoram as suas magias: o `exori gran` gasta 30 de mana a menos, o `exura gran ico` cura 125% a mais, e por aí vai.
+- Com 250 pontos num quarto da Wheel (por volta do level 300 para cima) você chega aos grandes **perks de revelação** (revelation perks), como o Combat Mastery (você toma menos dano quanto menor estiver a sua vida, em dobro com shield).
 
 Um bom plano para o conforto: encha primeiro as fatias de vida e depois a fatia seguinte, mais para fora, que dá mana leech. O TibiaPal tem um planejador e builds prontas de knight em tibiapal.com/wheels.
 
@@ -2572,9 +2574,9 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 | Item | Efeito | Tier 1 | Tier 3 | Tier 10 |
 |---|---|---|---|---|
 | Arma | Onslaught: chance de um golpe com 60% de dano extra | +0,3% de dano | +1% de dano | +5,4% de dano |
-| Armadura | Ruse: chance de esquivar de um ataque | 0,5% | 1,6% | 7,5% |
+| Armor | Ruse: chance de esquivar de um ataque | 0,5% | 1,6% | 7,5% |
 | Helmet | Momentum: chance de tirar 2 segundos do tempo de espera das magias | 2% a cada 2 s | 6% | 24% |
-| Calça | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
+| Legs | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
 | Bota | Amplification: faz os outros efeitos ativarem com mais frequência | +2,5% | +9% | +57% |
 
 **Como funciona.** Você **funde** dois itens iguais do mesmo tier, pagando gold e dust, e recebe um item do tier seguinte. Dá certo metade das vezes (65% com um Exalted Core). Quando falha, um dos itens perde um tier, ou é destruído se for tier 0. O dust vem de monstros influenciados e não pode ser negociado; os Exalted Cores são feitos a partir dele.
@@ -2583,17 +2585,17 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 
 **Quanto custa.** Ir do tier 0 para o 1 custa 25k de gold num item de classe 1, 750k na classe 2, 4 milhões na classe 3 e 8 milhões na classe 4. Os tiers seguintes de um item de classe 4 custam 20 milhões, depois 40 milhões, 65 milhões e mais.
 
-**Para o conforto,** o efeito que mais importa é o Ruse na armadura. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um. Deixe a Forja para quando todo o resto estiver pronto.
+**Para o conforto,** o efeito que mais importa é o Ruse na armor. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um. Deixe a Forja para quando todo o resto estiver pronto.
 
 Com imbuements, charms, prey, a Wheel e as gemas, a Weapon Proficiency e equipamento com tier, você tem o que os jogadores chamam de **full setup**.
 
 ## Apêndice: como os números são feitos
 Ninguém publica números de hunt para knights sem full setup, então a XP, o loot e as notas das tabelas de knight são calculados e depois conferidos com hunts reais. Veja como, em palavras simples.
 
-1. **Você.** O knight típico de cada faixa: o level, o skill e o equipamento da faixa. O valor de ataque e de defesa segue as fórmulas da TibiaWiki, que batem exatamente com a Cyclopedia de três knights reais. A força real dos ataques automáticos, do `exori` e do `exori infir min` vem do server log desses knights. O `exori ico scu` (Shield Bash, novo em junho de 2026) não tem fórmula publicada nem golpe registrado ainda, então o dano dele é uma estimativa a partir do poder base e da defesa do escudo.
-2. **Os monstros.** Vida, experiência e loot vêm da TibiaWiki; armadura, fraquezas, cura, ataques e os ajudantes que eles invocam vêm do servidor de código aberto Canary.
+1. **Você.** O knight típico de cada faixa: o level, o skill e o equipamento da faixa. O valor de ataque e de defesa segue as fórmulas da TibiaWiki, que batem exatamente com a Cyclopedia de três knights reais. A força real dos ataques automáticos, do `exori` e do `exori infir min` vem do server log desses knights. O `exori ico scu` (Shield Bash, novo em junho de 2026) não tem fórmula publicada nem golpe registrado ainda, então o dano dele é uma estimativa a partir do poder base e da defesa do shield.
+2. **Os monstros.** Vida, experiência e loot vêm da TibiaWiki; armor, fraquezas, cura, ataques e os ajudantes que eles invocam vêm do servidor de código aberto Canary.
 3. **A hunt.** Onde cada monstro aparece vem do mapa do Canary: quais vêm juntos numa puxada, quanto você anda entre eles e com que rapidez eles voltam.
-4. **Uma luta de cada vez.** Para cada puxada: quanto tempo leva para matar (os seus golpes depois da armadura deles, a cura deles, `exori` num box, `exori ico scu` no seu alvo a partir do level 18, correr atrás dos que mantêm distância), quanto eles te machucam (depois da sua armadura, escudo e proteções) e como você se cura (`exura ico` primeiro, poções nos momentos de susto). A caminhada e o loot preenchem o tempo entre as puxadas.
+4. **Uma luta de cada vez.** Para cada puxada: quanto tempo leva para matar (os seus golpes depois da armor deles, a cura deles, `exori` num box, `exori ico scu` no seu alvo a partir do level 18, correr atrás dos que mantêm distância), quanto eles te machucam (depois da sua armor, shield e proteções) e como você se cura (`exura ico` primeiro, poções nos momentos de susto). A caminhada e o loot preenchem o tempo entre as puxadas.
 5. **Juntando tudo.** As mortes por hora, até onde o respawn deixa, dão a XP/h e o loot/h. Cada drop vale o que for maior: o preço do NPC ou o do Market (o preço do meio em três mundos grandes, novembro de 2026); drops mais raros que uma vez a cada 3 horas ficam de fora. A cura dá as notas, e as poções e a mana dão os supplies.
 
 Como funciona luta a luta, os números de uma hunt crescem com o seu level do jeito que crescem de verdade: golpes mais fortes, caminhada mais rápida e mais vida, até a hunt ficar sem monstros.
@@ -2603,7 +2605,7 @@ Como funciona luta a luta, os números de uma hunt crescem com o seu level do je
 - Os supplies são uma estimativa aproximada.
 - Ele não sabe de outros jogadores na mesma hunt, nem de áreas que mudam todo dia (Poacher Caves, Forsaken Mine).
 - Se o dinheiro de uma hunt vem de um único item (como a Gloom Wolf Fur), caçar muito ali pode derrubar o preço desse item no Market.
-- Targuna é mais nova que o mapa do Canary, então os monstros e os spawns de lá vêm de outro servidor de código aberto. A vida, a experiência e a armadura deles batem com a TibiaWiki, mas os ataques acertam mais vezes do que os testes mostraram, então as notas de Targuna vêm dos testes.
+- Targuna é mais nova que o mapa do Canary, então os monstros e os spawns de lá vêm de outro servidor de código aberto. A vida, a experiência e a armor deles batem com a TibiaWiki, mas os ataques acertam mais vezes do que os testes mostraram, então as notas de Targuna vêm dos testes.
 - As poucas hunts que faltam nos dois mapas (como os Lost Dwarves da Forsaken Mine) usam a estimativa antiga, mais simples.
 
 Use os números para comparar as hunts entre si, não como promessa.

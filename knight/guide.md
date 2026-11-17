@@ -18,6 +18,8 @@ The game has many systems that make a knight stronger: imbuements, charms, the W
 
 Start in Section 1. Find your level in the hunting ground tables and pick a hunting ground from its **Good for XP** list to level up, or from its **Good for gold** list when you need money for gear, supplies or your promotion. When hunting there feels easy, move on to the next section and see which new hunting grounds open up.
 
+From level 100, [Comfortable solo hunting at 100+](comfort_solo_100.md) is a calmer way to play: auto attack and Shield Bash with small pulls, two cheap leech imbuements doing most of the healing, and the best hunting grounds per band up to level 800+.
+
 If you test a hunting ground, write down how it went in `spot_tests.md`. Tested hunting grounds are marked with ✓ and use real numbers instead of estimates.
 
 ## Words you'll see

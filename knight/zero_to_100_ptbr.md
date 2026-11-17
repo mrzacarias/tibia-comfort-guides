@@ -2,7 +2,7 @@
 
 Este guia leva um knight novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de knight](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **23 dias** (69 horas de hunt), com sword por volta de 76. Um knight assim foi vendido por uma mediana de uns **202 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois vá para as Corym Mines com Stealth Ring, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **23 dias** (69 horas de hunt), com sword por volta de 76. Um knight assim foi vendido por uma mediana de uns **258 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -83,7 +83,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k |
 | 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 24,0 h | ~153k | ~95k |
 
-Isso dá level 100 no dia 33 em vez de 23, com sword 79 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 7.5M de gold em vez de 5.9M, e rende menos TC por mês: uns 308 contra 443 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
+Isso dá level 100 no dia 33 em vez de 23, com sword 79 (mais dias de treino). Mas a Forgotten Tomb dá muito mais loot, então sobra 7.5M de gold em vez de 5.9M, e rende menos TC por mês: uns 340 contra 443 (veja "Lucro"). O loot da Forgotten Tomb ainda não foi testado, então trate essa parte com cuidado.
 
 ### Sem o ring
 A rota é mais lenta mas dá mais loot:
@@ -169,46 +169,55 @@ O ring é o mais rápido. Sem ele, a rota demora mais mas dá mais loot (Forgott
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
 
-Por quanto knights assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e sword até 2 de diferença, todos os mundos):
+Por quanto knights assim foram vendidos a cada 10 levels da rota (leilões vendidos no exiva.pro, level até 10% diferente e sword até 2 de diferença, todos os mundos):
 
-| Level | Sword | Vendas | Mediana | Metade do meio |
-|---|---|---|---|---|
-| 61 (fim da semana 1) | 64 | 7 | 91 TC | 57–201 |
-| 82 (fim da semana 2) | 71 | 31 | 202 TC | 100–350 |
-| 96 (fim da semana 3) | 75 | 37 | 189 TC | 102–300 |
-| 100 (level 100) | 76 | 37 | 202 TC | 118–438 |
+| Level | Dia | Horas de hunt | Sword | Vendas | Mediana | Metade do meio | TC depois de taxas e equipamento | TC por hora de hunt |
+|---|---|---|---|---|---|---|---|---|
+| 20 | 1 | 3 | 50 | 2 | 122 TC | 89–156 | ~45 | – |
+| 30 | 2 | 6 | 54 | 4 | 78 TC | 63–165 | ~6 | – |
+| 40 | 3 | 9 | 57 | 8 | 151 TC | 70–202 | ~70 | 7,8 |
+| 50 | 5 | 15 | 61 | 11 | 240 TC | 100–376 | ~155 | 10,3 |
+| 60 | 7 | 21 | 64 | 14 | 201 TC | 82–287 | ~131 | 6,2 |
+| 70 | 10 | 30 | 67 | 17 | 251 TC | 100–401 | ~193 | 6,4 |
+| 80 | 14 | 42 | 71 | 43 | 204 TC | 111–501 | ~176 | 4,2 |
+| 90 | 18 | 54 | 73 | 41 | 189 TC | 124–300 | ~192 | 3,6 |
+| 100 | 23 | 69 | 76 | 48 | 258 TC | 126–502 | ~286 | 4,1 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe umas 1,4 vezes até o level 100. **Venda logo depois do level 100**, não no caminho.
+TC depois de taxas e equipamento = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold da rota até ali, menos o equipamento comprado até ali (veja "Equipamento por level"), a 43.000 gold por Tibia Coin. Horas de hunt = dias × 3. O TC por hora fica de fora onde menos de 5 venderam.
 
-O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (255 vendas):
+**Venda logo depois do level 100.** É o que mais rende por personagem. O level 50 é o que mais rende por hora de hunt (10,3 TC por hora, contra 4,1 no level 100), então vender ali e começar um knight novo é uma renda mais rápida, se você não se importa de repetir os primeiros levels. Mas poucos knights tão baixos vendem (11 vendas), então esse preço é menos certo. No meio do caminho o preço quase não muda: passou do level 50, vá até o 100.
+
+Se preferir ficar com o knight, o [Hunt confortável solo no 100+](comfort_solo_100_ptbr.md) continua a partir do level 100.
+
+O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (309 vendas):
 
 | Tipo de mundo | Vendas | Preço vs a mediana |
 |---|---|---|
-| BattlEye verde | 228 | ×1,10 |
-| BattlEye amarelo | 27 | ×0,41 |
-| Optional PvP | 89 | ×1,16 |
-| Retro Open PvP | 56 | ×1,00 |
-| Open PvP | 106 | ×0,96 |
-| América do Norte | 76 | ×1,21 |
-| América do Sul | 91 | ×0,95 |
-| Europa | 88 | ×0,89 |
+| BattlEye verde | 280 | ×1,07 |
+| BattlEye amarelo | 29 | ×0,41 |
+| Optional PvP | 111 | ×1,20 |
+| Open PvP | 130 | ×0,94 |
+| Retro Open PvP | 64 | ×0,93 |
+| América do Norte | 95 | ×1,24 |
+| Europa | 103 | ×1,00 |
+| América do Sul | 111 | ×0,91 |
 
-**Crie o personagem em um mundo Optional PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
+**Crie o personagem em um mundo Optional PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Anuncie o leilão por 2 a 4 dias, terminando numa terça ou quarta à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 33 | ~299 | ~272 | ~315 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~360 | ~235 | ~271 |
-| 2 | Sem ring + tarefas semanais | 44 | ~330 | ~225 | ~263 |
-| 3 | Stealth Ring + tarefas semanais | 23 | ~339 | ~443 | ~515 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~339 | ~308 | ~352 |
-| 3 | Sem ring + tarefas semanais | 31 | ~307 | ~297 | ~343 |
-| 5 | Stealth Ring + tarefas semanais | 17 | ~334 | ~589 | ~671 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~422 | ~528 | ~597 |
-| 5 | Sem ring + tarefas semanais | 23 | ~384 | ~501 | ~573 |
+| 2 | Stealth Ring + tarefas semanais | 33 | ~334 | ~304 | ~363 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~360 | ~235 | ~277 |
+| 2 | Sem ring + tarefas semanais | 44 | ~330 | ~225 | ~270 |
+| 3 | Stealth Ring + tarefas semanais | 23 | ~340 | ~443 | ~529 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~374 | ~340 | ~400 |
+| 3 | Sem ring + tarefas semanais | 31 | ~342 | ~331 | ~394 |
+| 5 | Stealth Ring + tarefas semanais | 17 | ~341 | ~602 | ~702 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~423 | ~528 | ~611 |
+| 5 | Sem ring + tarefas semanais | 23 | ~384 | ~501 | ~587 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **443 TC por mês**, e uns 515 num mundo Optional PvP verde (×1,21).
+TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **443 TC por mês**, e uns 529 num mundo Optional PvP verde (×1,25).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -222,29 +231,33 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 
 | Skill | Dias de treino offline | Vendas | Mediana | TC depois das taxas | TC por dia |
 |---|---|---|---|---|---|
-| 94–95 | ~146 | 5 | 66 TC | nada | – |
+| 94–95 | ~146 | 9 | 66 TC | nada | – |
 | 96–97 | ~176 | 3 | 69 TC | nada | – |
-| 100–101 | ~258 | 27 | 122 TC | ~45 | 0,17 |
-| 102–103 | ~312 | 7 | 200 TC | ~114 | 0,36 |
-| 104–105 | ~378 | 8 | 235 TC | ~144 | 0,38 |
-| 106–107 | ~457 | 9 | 151 TC | ~70 | 0,15 |
-| 108–109 | ~553 | 10 | 279 TC | ~183 | 0,33 |
-| 110–111 | ~669 | 26 | 432 TC | ~318 | 0,48 |
-| 112–113 | ~810 | 6 | 501 TC | ~378 | 0,47 |
-| 114–115 | ~980 | 3 | 856 TC | ~691 | 0,71 |
-| 118–119 | ~1434 | 3 | 1751 TC | ~1478 | 1,03 |
+| 98–99 | ~213 | 4 | 86 TC | ~13 | 0,06 |
+| 100–101 | ~258 | 34 | 100 TC | ~26 | 0,10 |
+| 102–103 | ~312 | 10 | 126 TC | ~48 | 0,15 |
+| 104–105 | ~378 | 15 | 201 TC | ~114 | 0,30 |
+| 106–107 | ~457 | 16 | 193 TC | ~107 | 0,23 |
+| 108–109 | ~553 | 15 | 251 TC | ~158 | 0,29 |
+| 110–111 | ~669 | 47 | 450 TC | ~334 | 0,50 |
+| 112–113 | ~810 | 9 | 501 TC | ~378 | 0,47 |
+| 114–115 | ~980 | 6 | 854 TC | ~689 | 0,70 |
+| 116–117 | ~1185 | 3 | 1531 TC | ~1285 | 1,08 |
+| 118–119 | ~1434 | 6 | 1620 TC | ~1364 | 0,95 |
+| 120–121 | ~1735 | 5 | 2501 TC | ~2138 | 1,23 |
+| 122–123 | ~2100 | 3 | 3801 TC | ~3282 | 1,56 |
 
 Os dias contam a partir de sword 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 23 dias e 69 horas de jogo, por uns 339 TC (a venda mais o gold que sobra). Uns 14,8 TC por dia.
-- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 318 TC. Isso dá 0,48 TC por dia, umas 31 vezes menos, mas pede só umas 11 horas de login no total.
+- **Subir até o 100:** 23 dias e 69 horas de jogo, por uns 340 TC (a venda mais o gold que sobra). Uns 14,8 TC por dia.
+- **Um level 8 treinado até skill 110:** uns 669 dias de treino, por uns 334 TC. Isso dá 0,50 TC por dia, umas 30 vezes menos, mas pede só umas 11 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
-- **Não continue treinando o level 100.** Nos levels 90 a 110, knights com skill 100–109 foram vendidos por uma mediana de 210 TC (160 vendas), não mais que os 300 TC do skill 76–81, então centenas de dias de treino extra não compensam.
-- **Os preços de level baixo vêm de poucas vendas** (3–27 por skill), e são melhores na América do Norte.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, knights com skill 100–109 foram vendidos por uma mediana de 201 TC (175 vendas), não mais que os 300 TC do skill 76–81, então centenas de dias de treino extra não compensam.
+- **Os preços de level baixo vêm de poucas vendas** (3–47 por skill), e são melhores na América do Sul.
 
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de knight (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki.

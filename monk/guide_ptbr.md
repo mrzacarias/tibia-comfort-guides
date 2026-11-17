@@ -497,7 +497,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~135k | ~145k | Venore 108 / ~25 s | Cuidado: Corym Vanguard bate 17% da vida. Vende bem: Cheese Cutter |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~125k | ~125k | Carlin 64 / ~15 s | Coryms, como nas Corym Caves de Venore e Tiquanda. Cuidado: Corym Vanguard bate 17% da vida. Vende bem: Cheese Cutter |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~125k | ~35k | Edron 237 / ~1,0 min | Stay on the upper cyclops floors; behemoths deep. Vende bem: Battle Shield |
+| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~125k | ~35k | Edron 237 / ~1,0 min | Fique nos andares de cima com cyclops; behemoths mais para baixo. Vende bem: Battle Shield |
 
 **Bom para lucro**
 
