@@ -134,13 +134,14 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Blessings:** the 5 regular blessings, bought from NPCs in the cities, make you lose about 70% less experience and skill when you die, and you keep your items. They cost about (level − 20) × 1,000 gold up to level 120. They're worth it.
 - **Food:** eat until the game says you're full before the hunt, and again now and then; food makes you regenerate.
 - **Daily reward:** take it every day at the Reward Wall (potions or runes, Prey Wildcards, training weapons, an XP boost). The streak also makes you regenerate faster in temples, depots and houses.
+- **Buy potions on the Market first:** potions handed out as daily rewards often sell there far below NPC prices.
 
 ### Loot
 - **Quick Loot:** Shift + right click on a corpse loots it. In the Options, under Hotkeys, put **Quick Loot Nearby Corpses** on a key next to your attack keys: it loots your square and the 8 around it at once.
 - **Skip the junk:** right-click an item and choose "Add to Loot List". In Skipped Loot mode, Quick Loot takes everything except those items.
 - **Sort it:** right-click a backpack and choose "Manage Containers" to send each category (gold, creature products, potions and more) to its own backpack. Put a few empty backpacks inside your loot backpack and you can loot much longer.
 - **Sell on the Market:** many drops sell there for far more than shops pay (a Stone Wing sells for about 2.4k on the Market and 120 at a shop); the notes name each hunting ground's best drop. Selling to a buy offer is instant, but check that it beats the shop price. At the depot, "Stow container's content" puts stackable loot in your Supply Stash, and the Market sells straight from there.
-- **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot.
+- **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot. You can set your own price for any item in the analyser: give items that players want, like the ones for weekly delivery tasks, their Market price.
 
 ### Bonuses on top
 The tables don't count any of these or the Task Board below, so they all come on top.

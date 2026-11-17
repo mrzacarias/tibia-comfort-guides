@@ -99,7 +99,9 @@ Nesta seção você usa só o básico: a sua arma, as magias de ataque `exori in
 
 **A partir do level 35** você aprende o `exori` (premium, 125 de mana), que acerta todos os monstros colados em você. Deixe dois ou três monstros te cercarem (**box**), solte o `exori` sempre que estiver pronto e ataque normalmente entre um e outro. Vá aumentando um monstro por vez enquanto a sua vida ficar acima de uns 60%. Contra um ou dois monstros, o ataque normal e o `exori ico scu` bastam.
 
-**As poções** dividem um mesmo tempo de espera curto (cerca de 1 segundo). Use poções de mana para continuar soltando `exori` e `exori ico scu` e troque para uma de vida quando a sua vida cair rápido. Poções mais fortes liberam nos levels 50, 80, 130 e 200.
+**Deixe cada ataque normal sair.** Os ataques normais fazem boa parte do seu dano e também ativam leech, críticos, charms e os efeitos de tier, então solte as magias logo depois de um ataque sair, sem atropelar o turno dele, e você não perde turnos de ataque. Ligar o som do jogo, só com os seus ataques e os golpes dos monstros, deixa esse ritmo fácil de seguir. Mantenha o alvo no monstro com mais vida, assim o grupo morre junto.
+
+**As poções** dividem um mesmo tempo de espera curto (cerca de 1 segundo). Use poções de mana para continuar soltando `exori` e `exori ico scu` e troque para uma de vida quando a sua vida cair rápido. Poções mais fortes liberam nos levels 50, 80, 130 e 200. Desde junho de 2026 o knight também pode usar Great Mana Potions (level 80, uns 200 de mana por 158 gold): elas pedem menos turnos de poção nas faixas mais difíceis, mas com os imbuements de leech da Seção 2 você raramente vai precisar de muitas poções.
 
 **Botões multi-action:** um botão da action bar pode guardar até três magias (clique com o botão direito e escolha Assign Multiaction). Cada toque solta a primeira que não está em tempo de espera, então tocar de novo enquanto a primeira espera manda a próxima. As magias de ataque dividem um tempo de espera de 2 segundos, então o toque seguinte funciona 2 segundos depois. Uma boa configuração, completa a partir do level 30:
 - **Alvo único:** `exori ico scu` (level 18), depois `exori ico` (16), depois `exori hur` (28). Um toque é o Shield Bash; toque de novo só quando quiser mais dano. O Shield Bash vem primeiro porque é o mais forte e volta a cada 4 segundos, então sai mais vezes.
@@ -118,13 +120,14 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena.
 - **Comida:** coma até o jogo dizer que você está cheio antes da hunt e de novo de vez em quando; a comida faz você regenerar.
 - **Daily reward:** pegue todo dia no Reward Wall (poções ou runas, Prey Wildcards, training weapons, um bônus de XP). A sequência de dias também faz você regenerar mais rápido em templos, depots e casas.
+- **Compre poções no Market primeiro:** as poções que saem na recompensa diária muitas vezes estão lá bem abaixo do preço dos NPCs.
 
 ### Loot
 - **Quick Loot:** Shift + clique direito num corpo pega o loot. Nas Opções, em Hotkeys, coloque o **Quick Loot Nearby Corpses** numa tecla perto das de ataque: ele pega o loot do seu quadrado e dos 8 em volta de uma vez.
 - **Pule o lixo:** clique direito num item e escolha "Add to Loot List". No modo Skipped Loot, o Quick Loot pega tudo menos esses itens.
 - **Organize:** clique direito numa mochila e escolha "Manage Containers" para mandar cada categoria (gold, creature products, poções e outras) para a sua própria mochila. Coloque algumas mochilas vazias dentro da mochila de loot e você consegue lootear por bem mais tempo.
 - **Venda no Market:** muitos drops valem lá bem mais do que as lojas pagam (uma Stone Wing vale uns 2,4k no Market e 120 numa loja); as notas dizem o melhor drop de cada hunt. Vender para uma oferta de compra é na hora, mas confira se ela ganha do preço da loja. No depot, "Stow container's content" põe o loot empilhável no seu Supply Stash, e o Market vende direto de lá.
-- **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
+- **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot. Você pode definir o preço de qualquer item no analyser: dê aos itens que os jogadores procuram, como os das delivery tasks semanais, o preço do Market.
 
 ### Bônus extras
 As tabelas não contam nada disto nem o Task Board abaixo, então tudo vem por cima.

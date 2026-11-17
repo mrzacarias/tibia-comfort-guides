@@ -96,7 +96,9 @@ In this section you use only the basics: your weapon, the `exori infir min`, `ex
 
 **From level 35** you learn `exori` (premium, 125 mana), which hits every monster next to you. Let two or three monsters surround you (**boxing**), cast `exori` whenever it's ready and attack normally in between. Add one more monster at a time while your HP stays above about 60%. Against one or two monsters, normal attacks and `exori ico scu` are enough.
 
-**Potions** share one short cooldown (about 1 second). Use mana potions to keep casting `exori` and `exori ico scu`, and switch to a health potion when your HP drops fast. Stronger potions unlock at levels 50, 80, 130 and 200.
+**Let each normal attack land.** Normal attacks do a good share of your damage and also trigger leech, critical hits, charms and tier effects, so cast your spells right after an attack lands, not over it, and you won't lose attack turns. Turning the game sound on, with only your own attacks and the monsters' hits, makes the rhythm easy to follow. Keep your target on the monster with the most health, so the group dies together.
+
+**Potions** share one short cooldown (about 1 second). Use mana potions to keep casting `exori` and `exori ico scu`, and switch to a health potion when your HP drops fast. Stronger potions unlock at levels 50, 80, 130 and 200. Since June 2026 knights can use Great Mana Potions too (level 80, about 200 mana for 158 gold): they need fewer potion turns in the harder bands, though with the leech imbuements of Section 2 you'll rarely need many potions.
 
 **Multi-action buttons:** one action bar button can hold up to three spells (right-click it and choose Assign Multiaction). Each press casts the first one that isn't on cooldown, so pressing again while the first is cooling down sends the next. Attack spells share a 2-second cooldown, so the next press works 2 seconds later. A good setup, complete from level 30:
 - **Single target:** `exori ico scu` (level 18), then `exori ico` (16), then `exori hur` (28). One press is Shield Bash; press again only when you want more damage. Shield Bash goes first because it's the strongest and comes back every 4 seconds, so it's cast more often.
@@ -115,13 +117,14 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 - **Blessings:** the 5 regular blessings, bought from NPCs in the cities, make you lose about 70% less experience and skill when you die, and you keep your items. They cost about (level − 20) × 1,000 gold up to level 120. They're worth it.
 - **Food:** eat until the game says you're full before the hunt, and again now and then; food makes you regenerate.
 - **Daily reward:** take it every day at the Reward Wall (potions or runes, Prey Wildcards, training weapons, an XP boost). The streak also makes you regenerate faster in temples, depots and houses.
+- **Buy potions on the Market first:** potions handed out as daily rewards often sell there far below NPC prices.
 
 ### Loot
 - **Quick Loot:** Shift + right click on a corpse loots it. In the Options, under Hotkeys, put **Quick Loot Nearby Corpses** on a key next to your attack keys: it loots your square and the 8 around it at once.
 - **Skip the junk:** right-click an item and choose "Add to Loot List". In Skipped Loot mode, Quick Loot takes everything except those items.
 - **Sort it:** right-click a backpack and choose "Manage Containers" to send each category (gold, creature products, potions and more) to its own backpack. Put a few empty backpacks inside your loot backpack and you can loot much longer.
 - **Sell on the Market:** many drops sell there for far more than shops pay (a Stone Wing sells for about 2.4k on the Market and 120 at a shop); the notes name each hunting ground's best drop. Selling to a buy offer is instant, but check that it beats the shop price. At the depot, "Stow container's content" puts stackable loot in your Supply Stash, and the Market sells straight from there.
-- **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot.
+- **Count the gold you actually get.** The Hunt Analyser can be far off in either direction, and prices differ between worlds, sometimes by five times, so check your own Market before you pick a hunting ground for its loot. You can set your own price for any item in the analyser: give items that players want, like the ones for weekly delivery tasks, their Market price.
 
 ### Bonuses on top
 The tables don't count any of these or the Task Board below, so they all come on top.

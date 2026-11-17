@@ -11,7 +11,7 @@ A régua é uma hunt testada: um knight level 99 com Basic Vampirism, Basic Void
 - Cada faixa começa com as hunts que ela **libera**: confortáveis naquele level, não na faixa anterior.
 
 ## O que é confortável aqui
-- **Rotação:** auto attack e `exori ico scu` (Shield Bash) no alvo, só isso. Os números não usam `exori`: ele gasta muita mana, então guarde para quando um pull sair do controle. Nos [botões multi-action](guide_ptbr.md#como-lutar) do guia principal, isso é um toque no botão de alvo único (Shield Bash primeiro) e o botão de área só quando precisar.
+- **Rotação:** auto attack e `exori ico scu` (Shield Bash) no alvo, só isso. Solte logo depois de um ataque normal sair, para não perder turnos de ataque. Os números não usam `exori`: ele gasta muita mana, então guarde para quando um pull sair do controle. Nos [botões multi-action](guide_ptbr.md#como-lutar) do guia principal, isso é um toque no botão de alvo único (Shield Bash primeiro) e o botão de área só quando precisar.
 - **Pulls como vierem:** o modelo anda pela hunt e luta com cada spawn junto dos vizinhos, então pulls de 3 ou mais acontecem. Correndo dá para juntar 5 a 8 de uma vez, como nos Stonerefiners; ande no ritmo que mantém tudo tranquilo.
 - **Echo Raids:** um eco que uma criatura deixa para trás traz mais 8 dela, ou 4 influenced, quando você ativa, e de vez em quando um Echo Warden mais forte ([guia principal](guide_ptbr.md#bônus-extras)). As notas não contam isso: passe reto pelos ecos, a não ser que a nota de Atenção da hunt seja 0.
 - **O leech faz quase toda a cura**, o `exura ico` o resto. A coluna **Atenção** dá a nota do que sobra, como no guia principal: **0** nada para vigiar, **1** uma olhada na vida de vez em quando (a hunt de Stonerefiner foi 1). Nenhuma hunt da lista tira mais no pior turno que a hunt de Stonerefiner (uns 40% da sua vida).
@@ -45,7 +45,7 @@ Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tib
 
 **Antes de cada hunt.**
 - **Blessings:** as sete mais o Twist of Fate custam uns 138k no level 100, 234k no 200, 306k no 300 e 420k no 500 (ou 130 Tibia Coins pelas sete na Store).
-- **Poções:** as **Mana Potions** pequenas (56 gold por 75 a 125 de mana) são a mana mais barata por gold. Para emergência leve a melhor health potion que o seu level permite: Great (level 80), Ultimate (130) ou Supreme (200).
+- **Poções:** as **Mana Potions** pequenas (56 gold por 75 a 125 de mana) são a mana mais barata por gold. Para emergência leve a melhor health potion que o seu level permite: Great (level 80), Ultimate (130) ou Supreme (200). As Great Mana Potions (para knight também desde junho de 2026, uns 200 de mana por 158 gold) economizam turnos de poção nas faixas mais difíceis. Compre poções no Market primeiro: as da recompensa diária muitas vezes estão lá bem abaixo do preço dos NPCs.
 - **Magias de cura:** `exura ico` para completar a vida, `exura med ico` do level 300, `exura gran ico` (level 80) para emergência, `utamo tempo` (Protector) quando o pull cresce.
 - **A Forja:** não funda. Dá certo metade das vezes, e uma falha tira um tier da segunda cópia, ou destrói ela se for tier 0. Se quiser um item com tier, compre um pronto no Market; para manter um tier quando trocar de item, o **Transfer** sempre dá certo (o item novo fica com o tier menos um; veja o [guia principal](guide_ptbr.md#seção-6-a-forja-e-o-elite-knight-completo)). O dust que você não usa vende como Slivers ou Exalted Cores.
 

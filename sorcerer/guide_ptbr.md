@@ -137,13 +137,14 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena.
 - **Comida:** coma até o jogo dizer que você está cheio antes da hunt e de novo de vez em quando; a comida faz você regenerar.
 - **Daily reward:** pegue todo dia no Reward Wall (poções ou runas, Prey Wildcards, training weapons, um bônus de XP). A sequência de dias também faz você regenerar mais rápido em templos, depots e casas.
+- **Compre poções no Market primeiro:** as poções que saem na recompensa diária muitas vezes estão lá bem abaixo do preço dos NPCs.
 
 ### Loot
 - **Quick Loot:** Shift + clique direito num corpo pega o loot. Nas Opções, em Hotkeys, coloque o **Quick Loot Nearby Corpses** numa tecla perto das de ataque: ele pega o loot do seu quadrado e dos 8 em volta de uma vez.
 - **Pule o lixo:** clique direito num item e escolha "Add to Loot List". No modo Skipped Loot, o Quick Loot pega tudo menos esses itens.
 - **Organize:** clique direito numa mochila e escolha "Manage Containers" para mandar cada categoria (gold, creature products, poções e outras) para a sua própria mochila. Coloque algumas mochilas vazias dentro da mochila de loot e você consegue lootear por bem mais tempo.
 - **Venda no Market:** muitos drops valem lá bem mais do que as lojas pagam (uma Stone Wing vale uns 2,4k no Market e 120 numa loja); as notas dizem o melhor drop de cada hunt. Vender para uma oferta de compra é na hora, mas confira se ela ganha do preço da loja. No depot, "Stow container's content" põe o loot empilhável no seu Supply Stash, e o Market vende direto de lá.
-- **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot.
+- **Conte o gold que você realmente recebe.** O Hunt Analyser pode errar muito para mais ou para menos, e os preços mudam entre os mundos, às vezes cinco vezes, então confira o Market do seu mundo antes de escolher uma hunt pelo loot. Você pode definir o preço de qualquer item no analyser: dê aos itens que os jogadores procuram, como os das delivery tasks semanais, o preço do Market.
 
 ### Bônus extras
 As tabelas não contam nada disto nem o Task Board abaixo, então tudo vem por cima.

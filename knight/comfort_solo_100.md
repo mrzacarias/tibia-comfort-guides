@@ -11,7 +11,7 @@ The yardstick is a tested hunt: a level 99 knight with Basic Vampirism, Basic Vo
 - Each band starts with the hunting grounds it **unlocks**: comfortable at that level, not at the band before.
 
 ## What comfortable means here
-- **Rotation:** auto attack and `exori ico scu` (Shield Bash) on your target, nothing else. The numbers use no `exori`: it costs a lot of mana, so keep it for the moment a pull gets out of hand. On the main guide's [multi-action buttons](guide.md#how-to-fight), that's one press of the single-target button (Shield Bash first) and the area button only when needed.
+- **Rotation:** auto attack and `exori ico scu` (Shield Bash) on your target, nothing else. Cast it right after a normal attack lands, so you don't lose attack turns. The numbers use no `exori`: it costs a lot of mana, so keep it for the moment a pull gets out of hand. On the main guide's [multi-action buttons](guide.md#how-to-fight), that's one press of the single-target button (Shield Bash first) and the area button only when needed.
 - **Pulls as they come:** the model walks through each hunting ground and fights each spawn with its neighbours, so pulls of 3 or more happen. Rushing can bring 5 to 8 at once, as at the Stonerefiners; walk at the pace that keeps it calm.
 - **Echo Raids:** an echo a creature leaves behind brings 8 more of it, or 4 influenced ones, when you set it off, and now and then a stronger Echo Warden ([main guide](guide.md#bonuses-on-top)). The grades don't count them: walk past echoes unless the hunting ground's Hunt grade is 0.
 - **Leech does most of the healing**, `exura ico` the rest. The **Hunt** column grades what's left, like the main guide: **0** nothing to watch, **1** a look at your health now and then (the Stonerefiner run was a 1). No listed hunting ground's worst round takes more than the Stonerefiner run's (about 40% of your health).
@@ -45,7 +45,7 @@ Unlock imbuing with the first part of the [Forgotten Knowledge Quest](https://ti
 
 **Before each hunt.**
 - **Blessings:** all seven plus Twist of Fate cost about 138k at level 100, 234k at 200, 306k at 300 and 420k at 500 (or 130 Tibia Coins for the seven in the Store).
-- **Potions:** small **Mana Potions** (56 gold for 75–125 mana) are the cheapest mana per gold. For emergencies carry the best health potion your level allows: Great (level 80), Ultimate (130) or Supreme (200).
+- **Potions:** small **Mana Potions** (56 gold for 75–125 mana) are the cheapest mana per gold. For emergencies carry the best health potion your level allows: Great (level 80), Ultimate (130) or Supreme (200). Great Mana Potions (knights too since June 2026, about 200 mana for 158 gold) save potion turns in the harder bands. Buy potions on the Market first: daily-reward potions often sell there far below NPC prices.
 - **Healing spells:** `exura ico` for top-ups, `exura med ico` from level 300, `exura gran ico` (level 80) for emergencies, `utamo tempo` (Protector) when a pull grows.
 - **The Forge:** skip fusing. It works half the time, and a failure costs the second copy a tier, or destroys it at tier 0. If you want a tiered item, buy one already made on the Market; to keep a tier when you change items, **Transfer** always works (the new item gets the tier minus one; see the [main guide](guide.md#section-6-the-forge-and-the-full-elite-knight)). Dust you don't need sells as Slivers or Exalted Cores.
 
