@@ -112,7 +112,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 | Quest | Level | Part you need | Opens | Bestiary creatures there | Charm points |
 |---|---|---|---|---|---|
 | Targuna Quest | 10 | Burning Heat mission, from level 12 | Crimson Court, Crimson Court (Targuna) | 4 | 60 |
-| The Shattered Isles Quest | 20 / 65+ | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; Ramoa part: level 35, after the Goroma Volcano part (Spellbook of Dragha and three fresh corpses) | Laguna Islands, Blood Crabs, Lich Hell (Liberty Bay), Meriana, Meriana Gargoyle Cave, Ramoa | 13 | 185 |
+| The Shattered Isles Quest | 20 / 65+ | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; Ramoa part: level 35, after the Goroma Volcano part (Spellbook of Dragha and three fresh corpses) | Laguna Islands, Blood Crabs, Lich Hell (Liberty Bay), Meriana, Meriana Gargoyle Cave, Nargor, Nargor Undead Cave, Ramoa | 19 | 305 |
 | Threatened Dreams Quest | 30 / 100 | Troubled Animals mission | Feyrist Meadows | 11 | 251 |
 | Treasure Island Quest | 0 / 40 | for the caverns | Treasure Island | 2 | 40 |
 | Barbarian Test Quest | 0 / 25 | for Buddel's boat; needed before the Ice Islands Quest | Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Krimhorn barbarians, Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons, Ragnir barbarians | 16 | 276 |
@@ -189,14 +189,14 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Gargoyle | Easy | 500 | 15 | 35 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 165 | 3.0 | The Shattered Isles Quest |
 | Bear | Easy | 500 | 15 | 8 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 160 | 3.1 |  |
 | Tortoise | Easy | 500 | 15 | 30 | [Fenrock](https://tibiamaps.io/map#32543,31290,7:2) | 163 | 3.1 |  |
-| Pirate Marauder | Easy | 500 | 15 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 163 | 3.1 |  |
+| Pirate Marauder | Easy | 500 | 15 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 163 | 3.1 | The Shattered Isles Quest |
 | Troll Legionnaire | Medium | 1,000 | 25 | 10 | [Troll Legionnaire (own spawns)](https://tibiamaps.io/map#32788,31455,12:2) | 191 | 5.2 |  |
 | Infernoid Blob | Easy | 500 | 15 | 8 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 155 | 3.2 | Targuna Quest |
 | Killer Rabbit | Easy | 500 | 15 | 10 | [Killer Rabbit (own spawns)](https://tibiamaps.io/map#32752,31458,5:2) | 154 | 3.2 |  |
 | Frost Giantess | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 157 | 3.2 |  |
 | Pirate Navigator | Easy | 500 | 15 | 8 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 150 | 3.3 |  |
 | Chakoya Windcaller | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 151 | 3.3 |  |
-| Pirate Skeleton | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 153 | 3.3 |  |
+| Pirate Skeleton | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 153 | 3.3 | The Shattered Isles Quest |
 | Barbarian Skullhunter | Easy | 500 | 15 | 45 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 149 | 3.3 | Barbarian Test Quest |
 | Wolf | Trivial | 250 | 5 | 10 | [Thais Wolf Dungeon](https://tibiamaps.io/map#32347,32311,7:2) | 219 | 1.1 |  |
 | Berserker Chicken | Medium | 1,000 | 25 | 15 | [Berserker Chicken (own spawns)](https://tibiamaps.io/map#32749,31455,6:2) | 178 | 5.6 |  |
@@ -260,7 +260,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Gladiator | Easy | 500 | 15 | 20 | [Arena and Zoo Quarter](https://tibiamaps.io/map#32677,31231,7:2) | 74 | 6.8 |  |
 | Toad | Easy | 500 | 15 | 20 | [Tainted Caves](https://tibiamaps.io/map#32711,31939,7:2) | 74 | 6.8 |  |
 | Jungle Moa | Medium | 1,000 | 25 | 35 | [Jungle Moa (own spawns)](https://tibiamaps.io/map#33846,32731,7:2) | 88 | 11 |  |
-| Pirate Cutthroat | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 88 | 11 |  |
+| Pirate Cutthroat | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 88 | 11 | The Shattered Isles Quest |
 | Poison Spider | Trivial | 250 | 5 | 8 | [Mad Mage Valley](https://tibiamaps.io/map#32516,31962,7:2) | 107 | 2.3 |  |
 | Fire Devil | Easy | 500 | 15 | 30 | [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 72 | 6.9 |  |
 | Orc Rider | Easy | 500 | 15 | 30 | [Orc Peninsula](https://tibiamaps.io/map#32324,32039,7:2) | 72 | 6.9 |  |
@@ -287,7 +287,7 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Mummy | Easy | 500 | 15 | 30 | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) | 57 | 8.8 |  |
 | Forest Fury | Medium | 1,000 | 25 | 30 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 67 | 15 |  |
 | Cat | Harmless | 25 | 1 | 40 | [The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2) | 43 | 0.6 |  |
-| Pirate Buccaneer | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 66 | 15 |  |
+| Pirate Buccaneer | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 66 | 15 | The Shattered Isles Quest |
 | Quara Hydromancer | Medium | 1,000 | 25 | 45 | [Quara Grotto](https://tibiamaps.io/map#32208,32887,7:2) | 65 | 15 |  |
 | Quara Predator Scout | Medium | 1,000 | 25 | 45 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 64 | 16 | Barbarian Test Quest |
 | Minotaur Guard | Easy | 500 | 15 | 8 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 53 | 9.4 |  |
@@ -341,12 +341,12 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | Orc Cult Fanatic | Medium | 1,000 | 25 | 35 | [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 19 | 52 |  |
 | Worker Golem | Medium | 1,000 | 25 | 40 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 19 | 53 |  |
 | Sacred Spider | Medium | 1,000 | 25 | 20 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 18 | 55 |  |
-| Pirate Corsair | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 15 | 65 |  |
+| Pirate Corsair | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 15 | 65 | The Shattered Isles Quest |
 | Ghoulish Hyaena | Medium | 1,000 | 25 | 20 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 14 | 72 |  |
 | Grave Guard | Medium | 1,000 | 25 | 20 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 14 | 72 |  |
 | Sandstone Scorpion | Medium | 1,000 | 25 | 25 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 14 | 72 |  |
 | Bog Frog | Trivial | 250 | 5 | 30 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 17 | 15 |  |
-| Pirate Ghost | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 11 | 46 |  |
+| Pirate Ghost | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 11 | 46 | The Shattered Isles Quest |
 | Elder Mummy | Medium | 1,000 | 25 | 25 | [Horestis Tomb (Ankrahmun)](https://tibiamaps.io/map#33062,32731,6:2) | 12 | 80 |  |
 | Panda | Easy | 500 | 15 | 25 | [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,7:2) | 10 | 48 |  |
 | Dog | Harmless | 25 | 1 | 35 | [Factory Quarter](https://tibiamaps.io/map#32924,31283,7:2) | 8 | 3.3 |  |
