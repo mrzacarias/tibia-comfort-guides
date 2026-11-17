@@ -1,6 +1,6 @@
-# Guia do Bestiário para knight
+# O jogo longo: a evolução do knight
 
-O Bestiário (Bestiary) recompensa você por matar todo tipo de criatura: cada página completa dá **Charm Points**, que liberam charms (dano extra, cura, esquiva e mais contra as criaturas em que você os coloca), e completar classes inteiras dá títulos. Este guia planeja isso para um knight: quais criaturas completar em cada faixa de 50 levels, onde, quanto tempo cada uma leva, quais quests e guildas abrem o caminho, e o Bosstiary. Ele assume conta premium. Os nomes de criaturas, lugares e quests ficam em inglês, como no jogo, e os textos de onde achar cada criatura ou boss vêm da TibiaWiki, em inglês.
+O que um knight solo constrói além dos levels, de 50 em 50 levels: as quests que abrem hunts ou valorizam o personagem, o Bestiário (Charm Points), o Bosstiary (boss points) e o que os compradores veem nos knights vendidos em cada level. Comece pela checklist: marque o que o seu personagem já fez e planeje os próximos alvos. Ela também é a revisão a fazer quando você compra um personagem. Ele assume conta premium e jogo solo. Os nomes de criaturas, lugares e quests ficam em inglês, como no jogo, e os textos de onde achar cada criatura ou boss vêm da TibiaWiki, em inglês.
 
 **Resumindo:**
 - São 833 criaturas: 1.247.165 kills e 28.734 Charm Points para completar todas. 69% dessas kills são de criaturas Hard e Challenging, que pedem level alto. Completar tudo é meta de anos, então busque o máximo de Charm Points por hora na sua faixa de level.
@@ -9,7 +9,72 @@ O Bestiário (Bestiary) recompensa você por matar todo tipo de criatura: cada p
 - Entre para os caçadores da **Paw and Fur** em Port Hope a partir do level 6 e pegue uma **Adventurer's Stone**: as tasks dão experiência e abrem bosses enquanto as mesmas kills enchem o seu Bestiário.
 - Cace em party quando puder: todo mundo que bateu numa criatura nos 5 minutos antes de ela morrer ganha a kill.
 
+## Checklist
+Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num personagem que você acabou de comprar, percorra a lista com a página dele no Bazaar e, no jogo, o quest log e a Cyclopedia (Bestiary, Bosstiary, charms) abertos. O level é quando cabe para um knight solo; as faixas abaixo dão os detalhes.
+
+| ✓ | Level | Objetivo | Notas |
+|---|---|---|---|
+| ☐ | 8 | Treino offline toda vez que deslogar (sword + shielding) |  |
+| ☐ | 8 | Blessings, renovadas depois de cada morte | o Antes de caçar do guia principal |
+| ☐ | 8 | [Targuna](https://tibia.fandom.com/wiki/Targuna_Quest) | Crimson Court (missão Burning Heat) |
+| ☐ | 8 | [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 1.600 de XP, Guardian Ring |
+| ☐ | 20 | Promoção |  |
+| ☐ | 20 | Bounty Talisman (5.000 gold num joalheiro) | o Task Board do guia principal |
+| ☐ | 20 | [Barbarian Test](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | barco do Buddel: Okolnir, Ice Witch Temple, os acampamentos bárbaros, Hrodmir; exigida antes da Ice Islands Quest |
+| ☐ | 20 | [The Shattered Isles: Eleonore e Access to Meriana](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Laguna Islands (tartarugas), Meriana Gargoyle Cave |
+| ☐ | 25 | [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest) | XP, uma Yellow Gem |
+| ☐ | 25 | [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions) | encomendas e barcos mais baratos, Postman Hat |
+| ☐ | 30 | [Hidden Threats](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | Corym Mines (a hunt principal da rota do 0 ao 100) |
+| ☐ | 40 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | cavernas de Treasure Island |
+| ☐ | 40 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | addon Tribal Crest, Tome of Knowledge |
+| ☐ | 45 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | Isle of the Kings |
+| ☐ | 50 | Kit de imbuements: Basic Vampirism (armor) e Basic Void (helmet) | a Seção 2 do guia principal |
+| ☐ | 50 | Charm: Dodge | depois Wound, Vampiric Embrace e Void's Call, Parry mais tarde |
+| ☐ | 50 | Bosstiary: Prowess em qualquer boss (abre o seu primeiro boss slot) |  |
+| ☐ | 50 | [The Djinn War (Marid ou Efreet, escolha permanente)](https://tibia.fandom.com/wiki/The_Djinn_War_-_Marid_Faction) | comércio com os djinns, que compram equipamento pelos melhores preços de NPC |
+| ☐ | 50 | [The Travelling Trader](https://tibia.fandom.com/wiki/The_Travelling_Trader_Quest) | vender loot para o Rashid |
+| ☐ | 50 | [A Father's Burden](https://tibia.fandom.com/wiki/A_Father's_Burden_Quest) | XP, 8k de gold, Old Cape |
+| ☐ | 50 | [Forgotten Knowledge: a primeira parte](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | imbuing (Seção 2 do guia principal); Old Masonry e Astral Shaper Dungeon pelos Halls of Hope |
+| ☐ | 50 | [Adventures of Galthen: missão City of Gold](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | Iksupan (Port Hope) |
+| ☐ | 51 | Wheel of Destiny: primeiro as fatias de vida, depois Battle Instinct e Battle Healing | a Seção 4 do guia principal |
+| ☐ | 60 | [The Hidden City of Beregar](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | Beregar Mines; Fenrock Dragon Lair (com uma Golden Mug) |
+| ☐ | 60 | [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) |  |
+| ☐ | 61 | [The Hunt for the Sea Serpent](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | Sea Serpent Area (barco do Captain Haba) |
+| ☐ | 65 | [The Shattered Isles: Goroma, Ramoa, Talahu e Malada, Nargor](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma, Hellgorge, Ramoa, Malada, Nargor, Crystal Gardens, Lich Hell |
+| ☐ | 70 | [Blood Brothers](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | Vengoth e o castelo (barco do Harlow a partir da missão 4) |
+| ☐ | 70 | [Lion's Rock](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) | Lion's Rock (o portal do Inner Sanctum) |
+| ☐ | 70 | [The Thieves Guild](https://tibia.fandom.com/wiki/The_Thieves_Guild_Quest) | comércio com o Black Bert |
+| ☐ | 70 | [Children of the Revolution](https://tibia.fandom.com/wiki/Children_of_the_Revolution_Quest) | tasks de Zao |
+| ☐ | 70 | [An Uneasy Alliance](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 2 Tomes of Knowledge, XP |
+| ☐ | 75 | [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | comércio com o Telas |
+| ☐ | 80 | [The New Frontier](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) | Farmine e Zao (Muggy Plains, Chaochai, Zzaion…) |
+| ☐ | 100 | Hunting Task Shop: os 10 primeiros pontos da Wheel (17.500 Hunting Task Points) |  |
+| ☐ | 100 | Dano do Bounty Talisman em 5% (145 Bounty Points) |  |
+| ☐ | 100 | Animus Mastery da criatura da sua hunt principal | Soul Cores de monstros fiendish ou do Market |
+| ☐ | 100 | Discovery: as áreas em volta das suas hunts principais | +100 a 195 de speed nelas |
+| ☐ | 100 | [Threatened Dreams](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | Feyrist (Feyrist Meadows) |
+| ☐ | 100 | [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | Seacrest Grounds |
+| ☐ | 100 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | Nibelor (missão 1), Tyrsung (Nibelor 2), Formorgar Mines (missão 9), Helheim |
+| ☐ | 100 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | teleportes Liberty Bay ↔ Svargrond e Port Hope ↔ Northport; barco do Captain Max para Calassa |
+| ☐ | 100 | [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | barcos do Karith para fora de Yalahar (Searoutes), portões de atalho para os bairros |
+| ☐ | 100 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens no rank II |
+| ☐ | 100 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | Last Sanctum (The Curse Spreads), atalhos do Lion Sanctum |
+| ☐ | 100 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | Pits of Inferno Dragon Lair (primeiras missões); exigida antes da Inquisition |
+| ☐ | 100 | [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | Deeper Banuta, as Forbidden Lands |
+| ☐ | 100 | [Liquid Black](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | Fiehonja funda e a Deeplings Library |
+| ☐ | 130 | [Wrath of the Emperor](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | Razachai, o Rebel Camp, os andares fundos de Deeper Banuta |
+| ☐ | 150 | [Rathleton](https://tibia.fandom.com/wiki/Rathleton_Quest) | Oramond Dungeon (50 votos) |
+| ☐ | 150 | [Dark Trails](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | Abandoned Sewers, Oramond Fury Dungeon |
+| ☐ | 250 | [Feaster of Souls](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) | Barren Drift |
+| ☐ | 250 | [The Dream Courts](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | Court of Summer, Court of Winter |
+| ☐ | 350 | Wheel: Combat Mastery (300 pontos num domínio) |  |
+| ☐ | 500 | Espadas elementais e a proficiência delas: Gnome Sword, Summerblade, Winterblade, Lion Longsword | o guia 100+ |
+| ☐ | 500 | Guardian gems com mods de resistência |  |
+| ☐ | 500 | Bosstiary: 1.500 boss points (um segundo boss slot) |  |
+
 ## Como o Bestiário funciona
+Cada página completa dá **Charm Points**, que liberam charms (dano extra, cura, esquiva e mais contra as criaturas em que você os coloca), e completar classes inteiras dá títulos.
+
 Mate uma criatura uma vez para abrir a página dela. Mais kills liberam os detalhes em três estágios, e o último estágio dá os Charm Points. Criaturas muito raras (as que só aparecem de vez em quando) pedem só 5 kills e dão mais pontos.
 
 | Dificuldade | Primeiro estágio | Segundo estágio | Estágio final | Charm Points | Muito rara: pontos | Criaturas | Kills para todas | Pontos para todas |
@@ -154,6 +219,29 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 
 ### Levels 0–50
 241 criaturas, 133.625 kills, 3.645 Charm Points, umas 3.572 horas (27 sem estimativa). Total acumulado: 3.645 Charm Points, 3.572 horas.
+
+**Quests**
+
+| Quest | Level | Esforço | Abre | Dá | Knights vendidos aqui com ela |
+|---|---|---|---|---|---|
+| [Targuna](https://tibia.fandom.com/wiki/Targuna_Quest) | 10 / 12 | 3 missões, ~3 h com a hunt | Crimson Court (missão Burning Heat) | XP, Adventurer Backpack, montaria Reliable Ram | 8% |
+| [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 2 | ~30 min, antes de sair da ilha |  | 1.600 de XP, Guardian Ring | 21% |
+| [Barbarian Test](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | 0 / 25 | ~30–45 min | barco do Buddel: Okolnir, Ice Witch Temple, os acampamentos bárbaros, Hrodmir; exigida antes da Ice Islands Quest | cidadania de Svargrond | – |
+| [The Shattered Isles: Eleonore e Access to Meriana](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | 0 / 65+ | ~1–2 h de tarefas | Laguna Islands (tartarugas), Meriana Gargoyle Cave | achievement Matchmaker | 2% |
+| [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest) | 0 / 25 | ~1 h |  | XP, uma Yellow Gem | 0% |
+| [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions) | 0 / 25 | ~2–3 h |  | encomendas e barcos mais baratos, Postman Hat | 0% |
+| [Hidden Threats](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | 0 / 50 | falar com dois NPCs | Corym Mines (a hunt principal da rota do 0 ao 100) |  | – |
+| [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | 0 / 40 | a cada visita | cavernas de Treasure Island |  | – |
+| [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | 0 / 40 | ~2 h |  | addon Tribal Crest, Tome of Knowledge | 0% |
+| [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | 0 / 45+ | ~1 h | Isle of the Kings | Blessed Ankh | 0% |
+
+Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/The_Desert_Dungeon_Quest) (5% dos knights vendidos aqui).
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Jailer (65 HP), Diseased Dan (800 HP), Heoni (900 HP), Herald of Fire (900 HP).
+
+**O que os compradores veem**, de 194 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 0 (quarto de cima 15); boss points 0 (quarto de cima 0); quest lines 1 (quarto de cima 1); achievement points 2 (quarto de cima 4); montarias 0 (quarto de cima 0); outfits 12 (quarto de cima 12).
+
+**Bestiário**
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -402,6 +490,33 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 50–100
 135 criaturas, 148.050 kills, 3.537 Charm Points, umas 4.454 horas (17 sem estimativa). Total acumulado: 7.182 Charm Points, 8.026 horas.
 
+**Quests**
+
+| Quest | Level | Esforço | Abre | Dá | Knights vendidos aqui com ela |
+|---|---|---|---|---|---|
+| [The Djinn War (Marid ou Efreet, escolha permanente)](https://tibia.fandom.com/wiki/The_Djinn_War_-_Marid_Faction) | 40 / 50+ | ~2–3 h | comércio com os djinns, que compram equipamento pelos melhores preços de NPC |  | 15% |
+| [The Travelling Trader](https://tibia.fandom.com/wiki/The_Travelling_Trader_Quest) | 0 / 50+ | ~2 h de tarefas | vender loot para o Rashid | achievement Recognised Trader | – |
+| [A Father's Burden](https://tibia.fandom.com/wiki/A_Father's_Burden_Quest) | 25 / 50+ | ~2 h |  | XP, 8k de gold, Old Cape | 0% |
+| [Forgotten Knowledge: a primeira parte](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | 0 / 50 | 5 Heavy Old Tomes | imbuing (Seção 2 do guia principal); Old Masonry e Astral Shaper Dungeon pelos Halls of Hope |  | – |
+| [Adventures of Galthen: missão City of Gold](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | 0 / 50 | 5 Nails e uma chave que você monta | Iksupan (Port Hope) |  | – |
+| [The Hidden City of Beregar](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | 0 / 60+ | ~2–3 h | Beregar Mines; Fenrock Dragon Lair (com uma Golden Mug) | parte das Firewalker Boots a partir do level 100 | – |
+| [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) | 60 / 80+ |  |  |  | 4% |
+| [The Hunt for the Sea Serpent](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | 61 / 61 |  | Sea Serpent Area (barco do Captain Haba) |  | – |
+| [The Shattered Isles: Goroma, Ramoa, Talahu e Malada, Nargor](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | 20 / 35 / 65 | 2–6 h; Goroma no 20, Ramoa no 35 | Goroma, Hellgorge, Ramoa, Malada, Nargor, Crystal Gardens, Lich Hell | outfits de Pirate (com as missões de Nargor) | 5% |
+| [Blood Brothers](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | 40 / 70+ | ~3–4 h | Vengoth e o castelo (barco do Harlow a partir da missão 4) | Vampiric Crest ou um addon Yalaharian | 0% |
+| [Lion's Rock](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) | 0 / 70 | ~1 h de provas | Lion's Rock (o portal do Inner Sanctum) |  | – |
+| [The Thieves Guild](https://tibia.fandom.com/wiki/The_Thieves_Guild_Quest) | 0 / 70+ | ~2 h | comércio com o Black Bert | achievement Master Thief | 5% |
+| [Children of the Revolution](https://tibia.fandom.com/wiki/Children_of_the_Revolution_Quest) | 0 / 70+ | ~2–3 h | tasks de Zao | addon Warmaster, Tome of Knowledge | 2% |
+| [An Uneasy Alliance](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 0 / 70+ | ~3 h |  | 2 Tomes of Knowledge, XP | 3% |
+| [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | 75 / 100+ | ~6 h | comércio com o Telas | itens de golem | 1% |
+| [The New Frontier](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) | 77 / 110+ | ~4–6 h, uma luta de arena; comece cedo: ela abre as portas dos elevadores de Farmine | Farmine e Zao (Muggy Plains, Chaochai, Zzaion…) | outfit Warmaster | 1% |
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Diseased Bill (1.000 HP), Diseased Fred (1.100 HP), Glitterscale (1.111 HP), Boreth (1.400 HP), Lersatio (1.645 HP), Black Knight (1.800 HP), Marziel (1.900 HP).
+
+**O que os compradores veem**, de 682 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 80 (quarto de cima 145); boss points 0 (quarto de cima 0); quest lines 2 (quarto de cima 2); achievement points 13 (quarto de cima 21); montarias 1 (quarto de cima 2); outfits 12 (quarto de cima 13).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Stonerefiner | Medium | 1.000 | 25 | 80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 371 | 2,7 | Hidden Threats Quest |
@@ -543,6 +658,28 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 100–150
 81 criaturas, 96.500 kills, 2.275 Charm Points, umas 3.109 horas (14 sem estimativa). Total acumulado: 9.457 Charm Points, 11.135 horas.
 
+**Quests**
+
+| Quest | Level | Esforço | Abre | Dá | Knights vendidos aqui com ela |
+|---|---|---|---|---|---|
+| [Threatened Dreams](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | 30 / 100 | ~4–6 h, alguns passos de noite no jogo | Feyrist (Feyrist Meadows) | Butterfly Ring | 0% |
+| [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 | ~2 h | Seacrest Grounds | achievements Mind the Step! e Snake Charmer | 0% |
+| [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | 0 / 130+ | longa, com esperas entre as missões | Nibelor (missão 1), Tyrsung (Nibelor 2), Formorgar Mines (missão 9), Helheim | outfit Norseman | 3% |
+| [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 110+ | ~8 h+, muitas missões | teleportes Liberty Bay ↔ Svargrond e Port Hope ↔ Northport; barco do Captain Max para Calassa |  | 3% |
+| [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | ~6–10 h; só a missão Searoutes pede 5 lembranças | barcos do Karith para fora de Yalahar (Searoutes), portões de atalho para os bairros | uma peça de armadura Yalahari, outfit Yalaharian | 6% |
+| [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | 80 / 120 | dias de tasks de rank dos gnomos | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens no rank II |  | – |
+| [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | 0 / 100 | só perto da lua cheia (dia 12 a 14) | Last Sanctum (The Curse Spreads), atalhos do Lion Sanctum | Foxtail Amulet | – |
+| [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | 80 / 130+ | 2–6 h | Pits of Inferno Dragon Lair (primeiras missões); exigida antes da Inquisition | Soft Boots, escolha entre Avenger, Arcane Staff ou Arbalest | 18% |
+| [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | 0 / 130+ | ~4–6 h | Deeper Banuta, as Forbidden Lands | outfit Shaman | 9% |
+| [Liquid Black](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | 0 / 130+ | ~3–5 h | Fiehonja funda e a Deeplings Library | outfit Deepling | – |
+| [Wrath of the Emperor](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | 80 / 130+ | ~8–12 h, bosses | Razachai, o Rebel Camp, os andares fundos de Deeper Banuta | Royal Draken Mail ou Elite Draken Helmet, outfit Wayfarer | 1% |
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Mad Mage (2.500 HP).
+
+**O que os compradores veem**, de 360 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 185 (quarto de cima 320); boss points 0 (quarto de cima 10); quest lines 3 (quarto de cima 5); achievement points 28 (quarto de cima 49); montarias 2 (quarto de cima 3); outfits 13 (quarto de cima 14).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Fire Elemental | Medium | 1.000 | 25 | 100 | [Demon Hell](https://tibiamaps.io/map#33211,31638,13:2) | 779 | 1,3 | Parchment Room Quest |
@@ -630,6 +767,21 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 150–200
 62 criaturas, 96.275 kills, 2.101 Charm Points, umas 4.184 horas (13 sem estimativa). Total acumulado: 11.558 Charm Points, 15.319 horas.
 
+**Quests**
+
+| Quest | Level | Esforço | Abre | Dá | Knights vendidos aqui com ela |
+|---|---|---|---|---|---|
+| [Rathleton](https://tibia.fandom.com/wiki/Rathleton_Quest) | 0 / 150 | votar nas votações mensais de Rathleton | Oramond Dungeon (50 votos) |  | 0% |
+| [Dark Trails](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | 150+ | as primeiras missões são solo; lutas em time depois | Abandoned Sewers, Oramond Fury Dungeon |  | 0% |
+
+Com amigos (quests em time): [The Inquisition](https://tibia.fandom.com/wiki/The_Inquisition_Quest) (24% dos knights vendidos aqui).
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Kroazur (3.000 HP), Rahemos (3.700 HP), Mahrdis (3.900 HP).
+
+**O que os compradores veem**, de 178 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 439 (quarto de cima 690); boss points 5 (quarto de cima 20); quest lines 5 (quarto de cima 8); achievement points 59 (quarto de cima 97); montarias 3 (quarto de cima 4); outfits 15 (quarto de cima 17).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Ice Witch | Medium | 1.000 | 25 | 180 | [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 172 | 5,8 |  |
@@ -698,6 +850,12 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 200–250
 39 criaturas, 87.000 kills, 1.775 Charm Points, umas 3.341 horas (12 sem estimativa). Total acumulado: 13.333 Charm Points, 18.660 horas.
 
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Vashresamun (4.000 HP), Thalas (4.100 HP), Arthei (4.200 HP), Dipthrah (4.200 HP), Omruc (4.300 HP), Morguthis (4.800 HP).
+
+**O que os compradores veem**, de 131 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 758 (quarto de cima 1.100); boss points 10 (quarto de cima 60); quest lines 7 (quarto de cima 13); achievement points 92 (quarto de cima 135); montarias 4 (quarto de cima 6); outfits 16 (quarto de cima 19).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Massive Energy Elemental | Medium | 1.000 | 25 | 200 | [Asura Palace](https://tibiamaps.io/map#33068,32673,3:2) | 104 | 9,6 |  |
@@ -743,6 +901,21 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 250–300
 32 criaturas, 66.500 kills, 1.360 Charm Points, umas 3.798 horas (7 sem estimativa). Total acumulado: 14.693 Charm Points, 22.459 horas.
 
+**Quests**
+
+| Quest | Level | Esforço | Abre | Dá | Knights vendidos aqui com ela |
+|---|---|---|---|---|---|
+| [Feaster of Souls](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) | 250 / 300 |  | Barren Drift |  | 11% |
+| [The Dream Courts](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | 250 / 250 |  | Court of Summer, Court of Winter |  | 0% |
+
+Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wiki/Heart_of_Destruction_Quest) (6% dos knights vendidos aqui).
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Ashmunrah (5.000 HP), Fleshslicer (5.700 HP).
+
+**O que os compradores veem**, de 121 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 1.114 (quarto de cima 1.541); boss points 40 (quarto de cima 170); quest lines 11 (quarto de cima 16); achievement points 130 (quarto de cima 175); montarias 6 (quarto de cima 9); outfits 18 (quarto de cima 22).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Sandcrawler | Trivial | 250 | 5 | 250 | [Falcon Bastion](https://tibiamaps.io/map#33362,31343,7:2) | 600 | 0,4 |  |
@@ -781,6 +954,12 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 300–350
 27 criaturas, 61.500 kills, 1.235 Charm Points, umas 4.930 horas (5 sem estimativa). Total acumulado: 15.928 Charm Points, 27.389 horas.
 
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Sugar Mommy (6.000 HP), Shadowstalker (6.100 HP), Rotspit (6.800 HP).
+
+**O que os compradores veem**, de 138 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 1.460 (quarto de cima 1.931); boss points 150 (quarto de cima 420); quest lines 12 (quarto de cima 16); achievement points 168 (quarto de cima 220); montarias 7 (quarto de cima 10); outfits 20 (quarto de cima 23).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Skeleton Elite Warrior | Hard | 2.500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#32990,32269,10:2) | 29 | 86 |  |
@@ -813,6 +992,12 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 
 ### Levels 350–400
 39 criaturas, 93.000 kills, 1.875 Charm Points, umas 5.748 horas (8 sem estimativa). Total acumulado: 17.803 Charm Points, 33.137 horas.
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Chopper (7.200 HP).
+
+**O que os compradores veem**, de 183 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 2.020 (quarto de cima 2.502); boss points 250 (quarto de cima 645); quest lines 12 (quarto de cima 17); achievement points 200 (quarto de cima 243); montarias 8 (quarto de cima 11); outfits 21 (quarto de cima 23).
+
+**Bestiário**
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
@@ -859,6 +1044,14 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 400–450
 18 criaturas, 45.000 kills, 900 Charm Points, umas 1.743 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 34.880 horas.
 
+Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wiki/Ferumbras'_Ascension_Quest) (8% dos knights vendidos aqui).
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Atab (8.100 HP), Maw (8.200 HP).
+
+**O que os compradores veem**, de 262 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 2.411 (quarto de cima 3.042); boss points 570 (quarto de cima 1.090); quest lines 14 (quarto de cima 18); achievement points 205 (quarto de cima 262); montarias 8 (quarto de cima 13); outfits 21 (quarto de cima 25).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Vexclaw | Hard | 2.500 | 50 | 400 | [Grounds of Destruction](https://tibiamaps.io/map#33426,32447,13:2) | 47 | 53 |  |
@@ -883,6 +1076,12 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 ### Levels 450–500
 4 criaturas, 10.000 kills, 200 Charm Points, umas 1.289 horas. Total acumulado: 18.903 Charm Points, 36.169 horas.
 
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Mindmasher (9.500 HP), Sugar Daddy (9.500 HP).
+
+**O que os compradores veem**, de 161 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 3.325 (quarto de cima 4.312); boss points 835 (quarto de cima 1.695); quest lines 17 (quarto de cima 22); achievement points 258 (quarto de cima 334); montarias 11 (quarto de cima 18); outfits 23 (quarto de cima 29).
+
+**Bestiário**
+
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
 | Energetic Book | Hard | 2.500 | 50 | 465 | [Secret Library](https://tibiamaps.io/map#32471,32743,13:2) | 13 | 190 |  |
@@ -892,6 +1091,12 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 
 ### Levels 500+
 83 criaturas, 375.000 kills, 7.500 Charm Points, umas 23.004 horas (55 sem estimativa). Total acumulado: 26.403 Charm Points, 59.173 horas.
+
+**Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Dazed Leaf Golem (10.000 HP), Inkwing (12.000 HP), Gorga (15.000 HP), Grand Canon Dominus (15.000 HP), Preceptor Lazare (16.000 HP), Grand Commander Soeren (17.000 HP), Grand Chaplain Gaunder (18.000 HP), Sir Leonard (22.000 HP), Enusat the Onyx Wing (25.000 HP), Latrivan (25.000 HP), Thawing Dragon Lord (25.000 HP), Rakesh Moonfang (25.500 HP), Hellgorak (25.850 HP), Mozradek (28.000 HP), Tanjis (30.000 HP)…
+
+**O que os compradores veem**, de 250 knights vendidos nesses levels (mediana, e o quarto de cima): Charm Points 4.449 (quarto de cima 5.979); boss points 1.680 (quarto de cima 2.720); quest lines 22 (quarto de cima 28); achievement points 352 (quarto de cima 456); montarias 16 (quarto de cima 26); outfits 30 (quarto de cima 36).
+
+**Bestiário**
 
 | Criatura | Dificuldade | Kills | Pontos | Level | Hunt | Kills/h | Horas | Precisa de |
 |---|---|---|---|---|---|---|---|---|
