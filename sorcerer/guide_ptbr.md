@@ -63,7 +63,7 @@ Existe um terceiro tipo de conforto, o **conhecimento**: quanto do jogo você pr
 
 ### Como uma hunt recebe a nota
 Enquanto as hunts não forem testadas com um sorcerer, todas as notas vêm do modelo luta a luta do apêndice. Ele olha duas coisas para o sorcerer típico da faixa:
-- **Quanto você precisa se curar:** a vida que os monstros te tiram numa hora, depois da sua armadura, do seu spellbook e das proteções, contada em barras de vida cheias.
+- **Quanto você precisa se curar:** a vida que os monstros te tiram numa hora, depois da sua armor, do seu spellbook e das proteções, contada em barras de vida cheias.
 - **O pior momento:** o turno mais pesado de uma puxada típica, com todos os monstros dela batendo o máximo ao mesmo tempo, como parte da sua vida.
 
 | Cura por hora | Pior turno | Atenção e Preparo |
@@ -80,7 +80,7 @@ A nota é a primeira linha em que os dois números cabem. Por exemplo, uma hunt 
 Algumas coisas ainda sobem a nota:
 - **Monstros invisíveis.** Você não consegue vê-los para atacar, então a hunt fica com Atenção 3.
 - **Um monstro raro capaz de tirar metade da sua vida num turno** deixa a hunt com pelo menos Atenção 2.
-- **Equipamento especial.** Se a hunt pede um item específico, como uma armadura elemental ou um Dwarven Ring, o Preparo é 2.
+- **Equipamento especial.** Se a hunt pede um item específico, como uma armor elemental ou um Dwarven Ring, o Preparo é 2.
 
 Os monstros que invocam outros entram no modelo: o dano dos invocados conta na sua cura.
 
@@ -92,7 +92,7 @@ Uma hunt só aparece a partir do level que a TibiaWiki sugere para ela (a TibiaW
 Cada faixa mostra duas listas curtas: **Bom para XP**, as 3 hunts com mais experiência por hora, e **Bom para lucro**, as 3 com mais loot por hora. As hunts cujo loot não paga as poções que elas gastam ficam de fora. As duas listas só pegam hunts confortáveis (Preparo e Atenção 0 ou 1) e aceitam um 2 só quando menos de 3 se encaixam. Uma hunt pode estar nas duas listas. As seções seguintes só mostram uma faixa quando o sistema delas muda essas listas. As hunts que exigem uma quest antes ficam de fora de todas as seções, menos da Seção 1b (a Targuna Quest e começar a The New Frontier Quest não contam), e as hunts a mais de uns 2 minutos do depot ficam só na Seção 1c. As tabelas começam no level 20, e as Seções 2 a 4 no level 50.
 
 ### O personagem dos números
-Os números de XP e loot são estimativas para um sorcerer típico: alguém com magic level um pouco abaixo do normal para o level (10 no level 8, 25 no 30, 58 no 80, 80 no 134, 95 no 200), usando a melhor wand que um NPC vende para aquele level. Ele veste a melhor armadura que daria para comprar com umas 3 horas de loot. Cada faixa mostra esse magic level e essa wand. Se os seus forem melhores, você vai render mais do que as tabelas.
+Os números de XP e loot são estimativas para um sorcerer típico: alguém com magic level um pouco abaixo do normal para o level (10 no level 8, 25 no 30, 58 no 80, 80 no 134, 95 no 200), usando a melhor wand que um NPC vende para aquele level. Ele veste a melhor armor que daria para comprar com umas 3 horas de loot. Cada faixa mostra esse magic level e essa wand. Se os seus forem melhores, você vai render mais do que as tabelas.
 
 As estimativas também contam que você solta wave em todo grupo de 2 ou mais (o `exevo flam hur` acerta até 4 monstros, o `exevo vis hur` até 6) com strikes no meio, e usa strike nos monstros sozinhos, sempre com o elemento mais fraco de cada monstro.
 
@@ -113,7 +113,7 @@ Aqui não existe magia que acerte tudo em volta: com bem menos vida que um knigh
 **Jogue seguro:** saiba sempre por onde sair, saia quando a sua vida chegar mais ou menos à metade e tome cuidado extra onde as notas dizem "paralisam".
 
 ### Equipamento
-Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar. A linha de equipamento de cada faixa lista armas e armaduras com bom custo-benefício.
+Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem tempo para acompanhar. A linha de equipamento de cada faixa lista armas e armors com bom custo-benefício.
 - **Wand:** compre a melhor que o seu level permite. Elas são baratas, e ter uma de cada elemento ajuda contra monstros que resistem a um:
 
 | Wand | Level | Elemento | Dano médio | Preço no NPC |
@@ -128,9 +128,9 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 | Wand of Voodoo | 42 | morte | 65 | 22.000 |
 | Wand of Everblazing | 65 | fogo | 85 | só no Market |
 
-- **Mão do escudo:** um spellbook. Desde junho de 2026 os spellbooks protegem bem mais do que antes.
+- **Mão do shield:** um spellbook. Desde junho de 2026 os spellbooks protegem bem mais do que antes.
 - **Amuleto e anel:** uma Platinum Amulet, depois uma Foxtail Amulet a partir do level 100 (5% menos dano físico), e um Butterfly Ring a partir do level 50.
-- **Armadura:** armaduras, calças e capacetes que dão magic level valem a pena; fora isso, use o que mais protege.
+- **Armor:** armors, legs e helmets que dão magic level valem a pena; fora isso, use o que mais protege.
 
 ### Antes de caçar
 - **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado, mas só depois de 10 minutos offline, então cada login rápido entre as hunts (para olhar o Market, por exemplo) custa até 10 minutos de recarga, quase 2 minutos de stamina verde.
@@ -1659,14 +1659,14 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,7:2) | 0 | 0 | ~65k | ~165k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Sandcrawler Shell |
 
 ## Seção 2: Imbuements
-Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um sorcerer confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armadura e Basic Void no capacete**.
+Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um sorcerer confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armor e Basic Void no helmet**.
 
 O leech devolve uma parte do seu dano, então só compensa quando você causa bastante dano, mais ou menos do level 40 ao 60 para um sorcerer, em que o mana leech pesa mais porque todo ataque gasta mana. Por isso as tabelas da Seção 2 começam no level 50.
 
 ### Como montar
 1. **Libere o imbuing** com a primeira parte da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest/Spoiler): nos Halls of Hope, logo ao norte de Thais, entregue 5 Heavy Old Tomes ao Albinius (diga "temple" e depois "yes"). Os tomos custam uns 250 gold no Market, e orcs, trolls, skeletons, ghouls e cyclops dropam.
-2. **Armadura:** num Imbuing Shrine de qualquer cidade grande, coloque Basic Vampirism com 25 Vampire Teeth e uma taxa de 7.500 gold.
-3. **Capacete:** use um scroll de Basic Void do Market. Os scrolls funcionam em qualquer lugar, sem a quest nem o shrine, e para o Void o scroll sai mais barato.
+2. **Armor:** num Imbuing Shrine de qualquer cidade grande, coloque Basic Vampirism com 25 Vampire Teeth e uma taxa de 7.500 gold.
+3. **Helmet:** use um scroll de Basic Void do Market. Os scrolls funcionam em qualquer lugar, sem a quest nem o shrine, e para o Void o scroll sai mais barato.
 
 O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com preços do Market de novembro de 2026:
 
@@ -1680,7 +1680,7 @@ O kit custa uns 74k gold a cada 20 horas de luta, uns 3,7k por hora. Custos, com
 
 ### Bom saber
 - As 20 horas só contam enquanto você luta. Tirar um imbuement custa 15.000 gold, então deixe acabar.
-- Cada item tem de 0 a 3 slots e aceita um imbuement de cada tipo. Calças não podem receber imbuement. Wands também podem receber.
+- Cada item tem de 0 a 3 slots e aceita um imbuement de cada tipo. Legs não podem receber imbuement. Wands também podem receber.
 - Valem menos pelo gold, então ficam para depois: **Strike** (golpes críticos, +1% a +4,5% de dano), **Epiphany** (magic level, uns +1% de dano por ponto) e **proteção elemental** (3% a 15% menos dano de um elemento).
 - Dá para farmar os materiais: Vampire Teeth de vampires (Edron Vampire Crypt), Rope Belts para o Void de cultistas (Cult Cave, Liberty Bay) e Bloody Pincers para o Intricate Vampirism de blood crabs (Laguna Islands).
 
@@ -2568,9 +2568,9 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 | Item | Efeito | Tier 1 | Tier 3 | Tier 10 |
 |---|---|---|---|---|
 | Arma | Onslaught: chance de um golpe com 60% de dano extra | +0,3% de dano | +1% de dano | +5,4% de dano |
-| Armadura | Ruse: chance de esquivar de um ataque | 0,5% | 1,6% | 7,5% |
+| Armor | Ruse: chance de esquivar de um ataque | 0,5% | 1,6% | 7,5% |
 | Helmet | Momentum: chance de tirar 2 segundos do tempo de espera das magias | 2% a cada 2 s | 6% | 24% |
-| Calça | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
+| Legs | Transcendence: chance de virar avatar por 7 segundos | bem rara | rara | uns 2% |
 | Bota | Amplification: faz os outros efeitos ativarem com mais frequência | +2,5% | +9% | +57% |
 
 **Como funciona.** Você **funde** dois itens iguais do mesmo tier, pagando gold e dust, e recebe um item do tier seguinte. Dá certo metade das vezes (65% com um Exalted Core). Quando falha, um dos itens perde um tier, ou é destruído se for tier 0. O dust vem de monstros influenciados e não pode ser negociado; os Exalted Cores são feitos a partir dele.
@@ -2579,17 +2579,17 @@ O último passo é a **Forja da Exaltação** (Exaltation Forge), na Adventurers
 
 **Quanto custa.** Ir do tier 0 para o 1 custa 25k de gold num item de classe 1, 750k na classe 2, 4 milhões na classe 3 e 8 milhões na classe 4. Os tiers seguintes de um item de classe 4 custam 20 milhões, depois 40 milhões, 65 milhões e mais.
 
-**Para o conforto,** o efeito que mais importa é o Ruse na armadura. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um. Deixe a Forja para quando todo o resto estiver pronto.
+**Para o conforto,** o efeito que mais importa é o Ruse na armor. Nos tiers que dá para pagar no começo (1 a 3), ele é só uma chance de 0,5 a 1,6% de esquiva por milhões de gold. Muitas vezes sai mais barato comprar um item que já tem tier no Market do que forjar um. Deixe a Forja para quando todo o resto estiver pronto.
 
 Com imbuements, charms, prey, a Wheel e as gemas, a Weapon Proficiency e equipamento com tier, você tem o que os jogadores chamam de **full setup**.
 
 ## Apêndice: como os números são feitos
 Ninguém publica números de hunt para sorcerer sem full setup, então a XP, o loot e as notas das tabelas de sorcerer são calculados do mesmo jeito que no guia de knight, com as magias, a vida e o equipamento de um sorcerer. Veja como, em palavras simples.
 
-1. **Você.** O sorcerer típico de cada faixa: o level, o magic level e o equipamento da faixa. As magias e as curas usam a base power da TibiaWiki (strike 45, fire wave 40, energy wave 150) vezes o seu Magic Power, (level + 4 × magic level) ÷ 100; a mesma fórmula bate com o `exori` e o `exura ico` reais dos knights. A wand soma os tiros dela e devolve um pouco de mana. O seu spellbook bloqueia um pouco; a sua armadura e as proteções seguram o resto.
-2. **Os monstros.** Vida, experiência e loot vêm da TibiaWiki; armadura, fraquezas, cura, ataques e os ajudantes que eles invocam vêm do servidor de código aberto Canary.
+1. **Você.** O sorcerer típico de cada faixa: o level, o magic level e o equipamento da faixa. As magias e as curas usam a base power da TibiaWiki (strike 45, fire wave 40, energy wave 150) vezes o seu Magic Power, (level + 4 × magic level) ÷ 100; a mesma fórmula bate com o `exori` e o `exura ico` reais dos knights. A wand soma os tiros dela e devolve um pouco de mana. O seu spellbook bloqueia um pouco; a sua armor e as proteções seguram o resto.
+2. **Os monstros.** Vida, experiência e loot vêm da TibiaWiki; armor, fraquezas, cura, ataques e os ajudantes que eles invocam vêm do servidor de código aberto Canary.
 3. **A hunt.** Onde cada monstro aparece vem do mapa do Canary: quais vêm juntos numa puxada, quanto você anda entre eles e com que rapidez eles voltam.
-4. **Uma luta de cada vez.** Para cada puxada: quanto tempo leva para matar (cada magia depois da fraqueza do monstro ao elemento dela, então a fire wave não faz nada nos dragons; os strikes usam o elemento que o monstro mais sente entre fogo, energia e morte; em 2 ou mais monstros, as waves acertam até 4 com o `exevo flam hur` e 6 com o `exevo vis hur`, com strikes no meio; os tiros da wand), quanto eles te machucam (depois da sua armadura, do spellbook e das proteções; os golpes corpo a corpo contam pela metade, porque você kita) e como você se cura (`exura`, `exura gran` a partir do level 20, poções nos momentos de susto). A caminhada e o loot preenchem o tempo entre as puxadas.
+4. **Uma luta de cada vez.** Para cada puxada: quanto tempo leva para matar (cada magia depois da fraqueza do monstro ao elemento dela, então a fire wave não faz nada nos dragons; os strikes usam o elemento que o monstro mais sente entre fogo, energia e morte; em 2 ou mais monstros, as waves acertam até 4 com o `exevo flam hur` e 6 com o `exevo vis hur`, com strikes no meio; os tiros da wand), quanto eles te machucam (depois da sua armor, do spellbook e das proteções; os golpes corpo a corpo contam pela metade, porque você kita) e como você se cura (`exura`, `exura gran` a partir do level 20, poções nos momentos de susto). A caminhada e o loot preenchem o tempo entre as puxadas.
 5. **Juntando tudo.** As mortes por hora, até onde o respawn deixa, dão a XP/h e o loot/h. Cada drop vale o que for maior: o preço do NPC ou o do Market (o preço do meio em três mundos grandes, novembro de 2026); drops mais raros que uma vez a cada 3 horas ficam de fora. A cura dá as notas; as Mana Potions das magias e das curas (depois do que a regeneração e a wand devolvem) e as poções de vida dão os supplies.
 
 Como funciona luta a luta, os números de uma hunt crescem com o seu level do jeito que crescem de verdade: golpes mais fortes, caminhada mais rápida e mais vida, até a hunt ficar sem monstros.
