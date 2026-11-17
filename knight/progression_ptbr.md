@@ -25,6 +25,8 @@ Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num 
 | ☐ | 25 | [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest) | XP, uma Yellow Gem |
 | ☐ | 25 | [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions) | encomendas e barcos mais baratos, Postman Hat |
 | ☐ | 30 | [Hidden Threats](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | Corym Mines (a hunt principal da rota do 0 ao 100) |
+| ☐ | 30 | [The Explorer Society: Joining the Explorers (rank Novice)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), exigido para a primeira ida a Yalahar |
+| ☐ | 35 | [In Service of Yalahar: The Way to Yalahar e Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar e os bairros, os barcos do Karith de volta |
 | ☐ | 40 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | cavernas de Treasure Island |
 | ☐ | 40 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | addon Tribal Crest, Tome of Knowledge |
 | ☐ | 45 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | Isle of the Kings |
@@ -56,7 +58,7 @@ Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num 
 | ☐ | 100 | [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | Seacrest Grounds |
 | ☐ | 100 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | Nibelor (missão 1), Tyrsung (Nibelor 2), Formorgar Mines (missão 9), Helheim |
 | ☐ | 100 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | teleportes Liberty Bay ↔ Svargrond e Port Hope ↔ Northport; barco do Captain Max para Calassa |
-| ☐ | 100 | [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | barcos do Karith para fora de Yalahar (Searoutes), portões de atalho para os bairros |
+| ☐ | 100 | [In Service of Yalahar: missões 1 a 10](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | portões de atalho do centro para os bairros |
 | ☐ | 100 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens no rank II |
 | ☐ | 100 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | Last Sanctum (The Curse Spreads), atalhos do Lion Sanctum |
 | ☐ | 100 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | Pits of Inferno Dragon Lair (primeiras missões); exigida antes da Inquisition |
@@ -234,6 +236,8 @@ Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points
 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | 0 / 40 | a cada visita | cavernas de Treasure Island |  | – |
 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | 0 / 40 | ~2 h |  | addon Tribal Crest, Tome of Knowledge | 0% |
 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | 0 / 45+ | ~1 h | Isle of the Kings | Blessed Ankh | 0% |
+| [The Explorer Society: Joining the Explorers (rank Novice)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 20 | uma Dwarven Pickaxe do Uzgod em Kazordoon, em troca da Family Brooch dele em Dwacatra (Shovel, Rope, Key 3802) | Captain Max (Liberty Bay), exigido para a primeira ida a Yalahar |  | – |
+| [In Service of Yalahar: The Way to Yalahar e Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 0 / 35 | Wyrdin (Edron), Captain Max até Yalahar, Timothy; depois 5 lembranças para o Karith | Yalahar e os bairros, os barcos do Karith de volta | 5 platinum coins, 500 de gold do Wyrdin | – |
 
 Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/The_Desert_Dungeon_Quest) (5% dos knights vendidos aqui).
 
@@ -666,7 +670,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 | ~2 h | Seacrest Grounds | achievements Mind the Step! e Snake Charmer | 0% |
 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | 0 / 130+ | longa, com esperas entre as missões | Nibelor (missão 1), Tyrsung (Nibelor 2), Formorgar Mines (missão 9), Helheim | outfit Norseman | 3% |
 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 110+ | ~8 h+, muitas missões | teleportes Liberty Bay ↔ Svargrond e Port Hope ↔ Northport; barco do Captain Max para Calassa |  | 3% |
-| [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | ~6–10 h; só a missão Searoutes pede 5 lembranças | barcos do Karith para fora de Yalahar (Searoutes), portões de atalho para os bairros | uma peça de armadura Yalahari, outfit Yalaharian | 6% |
+| [In Service of Yalahar: missões 1 a 10](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | ~6–10 h | portões de atalho do centro para os bairros | uma peça de armadura Yalahari, outfit Yalaharian | 6% |
 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | 80 / 120 | dias de tasks de rank dos gnomos | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens no rank II |  | – |
 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | 0 / 100 | só perto da lua cheia (dia 12 a 14) | Last Sanctum (The Curse Spreads), atalhos do Lion Sanctum | Foxtail Amulet | – |
 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | 80 / 130+ | 2–6 h | Pits of Inferno Dragon Lair (primeiras missões); exigida antes da Inquisition | Soft Boots, escolha entre Avenger, Arcane Staff ou Arbalest | 18% |

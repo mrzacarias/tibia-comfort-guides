@@ -25,6 +25,8 @@ Print it, or copy it into a file, and tick what your character has done. For a c
 | ☐ | 25 | [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest) | XP, a Yellow Gem |
 | ☐ | 25 | [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions) | cheaper parcels and boats, Postman Hat |
 | ☐ | 30 | [Hidden Threats](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | Corym Mines (the 0–100 route's main hunting ground) |
+| ☐ | 30 | [The Explorer Society: Joining the Explorers (Novice rank)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), needed for the first trip to Yalahar |
+| ☐ | 35 | [In Service of Yalahar: The Way to Yalahar and Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar and its quarters, Karith's boats back out |
 | ☐ | 40 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | Treasure Island caverns |
 | ☐ | 40 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | Tribal Crest addon, Tome of Knowledge |
 | ☐ | 45 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | Isle of the Kings |
@@ -56,7 +58,7 @@ Print it, or copy it into a file, and tick what your character has done. For a c
 | ☐ | 100 | [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | Seacrest Grounds |
 | ☐ | 100 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | Nibelor (mission 1), Tyrsung (Nibelor 2), Formorgar Mines (mission 9), Helheim |
 | ☐ | 100 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | teleports Liberty Bay ↔ Svargrond and Port Hope ↔ Northport; Captain Max's boat to Calassa |
-| ☐ | 100 | [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Karith's boats out of Yalahar (Searoutes), shortcut gates to the quarters |
+| ☐ | 100 | [In Service of Yalahar: missions 1–10](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | shortcut gates from the centre to the quarters |
 | ☐ | 100 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens at rank II |
 | ☐ | 100 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | Last Sanctum (The Curse Spreads), Lion Sanctum shortcuts |
 | ☐ | 100 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | Pits of Inferno Dragon Lair (first missions); needed for the Inquisition |
@@ -234,6 +236,8 @@ Each band lists the creatures whose level falls in it, best charm points per hou
 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | 0 / 40 | each visit | Treasure Island caverns |  | – |
 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | 0 / 40 | ~2 h |  | Tribal Crest addon, Tome of Knowledge | 0% |
 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | 0 / 45+ | ~1 h | Isle of the Kings | Blessed Ankh | 0% |
+| [The Explorer Society: Joining the Explorers (Novice rank)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 20 | a Dwarven Pickaxe from Uzgod in Kazordoon, for his Family Brooch from Dwacatra (Shovel, Rope, Key 3802) | Captain Max (Liberty Bay), needed for the first trip to Yalahar |  | – |
+| [In Service of Yalahar: The Way to Yalahar and Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 0 / 35 | Wyrdin (Edron), Captain Max to Yalahar, Timothy; then 5 souvenirs for Karith | Yalahar and its quarters, Karith's boats back out | 5 platinum coins, 500 gold from Wyrdin | – |
 
 With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/The_Desert_Dungeon_Quest) (5% of the sold knights here).
 
@@ -666,7 +670,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | [Twenty Miles Beneath the Sea](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 | ~2 h | Seacrest Grounds | Mind the Step! and Snake Charmer achievements | 0% |
 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | 0 / 130+ | long, with waits between missions | Nibelor (mission 1), Tyrsung (Nibelor 2), Formorgar Mines (mission 9), Helheim | Norseman outfit | 3% |
 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 110+ | ~8 h+, many missions | teleports Liberty Bay ↔ Svargrond and Port Hope ↔ Northport; Captain Max's boat to Calassa |  | 3% |
-| [In Service of Yalahar](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | ~6–10 h; its Searoutes mission alone takes 5 souvenirs | Karith's boats out of Yalahar (Searoutes), shortcut gates to the quarters | a Yalahari armor piece, Yalaharian outfit | 6% |
+| [In Service of Yalahar: missions 1–10](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | ~6–10 h | shortcut gates from the centre to the quarters | a Yalahari armor piece, Yalaharian outfit | 6% |
 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | 80 / 120 | days of gnome rank tasks | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens at rank II |  | – |
 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | 0 / 100 | only around the full moon (12th–14th) | Last Sanctum (The Curse Spreads), Lion Sanctum shortcuts | Foxtail Amulet | – |
 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | 80 / 130+ | 2–6 h | Pits of Inferno Dragon Lair (first missions); needed for the Inquisition | Soft Boots, a choice of Avenger, Arcane Staff or Arbalest | 18% |
