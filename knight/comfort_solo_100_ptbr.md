@@ -5,7 +5,7 @@ Este guia é para um Elite Knight solo do level 100 para cima que quer **hunts t
 A régua é uma hunt testada: um knight level 99 com Basic Vampirism, Basic Void e Shield Bash nos Stonerefiners das Corym Mines, uns 185k de XP crua e 125k de loot por hora, quase sem poção. Toda hunt abaixo é uma em que o modelo espera a mesma sensação, e cada faixa de level libera hunts novas conforme o seu level e equipamento crescem.
 
 ## Resumindo
-- A melhor XP confortável por hora, crua: uns **175k no level 100, 239k no 200, 316k no 300, 362k no 400, 565k no 500, 594k no 600 e 675k no 800**. O loot vai de uns 229k a 409k por hora nas melhores hunts de gold.
+- A melhor XP confortável por hora, crua: uns **175k no level 100, 239k no 200, 316k no 300, 351k no 400, 565k no 500, 594k no 600 e 756k no 800**. O loot vai de uns 229k a 409k por hora nas melhores hunts de gold.
 - O kit é o mais barato que dá leech: **Basic Vampirism e Basic Void**, uns 4k por hora, em todo level. Os imbuements Powerful custariam uns 53k por hora e liberariam algumas hunts uma ou duas faixas antes (veja a comparação no fim).
 - Subir de level assim fica lento: a XP por hora cresce bem mais devagar que a experiência que um level pede. O título de cada faixa mostra as horas de hunt crua até a próxima faixa nas melhores hunts de XP; stamina verde, prey e as weekly tasks cortam muito disso. Quem fala em milhões de XP por hora faz box grande com todas as magias de área e bebe poção sem parar.
 - Cada faixa começa com as hunts que ela **libera**: confortáveis naquele level, não na faixa anterior.
@@ -52,16 +52,16 @@ Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tib
 ## Hunts
 Números por hora de experiência crua (sem bônus de stamina, prey ou criatura boostada) e loot a preço de Market, para um knight no começo de cada faixa. **Atenção** é a nota com o kit Basic. Poções/h são as mana e health potions que o modelo espera; os imbuements custam mais uns 4k por hora, em todas.
 
-### Level 100–200 (~895 horas até o 200)
+### Level 100–200 (~825 horas até o 200)
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (iniciada: fale com o Corym Ratter e o Corym Servant). Venore 98 / ~25 s | 1 | 175k | 97k | 5k |  |
+| [Dragonblaze Peaks (superfície)](https://tibiamaps.io/map#33228,31305,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 153k | 72k | 8k |  |
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | Edron 401 / ~1.7 min | 1 | 148k | 151k | 9k |  |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | Port Hope 76 / ~20 s | 0 | 109k | 113k | 4k |  |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | Venore 108 / ~25 s | 0 | 105k | 113k | 4k |  |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | Edron 237 / ~1.0 min | 1 | 99k | 31k | 4k |  |
 
 **Melhores para gold**
 
@@ -74,7 +74,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | [Meriana Quest](https://tibia.fandom.com/wiki/Meriana_Quest) | 0 | 68k | 186k | 2k |  |
 
 ### Level 200–300 (~1.380 horas até o 300)
-**Novas hunts neste level** (confortáveis agora, não no 100): Thais Dragon Lair (239k XP, 73k loot), Replica Dungeon (238k XP, 49k loot), Astral Shaper Dungeon (234k XP, 165k loot), Golem Workshop (213k XP, 51k loot), Energy Elemental Lair (201k XP, 244k loot), Nibelor Crystal Spiders (196k XP, 78k loot).
+**Novas hunts neste level** (confortáveis agora, não no 100): Thais Dragon Lair (239k XP, 73k loot), Replica Dungeon (238k XP, 49k loot), Astral Shaper Dungeon (234k XP, 165k loot), Golem Workshop (213k XP, 51k loot), Elves (Foreigner Quarter, -3 a -4) (202k XP, 115k loot), Energy Elemental Lair (201k XP, 244k loot).
 
 **Melhores para XP**
 
@@ -97,7 +97,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | Ankrahmun 345 / ~1.4 min | 1 | 201k | 244k | 12k |  |
 
 ### Level 300–400 (~2.191 horas até o 400)
-**Novas hunts neste level** (confortáveis agora, não no 200): Dragon Lair (Plains of Havoc) (316k XP, 111k loot), Earth Sphere (269k XP, 134k loot), Old Masonry (246k XP, 124k loot), Water Elemental Cave (Tiquanda) (227k XP, 111k loot), Crystal Grounds (Gnomegate) (200k XP, 295k loot), Malada (199k XP, 113k loot).
+**Novas hunts neste level** (confortáveis agora, não no 200): Dragon Lair (Plains of Havoc) (316k XP, 111k loot), Earth Sphere (269k XP, 134k loot), Old Masonry (246k XP, 124k loot), Factory Quarter (-1 a -2) (234k XP, 41k loot), Water Elemental Cave (Tiquanda) (227k XP, 111k loot), Crystal Grounds (Gnomegate) (200k XP, 295k loot).
 
 **Melhores para XP**
 
@@ -119,18 +119,18 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 68k | 264k | 1k |  |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 17k | 251k | 1k |  |
 
-### Level 400–500 (~2.981 horas até o 500)
-**Novas hunts neste level** (confortáveis agora, não no 300): Dragonblaze Peaks (362k XP, 88k loot), Exotic Cave (351k XP, 130k loot), Fiehonja deeplings (342k XP, 193k loot), Venore Dragon Lair (286k XP, 87k loot), Caverna Exanima (274k XP, 210k loot), Ice Witch Temple (243k XP, 72k loot).
+### Level 400–500 (~3.100 horas até o 500)
+**Novas hunts neste level** (confortáveis agora, não no 300): Exotic Cave (351k XP, 130k loot), Fiehonja deeplings (342k XP, 193k loot), Venore Dragon Lair (286k XP, 87k loot), Caverna Exanima (274k XP, 210k loot), Ice Witch Temple (243k XP, 72k loot), Drillworm Caves (Kazordoon) (241k XP, 198k loot).
 
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
 |---|---|---|---|---|---|---|
-| [Dragonblaze Peaks](https://tibiamaps.io/map#33228,31305,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 362k | 88k | 10k |  |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | Issavi ~10 / ~5 s (+ shell) | 1 | 351k | 130k | 14k |  |
 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest). Gray Beach 82 / ~20 s | 1 | 342k | 193k | 18k |  |
 | [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | Venore 449 / ~1.9 min | 1 | 334k | 117k | 10k |  |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 0 | 301k | 212k | 5k |  |
+| [Earth Sphere](https://tibiamaps.io/map#33330,32076,13:2) | [veja o TibiaWiki](https://tibia.fandom.com/wiki/Earth_Sphere) | 1 | 297k | 147k | 9k |  |
 
 **Melhores para gold**
 
@@ -142,8 +142,8 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | Edron 129 / ~30 s | 0 | 124k | 299k | 1k | O respawn é o limite. |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 67k | 279k | 1k |  |
 
-### Level 500–600 (~2.877 horas até o 600)
-**Novas hunts neste level** (confortáveis agora, não no 400): Sea Serpent Area (565k XP, 111k loot), Seacrest Grounds (531k XP, 105k loot), Pits of Inferno Dragon Lair (513k XP, 100k loot), Okolnir frost dragons (508k XP, 71k loot), Fenrock Dragon Lair (500k XP, 77k loot), Darashia Dragon Lair (438k XP, 102k loot).
+### Level 500–600 (~2.872 horas até o 600)
+**Novas hunts neste level** (confortáveis agora, não no 400): Sea Serpent Area (565k XP, 111k loot), Seacrest Grounds (531k XP, 105k loot), Pits of Inferno Dragon Lair (513k XP, 100k loot), Okolnir frost dragons (508k XP, 71k loot), Dragonblaze Peaks (+3 a +6) (505k XP, 73k loot), Fenrock Dragon Lair (500k XP, 77k loot).
 
 **Melhores para XP**
 
@@ -153,7 +153,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest), missões 1 e 2 | 1 | 531k | 105k | 5k | Espada: Gnome Sword (energia). Sea serpents. |
 | [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) (primeiras missões). Venore 580 / ~2.4 min | 1 | 513k | 100k | 9k | Espada: Winterblade (gelo). |
 | [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel). Svargrond 63 / ~16 s, Buddel's boat to Okolnir, then 34 / ~8 s | 1 | 508k | 71k | 7k | Espada: Gnome Sword (energia). |
-| [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) (iniciada). Yalahar 192 / ~48 s, Maris's boat to Fenrock | 1 | 500k | 77k | 8k | Espada: Winterblade (gelo). |
+| [Dragonblaze Peaks (+3 a +6)](https://tibiamaps.io/map#33228,31305,4:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 505k | 73k | 5k | Espada: Gnome Sword (energia). |
 
 **Melhores para gold**
 
@@ -166,7 +166,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 0 | 45k | 307k | 0k | Espada: Gnome Sword (energia). |
 
 ### Level 600–800 (~8.697 horas até o 800)
-**Novas hunts neste level** (confortáveis agora, não no 500): The Wreckoning (444k XP, 183k loot), Glooth Factory (415k XP, 143k loot), Feyrist Meadows (356k XP, 206k loot), Astral Shaper Ruins (327k XP, 214k loot), Restricted Area (Magician Quarter) (326k XP, 105k loot), Chazorai (314k XP, 103k loot).
+**Novas hunts neste level** (confortáveis agora, não no 500): The Wreckoning (444k XP, 183k loot), Glooth Factory (415k XP, 143k loot), Feyrist Meadows (356k XP, 206k loot), Astral Shaper Ruins (327k XP, 214k loot), Chazorai (314k XP, 103k loot).
 
 **Melhores para XP**
 
@@ -189,17 +189,17 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 0 | 45k | 307k | 0k | Espada: Gnome Sword (energia). |
 
 ### Level 800+
-**Novas hunts neste level** (confortáveis agora, não no 600): Ancient Ancestorial Grounds (644k XP, 179k loot), Deeplings Library (Fiehonja) (591k XP, 409k loot), Medusa Cave (557k XP, 174k loot), Drefia Grim Reaper Dungeons (529k XP, 147k loot), Misguided Camp (407k XP, 74k loot), The Hive (Gray Beach) (405k XP, 284k loot).
+**Novas hunts neste level** (confortáveis agora, não no 600): Drefia (-5 a -7) (756k XP, 166k loot), Ancient Ancestorial Grounds (644k XP, 179k loot), Deeplings Library (Fiehonja) (591k XP, 409k loot), Medusa Cave (557k XP, 174k loot), Dragon Lairs (Goroma, +1 a +3) (493k XP, 90k loot), Misguided Camp (407k XP, 74k loot).
 
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
 |---|---|---|---|---|---|---|
+| [Drefia (-5 a -7)](https://tibiamaps.io/map#33018,32443,12:2) | Darashia 274 / ~1.1 min | 1 | 756k | 166k | 12k | Espada: Summerblade (fogo). |
 | [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest). Svargrond 103 / ~26 s, Captain Haba's sea serpent boat | 1 | 675k | 132k | 3k | Espada: Gnome Sword (energia). |
 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | [The Secret Library Quest](https://tibia.fandom.com/wiki/The_Secret_Library_Quest), a parte dos deathlings (level 250) | 1 | 644k | 179k | 12k | Espada: Gnome Sword (energia). O TibiaWiki chama de hunt de time ou de knight com druid. Teste com cuidado. O loot vende para o NPC ao lado. |
 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest), missões 1 e 2 | 1 | 632k | 125k | 2k | Espada: Gnome Sword (energia). Sea serpents. |
 | [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) (primeiras missões). Venore 580 / ~2.4 min | 1 | 619k | 121k | 5k | Espada: Winterblade (gelo). |
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest). Gray Beach 82 / ~20 s (Fiehonja entrance) | 1 | 591k | 409k | 19k | Espada: Gnome Sword (energia). |
 
 **Melhores para gold**
 

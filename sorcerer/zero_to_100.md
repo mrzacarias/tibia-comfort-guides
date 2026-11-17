@@ -48,7 +48,7 @@ Corym Mines is popular, and the route above assumes it's free for your 3 hours e
 | 50–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (invisibility): ~129k XP/h, ~16k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibility): ~119k XP/h, ~152k gold/h | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) (invisibility): ~115k XP/h, ~13k gold/h |
 | 60–70 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (invisibility): ~141k XP/h, ~18k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibility): ~138k XP/h, ~152k gold/h | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) (invisibility): ~122k XP/h, ~14k gold/h |
 | 70–80 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (invisibility): ~141k XP/h, ~19k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibility): ~138k XP/h, ~176k gold/h | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) (invisibility): ~122k XP/h, ~19k gold/h |
-| 80–90 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibility): ~161k XP/h, ~108k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibility): ~160k XP/h, ~99k gold/h | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2): ~124k XP/h, ~23k gold/h |
+| 80–90 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibility): ~161k XP/h, ~108k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibility): ~160k XP/h, ~99k gold/h | [Spider Caves (-1 to -2)](https://tibiamaps.io/map#32844,32871,8:2): ~127k XP/h, ~27k gold/h |
 | 90–100 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) (invisibility): ~171k XP/h, ~123k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibility): ~161k XP/h, ~118k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2): ~141k XP/h, ~16k gold/h |
 
 The numbers are for the route's skill at each level. If Corym Mines were taken every single day, the route would look like this:
@@ -78,9 +78,9 @@ The route is slower and loots more:
 | 40–50 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 8.0 h | ~108k | ~76k |
 | 50–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 13.5 h | ~101k | ~76k |
 | 60–70 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 16.5 h | ~102k | ~76k |
-| 70–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 19.5 h | ~112k | ~118k |
+| 70–80 | [Spider Caves (-1 to -2)](https://tibiamaps.io/map#32844,32871,8:2) | – | 21.0 h | ~120k | ~23k |
 | 80–90 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | – | 25.5 h | ~124k | ~23k |
-| 90–100 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | – | 29.0 h | ~141k | ~16k |
+| 90–100 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | – | 28.5 h | ~141k | ~16k |
 
 ## Weekly tasks: only the cheap ones
 The **Task Board** gives each character 6 delivery tasks and 6 kill tasks a week, reset on Monday at server save (9 of each with the Permanent Weekly Task Expansion, 750 TC in the Store). The list is drawn for you: you can't choose or reroll it. A delivery task gives **half a level of experience up to level 82**, and 1,994 × your level after that. Kill tasks give the same, with a cap (200k experience for beginner tasks, 800k for adept).
@@ -131,10 +131,11 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 |---|---|---|---|---|
 | 1 | 54 | 38 / 25 | 49 | 33 / 25 |
 | 2 | 70 | 47 / 27 | 65 | 41 / 27 |
-| 3 | 84 | 51 / 27 | 76 | 45 / 27 |
-| 4 | 100 | 54 / 28 | 85 | 49 / 28 |
-| 5 | 100 (28) | 54 / 28 | 93 | 51 / 29 |
-| 6 | 100 (28) | 54 / 28 | 100 | 54 / 29 |
+| 3 | 84 | 51 / 27 | 75 | 45 / 27 |
+| 4 | 100 | 54 / 28 | 84 | 49 / 28 |
+| 5 | 100 (28) | 54 / 28 | 92 | 51 / 29 |
+| 6 | 100 (28) | 54 / 28 | 99 | 54 / 29 |
+| 7 | 100 (28) | 54 / 28 | 100 (43) | 54 / 29 |
 
 Skills are after each day's training. Once a route reaches level 100, its column shows the day it got there.
 
@@ -144,8 +145,8 @@ Skills are after each day's training. Once a route reaches level 100, its column
 | Invisibility + weekly tasks | 28 | 84 | 54 | ~4 | 4.9M |
 | Invisible + tasks, Corym Mines always taken | 33 | 99 | 55 | ~5 | 6.2M |
 | Invisibility only | 30 | 90 | 55 | – | 5.8M |
-| No invisibility + weekly tasks | 42 | 126 | 54 | ~8 | 6.4M |
-| No invisibility, no tasks | 46 | 138 | 55 | – | 7.6M |
+| No invisibility + weekly tasks | 43 | 129 | 54 | ~5 | 5.6M |
+| No invisibility, no tasks | 46 | 138 | 54 | – | 5.9M |
 
 Invisibility is the fastest. Without it, the route takes longer and leaves more gold at the end. Gold left = loot minus potions, rings and deliveries, without gear.
 
@@ -184,13 +185,13 @@ The world matters as much as the level. Each sale's price compared with the medi
 |---|---|---|---|---|---|
 | 2 | Invisibility + weekly tasks | 41 | ~231 | ~169 | ~173 |
 | 2 | Invisible + tasks, Corym Mines always taken | 48 | ~257 | ~161 | ~164 |
-| 2 | No invisibility + weekly tasks | 61 | ~265 | ~131 | ~133 |
+| 2 | No invisibility + weekly tasks | 61 | ~230 | ~113 | ~116 |
 | 3 | Invisibility + weekly tasks | 28 | ~234 | ~250 | ~256 |
 | 3 | Invisible + tasks, Corym Mines always taken | 33 | ~263 | ~239 | ~244 |
-| 3 | No invisibility + weekly tasks | 42 | ~267 | ~191 | ~195 |
+| 3 | No invisibility + weekly tasks | 43 | ~250 | ~174 | ~178 |
 | 5 | Invisibility + weekly tasks | 20 | ~264 | ~397 | ~405 |
 | 5 | Invisible + tasks, Corym Mines always taken | 23 | ~288 | ~375 | ~382 |
-| 5 | No invisibility + weekly tasks | 30 | ~300 | ~300 | ~305 |
+| 5 | No invisibility + weekly tasks | 29 | ~269 | ~278 | ~284 |
 
 TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **250 TC a month**, and about 256 on an Optional PvP, green world (×1.03).
 

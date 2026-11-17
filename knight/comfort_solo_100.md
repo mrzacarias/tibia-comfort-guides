@@ -5,7 +5,7 @@ This guide is for a solo Elite Knight from level 100 up who wants **calm hunts**
 The yardstick is a tested hunt: a level 99 knight with Basic Vampirism, Basic Void and Shield Bash at the Corym Mines Stonerefiners, about 185k raw XP and 125k loot per hour with almost no potions. Every hunting ground below is one where the model expects the same feel, and each level band unlocks new ones as your level and gear grow.
 
 ## The short version
-- The best comfortable XP per hour, raw: about **175k at level 100, 239k at 200, 316k at 300, 362k at 400, 565k at 500, 594k at 600 and 675k at 800**. Loot runs from about 229k to 409k per hour at the best gold hunting grounds.
+- The best comfortable XP per hour, raw: about **175k at level 100, 239k at 200, 316k at 300, 351k at 400, 565k at 500, 594k at 600 and 756k at 800**. Loot runs from about 229k to 409k per hour at the best gold hunting grounds.
 - The kit is the cheapest that leeches: **Basic Vampirism and Basic Void**, about 4k an hour, at every level. Powerful imbuements would cost about 53k an hour and unlock some hunting grounds a band or two early (see the comparison at the end).
 - Levelling this way gets slow: XP per hour grows much slower than the experience a level needs. Each band's title shows the hours of raw hunting to the next band at the best XP hunting grounds; green stamina, prey and the weekly tasks cut that a lot. Players who report millions of XP per hour box big groups with every area spell and drink potions nonstop.
 - Each band starts with the hunting grounds it **unlocks**: comfortable at that level, not at the band before.
@@ -52,16 +52,16 @@ Unlock imbuing with the first part of the [Forgotten Knowledge Quest](https://ti
 ## Hunting grounds
 Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot at Market prices, for a knight at the start of each band. **Hunt** is the grade with the Basic kit. Potions/h is the mana and health potions the model expects; the imbuements cost another ~4k an hour on top, everywhere.
 
-### Level 100–200 (~895 hours to 200)
+### Level 100–200 (~825 hours to 200)
 **Best for XP**
 
 | Hunting ground | Access | Hunt | Raw XP/h | Loot/h | Potions/h | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (started: talk to the Corym Ratter and the Corym Servant). Venore 98 / ~25 s | 1 | 175k | 97k | 5k | Hidden Threats Quest area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners |
+| [Dragonblaze Peaks (surface)](https://tibiamaps.io/map#33228,31305,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 153k | 72k | 8k | The Farmine depot opens only after mission 5 of The New Frontier Quest |
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | Edron 401 / ~1.7 min | 1 | 148k | 151k | 9k |  |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | Port Hope 76 / ~20 s | 0 | 109k | 113k | 4k |  |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | Venore 108 / ~25 s | 0 | 105k | 113k | 4k |  |
-| [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | Edron 237 / ~1.0 min | 1 | 99k | 31k | 4k | Stay on the upper cyclops floors; behemoths deep |
 
 **Best for gold**
 
@@ -74,7 +74,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | [Meriana Quest](https://tibia.fandom.com/wiki/Meriana_Quest) | 0 | 68k | 186k | 2k |  |
 
 ### Level 200–300 (~1,380 hours to 300)
-**New at this level** (comfortable now, not at 100): Thais Dragon Lair (239k XP, 73k loot), Replica Dungeon (238k XP, 49k loot), Astral Shaper Dungeon (234k XP, 165k loot), Golem Workshop (213k XP, 51k loot), Energy Elemental Lair (201k XP, 244k loot), Nibelor Crystal Spiders (196k XP, 78k loot).
+**New at this level** (comfortable now, not at 100): Thais Dragon Lair (239k XP, 73k loot), Replica Dungeon (238k XP, 49k loot), Astral Shaper Dungeon (234k XP, 165k loot), Golem Workshop (213k XP, 51k loot), Elves (Foreigner Quarter, -3 to -4) (202k XP, 115k loot), Energy Elemental Lair (201k XP, 244k loot).
 
 **Best for XP**
 
@@ -97,7 +97,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | Ankrahmun 345 / ~1.4 min | 1 | 201k | 244k | 12k | Voltage Armor (energy) |
 
 ### Level 300–400 (~2,191 hours to 400)
-**New at this level** (comfortable now, not at 200): Dragon Lair (Plains of Havoc) (316k XP, 111k loot), Earth Sphere (269k XP, 134k loot), Old Masonry (246k XP, 124k loot), Water Elemental Cave (Tiquanda) (227k XP, 111k loot), Crystal Grounds (Gnomegate) (200k XP, 295k loot), Malada (199k XP, 113k loot).
+**New at this level** (comfortable now, not at 200): Dragon Lair (Plains of Havoc) (316k XP, 111k loot), Earth Sphere (269k XP, 134k loot), Old Masonry (246k XP, 124k loot), Factory Quarter (-1 to -2) (234k XP, 41k loot), Water Elemental Cave (Tiquanda) (227k XP, 111k loot), Crystal Grounds (Gnomegate) (200k XP, 295k loot).
 
 **Best for XP**
 
@@ -119,18 +119,18 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 68k | 264k | 1k | Swamplings and Forest Fury Camp's leaf golems |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission). Svargrond 182 / ~46 s | 0 | 17k | 251k | 1k | Needs the Barbarian Test Quest and the first mission of The Ice Islands Quest, then ask Iskan in Svargrond for a "passage" |
 
-### Level 400–500 (~2,981 hours to 500)
-**New at this level** (comfortable now, not at 300): Dragonblaze Peaks (362k XP, 88k loot), Exotic Cave (351k XP, 130k loot), Fiehonja deeplings (342k XP, 193k loot), Venore Dragon Lair (286k XP, 87k loot), Caverna Exanima (274k XP, 210k loot), Ice Witch Temple (243k XP, 72k loot).
+### Level 400–500 (~3,100 hours to 500)
+**New at this level** (comfortable now, not at 300): Exotic Cave (351k XP, 130k loot), Fiehonja deeplings (342k XP, 193k loot), Venore Dragon Lair (286k XP, 87k loot), Caverna Exanima (274k XP, 210k loot), Ice Witch Temple (243k XP, 72k loot), Drillworm Caves (Kazordoon) (241k XP, 198k loot).
 
 **Best for XP**
 
 | Hunting ground | Access | Hunt | Raw XP/h | Loot/h | Potions/h | Notes |
 |---|---|---|---|---|---|---|
-| [Dragonblaze Peaks](https://tibiamaps.io/map#33228,31305,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 362k | 88k | 10k | The Farmine depot opens only after mission 5 of The New Frontier Quest |
 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | Issavi ~10 / ~5 s (+ shell) | 1 | 351k | 130k | 14k | Pirat raids reputation (1,500 points, A Pirate's Tail Quest). With a full setup, players report ~375k profit/h at ~1.9kk XP/h (2 TibiaRoute reports; TibiaPal lists 400k from 90). Their loot per XP matches this model, so the gap is pace: big pulls that need life leech |
 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest). Gray Beach 82 / ~20 s | 1 | 342k | 193k | 18k | Liquid Black Quest |
 | [Dragon Lair (Plains of Havoc)](https://tibiamaps.io/map#32775,32267,7:2) | Venore 449 / ~1.9 min | 1 | 334k | 117k | 10k |  |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 0 | 301k | 212k | 5k | Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the Forgotten Knowledge Quest; don't use the Time Machine at the east end: the only way out is through the boss |
+| [Earth Sphere](https://tibiamaps.io/map#33330,32076,13:2) | [see TibiaWiki](https://tibia.fandom.com/wiki/Earth_Sphere) | 1 | 297k | 147k | 9k |  |
 
 **Best for gold**
 
@@ -142,8 +142,8 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | Edron 129 / ~30 s | 0 | 124k | 299k | 1k | The respawn is the limit. |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 67k | 279k | 1k |  |
 
-### Level 500–600 (~2,877 hours to 600)
-**New at this level** (comfortable now, not at 400): Sea Serpent Area (565k XP, 111k loot), Seacrest Grounds (531k XP, 105k loot), Pits of Inferno Dragon Lair (513k XP, 100k loot), Okolnir frost dragons (508k XP, 71k loot), Fenrock Dragon Lair (500k XP, 77k loot), Darashia Dragon Lair (438k XP, 102k loot).
+### Level 500–600 (~2,872 hours to 600)
+**New at this level** (comfortable now, not at 400): Sea Serpent Area (565k XP, 111k loot), Seacrest Grounds (531k XP, 105k loot), Pits of Inferno Dragon Lair (513k XP, 100k loot), Okolnir frost dragons (508k XP, 71k loot), Dragonblaze Peaks (+3 to +6) (505k XP, 73k loot), Fenrock Dragon Lair (500k XP, 77k loot).
 
 **Best for XP**
 
@@ -153,7 +153,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest), missions 1 and 2 | 1 | 531k | 105k | 5k | Sword: Gnome Sword (energy). Sea serpents. |
 | [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) (first missions). Venore 580 / ~2.4 min | 1 | 513k | 100k | 9k | Sword: Winterblade (ice). Dragon lords: Lavos Armor; Needs the first missions of The Pits of Inferno Quest |
 | [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat). Svargrond 63 / ~16 s, Buddel's boat to Okolnir, then 34 / ~8 s | 1 | 508k | 71k | 7k | Sword: Gnome Sword (energy). Buddel's boat needs the Barbarian Test Quest |
-| [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) (started). Yalahar 192 / ~48 s, Maris's boat to Fenrock | 1 | 500k | 77k | 8k | Sword: Winterblade (ice). Needs The Hidden City of Beregar Quest started, then a Golden Mug for Pythius the Rotten; Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities) |
+| [Dragonblaze Peaks (+3 to +6)](https://tibiamaps.io/map#33228,31305,4:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 505k | 73k | 5k | Sword: Gnome Sword (energy). The Farmine depot opens only after mission 5 of The New Frontier Quest |
 
 **Best for gold**
 
@@ -166,7 +166,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 0 | 45k | 307k | 0k | Sword: Gnome Sword (energy). The Farmine depot opens only after mission 5 of The New Frontier Quest |
 
 ### Level 600–800 (~8,697 hours to 800)
-**New at this level** (comfortable now, not at 500): The Wreckoning (444k XP, 183k loot), Glooth Factory (415k XP, 143k loot), Feyrist Meadows (356k XP, 206k loot), Astral Shaper Ruins (327k XP, 214k loot), Restricted Area (Magician Quarter) (326k XP, 105k loot), Chazorai (314k XP, 103k loot).
+**New at this level** (comfortable now, not at 500): The Wreckoning (444k XP, 183k loot), Glooth Factory (415k XP, 143k loot), Feyrist Meadows (356k XP, 206k loot), Astral Shaper Ruins (327k XP, 214k loot), Chazorai (314k XP, 103k loot).
 
 **Best for XP**
 
@@ -189,17 +189,17 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 0 | 45k | 307k | 0k | Sword: Gnome Sword (energy). The Farmine depot opens only after mission 5 of The New Frontier Quest |
 
 ### Level 800+
-**New at this level** (comfortable now, not at 600): Ancient Ancestorial Grounds (644k XP, 179k loot), Deeplings Library (Fiehonja) (591k XP, 409k loot), Medusa Cave (557k XP, 174k loot), Drefia Grim Reaper Dungeons (529k XP, 147k loot), Misguided Camp (407k XP, 74k loot), The Hive (Gray Beach) (405k XP, 284k loot).
+**New at this level** (comfortable now, not at 600): Drefia (-5 to -7) (756k XP, 166k loot), Ancient Ancestorial Grounds (644k XP, 179k loot), Deeplings Library (Fiehonja) (591k XP, 409k loot), Medusa Cave (557k XP, 174k loot), Dragon Lairs (Goroma, +1 to +3) (493k XP, 90k loot), Misguided Camp (407k XP, 74k loot).
 
 **Best for XP**
 
 | Hunting ground | Access | Hunt | Raw XP/h | Loot/h | Potions/h | Notes |
 |---|---|---|---|---|---|---|
+| [Drefia (-5 to -7)](https://tibiamaps.io/map#33018,32443,12:2) | Darashia 274 / ~1.1 min | 1 | 756k | 166k | 12k | Sword: Summerblade (fire). |
 | [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest). Svargrond 103 / ~26 s, Captain Haba's sea serpent boat | 1 | 675k | 132k | 3k | Sword: Gnome Sword (energy). Needs The Hunt for the Sea Serpent Quest |
 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | [The Secret Library Quest](https://tibia.fandom.com/wiki/The_Secret_Library_Quest), its deathling part (level 250) | 1 | 644k | 179k | 12k | Sword: Gnome Sword (energy). TibiaWiki calls it a team or knight-and-druid spot. Test it carefully. Loot sells to the NPC next to it. |
 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest), missions 1 and 2 | 1 | 632k | 125k | 2k | Sword: Gnome Sword (energy). Sea serpents. |
 | [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) (first missions). Venore 580 / ~2.4 min | 1 | 619k | 121k | 5k | Sword: Winterblade (ice). Dragon lords: Lavos Armor; Needs the first missions of The Pits of Inferno Quest |
-| [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest). Gray Beach 82 / ~20 s (Fiehonja entrance) | 1 | 591k | 409k | 19k | Sword: Gnome Sword (energy). the library floors of Fiehonja, around the master librarians: deepling spellsingers, warriors and guards, a few tyrants; Liquid Black Quest, like Fiehonja deeplings. With a full setup TibiaPal lists 1.6kk raw XP/h and ~800k/h from 130 (no hunt reports) |
 
 **Best for gold**
 
