@@ -61,13 +61,13 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 | Levels | Primeira opção | Segunda | Terceira |
 |---|---|---|---|
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~136k XP/h, ~13k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~91k XP/h, ~28k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~90k XP/h, ~39k gold/h |
-| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~118k XP/h, ~18k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~86k XP/h, ~70k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (ring): ~85k XP/h, ~4k gold/h |
-| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~99k XP/h, ~19k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~95k XP/h, ~49k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~81k XP/h, ~83k gold/h |
-| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) (ring): ~126k XP/h, ~78k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~122k XP/h, ~78k gold/h | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2): ~115k XP/h, ~14k gold/h |
+| 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~118k XP/h, ~18k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~87k XP/h, ~68k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (ring): ~85k XP/h, ~4k gold/h |
+| 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~99k XP/h, ~19k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~95k XP/h, ~49k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~82k XP/h, ~81k gold/h |
+| 50–60 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) (ring): ~126k XP/h, ~78k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~122k XP/h, ~78k gold/h | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2): ~108k XP/h, ~10k gold/h |
 | 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~140k XP/h, ~83k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~135k XP/h, ~85k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~131k XP/h, ~159k gold/h |
 | 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~144k XP/h, ~94k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~139k XP/h, ~93k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2): ~139k XP/h, ~169k gold/h |
 | 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~150k XP/h, ~95k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~145k XP/h, ~180k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2): ~143k XP/h, ~94k gold/h |
-| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~153k XP/h, ~95k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~148k XP/h, ~184k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~97k XP/h, ~73k gold/h |
+| 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2): ~153k XP/h, ~95k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~148k XP/h, ~184k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~117k XP/h, ~94k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
@@ -94,11 +94,11 @@ A rota é mais lenta mas dá mais loot:
 | 20–30 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 2,0 h | ~132k | ~13k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
 | 30–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 4,5 h | ~117k | ~18k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
 | 40–50 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9,5 h | ~99k | ~19k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 50–60 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – | 11,5 h | ~115k | ~14k | [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage) |
-| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 13,0 h | ~143k | ~83k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
-| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 16,5 h | ~151k | ~94k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 50–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | – | 12,0 h | ~107k | ~10k | [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Cyclops Drone](https://tibia.fandom.com/wiki/Cyclops_Drone), [Cyclops Smith](https://tibia.fandom.com/wiki/Cyclops_Smith) |
+| 60–70 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 12,5 h | ~142k | ~83k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
+| 70–80 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 17,0 h | ~151k | ~94k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
 | 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19,0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
-| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 14,5 h | ~261k | ~96k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 90–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | – | 15,0 h | ~262k | ~96k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
 
 ## Tarefas semanais: só as baratas
 O **Task Board** dá a cada personagem 6 tarefas de entrega e 6 de matar por semana, que renovam na segunda-feira no server save (9 de cada com a Permanent Weekly Task Expansion, 750 TC na Store). A lista é sorteada para você: não dá para escolher nem trocar. Uma entrega dá **meio level de experiência até o level 82**, e 1.994 × o seu level depois disso. As de matar dão o mesmo, com um limite (200k de experiência nas iniciantes, 800k nas adeptas).
@@ -161,8 +161,8 @@ Os skills são depois do treino de cada dia. Quando uma rota chega no level 100,
 | Stealth Ring + tarefas semanais | 23 | 69 | 76 | ~5 | 5.9M |
 | Ring + tarefas, Corym Mines sempre ocupada | 33 | 99 | 79 | ~8 | 7.5M |
 | Só Stealth Ring | 25 | 75 | 76 | – | 6.8M |
-| Sem ring + tarefas semanais | 31 | 93 | 79 | ~6 | 6.2M |
-| Sem ring, sem tarefas | 34 | 102 | 80 | – | 7.3M |
+| Sem ring + tarefas semanais | 31 | 93 | 79 | ~6 | 6.1M |
+| Sem ring, sem tarefas | 34 | 102 | 80 | – | 7.2M |
 
 O ring é o mais rápido. Sem ele, a rota demora mais mas dá mais loot (Forgotten Tomb e as cavernas de Corym, sem rings para pagar), então sobra mais gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
 
@@ -209,13 +209,13 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 |---|---|---|---|---|---|
 | 2 | Stealth Ring + tarefas semanais | 33 | ~334 | ~304 | ~363 |
 | 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~360 | ~235 | ~277 |
-| 2 | Sem ring + tarefas semanais | 44 | ~332 | ~227 | ~271 |
+| 2 | Sem ring + tarefas semanais | 44 | ~331 | ~225 | ~270 |
 | 3 | Stealth Ring + tarefas semanais | 23 | ~340 | ~443 | ~529 |
 | 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~374 | ~340 | ~400 |
-| 3 | Sem ring + tarefas semanais | 31 | ~345 | ~334 | ~397 |
+| 3 | Sem ring + tarefas semanais | 31 | ~343 | ~332 | ~396 |
 | 5 | Stealth Ring + tarefas semanais | 17 | ~341 | ~602 | ~702 |
 | 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~423 | ~528 | ~611 |
-| 5 | Sem ring + tarefas semanais | 23 | ~388 | ~506 | ~591 |
+| 5 | Sem ring + tarefas semanais | 23 | ~384 | ~501 | ~587 |
 
 TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **443 TC por mês**, e uns 529 num mundo Optional PvP verde (×1,25).
 
