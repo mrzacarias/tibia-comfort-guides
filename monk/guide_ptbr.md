@@ -366,16 +366,16 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~300k | ~185k | Venore 98 / ~25 s | Área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest); Teleporte no andar mais fundo da Venore Corym Cave; falar com o Corym Ratter e o Corym Servant abre a mina, não precisa terminar a quest; passe correndo pelos Corym na descida até os Stonerefiners. Vende bem: Stonerefiner's Skull |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~165k | ~40k | Carlin 77 / ~19 s | Só premium; A entrada é explicada na [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); uma rota testada em 2026 caça aqui a partir do level 70, depois do balanceamento. Cuidado: Cult Scholar bate 29% da vida. Vende bem: Might Ring |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~155k | ~90k | Thais 81 / ~20 s | Cuidado: Goldhanded Cultist Bride bate 26% da vida. Vende bem: Broken Shamanic Staff |
+| [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | 0 | 0 | ~220k | ~65k | não calculado | Vende bem: Deepling Ridge |
+| [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 1 | 1 | ~220k | ~65k | Port Hope 476 / ~2,0 min | Cuidado: Deepling Warrior bate 26% da vida. Vende bem: Deepling Ridge |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~70k | ~265k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
+| [Falcon Bastion](https://tibiamaps.io/map#33362,31343,7:2) | 0 | 0 | ~12k | ~260k | não calculado | Vende bem: Sandcrawler Shell |
 | [Folda (superfície)](https://tibiamaps.io/map#32020,31572,7:2) | 1 | 1 | ~70k | ~260k | Carlin 196 / ~49 s, Nielson's boat to Folda, depois 28 / ~7 s | Vende bem: Wyvern Talisman |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~130k | ~250k | Edron 269 / ~1,1 min | Ghouls, skeletons, mummies e crypt shamblers, perto de Stonehome. Vende bem: Flask of Embalming Fluid |
 
 ## Seção 1a: Stealth Ring
 O **Stealth Ring** te deixa invisível por 10 minutos. Muitos monstros não enxergam jogadores invisíveis, então eles simplesmente te ignoram. Os jogadores contam que esses monstros não te atacam nem invocam ninguém, mesmo enquanto você bate neles. Dá para matá-los sem tomar dano nenhum. Cyclops, forest furies, gloom wolves, amazons e barbarians são alguns deles. Monstros mais fortes, como dragons e dwarf guards, enxergam jogadores invisíveis e te atacam normalmente.
@@ -734,7 +734,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 2 | 2 | ~14k–17k | ~110k–135k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 23% da vida. Vende bem: Shaggy Tail. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 2 | 2 | ~18k–25k | ~25k–30k | Venore 645 / ~2,7 min | Cuidado: Wild Warrior bate 23% da vida, monstros que invocam, evite Slime (bate metade da sua vida). Vende bem: Centipede Leg |
 
-#### Level 40–60 com viagem longa (~90 horas até a próxima faixa)
+#### Level 40–60 com viagem longa (~81 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -743,20 +743,20 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 2 | 2 | ~45k–70k | ~17k–30k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gozzler bate 49% da vida. Vende bem: Stone Wing. Com Stealth Ring: Preparo 1, Atenção 1 |
 | [Plains of Havoc (superfície)](https://tibiamaps.io/map#32735,32297,7:2) | 2 | 2 | ~30k–75k | ~25k–45k | Venore 527 / ~2,2 min | Cuidado: Cyclops bate 21% da vida, monstros que invocam, evite Giant Spider (bate metade da sua vida). Vende bem: Wyvern Talisman. Com Stealth Ring: Preparo 1, Atenção 2 |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2,7 min | Cuidado: monstros que invocam, evite Slime (bate metade da sua vida). Vende bem: Centipede Leg |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k | ~95k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 50. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k | ~12k–13k | Thais 499 / ~2,1 min | A partir do level 50. Vende bem: Honeycomb. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~25k–30k | ~185k–250k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 50. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com Stealth Ring: Preparo 0, Atenção 0 |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~19k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 50. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~17k–30k | ~135k–250k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail. Com Stealth Ring: Preparo 0, Atenção 0 |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~13k–19k | ~75k–110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~20k–30k | ~65k–95k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2,7 min | Cuidado: monstros que invocam, evite Slime (bate metade da sua vida). Vende bem: Centipede Leg |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k | ~12k–13k | Thais 499 / ~2,1 min | A partir do level 50. Vende bem: Honeycomb. Com Stealth Ring: Preparo 0, Atenção 0 |
 
-#### Level 60–80 com viagem longa (~137 horas até a próxima faixa)
+#### Level 60–80 com viagem longa (~132 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -764,7 +764,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~30k–35k | ~250k–265k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k–35k | ~13k–14k | Thais 499 / ~2,1 min | Vende bem: Honeycomb. Com Stealth Ring: Preparo 0, Atenção 0 |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~19k–20k | ~110k–120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k | ~95k–105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 1 | ~45k | ~60k–65k | Venore 645 / ~2,7 min | A partir do level 70. Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 
 **Bom para lucro**
@@ -772,11 +772,11 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~30k–35k | ~250k–265k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~19k–20k | ~110k–120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k | ~95k–105k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k–35k | ~13k–14k | Thais 499 / ~2,1 min | Vende bem: Honeycomb. Com Stealth Ring: Preparo 0, Atenção 0 |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 1 | ~45k | ~60k–65k | Venore 645 / ~2,7 min | A partir do level 70. Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 
-#### Level 80–100 com viagem longa (~206 horas até a próxima faixa)
+#### Level 80–100 com viagem longa (~208 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -785,13 +785,14 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 1 | ~45k | ~65k | Venore 645 / ~2,7 min | Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~265k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 0 | 0 | ~35k | ~14k | Thais 499 / ~2,1 min | Vende bem: Honeycomb |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k | ~110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 90. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~265k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k | ~120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~30k–35k | ~105k–110k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 1 | ~45k | ~65k | Venore 645 / ~2,7 min | Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 
 #### Level 100–150 com viagem longa (~509 horas até a próxima faixa)
@@ -810,9 +811,9 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k | ~265k–290k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k–25k | ~120k–135k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k | ~110k–120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~45k–50k | ~65k–70k | Venore 645 / ~2,7 min | Cuidado: monstros que invocam. Vende bem: Centipede Leg |
-| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~50k | ~145k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 140. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard Zaogun bate 48% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~50k | ~145k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 140. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard High Guard bate 25% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
 
 #### Level 150–200 com viagem longa (~883 horas até a próxima faixa)
 
@@ -829,8 +830,8 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~35k–40k | ~290k–320k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~50k–55k | ~145k–160k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard Zaogun bate 45% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~135k–145k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~50k–55k | ~145k–160k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard High Guard bate 23% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k–40k | ~120k–130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
 #### Level 200+ com viagem longa
 
@@ -847,8 +848,8 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~40k | ~320k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
-| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~55k | ~160k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard Zaogun bate 34% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~25k | ~145k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 1 | 1 | ~55k | ~160k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Lizard High Guard bate 18% da vida, monstros que invocam. Vende bem: Sandcrawler Shell |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~40k | ~130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
 ## Seção 2: Imbuements
 Um **imbuement** é um encantamento que você coloca numa peça de equipamento por 20 horas de luta. Para um monk confortável, dois importam bem mais que qualquer outro: **Vampirism** (life leech) e **Void** (mana leech), que transformam parte do dano que você causa em vida e mana. Você toma menos poções e consegue enfrentar grupos maiores com segurança. O kit desta seção é **Basic Vampirism na armor e Basic Void no helmet**.
@@ -931,7 +932,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~125k–135k | ~135k–145k | Venore 108 / ~25 s |  |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **0** | 2 → **1** | ~100k–135k | ~85k–90k | Thais 81 / ~20 s |  |
-| [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | 2 → **1** | 2 → **1** | ~90k–95k | ~20k–25k | Ab'Dendriel 84 / ~20 s |  |
+| [Terramite Breeding Tunnels](https://tibiamaps.io/map#33115,32483,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~20k–25k | Darashia 116 / ~29 s |  |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k | Port Hope 76 / ~20 s | A partir do level 110 |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~125k | ~125k | Carlin 64 / ~15 s | A partir do level 110 |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~135k–145k | ~25k–30k | Carlin 77 / ~19 s | A partir do level 120. Mais um raro Might Ring (~14k) cerca de uma vez a cada 3 horas, fora do Loot/h |
@@ -968,7 +969,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~225k–300k | ~185k | Venore 98 / ~25 s |  |
 | [Elves (Foreigner Quarter, superfície)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~175k–195k | Yalahar 95 / ~24 s |  |
 | [Folda (superfície)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~60k–70k | ~230k–260k | Carlin 196 / ~49 s, Nielson's boat to Folda, depois 28 / ~7 s | A partir do level 170 |
-| [Cult Cave (Liberty Bay, +1 a -2)](https://tibiamaps.io/map#32359,32721,7:2) | 1 → **0** | 1 → **0** | ~75k–85k | ~165k–180k | Liberty Bay 143 / ~35 s | A partir do level 190. Ainda: monstros que invocam |
+| [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~210k–230k | Kazordoon 201 / ~50 s | A partir do level 190 |
 
 #### Level 200+ com leech
 
@@ -978,15 +979,15 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 |---|---|---|---|---|---|---|
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 2 → **1** | 2 → **1** | ~255k | ~50k | Port Hope 331 / ~1,4 min |  |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 2 → **1** | 2 → **1** | ~245k | ~125k | Darashia 227 / ~0,9 min |  |
-| [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 → **0** | 1 → **0** | ~165k | ~40k | Carlin 77 / ~19 s |  |
+| [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 1 → **0** | 1 → **0** | ~220k | ~65k | Port Hope 476 / ~2,0 min |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h (no mínimo) | Loot/h (no mínimo) | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 2 → **1** | 2 → **1** | ~100k | ~230k | Kazordoon 201 / ~50 s |  |
 | [Elves (Foreigner Quarter, superfície)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~65k | ~195k | Yalahar 95 / ~24 s |  |
 | [Cult Cave (Liberty Bay, +1 a -2)](https://tibiamaps.io/map#32359,32721,7:2) | 1 → **0** | 1 → **0** | ~85k | ~180k | Liberty Bay 143 / ~35 s | Ainda: monstros que invocam |
-| [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 → **0** | 1 → **0** | ~105k | ~170k | Yalahar 252 / ~1,1 min | Ainda: monstros que invocam |
 
 ## Seção 3: Charms e prey
 Charms e prey te dão bônus contra monstros específicos. Depois de liberados, custam pouco ou nada, mas você precisa escolher e trocar conforme muda de hunt.
@@ -1096,7 +1097,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k | ~125k | Carlin 64 / ~15 s | A partir do level 140. Prey de redução de dano em Corym Vanguard, prey de XP em Corym Charlatan |
 | [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~105k | ~110k | Ab'Dendriel, por Hellgate e o túnel debaixo do mar até o Red Bone Castle | A partir do level 140. Prey de redução de dano em Demon Skeleton, prey de XP em Ghoul. Ainda: monstros que invocam |
 
-#### Level 150–200 com prey (~729 horas até a próxima faixa)
+#### Level 150–200 com prey (~662 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1109,6 +1110,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~160k–175k | ~35k–40k | Carlin 77 / ~19 s | A partir do level 170. Prey de redução de dano em Cult Scholar, prey de XP em Vile Grandmaster |
 | [Folda (superfície)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~65k–70k | ~230k–260k | Carlin 196 / ~49 s, Nielson's boat to Folda, depois 28 / ~7 s | A partir do level 180. Prey de redução de dano em Wyvern, prey de XP em Frost Troll |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~195k–215k | Svargrond, a pé pelo gelo | A partir do level 180. Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~110k–120k | ~145k–155k | Kazordoon 453 / ~1,9 min | A partir do level 190. Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~105k–115k | Svargrond, a pé pelo gelo | A partir do level 190. Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~130k–145k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 226 / ~56 s | A partir do level 190. Prey de redução de dano em Barbarian Headsplitter, prey de XP em Barbarian Skullhunter |
 
@@ -1123,8 +1125,8 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Folda (superfície)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~65k–70k | ~230k–260k | Carlin 196 / ~49 s, Nielson's boat to Folda, depois 28 / ~7 s | A partir do level 170. Prey de redução de dano em Wyvern, prey de XP em Frost Troll |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~195k–215k | Svargrond, a pé pelo gelo | A partir do level 170. Prey de redução de dano em Mammoth, prey de XP em Winter Wolf |
 | [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~70k–75k | Kazordoon ou Venore, no pântano entre as duas | A partir do level 180. Prey de redução de dano em Rotworm, prey de XP em Slime. Ainda: monstros que invocam |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~110k–120k | ~145k–155k | Kazordoon 453 / ~1,9 min | A partir do level 190. Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~130k–145k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 226 / ~56 s | A partir do level 190. Prey de redução de dano em Barbarian Headsplitter, prey de XP em Barbarian Skullhunter |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~105k–115k | Svargrond, a pé pelo gelo | A partir do level 190. Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 
 #### Level 200+ com prey
 
@@ -1132,17 +1134,17 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Yakchal Crypt](https://tibiamaps.io/map#32205,31002,14:2) | 3 → **2** | 3 → **2** | ~295k | ~50k | Svargrond 281 / ~1,2 min | Prey de redução de dano em Frost Dragon, prey de XP em Ice Witch |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,11:2) | 3 → **2** | 3 → **2** | ~220k | ~120k | Edron 210 / ~50 s | Prey de redução de dano em Bog Raider, prey de XP em Carrion Worm |
-| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~210k | ~255k | Ankrahmun 345 / ~1,4 min | Prey de redução de dano em Energy Elemental |
+| [Haunted Temple](https://tibiamaps.io/map#32677,32651,8:2) | 0 → **0** | 2 → **0** | ~215k | ~55k | Port Hope 157 / ~39 s | Prey de redução de dano em Gazer Spectre. Ainda: evite Thanatursus (bate metade da sua vida) |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~120k | ~155k | Kazordoon 453 / ~1,9 min | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
+| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~90k | ~115k | Svargrond, a pé pelo gelo | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~210k | ~255k | Ankrahmun 345 / ~1,4 min | Prey de redução de dano em Energy Elemental |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~120k | ~155k | Kazordoon 453 / ~1,9 min | Prey de redução de dano em Orc Berserker, prey de XP em Orc Leader. Ainda: monstros que invocam |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 1 → **0** | 1 → **0** | ~65k | ~145k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 226 / ~56 s | Prey de redução de dano em Barbarian Headsplitter, prey de XP em Barbarian Skullhunter |
-| [Edron Bog Raider Cave](https://tibiamaps.io/map#33303,31786,11:2) | 3 → **2** | 3 → **2** | ~220k | ~120k | Edron 210 / ~50 s | Prey de redução de dano em Bog Raider, prey de XP em Carrion Worm |
+| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~90k | ~115k | Svargrond, a pé pelo gelo | Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 
 ## Seção 4: Wheel of Destiny e gemas
 A partir do level 51, depois da promoção e com conta premium, você ganha **1 ponto por level** para gastar na Wheel of Destiny (a Roda do Destino), um grande círculo de perks permanentes: 40 pontos no level 90, 84 no 134 e 150 no 200. Dá para remanejar os pontos de graça em qualquer templo.
@@ -1204,15 +1206,15 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) | 1 → **0** | 1 → **0** | ~25k | ~70k | Carlin 195 / ~49 s | A partir do level 90 |
 | [Ghostlands](https://tibiamaps.io/map#32202,31822,7:2) | 2 → **1** | 2 → **1** | ~55k | ~40k | Carlin 171 / ~43 s | A partir do level 90. Ainda: monstros que invocam |
 
-#### Level 100–150 com a Wheel (~348 horas até a próxima faixa)
+#### Level 100–150 com a Wheel (~347 horas até a próxima faixa)
 
 **Bom para XP**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
 | [Horestis Tomb (Ankrahmun, -1 a -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~95k–105k | ~55k–60k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: um monstro raro bate metade da sua vida |
+| [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 3 → **2** | 3 → **2** | ~80k–95k | ~180k–210k | Kazordoon 201 / ~50 s |  |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~65k–70k | ~135k–150k | Venore 207 / ~50 s |  |
-| [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 2 → **1** | 2 → **1** | ~55k–65k | ~18k–20k | Venore 370 / ~1,5 min | Ainda: monstros que invocam |
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 3 → **2** | 3 → **2** | ~190k–230k | ~35k–45k | Port Hope 331 / ~1,4 min | A partir do level 110 |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k–110k | ~175k–220k | Ab'Dendriel 84 / ~21 s | A partir do level 110 |
 | [Kha'zeel Scarab Lair](https://tibiamaps.io/map#33077,32547,7:2) | 2 → **1** | 2 → **1** | ~40k | ~11k | Ankrahmun 353 / ~1,5 min | A partir do level 110. Ainda: monstros que invocam |
@@ -1226,9 +1228,9 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 3 → **2** | 3 → **2** | ~80k–95k | ~180k–210k | Kazordoon 201 / ~50 s |  |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~65k–70k | ~135k–150k | Venore 207 / ~50 s |  |
 | [Horestis Tomb (Ankrahmun, -1 a -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~95k–105k | ~55k–60k | Ankrahmun 170 / ~40 s | Mais um raro Fist on a Stick (~240k) cerca de uma vez a cada 4 horas, fora do Loot/h. Ainda: um monstro raro bate metade da sua vida |
-| [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 2 → **1** | 2 → **1** | ~55k–65k | ~18k–20k | Venore 370 / ~1,5 min | Ainda: monstros que invocam |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~90k–110k | ~175k–220k | Ab'Dendriel 84 / ~21 s | A partir do level 110 |
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 3 → **2** | 3 → **2** | ~190k–230k | ~35k–45k | Port Hope 331 / ~1,4 min | A partir do level 110 |
 | [Kha'zeel Scarab Lair](https://tibiamaps.io/map#33077,32547,7:2) | 2 → **1** | 2 → **1** | ~40k | ~11k | Ankrahmun 353 / ~1,5 min | A partir do level 110. Ainda: monstros que invocam |
@@ -1238,7 +1240,7 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | [Ankrahmun Library Tomb (-6 a -8)](https://tibiamaps.io/map#33142,32838,13:2) | 3 → **2** | 3 → **2** | ~135k | ~115k–120k | Ankrahmun 21 / ~5 s | A partir do level 140. Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 | [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k | Ab'Dendriel, por Hellgate e o túnel debaixo do mar até o Red Bone Castle | A partir do level 140. Ainda: monstros que invocam |
 
-#### Level 150–200 com a Wheel (~687 horas até a próxima faixa)
+#### Level 150–200 com a Wheel (~742 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1254,9 +1256,8 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~140k–155k | ~90k | Thais 81 / ~20 s | A partir do level 170 |
 | [Undead Cave (Mount Sternum, -4 a -7)](https://tibiamaps.io/map#32418,32017,11:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~80k–85k | Thais 286 / ~1,2 min | A partir do level 170. Ainda: monstros que invocam |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~155k–165k | ~35k–40k | Carlin 77 / ~19 s | A partir do level 180 |
-| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~135k–150k | Kazordoon 453 / ~1,9 min | A partir do level 180. Ainda: monstros que invocam |
 | [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~40k–45k | ~70k–75k | Kazordoon ou Venore, no pântano entre as duas | A partir do level 180. Ainda: monstros que invocam |
-| [Ankrahmun Library Tomb (-4 a -5)](https://tibiamaps.io/map#33142,32838,11:2) | 3 → **2** | 3 → **2** | ~165k–180k | ~90k–95k | Ankrahmun 21 / ~5 s | A partir do level 190. Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~105k–115k | ~145k–155k | Kazordoon 453 / ~1,9 min | A partir do level 190. Ainda: monstros que invocam |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~80k–85k | ~105k–115k | Svargrond, a pé pelo gelo | A partir do level 190 |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~195k–215k | Svargrond, a pé pelo gelo | A partir do level 190 |
 
@@ -1272,13 +1273,12 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 | [Elvenbane (superfície a -1)](https://tibiamaps.io/map#32590,31645,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~45k | Ab'Dendriel 136 / ~34 s | A partir do level 160. Ainda: monstros que invocam |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~230k–300k | ~185k | Venore 98 / ~25 s | A partir do level 170 |
 | [Tarpit Tomb (-6 a -8)](https://tibiamaps.io/map#33233,32705,13:2) | 2 → **1** | 2 → **1** | ~120k–140k | ~155k–180k | Ankrahmun 241 / ~1,0 min | A partir do level 170. Ainda: monstros que invocam |
-| [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~105k–115k | Port Hope 423 / ~1,8 min | A partir do level 170 |
-| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~135k–150k | Kazordoon 453 / ~1,9 min | A partir do level 180. Ainda: monstros que invocam |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~140k–155k | ~90k | Thais 81 / ~20 s | A partir do level 170 |
 | [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~40k–45k | ~70k–75k | Kazordoon ou Venore, no pântano entre as duas | A partir do level 180. Ainda: monstros que invocam |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~155k–165k | ~35k–40k | Carlin 77 / ~19 s | A partir do level 180 |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~195k–215k | Svargrond, a pé pelo gelo | A partir do level 190 |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~105k–115k | ~145k–155k | Kazordoon 453 / ~1,9 min | A partir do level 190. Ainda: monstros que invocam |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~80k–85k | ~105k–115k | Svargrond, a pé pelo gelo | A partir do level 190 |
-| [Ankrahmun Library Tomb (-4 a -5)](https://tibiamaps.io/map#33142,32838,11:2) | 3 → **2** | 3 → **2** | ~165k–180k | ~90k–95k | Ankrahmun 21 / ~5 s | A partir do level 190. Ainda: monstros que invocam, evite Lich (bate metade da sua vida) |
 
 #### Level 200+ com a Wheel
 
@@ -1286,17 +1286,17 @@ Estas tabelas contam que metade dos seus pontos vai para as fatias de vida, uma 
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
-| [Frost Dragon Tunnel](https://tibiamaps.io/map#32106,31112,5:2) | 3 → **2** | 3 → **2** | ~280k | ~60k | Svargrond, a pé pelo gelo | Ainda: evite Frost Dragon (bate metade da sua vida) |
+| [Haunted Temple](https://tibiamaps.io/map#32677,32651,8:2) | 0 → **0** | 2 → **0** | ~215k | ~55k | Port Hope 157 / ~39 s | Ainda: evite Thanatursus (bate metade da sua vida) |
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~115k | ~155k | Kazordoon 453 / ~1,9 min | Ainda: monstros que invocam |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~85k | ~115k | Svargrond, a pé pelo gelo |  |
-| [Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2) | 1 → **0** | 1 → **0** | ~85k | ~35k | Thais 297 / ~1,2 min |  |
 
 **Bom para lucro**
 
 | Hunt | Preparo | Atenção | XP/h | Loot/h | Depot | Notas |
 |---|---|---|---|---|---|---|
+| [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~115k | ~155k | Kazordoon 453 / ~1,9 min | Ainda: monstros que invocam |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~85k | ~115k | Svargrond, a pé pelo gelo |  |
-| [Frost Dragon Tunnel](https://tibiamaps.io/map#32106,31112,5:2) | 3 → **2** | 3 → **2** | ~280k | ~60k | Svargrond, a pé pelo gelo | Ainda: evite Frost Dragon (bate metade da sua vida) |
-| [Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2) | 1 → **0** | 1 → **0** | ~85k | ~35k | Thais 297 / ~1,2 min |  |
+| [Haunted Temple](https://tibiamaps.io/map#32677,32651,8:2) | 0 → **0** | 2 → **0** | ~215k | ~55k | Port Hope 157 / ~39 s | Ainda: evite Thanatursus (bate metade da sua vida) |
 
 ## Seção 5: Weapon Proficiency
 Cada monstro que você mata com uma arma equipada aumenta a **proficiency** daquela arma. Cada level de proficiency libera uma escolha de perks para ela, como mais dano, mais críticos ou mais leech. Você escolhe um perk por level. Dá para escolher em qualquer lugar, mas trocar um perk exige uma área de proteção.
