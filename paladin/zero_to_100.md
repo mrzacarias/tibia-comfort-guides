@@ -65,7 +65,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 80–90 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | yes | 19.0 h | ~170k | ~34k |
 | 90–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | yes | 19.5 h | ~202k | ~41k |
 
-That's level 100 on day 34 instead of 30, with distance 83 (more days of training). It leaves 5.9M of gold instead of 7.8M, and makes less TC per month: about 260 against 373 (see "Profit").
+That's level 100 on day 34 instead of 30, with distance 83 (more days of training). It leaves 5.9M of gold instead of 7.8M, and makes less TC per month: about 250 against 357 (see "Profit").
 
 ### Without the ring
 The route is slower and loots less:
@@ -184,17 +184,17 @@ The world matters as much as the level. Each sale's price compared with the medi
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + weekly tasks | 42 | ~312 | ~223 | ~229 |
-| 2 | Ring + tasks, Corym Mines always taken | 48 | ~271 | ~169 | ~175 |
-| 2 | No ring + weekly tasks | 58 | ~298 | ~154 | ~158 |
-| 3 | Stealth Ring + weekly tasks | 30 | ~373 | ~373 | ~382 |
-| 3 | Ring + tasks, Corym Mines always taken | 34 | ~295 | ~260 | ~268 |
-| 3 | No ring + weekly tasks | 43 | ~270 | ~188 | ~194 |
-| 5 | Stealth Ring + weekly tasks | 21 | ~463 | ~661 | ~679 |
-| 5 | Ring + tasks, Corym Mines always taken | 24 | ~356 | ~445 | ~458 |
-| 5 | No ring + weekly tasks | 31 | ~300 | ~290 | ~299 |
+| 2 | Stealth Ring + weekly tasks | 42 | ~299 | ~214 | ~220 |
+| 2 | Ring + tasks, Corym Mines always taken | 48 | ~261 | ~163 | ~169 |
+| 2 | No ring + weekly tasks | 58 | ~286 | ~148 | ~152 |
+| 3 | Stealth Ring + weekly tasks | 30 | ~357 | ~357 | ~367 |
+| 3 | Ring + tasks, Corym Mines always taken | 34 | ~283 | ~250 | ~257 |
+| 3 | No ring + weekly tasks | 43 | ~261 | ~182 | ~188 |
+| 5 | Stealth Ring + weekly tasks | 21 | ~445 | ~636 | ~654 |
+| 5 | Ring + tasks, Corym Mines always taken | 24 | ~343 | ~429 | ~442 |
+| 5 | No ring + weekly tasks | 31 | ~288 | ~279 | ~287 |
 
-TC per character = 0.88 × the median price at level 100 (distance within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **373 TC a month**, and about 382 on an Optional PvP, green world (×1.04).
+TC per character = 0.88 × the median price at level 100 (distance within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **357 TC a month**, and about 367 on an Optional PvP, green world (×1.04).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -228,8 +228,8 @@ Another way to make a character worth selling is to leave it at level 8 and only
 Days count from distance 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 30 days and 90 hours of play, for about 373 TC (the sale plus the gold left). About 12.4 TC per day.
-- **A level 8 trained to distance 110:** about 502 days of training, for about 158 TC. That's 0.32 TC per day, about 39 times less, but it needs only about 8 hours of logins in total.
+- **Raising to 100:** 30 days and 90 hours of play, for about 357 TC (the sale plus the gold left). About 11.9 TC per day.
+- **A level 8 trained to distance 110:** about 502 days of training, for about 158 TC. That's 0.32 TC per day, about 38 times less, but it needs only about 8 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.

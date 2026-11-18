@@ -65,7 +65,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 80–90 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 14.0 h | ~220k | ~70k |
 | 90–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 17.0 h | ~221k | ~72k |
 
-That's level 100 on day 30 instead of 28, with magic level 54 (more days of training). It leaves 4.1M of gold instead of 5.3M, and makes less TC per month: about 215 against 259 (see "Profit").
+That's level 100 on day 30 instead of 28, with magic level 54 (more days of training). It leaves 4.1M of gold instead of 5.3M, and makes less TC per month: about 206 against 248 (see "Profit").
 
 ### Without invisibility
 The route is slower and loots more:
@@ -181,17 +181,17 @@ The world matters as much as the level. Each sale's price compared with the medi
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Invisibility + weekly tasks | 40 | ~231 | ~173 | ~177 |
-| 2 | Invisible + tasks, Corym Mines always taken | 43 | ~207 | ~144 | ~148 |
-| 2 | No invisibility + weekly tasks | 50 | ~288 | ~173 | ~176 |
-| 3 | Invisibility + weekly tasks | 28 | ~242 | ~259 | ~265 |
-| 3 | Invisible + tasks, Corym Mines always taken | 30 | ~215 | ~215 | ~220 |
-| 3 | No invisibility + weekly tasks | 35 | ~315 | ~270 | ~275 |
-| 5 | Invisibility + weekly tasks | 20 | ~273 | ~410 | ~418 |
-| 5 | Invisible + tasks, Corym Mines always taken | 21 | ~231 | ~330 | ~338 |
-| 5 | No invisibility + weekly tasks | 25 | ~337 | ~405 | ~411 |
+| 2 | Invisibility + weekly tasks | 40 | ~221 | ~166 | ~170 |
+| 2 | Invisible + tasks, Corym Mines always taken | 43 | ~199 | ~139 | ~143 |
+| 2 | No invisibility + weekly tasks | 50 | ~274 | ~164 | ~168 |
+| 3 | Invisibility + weekly tasks | 28 | ~231 | ~248 | ~253 |
+| 3 | Invisible + tasks, Corym Mines always taken | 30 | ~206 | ~206 | ~212 |
+| 3 | No invisibility + weekly tasks | 35 | ~300 | ~257 | ~262 |
+| 5 | Invisibility + weekly tasks | 20 | ~260 | ~390 | ~398 |
+| 5 | Invisible + tasks, Corym Mines always taken | 21 | ~221 | ~316 | ~324 |
+| 5 | No invisibility + weekly tasks | 25 | ~319 | ~382 | ~389 |
 
-TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **259 TC a month**, and about 265 on an Optional PvP, green world (×1.03).
+TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **248 TC a month**, and about 253 on an Optional PvP, green world (×1.03).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -220,7 +220,7 @@ Another way to make a character worth selling is to leave it at level 8 and only
 
 Days count from magic level 0, at 12 hours a day (30 mana a minute). TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
-Raising to 100 takes 28 days and 84 hours of play, for about 242 TC (the sale plus the gold left), about 8.6 TC per day. So for a sorcerer, raising is the income:
+Raising to 100 takes 28 days and 84 hours of play, for about 231 TC (the sale plus the gold left), about 8.3 TC per day. So for a sorcerer, raising is the income:
 - **Space out the sales.** An account can have only one auction at a time.
 - **Don't keep training the level 100.** At levels 90 to 110, sorcerers with magic level 70–79 sold for a median of 110 TC (100 sales), no more than the 214 TC of magic level 53–58, so hundreds of days of extra training don't pay.
 - **Low-level prices rest on few sales** (4–15 per skill), and they're best in Europe.

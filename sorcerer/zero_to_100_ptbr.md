@@ -65,7 +65,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 80–90 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 14,0 h | ~220k | ~70k |
 | 90–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 17,0 h | ~221k | ~72k |
 
-Isso dá level 100 no dia 30 em vez de 28, com magic level 54 (mais dias de treino). Sobra 4.1M de gold em vez de 5.3M, e rende menos TC por mês: uns 215 contra 259 (veja "Lucro").
+Isso dá level 100 no dia 30 em vez de 28, com magic level 54 (mais dias de treino). Sobra 4.1M de gold em vez de 5.3M, e rende menos TC por mês: uns 206 contra 248 (veja "Lucro").
 
 ### Sem invisibilidade
 A rota é mais lenta e dá mais loot:
@@ -181,17 +181,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Invisibilidade + tarefas semanais | 40 | ~231 | ~173 | ~177 |
-| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~207 | ~144 | ~148 |
-| 2 | Sem invisibilidade + tarefas semanais | 50 | ~288 | ~173 | ~176 |
-| 3 | Invisibilidade + tarefas semanais | 28 | ~242 | ~259 | ~265 |
-| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~215 | ~215 | ~220 |
-| 3 | Sem invisibilidade + tarefas semanais | 35 | ~315 | ~270 | ~275 |
-| 5 | Invisibilidade + tarefas semanais | 20 | ~273 | ~410 | ~418 |
-| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 21 | ~231 | ~330 | ~338 |
-| 5 | Sem invisibilidade + tarefas semanais | 25 | ~337 | ~405 | ~411 |
+| 2 | Invisibilidade + tarefas semanais | 40 | ~221 | ~166 | ~170 |
+| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~199 | ~139 | ~143 |
+| 2 | Sem invisibilidade + tarefas semanais | 50 | ~274 | ~164 | ~168 |
+| 3 | Invisibilidade + tarefas semanais | 28 | ~231 | ~248 | ~253 |
+| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~206 | ~206 | ~212 |
+| 3 | Sem invisibilidade + tarefas semanais | 35 | ~300 | ~257 | ~262 |
+| 5 | Invisibilidade + tarefas semanais | 20 | ~260 | ~390 | ~398 |
+| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 21 | ~221 | ~316 | ~324 |
+| 5 | Sem invisibilidade + tarefas semanais | 25 | ~319 | ~382 | ~389 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **259 TC por mês**, e uns 265 num mundo Optional PvP verde (×1,03).
+TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **248 TC por mês**, e uns 253 num mundo Optional PvP verde (×1,03).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -220,7 +220,7 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 
 Os dias contam a partir de magic level 0, com 12 horas por dia (30 de mana por minuto). TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
-Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 242 TC (a venda mais o gold que sobra), uns 8,6 TC por dia. Então, para um sorcerer, subir de level é a renda:
+Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 231 TC (a venda mais o gold que sobra), uns 8,3 TC por dia. Então, para um sorcerer, subir de level é a renda:
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
 - **Não continue treinando o level 100.** Nos levels 90 a 110, sorcerers com magic level 70–79 foram vendidos por uma mediana de 110 TC (100 vendas), não mais que os 214 TC do magic level 53–58, então centenas de dias de treino extra não compensam.
 - **Os preços de level baixo vêm de poucas vendas** (4–15 por skill), e são melhores na Europa.

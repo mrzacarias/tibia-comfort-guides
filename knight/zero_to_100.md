@@ -53,7 +53,7 @@ The knight guide's good-value picks for each band (per slot, the best piece that
 | 80–90 | Gearwheel Chain (5k) | 5k | 3.0M |
 | 90–100 | Blade of Corruption (65k) | 65k | 4.1M |
 
-All of it costs about 738k (about 17 TC in gold), less what the pieces each row replaces sell back for on the Market. The route's gold catches up with the list at about level 50. Before that, buy the sword first, since kill speed is what moves the route, and the rest as the gold comes in.
+All of it costs about 738k (about 16 TC in gold), less what the pieces each row replaces sell back for on the Market. The route's gold catches up with the list at about level 50. Before that, buy the sword first, since kill speed is what moves the route, and the rest as the gold comes in.
 
 ### If Corym Mines is full
 Corym Mines is popular, and the route above assumes it's free for your 3 hours every day. When someone is already there, go down this list for your level, best first. "(ring)" means you wear the Stealth Ring there too.
@@ -83,7 +83,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 80–90 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 19.0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
 | 90–100 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | – | 24.0 h | ~153k | ~95k | [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard) |
 
-That's level 100 on day 33 instead of 23, with sword 79 (more days of training). But Forgotten Tomb loots much more, so it leaves 7.5M of gold instead of 5.9M, and makes less TC per month: about 340 against 443 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
+That's level 100 on day 33 instead of 23, with sword 79 (more days of training). But Forgotten Tomb loots much more, so it leaves 7.5M of gold instead of 5.9M, and makes less TC per month: about 327 against 428 (see "Profit"). Forgotten Tomb's loot hasn't been tested yet, so take that part with care.
 
 ### Without the ring
 The route is slower but loots more:
@@ -173,19 +173,19 @@ What knights like this sold for at every 10 levels of the route (sold auctions o
 
 | Level | Day | Hours hunted | Sword | Sales | Median | Middle half | TC after fees and gear | TC per hour hunted |
 |---|---|---|---|---|---|---|---|---|
-| 20 | 1 | 3 | 50 | 2 | 122 TC | 89–156 | ~45 | – |
-| 30 | 2 | 6 | 54 | 4 | 78 TC | 63–165 | ~6 | – |
+| 20 | 1 | 3 | 50 | 5 | 57 TC | 57–122 | ~−13 | −4.2 |
+| 30 | 2 | 6 | 54 | 10 | 74 TC | 60–122 | ~2 | 0.3 |
 | 40 | 3 | 9 | 57 | 8 | 151 TC | 70–202 | ~70 | 7.8 |
-| 50 | 5 | 15 | 61 | 11 | 240 TC | 100–376 | ~155 | 10.3 |
-| 60 | 7 | 21 | 64 | 14 | 201 TC | 82–287 | ~131 | 6.2 |
-| 70 | 10 | 30 | 67 | 17 | 251 TC | 100–401 | ~193 | 6.4 |
-| 80 | 14 | 42 | 71 | 43 | 204 TC | 111–501 | ~176 | 4.2 |
-| 90 | 18 | 54 | 73 | 41 | 189 TC | 124–300 | ~192 | 3.6 |
-| 100 | 23 | 69 | 76 | 48 | 258 TC | 126–502 | ~286 | 4.1 |
+| 50 | 5 | 15 | 61 | 11 | 240 TC | 100–376 | ~154 | 10.3 |
+| 60 | 7 | 21 | 64 | 14 | 201 TC | 82–287 | ~129 | 6.2 |
+| 70 | 10 | 30 | 67 | 17 | 251 TC | 100–401 | ~190 | 6.3 |
+| 80 | 14 | 42 | 71 | 43 | 204 TC | 111–501 | ~171 | 4.1 |
+| 90 | 18 | 54 | 73 | 41 | 189 TC | 124–300 | ~184 | 3.4 |
+| 100 | 23 | 69 | 76 | 48 | 258 TC | 126–502 | ~276 | 4.0 |
 
-TC after fees and gear = 0.88 × the median − the 50 TC fee (counted for 1 in 5 auctions not selling) + the route's gold by then, less the gear bought by then (see "Gear by level"), at 43,000 gold per Tibia Coin. Hours hunted = days × 3. TC per hour is left out where fewer than 5 sold.
+TC after fees and gear = 0.88 × the median − the 50 TC fee (counted for 1 in 5 auctions not selling) + the route's gold by then, less the gear bought by then (see "Gear by level"), at 47,000 gold per Tibia Coin. Hours hunted = days × 3. TC per hour is left out where fewer than 5 sold.
 
-**Sell right after level 100.** It pays the most per character. Level 50 pays the most per hour hunted (10.3 TC an hour, against 4.1 at level 100), so selling there and starting a new knight is faster income if you don't mind repeating the early levels. Few knights that low sell, though (11 sales), so that price is less sure. In between, the price barely moves: once past level 50, go on to 100.
+**Sell right after level 100.** It pays the most per character. Level 50 pays the most per hour hunted (10.3 TC an hour, against 4.0 at level 100), so selling there and starting a new knight is faster income if you don't mind repeating the early levels. Few knights that low sell, though (11 sales), so that price is less sure. In between, the price barely moves: once past level 50, go on to 100.
 
 If you'd rather keep the knight, [Comfortable solo hunting at 100+](comfort_solo_100.md) picks up from level 100.
 
@@ -207,17 +207,17 @@ The world matters as much as the level. Each sale's price compared with the medi
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + weekly tasks | 33 | ~334 | ~304 | ~363 |
-| 2 | Ring + tasks, Corym Mines always taken | 46 | ~360 | ~235 | ~277 |
-| 2 | No ring + weekly tasks | 44 | ~331 | ~225 | ~270 |
-| 3 | Stealth Ring + weekly tasks | 23 | ~340 | ~443 | ~529 |
-| 3 | Ring + tasks, Corym Mines always taken | 33 | ~374 | ~340 | ~400 |
-| 3 | No ring + weekly tasks | 31 | ~343 | ~332 | ~396 |
-| 5 | Stealth Ring + weekly tasks | 17 | ~341 | ~602 | ~702 |
-| 5 | Ring + tasks, Corym Mines always taken | 24 | ~423 | ~528 | ~611 |
-| 5 | No ring + weekly tasks | 23 | ~384 | ~501 | ~587 |
+| 2 | Stealth Ring + weekly tasks | 33 | ~323 | ~293 | ~353 |
+| 2 | Ring + tasks, Corym Mines always taken | 46 | ~346 | ~226 | ~268 |
+| 2 | No ring + weekly tasks | 44 | ~320 | ~218 | ~263 |
+| 3 | Stealth Ring + weekly tasks | 23 | ~328 | ~428 | ~513 |
+| 3 | Ring + tasks, Corym Mines always taken | 33 | ~360 | ~327 | ~386 |
+| 3 | No ring + weekly tasks | 31 | ~331 | ~321 | ~384 |
+| 5 | Stealth Ring + weekly tasks | 17 | ~326 | ~576 | ~676 |
+| 5 | Ring + tasks, Corym Mines always taken | 24 | ~404 | ~505 | ~587 |
+| 5 | No ring + weekly tasks | 23 | ~369 | ~481 | ~566 |
 
-TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 43,000 gold per Tibia Coin. At 3 hours a day that's about **443 TC a month**, and about 529 on an Optional PvP, green world (×1.25).
+TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **428 TC a month**, and about 513 on an Optional PvP, green world (×1.25).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -227,37 +227,38 @@ Not counted:
 Prices scatter a lot: half of the sales fall in a range 2 to 5 times wide. Sold characters often carry extras a fresh one doesn't have (outfits, mounts, charms). Treat these numbers as a rough guide.
 
 ## Should I raise to 100 or have a level 8 with high skill?
-Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. Low-level knights with high skill do sell, but only from about skill 94, and the price grows slowly with each point (sold auctions on exiva.pro, levels 8 to 20, all worlds):
+Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. Low-level knights with high skill do sell, but only from about skill 92, and the price grows slowly with each point (sold auctions on exiva.pro, levels 8 to 20, all worlds):
 
 | Skill | Days of offline training | Sales | Median | TC after fees | TC per day |
 |---|---|---|---|---|---|
-| 94–95 | ~146 | 9 | 66 TC | nothing | – |
-| 96–97 | ~176 | 3 | 69 TC | nothing | – |
-| 98–99 | ~213 | 4 | 86 TC | ~13 | 0.06 |
-| 100–101 | ~258 | 34 | 100 TC | ~26 | 0.10 |
-| 102–103 | ~312 | 10 | 126 TC | ~48 | 0.15 |
-| 104–105 | ~378 | 15 | 201 TC | ~114 | 0.30 |
-| 106–107 | ~457 | 16 | 193 TC | ~107 | 0.23 |
-| 108–109 | ~553 | 15 | 251 TC | ~158 | 0.29 |
-| 110–111 | ~669 | 47 | 450 TC | ~334 | 0.50 |
-| 112–113 | ~810 | 9 | 501 TC | ~378 | 0.47 |
-| 114–115 | ~980 | 6 | 854 TC | ~689 | 0.70 |
-| 116–117 | ~1185 | 3 | 1531 TC | ~1285 | 1.08 |
+| 92–93 | ~120 | 3 | 57 TC | nothing | – |
+| 94–95 | ~146 | 12 | 63 TC | nothing | – |
+| 96–97 | ~176 | 5 | 69 TC | nothing | – |
+| 98–99 | ~213 | 6 | 96 TC | ~22 | 0.10 |
+| 100–101 | ~258 | 41 | 122 TC | ~45 | 0.17 |
+| 102–103 | ~312 | 17 | 80 TC | ~8 | 0.03 |
+| 104–105 | ~378 | 23 | 156 TC | ~75 | 0.20 |
+| 106–107 | ~457 | 23 | 241 TC | ~150 | 0.33 |
+| 108–109 | ~553 | 16 | 250 TC | ~158 | 0.29 |
+| 110–111 | ~669 | 56 | 458 TC | ~340 | 0.51 |
+| 112–113 | ~810 | 15 | 501 TC | ~378 | 0.47 |
+| 114–115 | ~980 | 8 | 854 TC | ~689 | 0.70 |
+| 116–117 | ~1185 | 5 | 1531 TC | ~1285 | 1.08 |
 | 118–119 | ~1434 | 6 | 1620 TC | ~1364 | 0.95 |
-| 120–121 | ~1735 | 5 | 2501 TC | ~2138 | 1.23 |
-| 122–123 | ~2100 | 3 | 3801 TC | ~3282 | 1.56 |
+| 120–121 | ~1735 | 7 | 2501 TC | ~2138 | 1.23 |
+| 122–123 | ~2100 | 4 | 3603 TC | ~3108 | 1.48 |
 
 Days count from sword 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 23 days and 69 hours of play, for about 340 TC (the sale plus the gold left). About 14.8 TC per day.
-- **A level 8 trained to skill 110:** about 669 days of training, for about 334 TC. That's 0.50 TC per day, about 30 times less, but it needs only about 11 hours of logins in total.
+- **Raising to 100:** 23 days and 69 hours of play, for about 328 TC (the sale plus the gold left). About 14.3 TC per day.
+- **A level 8 trained to skill 110:** about 669 days of training, for about 340 TC. That's 0.51 TC per day, about 28 times less, but it needs only about 11 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
 - **Space out the sales.** An account can have only one auction at a time.
 - **Don't keep training the level 100.** At levels 90 to 110, knights with skill 100–109 sold for a median of 201 TC (175 sales), no more than the 300 TC of skill 76–81, so hundreds of days of extra training don't pay.
-- **Low-level prices rest on few sales** (3–47 per skill), and they're best in South America.
+- **Low-level prices rest on few sales** (3–56 per skill), and they're best in South America.
 
 ## How the numbers are made
 - **The route:** a day-by-day simulation with the knight guide's model (its appendix) at the character's real level and skill. XP × the low level bonus × green stamina; skill from offline training only, with TibiaWiki's formulas.

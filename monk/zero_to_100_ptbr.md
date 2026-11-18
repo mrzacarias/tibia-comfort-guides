@@ -65,7 +65,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 80–90 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 18,0 h | ~153k | ~182k |
 | 90–100 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | sim | 22,5 h | ~164k | ~98k |
 
-Isso dá level 100 no dia 33 em vez de 28, com fist fighting 79 (mais dias de treino). Sobra 10.4M de gold em vez de 8.7M, e rende menos TC por mês: uns 304 contra 334 (veja "Lucro").
+Isso dá level 100 no dia 33 em vez de 28, com fist fighting 79 (mais dias de treino). Sobra 10.4M de gold em vez de 8.7M, e rende menos TC por mês: uns 285 contra 315 (veja "Lucro").
 
 ### Sem o ring
 A rota é mais lenta e dá menos loot:
@@ -182,17 +182,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 39 | ~254 | ~196 | ~219 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~285 | ~186 | ~206 |
-| 2 | Sem ring + tarefas semanais | 65 | ~105 | ~48 | ~60 |
-| 3 | Stealth Ring + tarefas semanais | 28 | ~312 | ~334 | ~375 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~335 | ~304 | ~336 |
-| 3 | Sem ring + tarefas semanais | 45 | ~127 | ~85 | ~105 |
-| 5 | Stealth Ring + tarefas semanais | 20 | ~404 | ~606 | ~680 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~440 | ~550 | ~601 |
-| 5 | Sem ring + tarefas semanais | 32 | ~160 | ~150 | ~182 |
+| 2 | Stealth Ring + tarefas semanais | 39 | ~239 | ~184 | ~208 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 46 | ~267 | ~174 | ~194 |
+| 2 | Sem ring + tarefas semanais | 65 | ~100 | ~46 | ~58 |
+| 3 | Stealth Ring + tarefas semanais | 28 | ~294 | ~315 | ~357 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~314 | ~285 | ~317 |
+| 3 | Sem ring + tarefas semanais | 45 | ~122 | ~81 | ~101 |
+| 5 | Stealth Ring + tarefas semanais | 20 | ~383 | ~574 | ~649 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~413 | ~516 | ~566 |
+| 5 | Sem ring + tarefas semanais | 32 | ~154 | ~144 | ~177 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (fist fighting até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **334 TC por mês**, e uns 375 num mundo Optional PvP verde (×1,22).
+TC por personagem = 0,88 × o preço mediano no level 100 (fist fighting até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **315 TC por mês**, e uns 357 num mundo Optional PvP verde (×1,22).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -219,7 +219,7 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de fist fighting 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 312 TC (a venda mais o gold que sobra). Uns 11,1 TC por dia.
+- **Subir até o 100:** 28 dias e 84 horas de jogo, por uns 294 TC (a venda mais o gold que sobra). Uns 10,5 TC por dia.
 - **Um level 8 treinado até fist 110:** uns 669 dias de treino, por uns 1697 TC. Isso dá 2,54 TC por dia, umas 4 vezes menos, mas pede só umas 11 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:

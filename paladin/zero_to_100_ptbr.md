@@ -65,7 +65,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 80–90 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | sim | 19,0 h | ~170k | ~34k |
 | 90–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | sim | 19,5 h | ~202k | ~41k |
 
-Isso dá level 100 no dia 34 em vez de 30, com distance 83 (mais dias de treino). Sobra 5.9M de gold em vez de 7.8M, e rende menos TC por mês: uns 260 contra 373 (veja "Lucro").
+Isso dá level 100 no dia 34 em vez de 30, com distance 83 (mais dias de treino). Sobra 5.9M de gold em vez de 7.8M, e rende menos TC por mês: uns 250 contra 357 (veja "Lucro").
 
 ### Sem o ring
 A rota é mais lenta e dá menos loot:
@@ -184,17 +184,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 42 | ~312 | ~223 | ~229 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 48 | ~271 | ~169 | ~175 |
-| 2 | Sem ring + tarefas semanais | 58 | ~298 | ~154 | ~158 |
-| 3 | Stealth Ring + tarefas semanais | 30 | ~373 | ~373 | ~382 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 34 | ~295 | ~260 | ~268 |
-| 3 | Sem ring + tarefas semanais | 43 | ~270 | ~188 | ~194 |
-| 5 | Stealth Ring + tarefas semanais | 21 | ~463 | ~661 | ~679 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~356 | ~445 | ~458 |
-| 5 | Sem ring + tarefas semanais | 31 | ~300 | ~290 | ~299 |
+| 2 | Stealth Ring + tarefas semanais | 42 | ~299 | ~214 | ~220 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 48 | ~261 | ~163 | ~169 |
+| 2 | Sem ring + tarefas semanais | 58 | ~286 | ~148 | ~152 |
+| 3 | Stealth Ring + tarefas semanais | 30 | ~357 | ~357 | ~367 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 34 | ~283 | ~250 | ~257 |
+| 3 | Sem ring + tarefas semanais | 43 | ~261 | ~182 | ~188 |
+| 5 | Stealth Ring + tarefas semanais | 21 | ~445 | ~636 | ~654 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~343 | ~429 | ~442 |
+| 5 | Sem ring + tarefas semanais | 31 | ~288 | ~279 | ~287 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 43.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **373 TC por mês**, e uns 382 num mundo Optional PvP verde (×1,04).
+TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **357 TC por mês**, e uns 367 num mundo Optional PvP verde (×1,04).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -228,8 +228,8 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de distance 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 30 dias e 90 horas de jogo, por uns 373 TC (a venda mais o gold que sobra). Uns 12,4 TC por dia.
-- **Um level 8 treinado até distance 110:** uns 502 dias de treino, por uns 158 TC. Isso dá 0,32 TC por dia, umas 39 vezes menos, mas pede só umas 8 horas de login no total.
+- **Subir até o 100:** 30 dias e 90 horas de jogo, por uns 357 TC (a venda mais o gold que sobra). Uns 11,9 TC por dia.
+- **Um level 8 treinado até distance 110:** uns 502 dias de treino, por uns 158 TC. Isso dá 0,32 TC por dia, umas 38 vezes menos, mas pede só umas 8 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
