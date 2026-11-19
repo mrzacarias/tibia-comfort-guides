@@ -39,7 +39,6 @@ O resto que vale a pena num personagem que você vai manter: mais hunts e criatu
 
 | ✓ | Level | Objetivo | Notas |
 |---|---|---|---|
-| ☐ | 8 | [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 1.600 de XP, Guardian Ring |
 | ☐ | 30 | [The Explorer Society: Joining the Explorers (rank Novice)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), exigido para a primeira ida a Yalahar |
 | ☐ | 35 | [In Service of Yalahar: The Way to Yalahar e Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar e os bairros, os barcos do Karith de volta |
 | ☐ | 40 | [In Service of Yalahar: missões 1 a 3 (portão do Alchemist Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Alchemist Quarter, assim que a missão 3 começa |

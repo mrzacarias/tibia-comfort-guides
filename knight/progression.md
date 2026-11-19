@@ -39,7 +39,6 @@ The rest worth doing on a character you keep: more hunting grounds and Bestiary 
 
 | ✓ | Level | Goal | Notes |
 |---|---|---|---|
-| ☐ | 8 | [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 1,600 XP, Guardian Ring |
 | ☐ | 30 | [The Explorer Society: Joining the Explorers (Novice rank)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), needed for the first trip to Yalahar |
 | ☐ | 35 | [In Service of Yalahar: The Way to Yalahar and Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar and its quarters, Karith's boats back out |
 | ☐ | 40 | [In Service of Yalahar: missions 1–3 (Alchemist Quarter gate)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | the Alchemist Quarter gate, as soon as mission 3 starts |
