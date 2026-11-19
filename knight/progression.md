@@ -4,8 +4,8 @@ What a solo knight builds besides levels, 50 levels at a time: the quests that o
 
 **In short:**
 - There are 833 creatures: 1,247,165 kills and 28,734 charm points to finish them all. 69% of those kills are Hard and Challenging creatures, which need a high level. Finishing everything is a goal of years, so go for the most charm points per hour in your level band.
-- Below level 100 there are 372 creatures to finish for 7,072 charm points. Doing the fastest ones first, your first 300 hours of Bestiary hunting there give about 1,415 charm points; a few slow ones take hundreds of hours each, so leave those for later.
-- **Beastly** (2,000 charm points) takes about 655 hours with creatures below level 50, fastest first.
+- Below level 100 there are 372 creatures to finish for 7,072 charm points. Doing the fastest ones first, your first 300 hours of Bestiary hunting there give about 1,400 charm points; a few slow ones take hundreds of hours each, so leave those for later.
+- **Beastly** (2,000 charm points) takes about 656 hours with creatures below level 50, fastest first.
 - Join the **Paw and Fur** hunters in Port Hope from level 6 and get an **Adventurer's Stone**: the tasks pay experience and open bosses while the same kills fill your Bestiary.
 - Hunt in a party when you can: everyone who hit a creature in the 5 minutes before it died gets the kill.
 
@@ -191,9 +191,9 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 | Threatened Dreams Quest | 30 / 100 | Troubled Animals mission | Feyrist Meadows, Feyrist Meadows (-1 to -2), Feyrist Meadows (surface) | 11 | 251 |
 | Treasure Island Quest | 0 / 40 | for the caverns | Treasure Island (-1 to -3), Treasure Island (surface) | 3 | 45 |
 | In Service of Yalahar Quest | 80 / 120+ | mission 3 started, which opens the Alchemist Quarter gate; mission 5 started, which opens the Arena and Zoo Quarter gate; mission 6 started, which opens the Cemetery Quarter gate; mission 8 started, which opens the Factory Quarter gate | Alchemist Quarter, Arena and Zoo Quarter (-1 to -5), Arena and Zoo Quarter (surface), Cemetery Quarter, Cemetery Quarter (-1), Factory Quarter (-1 to -2), Factory Quarter (-3 to -5), Factory Quarter (surface) | 16 | 296 |
-| Barbarian Test Quest | 0 / 25 | for Buddel's boat; needed before the Ice Islands Quest | Bittermor barbarians, Formorgar Mines (-7), Hrodmir Quara Scout Caves, Jotunar, Krimhorn barbarians (surface), Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons | 15 | 251 |
+| Barbarian Test Quest | 0 / 25 | for Buddel's boat; needed before the Ice Islands Quest | Bittermor barbarians, Formorgar Mines (-7), Hrodmir Quara Scout Caves, Hrodmir Stone Golem Caves, Jotunar, Krimhorn barbarians (surface), Nibelor, Nibelor Crystal Spiders, Okolnir frost dragons | 16 | 266 |
 | The Ice Islands Quest | 0 / 130+ | "Nibelor 2" mission started; first mission; up to mission 9 (Formorgar Mines 1) | Formorgar Mines (-7), Jotunar, Nibelor, Nibelor Crystal Spiders | 9 | 131 |
-| The New Frontier Quest | 77 / 110+ |  | Chazorai, Farmine Mines, Zao Palace, Zao Palace Antechambers | 7 | 180 |
+| The New Frontier Quest | 77 / 110+ |  | Chazorai, Farmine Mines, Zao Palace, Zao Palace Antechambers | 6 | 165 |
 | Blood Brothers Quest | 40 / 70+ | mission 4 | Castle (Vengoth), Vengoth, Vengoth Werewolf Cave | 3 | 75 |
 | Between the Lines Quest | 200 | for the book teleport in Edron | Book World, Crumbling Caverns | 8 | 375 |
 | The Hidden City of Beregar Quest | 0 / 60+ | started | Beregar Mines, Fenrock Dragon Lair | 2 | 50 |
@@ -232,7 +232,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 Each band lists the creatures whose level falls in it, best charm points per hour first. **Level** is where hunting it makes sense (see the appendix for how it's set); **Kills/h** counts only that creature at that hunting ground, and **Hours** is what finishing it takes there. The other creatures you kill on the way count for their own entries. "?" means the model has no estimate.
 
 ### Levels 0–50
-249 creatures, 139,375 kills, 3,795 charm points, about 3,028 hours (26 without an estimate). Running total: 3,795 charm points, 3,028 hours.
+249 creatures, 139,375 kills, 3,795 charm points, about 3,029 hours (26 without an estimate). Running total: 3,795 charm points, 3,029 hours.
 
 **Quests**
 
@@ -302,7 +302,6 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Troll Legionnaire | Medium | 1,000 | 25 | 10 | [Troll Legionnaire (own spawns)](https://tibiamaps.io/map#32788,31455,12:2) | 173 | 5.8 |  |
 | Wolf | Trivial | 250 | 5 | 10 | [Thais Wolf Dungeon](https://tibiamaps.io/map#32347,32311,7:2) | 202 | 1.2 |  |
 | Chakoya Windcaller | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 139 | 3.6 |  |
-| Stone Golem | Easy | 500 | 15 | 40 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 139 | 3.6 | The New Frontier Quest |
 | Crocodile | Easy | 500 | 15 | 16 | [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | 134 | 3.7 |  |
 | Cyclops | Easy | 500 | 15 | 20 | [Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2) | 136 | 3.7 |  |
 | Minotaur Archer | Easy | 500 | 15 | 20 | [Kazordoon Minotaurs (+1 to +4)](https://tibiamaps.io/map#32491,31966,6:2) | 134 | 3.7 |  |
@@ -333,6 +332,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Orc | Easy | 500 | 15 | 13 | [Venore Orc Cave](https://tibiamaps.io/map#33056,32030,7:2) | 104 | 4.8 |  |
 | Mutated Rat | Medium | 1,000 | 25 | 20 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 125 | 8.0 | In Service of Yalahar Quest |
 | Stalker | Easy | 500 | 15 | 20 | [Peninsula Tomb (-6 to -8)](https://tibiamaps.io/map#33027,32870,13:2) | 105 | 4.8 |  |
+| Stone Golem | Easy | 500 | 15 | 20 | [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 105 | 4.8 | Barbarian Test Quest |
 | Mammoth | Easy | 500 | 15 | 30 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 103 | 4.9 |  |
 | Pirate Cutthroat | Medium | 1,000 | 25 | 45 | [Nargor](https://tibiamaps.io/map#31994,32860,7:2) | 122 | 8.2 | The Shattered Isles Quest |
 | Lion | Easy | 500 | 15 | 8 | [Jakundaf Desert](https://tibiamaps.io/map#32633,32113,7:2) | 100 | 5.0 |  |
@@ -517,7 +517,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Corrupted Skeleton | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? | ? | In Service of Yalahar Quest |
 
 ### Levels 50–100
-123 creatures, 137,800 kills, 3,277 charm points, about 2,513 hours (15 without an estimate). Running total: 7,072 charm points, 5,541 hours.
+123 creatures, 137,800 kills, 3,277 charm points, about 2,513 hours (15 without an estimate). Running total: 7,072 charm points, 5,542 hours.
 
 **Quests**
 
@@ -675,7 +675,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Crusader | Hard | 2,500 | 50 | 85 | [Book World](https://tibia.fandom.com/wiki/Book_World) | ? | ? | Between the Lines Quest |
 
 ### Levels 100–150
-88 creatures, 106,250 kills, 2,490 charm points, about 3,158 hours (7 without an estimate). Running total: 9,562 charm points, 8,699 hours.
+88 creatures, 106,250 kills, 2,490 charm points, about 3,158 hours (7 without an estimate). Running total: 9,562 charm points, 8,700 hours.
 
 **Quests**
 
@@ -791,7 +791,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Renegade Quara Predator | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | Twenty Miles Beneath the Sea Quest |
 
 ### Levels 150–200
-56 creatures, 82,775 kills, 1,826 charm points, about 2,511 hours (8 without an estimate). Running total: 11,388 charm points, 11,210 hours.
+56 creatures, 82,775 kills, 1,826 charm points, about 2,511 hours (8 without an estimate). Running total: 11,388 charm points, 11,211 hours.
 
 **Quests**
 
@@ -868,7 +868,7 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Hive Overseer | Hard | 2,500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-37 creatures, 79,000 kills, 1,625 charm points, about 1,618 hours (10 without an estimate). Running total: 13,013 charm points, 12,828 hours.
+37 creatures, 79,000 kills, 1,625 charm points, about 1,618 hours (10 without an estimate). Running total: 13,013 charm points, 12,829 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Vashresamun (4,000 HP), Thalas (4,100 HP), Arthei (4,200 HP), Dipthrah (4,200 HP), Omruc (4,300 HP), Morguthis (4,800 HP).
 
@@ -917,7 +917,7 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Silverfrost Sentinel | Hard | 2,500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-31 creatures, 67,000 kills, 1,360 charm points, about 2,453 hours (4 without an estimate). Running total: 14,373 charm points, 15,281 hours.
+31 creatures, 67,000 kills, 1,360 charm points, about 2,453 hours (4 without an estimate). Running total: 14,373 charm points, 15,282 hours.
 
 **Quests**
 
@@ -969,7 +969,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Raubritter Skirmisher | Hard | 2,500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | The Order of the Stag Quest |
 
 ### Levels 300–350
-32 creatures, 74,750 kills, 1,505 charm points, about 3,113 hours (3 without an estimate). Running total: 15,878 charm points, 18,394 hours.
+32 creatures, 74,750 kills, 1,505 charm points, about 3,113 hours (3 without an estimate). Running total: 15,878 charm points, 18,395 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Sugar Mommy (6,000 HP), Shadowstalker (6,100 HP), Rotspit (6,800 HP).
 
@@ -1013,7 +1013,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Cyclursus | Hard | 2,500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-40 creatures, 95,500 kills, 1,925 charm points, about 3,474 hours (6 without an estimate). Running total: 17,803 charm points, 21,868 hours.
+40 creatures, 95,500 kills, 1,925 charm points, about 3,474 hours (6 without an estimate). Running total: 17,803 charm points, 21,869 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Chopper (7,200 HP).
 
@@ -1065,7 +1065,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Roaming Dread | Hard | 2,500 | 50 | 365 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 400–450
-18 creatures, 45,000 kills, 900 charm points, about 788 hours (6 without an estimate). Running total: 18,703 charm points, 22,656 hours.
+18 creatures, 45,000 kills, 900 charm points, about 788 hours (6 without an estimate). Running total: 18,703 charm points, 22,657 hours.
 
 With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki/Ferumbras'_Ascension_Quest) (8% of the sold knights here).
 
@@ -1097,7 +1097,7 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Mitmah Seer | Hard | 2,500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 creatures, 10,000 kills, 200 charm points, about 634 hours. Running total: 18,903 charm points, 23,290 hours.
+4 creatures, 10,000 kills, 200 charm points, about 634 hours. Running total: 18,903 charm points, 23,291 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Mindmasher (9,500 HP), Sugar Daddy (9,500 HP).
 
@@ -1113,7 +1113,7 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Brain Squid | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 12 | 214 |  |
 
 ### Levels 500+
-83 creatures, 375,000 kills, 7,500 charm points, about 17,758 hours (42 without an estimate). Running total: 26,403 charm points, 41,048 hours.
+83 creatures, 375,000 kills, 7,500 charm points, about 17,758 hours (42 without an estimate). Running total: 26,403 charm points, 41,049 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Dazed Leaf Golem (10,000 HP), Inkwing (12,000 HP), Gorga (15,000 HP), Grand Canon Dominus (15,000 HP), Preceptor Lazare (16,000 HP), Grand Commander Soeren (17,000 HP), Grand Chaplain Gaunder (18,000 HP), Sir Leonard (22,000 HP), Enusat the Onyx Wing (25,000 HP), Latrivan (25,000 HP), Thawing Dragon Lord (25,000 HP), Rakesh Moonfang (25,500 HP), Hellgorak (25,850 HP), Mozradek (28,000 HP), Tanjis (30,000 HP)…
 
@@ -1231,7 +1231,7 @@ Each class gives a title when every entry in it is done (very rare and event cre
 | Demon | Demonator | 43 | 83,020 | 1,930 | 800 | 2,461 (34 of 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105,515 | 2,390 | 805 | 4,805 (52 of 58) |
 | Undead | Ghosthunter / Ghosthuntress | 94 | 196,525 | 4,355 | 835 | 7,008 (66 of 94) |
-| Construct | Handyman / Handywoman | 36 | 59,045 | 1,431 | 950 | 3,093 (31 of 36) |
+| Construct | Handyman / Handywoman | 36 | 59,045 | 1,431 | 950 | 3,094 (31 of 36) |
 | Human | Manhunter / Manhuntress | 96 | 148,525 | 3,485 | 1110 | 2,872 (67 of 96) |
 
 ## Very rare creatures
@@ -2377,7 +2377,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Stampor | Reptile | Medium | 1,000 | 25 | 80 | [Stampor Cave](https://tibiamaps.io/map#33166,31211,7:2) | 6.9 |
 | Starving Wolf | Mammal | Easy | 500 | 15 | 30 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 64 |
 | Stone Devourer | Construct | Hard | 2,500 | 50 | 105 | [Warzone 1](https://tibiamaps.io/map#33049,31938,10:2) | 172 |
-| Stone Golem | Construct | Easy | 500 | 15 | 40 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 3.6 |
+| Stone Golem | Construct | Easy | 500 | 15 | 20 | [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 4.8 |
 | Stone Rhino | Mammal | Medium | 1,000 | 25 | 130 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 81 |
 | Stonerefiner | Reptile | Medium | 1,000 | 25 | 80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3.1 |
 | Streaked Devourer | Vermin | Hard | 2,500 | 50 | 350 | [Grotto of the Lost](https://tibiamaps.io/map#32143,31446,14:2) | 80 |
@@ -2500,7 +2500,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 1. **The creatures:** every TibiaWiki Bestiary entry (difficulty, class, HP, location) and the Bestiary table of kills and points.
 2. **Where:** TibiaWiki's hunting ground pages (which creatures live there, the suggested knight level, how to get in), placed on the Canary open-source game map to find each ground's spawns. Creatures no ground page reaches get a ground of their own around their densest spawns.
 3. **Level:** TibiaWiki's suggested knight level for the hunting ground where you'd hunt the creature (among those where it makes at least a fifth of the kills, the lowest-level one giving at least 70% of its best kill rate), but never under 1 level per 40 of its HP: bigger monsters take too long to kill before that.
-4. **Kills per hour:** the same model as the knight hunting guide (fight by fight: your hits after their armor, Shield Bash on your target, `exori` and `exori gran` on boxes as far as your mana lasts with no potions, walking, looting, respawn), with the guide's typical knight; from level 200 also Intricate Vampirism, Intricate Void and the Wheel's extra HP. Past level 200 the gear stays at the level-200 picks and the skill grows slowly (about 105 at level 500), so high levels are on the slow side. Hours = kills needed ÷ that creature's kills per hour.
+4. **Kills per hour:** the same model as the knight hunting guide (fight by fight: your hits after their armor, Shield Bash on your target, `exori` and `exori gran` on boxes as far as your mana lasts with no potions, walking, looting, respawn), with the guide's typical knight; from level 200 also a second Basic Void (on the weapon) and the Wheel's extra HP. Past level 200 the gear stays at the level-200 picks and the skill grows slowly (about 105 at level 500), so high levels are on the slow side. Hours = kills needed ÷ that creature's kills per hour.
 5. **Quests:** the knight hunting guide's checked access list, and TibiaWiki's notes for the other hunting grounds.
 
 **How far to trust them:**
