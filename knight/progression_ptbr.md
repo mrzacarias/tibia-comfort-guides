@@ -10,52 +10,52 @@ O que um knight solo constrói além dos levels, de 50 em 50 levels: as quests q
 - Cace em party quando puder: todo mundo que bateu numa criatura nos 5 minutos antes de ela morrer ganha a kill.
 
 ## Checklist
-Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num personagem que você acabou de comprar, percorra a lista com a página dele no Bazaar e, no jogo, o quest log e a Cyclopedia (Bestiary, Bosstiary, charms) abertos. O level é quando cabe para um knight solo; as faixas abaixo dão os detalhes.
+Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num personagem que você acabou de comprar, percorra a lista com a página dele no Bazaar e, no jogo, o quest log e a Cyclopedia (Bestiary, Bosstiary, charms) abertos. O level é quando cabe para um knight solo; as faixas abaixo dão os detalhes. Comece pela lista **Essencial**; a **Completa** soma o resto que vale a pena num personagem que você vai manter.
+
+### Essencial
+O básico, até o level 70. Cada item abre uma hunt que os guias principais usam, é um sistema que os números deles assumem (promoção, imbuements, a Wheel) ou aparece no Bazaar, onde knights vendidos que tinham o item saíram mais caros. A maioria leva menos de 2 horas. Também é a lista para fechar antes de vender um knight.
 
 | ✓ | Level | Objetivo | Notas |
 |---|---|---|---|
 | ☐ | 8 | Treino offline toda vez que deslogar (sword + shielding) |  |
 | ☐ | 8 | Blessings, renovadas depois de cada morte | o Antes de caçar do guia principal |
 | ☐ | 8 | [Targuna](https://tibia.fandom.com/wiki/Targuna_Quest) | Crimson Court (missão Burning Heat) |
-| ☐ | 8 | [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 1.600 de XP, Guardian Ring |
 | ☐ | 20 | Promoção |  |
 | ☐ | 20 | Bounty Talisman (5.000 gold num joalheiro) | o Task Board do guia principal |
 | ☐ | 20 | [Barbarian Test](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) | barco do Buddel: Okolnir, Ice Witch Temple, os acampamentos bárbaros, Hrodmir; exigida antes da Ice Islands Quest |
 | ☐ | 20 | [The Shattered Isles: Eleonore e Access to Meriana](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Laguna Islands (tartarugas), Meriana Gargoyle Cave |
-| ☐ | 25 | [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest) | XP, uma Yellow Gem |
-| ☐ | 25 | [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions) | encomendas e barcos mais baratos, Postman Hat |
+| ☐ | 30 | Algumas montarias com itens de domar baratos: Racing Bird (um Carrot on a Stick num Terror Bird), War Bear (um Slingshot num Bear) | uns 5k e 24k gold no Market; domar pode falhar ou quebrar o item; mais na página [Mounts](https://tibia.fandom.com/wiki/Mounts) da TibiaWiki; montarias aparecem no Bazaar |
 | ☐ | 30 | [Hidden Threats](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | Corym Mines (a hunt principal da rota do 0 ao 100) |
-| ☐ | 30 | [The Explorer Society: Joining the Explorers (rank Novice)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), exigido para a primeira ida a Yalahar |
-| ☐ | 35 | [In Service of Yalahar: The Way to Yalahar e Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar e os bairros, os barcos do Karith de volta |
-| ☐ | 40 | [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | cavernas de Treasure Island |
-| ☐ | 40 | [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest) | addon Tribal Crest, Tome of Knowledge |
-| ☐ | 40 | [In Service of Yalahar: missões 1 a 3 (portão do Alchemist Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Alchemist Quarter, assim que a missão 3 começa |
-| ☐ | 40 | [In Service of Yalahar: missão 4 (portão do Trade Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Trade Quarter, assim que a missão 4 começa |
-| ☐ | 40 | [Top of the City](https://tibia.fandom.com/wiki/Top_of_the_City_Quest) | 10 Heaven Blossoms |
-| ☐ | 45 | [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest) | Isle of the Kings |
-| ☐ | 45 | [In Service of Yalahar: missão 5 (portão do Arena and Zoo Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Arena and Zoo Quarter, assim que a missão 5 começa |
-| ☐ | 45 | [In Service of Yalahar: missão 6 (portão do Cemetery Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Cemetery Quarter, assim que a missão 6 começa |
 | ☐ | 50 | Kit de imbuements: Basic Vampirism (armor) e Basic Void (helmet) | a Seção 2 do guia principal |
 | ☐ | 50 | Charm: Dodge | depois Wound, Vampiric Embrace e Void's Call, Parry mais tarde |
+| ☐ | 50 | [Forgotten Knowledge: a primeira parte](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | imbuing (Seção 2 do guia principal); Old Masonry e Astral Shaper Dungeon pelos Halls of Hope |
+| ☐ | 51 | Wheel of Destiny: primeiro as fatias de vida, depois Battle Instinct e Battle Healing | a Seção 4 do guia principal |
+| ☐ | 65 | [The Shattered Isles: Goroma, Ramoa, Talahu e Malada, Nargor](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma, Hellgorge, Ramoa, Malada, Nargor, Crystal Gardens, Lich Hell |
+| ☐ | 70 | [Lion's Rock](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) | Lion's Rock (o portal do Inner Sanctum) |
+| ☐ | 70 | [The Thieves Guild](https://tibia.fandom.com/wiki/The_Thieves_Guild_Quest) | comércio com o Black Bert |
+
+### Completa
+O resto que vale a pena num personagem que você vai manter: mais hunts e criaturas do Bestiário, NPCs que pagam mais pelo seu loot, atalhos de viagem, recompensas em equipamento e os sistemas do fim de jogo.
+
+| ✓ | Level | Objetivo | Notas |
+|---|---|---|---|
+| ☐ | 8 | [Newhaven](https://tibia.fandom.com/wiki/Newhaven_Quest) | 1.600 de XP, Guardian Ring |
+| ☐ | 30 | [The Explorer Society: Joining the Explorers (rank Novice)](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | Captain Max (Liberty Bay), exigido para a primeira ida a Yalahar |
+| ☐ | 35 | [In Service of Yalahar: The Way to Yalahar e Searoutes](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | Yalahar e os bairros, os barcos do Karith de volta |
+| ☐ | 40 | [In Service of Yalahar: missões 1 a 3 (portão do Alchemist Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Alchemist Quarter, assim que a missão 3 começa |
+| ☐ | 40 | [In Service of Yalahar: missão 4 (portão do Trade Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Trade Quarter, assim que a missão 4 começa |
+| ☐ | 45 | [In Service of Yalahar: missão 5 (portão do Arena and Zoo Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Arena and Zoo Quarter, assim que a missão 5 começa |
+| ☐ | 45 | [In Service of Yalahar: missão 6 (portão do Cemetery Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Cemetery Quarter, assim que a missão 6 começa |
 | ☐ | 50 | Bosstiary: Prowess em qualquer boss (abre o seu primeiro boss slot) |  |
 | ☐ | 50 | [The Djinn War (Marid ou Efreet, escolha permanente)](https://tibia.fandom.com/wiki/The_Djinn_War_-_Marid_Faction) | comércio com os djinns, que compram equipamento pelos melhores preços de NPC |
 | ☐ | 50 | [The Travelling Trader](https://tibia.fandom.com/wiki/The_Travelling_Trader_Quest) | vender loot para o Rashid |
-| ☐ | 50 | [A Father's Burden](https://tibia.fandom.com/wiki/A_Father's_Burden_Quest) | XP, 8k de gold, Old Cape |
-| ☐ | 50 | [Forgotten Knowledge: a primeira parte](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | imbuing (Seção 2 do guia principal); Old Masonry e Astral Shaper Dungeon pelos Halls of Hope |
 | ☐ | 50 | [Adventures of Galthen: missão City of Gold](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | Iksupan (Port Hope) |
-| ☐ | 51 | Wheel of Destiny: primeiro as fatias de vida, depois Battle Instinct e Battle Healing | a Seção 4 do guia principal |
-| ☐ | 60 | [The Hidden City of Beregar](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | Beregar Mines; Fenrock Dragon Lair (com uma Golden Mug) |
-| ☐ | 60 | [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) |  |
+| ☐ | 60 | [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) | Boots of Haste, Stealth Ring, Stone Skin Amulet, Giant Sword, Tower Shield e 10k de gold |
 | ☐ | 60 | [In Service of Yalahar: missão 7 (portão do Sunken Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Sunken Quarter, assim que a missão 7 começa |
 | ☐ | 60 | [In Service of Yalahar: missão 8 (portão do Factory Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | o portão do Factory Quarter, assim que a missão 8 começa |
 | ☐ | 61 | [The Hunt for the Sea Serpent](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | Sea Serpent Area (barco do Captain Haba) |
-| ☐ | 65 | [The Shattered Isles: Goroma, Ramoa, Talahu e Malada, Nargor](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Goroma, Hellgorge, Ramoa, Malada, Nargor, Crystal Gardens, Lich Hell |
 | ☐ | 70 | [Blood Brothers](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | Vengoth e o castelo (barco do Harlow a partir da missão 4) |
-| ☐ | 70 | [Lion's Rock](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) | Lion's Rock (o portal do Inner Sanctum) |
-| ☐ | 70 | [The Thieves Guild](https://tibia.fandom.com/wiki/The_Thieves_Guild_Quest) | comércio com o Black Bert |
-| ☐ | 70 | [Children of the Revolution](https://tibia.fandom.com/wiki/Children_of_the_Revolution_Quest) | tasks de Zao |
-| ☐ | 70 | [An Uneasy Alliance](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 2 Tomes of Knowledge, XP |
-| ☐ | 75 | [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | comércio com o Telas |
+| ☐ | 75 | [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | comércio com o Telas; uma Golem Wrench, para domar a montaria Gnarlhound |
 | ☐ | 80 | [The New Frontier](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) | Farmine e Zao (Muggy Plains, Chaochai, Zzaion…) |
 | ☐ | 100 | Hunting Task Shop: os 10 primeiros pontos da Wheel (17.500 Hunting Task Points) |  |
 | ☐ | 100 | Dano do Bounty Talisman em 5% (145 Bounty Points) |  |
@@ -66,10 +66,8 @@ Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num 
 | ☐ | 100 | [The Ice Islands](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) | Nibelor (missão 1), Tyrsung (Nibelor 2), Formorgar Mines (missão 9), Helheim |
 | ☐ | 100 | [The Explorer Society](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | teleportes Liberty Bay ↔ Svargrond e Port Hope ↔ Northport; barco do Captain Max para Calassa |
 | ☐ | 100 | [In Service of Yalahar: missões 9 e 10 (Azerus)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | uma peça de armadura Yalahari, outfit Yalaharian |
-| ☐ | 100 | [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | Gnomegate, the Spike, Crystal Grounds; Mushroom Gardens no rank II |
 | ☐ | 100 | [Grimvale](https://tibia.fandom.com/wiki/Grimvale_Quest) | Last Sanctum (The Curse Spreads), atalhos do Lion Sanctum |
 | ☐ | 100 | [The Pits of Inferno](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) | Pits of Inferno Dragon Lair (primeiras missões); exigida antes da Inquisition |
-| ☐ | 100 | [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | Deeper Banuta, as Forbidden Lands |
 | ☐ | 100 | [Liquid Black](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | Fiehonja funda e a Deeplings Library |
 | ☐ | 130 | [Wrath of the Emperor](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | Razachai, o Rebel Camp, os andares fundos de Deeper Banuta |
 | ☐ | 150 | Gemas: uma gema normal em cada cor, cada cor com 2 de força na Wheel | a Seção 4 do guia principal |
@@ -81,6 +79,8 @@ Imprima, ou copie para um arquivo, e marque o que o seu personagem já fez. Num 
 | ☐ | 500 | Espadas elementais e a proficiência delas: Gnome Sword, Summerblade, Winterblade, Lion Longsword | o guia 100+ |
 | ☐ | 500 | Gemas grandes com life leech ou mana leech |  |
 | ☐ | 500 | Bosstiary: 1.500 boss points (um segundo boss slot) |  |
+
+**Deixadas de fora de propósito:** [Sea of Light](https://tibia.fandom.com/wiki/Sea_of_Light_Quest), [The Postman Missions](https://tibia.fandom.com/wiki/The_Postman_Missions), [Treasure Island](https://tibia.fandom.com/wiki/Treasure_Island_Quest), [Unnatural Selection](https://tibia.fandom.com/wiki/Unnatural_Selection_Quest), [Top of the City](https://tibia.fandom.com/wiki/Top_of_the_City_Quest), [The White Raven Monastery](https://tibia.fandom.com/wiki/The_White_Raven_Monastery_Quest), [A Father's Burden](https://tibia.fandom.com/wiki/A_Father's_Burden_Quest), [The Hidden City of Beregar](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest), [Children of the Revolution](https://tibia.fandom.com/wiki/Children_of_the_Revolution_Quest), [An Uneasy Alliance](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest), [Bigfoot's Burden](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest), [The Ape City](https://tibia.fandom.com/wiki/The_Ape_City_Quest). Recompensas pequenas, poucas criaturas do Bestiário, nenhuma hunt que os guias recomendam acima do level 60 e nenhuma diferença clara de preço no Bazaar. Os Tomes of Knowledge que algumas dão também estão no Market.
 
 ## Como o Bestiário funciona
 Cada página completa dá **Charm Points**, que liberam charms (dano extra, cura, esquiva e mais contra as criaturas em que você os coloca), e completar classes inteiras dá títulos.
@@ -529,7 +529,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | [Forgotten Knowledge: a primeira parte](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | 0 / 50 | 5 Heavy Old Tomes | imbuing (Seção 2 do guia principal); Old Masonry e Astral Shaper Dungeon pelos Halls of Hope |  | – |
 | [Adventures of Galthen: missão City of Gold](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | 0 / 50 | 5 Nails e uma chave que você monta | Iksupan (Port Hope) |  | – |
 | [The Hidden City of Beregar](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | 0 / 60+ | ~2–3 h | Beregar Mines; Fenrock Dragon Lair (com uma Golden Mug) | parte das Firewalker Boots a partir do level 100 | – |
-| [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) | 60 / 80+ |  |  |  | 4% |
+| [The Queen of the Banshees](https://tibia.fandom.com/wiki/The_Queen_of_the_Banshees_Quest) | 60 / 80+ |  |  | Boots of Haste, Stealth Ring, Stone Skin Amulet, Giant Sword, Tower Shield e 10k de gold | 4% |
 | [The Hunt for the Sea Serpent](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | 61 / 61 |  | Sea Serpent Area (barco do Captain Haba) |  | – |
 | [The Shattered Isles: Goroma, Ramoa, Talahu e Malada, Nargor](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | 20 / 35 / 65 | 2–6 h; Goroma no 20, Ramoa no 35 | Goroma, Hellgorge, Ramoa, Malada, Nargor, Crystal Gardens, Lich Hell | outfits de Pirate (com as missões de Nargor) | 5% |
 | [Blood Brothers](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | 40 / 70+ | ~3–4 h | Vengoth e o castelo (barco do Harlow a partir da missão 4) | Vampiric Crest ou um addon Yalaharian | 0% |
@@ -537,7 +537,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | [The Thieves Guild](https://tibia.fandom.com/wiki/The_Thieves_Guild_Quest) | 0 / 70+ | ~2 h | comércio com o Black Bert | achievement Master Thief | 5% |
 | [Children of the Revolution](https://tibia.fandom.com/wiki/Children_of_the_Revolution_Quest) | 0 / 70+ | ~2–3 h | tasks de Zao | addon Warmaster, Tome of Knowledge | 2% |
 | [An Uneasy Alliance](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 0 / 70+ | ~3 h |  | 2 Tomes of Knowledge, XP | 3% |
-| [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | 75 / 100+ | ~6 h | comércio com o Telas | itens de golem | 1% |
+| [Shadows of Yalahar](https://tibia.fandom.com/wiki/Shadows_of_Yalahar_Quest) | 75 / 100+ | ~6 h | comércio com o Telas; uma Golem Wrench, para domar a montaria Gnarlhound | itens de golem | 1% |
 | [The New Frontier](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) | 77 / 110+ | ~4–6 h, uma luta de arena; comece cedo: ela abre as portas dos elevadores de Farmine | Farmine e Zao (Muggy Plains, Chaochai, Zzaion…) | outfit Warmaster | 1% |
 | [In Service of Yalahar: missão 7 (portão do Sunken Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 0 / 60 | um Helmet of the Deep e um mergulho entre quaras no Sunken Quarter (a Maritima para o Palimuth, ou os 3 líderes quara para o Azerus) | o portão do Sunken Quarter, assim que a missão 7 começa |  | – |
 | [In Service of Yalahar: missão 8 (portão do Factory Quarter)](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 0 / 60 | um matrix crystal embaixo do Factory Quarter, passando por worker golems | o portão do Factory Quarter, assim que a missão 8 começa |  | – |
