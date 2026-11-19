@@ -18,7 +18,7 @@ O básico, até o level 80. Cada item abre uma hunt que os guias principais usam
 | ✓ | Level | Objetivo | Notas |
 |---|---|---|---|
 | ☐ | 8 | Treino offline toda vez que deslogar (sword + shielding) |  |
-| ☐ | 8 | Blessings, renovadas depois de cada morte | o Antes de caçar do guia principal |
+| ☐ | 8 | Blessings, renovadas depois de cada morte | onde e o que dizer: [Blessings, passo a passo](guide_ptbr.md#blessings-passo-a-passo) |
 | ☐ | 12 | [Targuna](https://tibia.fandom.com/wiki/Targuna_Quest) | Crimson Court (missão Burning Heat) |
 | ☐ | 20 | Promoção |  |
 | ☐ | 20 | Bounty Talisman (5.000 gold num joalheiro) | o Task Board do guia principal |

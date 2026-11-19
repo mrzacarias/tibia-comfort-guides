@@ -18,7 +18,7 @@ The core, up to level 80. Each item opens a hunting ground the main guides use, 
 | ✓ | Level | Goal | Notes |
 |---|---|---|---|
 | ☐ | 8 | Offline training every time you log out (sword + shielding) |  |
-| ☐ | 8 | Blessings, renewed after every death | the main guide's Before you hunt |
+| ☐ | 8 | Blessings, renewed after every death | where and what to say: [Blessings, step by step](guide.md#blessings-step-by-step) |
 | ☐ | 12 | [Targuna](https://tibia.fandom.com/wiki/Targuna_Quest) | Crimson Court (Burning Heat mission) |
 | ☐ | 20 | Promotion |  |
 | ☐ | 20 | Bounty Talisman (5,000 gold at a jeweller) | the main guide's Task Board |

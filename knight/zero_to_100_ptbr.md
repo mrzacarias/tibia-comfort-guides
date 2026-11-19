@@ -8,7 +8,7 @@ Este guia leva um knight novo da criação do personagem até o level 100 o mais
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
 - **12 horas de treino offline todo dia**, numa Training Statue com Sword Fighting + Shielding. O seu tempo de treino volta um segundo para cada segundo online ou offline sem treinar, então 3 horas online mais 9 horas offline devolvem as 12 horas do dia seguinte.
 - **Skill só do treino offline.** A hunt adiciona um pouco mais, então o skill real vai ser um pouco maior.
-- **Sem mortes, sem boosts de experiência comprados e sem eventos.** Mortes deixam mais lento; eventos e boosts deixam mais rápido.
+- **Sem mortes, sem boosts de experiência comprados e sem eventos.** Mortes deixam mais lento; eventos e boosts deixam mais rápido. As blessings custam só uns 10.000 gold até o level 30, então compre cedo ([onde e o que dizer](guide_ptbr.md#blessings-passo-a-passo)).
 - **As hunts vêm das listas Bom para XP do guia de knight** (Seção 1, e Seção 1a com o ring): a cada dia, a melhor para o seu level e skill.
 
 ## Dia 0: crie o personagem

@@ -116,10 +116,41 @@ In Section 1 you wear only items that never run out, so there are no charges or 
 
 ### Before you hunt
 - **Stamina:** with a premium account, the first 3 hours from full stamina (42 hours) give 50% more experience, so start your best hunts after a long rest. Below 14 hours you get half the experience and no loot. Stamina comes back while you're logged out, but only after 10 minutes offline, so each quick login between hunts (to check the Market, for example) costs up to 10 minutes of refill, almost 2 minutes of green stamina.
-- **Blessings:** the 5 regular blessings, bought from NPCs in the cities, make you lose about 70% less experience and skill when you die, and you keep your items. They cost about (level − 20) × 1,000 gold up to level 120. They're worth it.
+- **Blessings:** the 5 regular blessings, bought from NPCs in the cities, make you lose about 70% less experience and skill when you die, and you keep your items. They cost about (level − 20) × 1,000 gold up to level 120. They're worth it: where and how in [Blessings, step by step](#blessings-step-by-step).
 - **Food:** eat until the game says you're full before the hunt, and again now and then; food makes you regenerate.
 - **Daily reward:** take it every day at the Reward Wall (potions or runes, Prey Wildcards, training weapons, an XP boost). The streak also makes you regenerate faster in temples, depots and houses.
 - **Buy potions on the Market first:** potions handed out as daily rewards often sell there far below NPC prices.
+
+### Blessings, step by step
+Blessings cut what you lose when you die. With the 5 regular ones you keep all your items, and a promoted character loses 70% less experience and skill; the 2 enhanced ones take that to 86%. A death takes them all away, so buy them again after each one. **Twist of Fate**, sold by any temple NPC, only keeps the others safe when another player kills you.
+
+At each NPC say **hi**, then the blessing's name (for example **spiritual shielding**), then **yes** to pay. Kais and the Nomad also answer to **enhanced**.
+
+| Blessing | NPC | Where | Good to know |
+|---|---|---|---|
+| Spiritual Shielding | Norf | the White Flower Temple, south of Thais | |
+| Wisdom of Solitude | Eremo | Eremo's Island, by boat from Cormaya | |
+| Spark of the Phoenix | Kawill, then Pydar | Kazordoon: Kawill south-west of the temple, one floor down; Pydar north of the temple, past some fire fields | talk to Kawill first; you pay only Pydar, 10% less with a Phoenix Egg in your backpack if you finished [The Paradox Tower Quest](https://tibia.fandom.com/wiki/The_Paradox_Tower_Quest) |
+| Fire of the Suns | Edala | the Suntower, south of Ab'Dendriel | |
+| Embrace of Tibia | Humphrey | the small temple north of Carlin | |
+| Blood of the Mountain (enhanced) | Kais | northern Tiquanda, down a hole | bring a Shovel |
+| Heart of the Mountain (enhanced) | Nomad | ask Buddel in Svargrond for a passage to the Raider Camp, south of Bittermor on Hrodmir, then use Levitate | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
+
+**A route for the 5 regular ones** (TibiaWiki): Norf south of Thais; the boat to Edron, then to Cormaya and Eremo's Island; back to Edron and the Magic Carpet to Kazordoon (Kawill, then Pydar); the ore wagon to the north exit and a walk to Ab'Dendriel (Edala), then on to Carlin (Humphrey). Kais and the Nomad are separate trips, to Tiquanda and to Svargrond.
+
+**Cost** (TibiaWiki's formula: each regular blessing costs 200 × (level − 20) gold up to level 120, then 20,000 + 75 for each level above 120; each enhanced one about 30% more):
+
+| Level | 5 regular | All 7 | All 7 + Twist of Fate |
+|---|---|---|---|
+| 30 | 10,000 | 15,200 | 17,200 |
+| 50 | 30,000 | 45,600 | 51,600 |
+| 100 | 80,000 | 121,600 | 137,600 |
+| 150 | 111,250 | 169,250 | 195,250 |
+| 200 | 130,000 | 198,000 | 234,000 |
+| 300 | 167,500 | 255,500 | 305,500 |
+| 500 | 242,500 | 370,500 | 420,500 |
+
+The Store sells all 7 for 130 Tibia Coins, far more than the NPCs at any of these levels.
 
 ### Loot
 - **Quick Loot:** Shift + right click on a corpse loots it. In the Options, under Hotkeys, put **Quick Loot Nearby Corpses** on a key next to your attack keys: it loots your square and the 8 around it at once.

@@ -119,10 +119,41 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 
 ### Antes de caçar
 - **Stamina:** com conta premium, as 3 primeiras horas a partir da stamina cheia (42 horas) dão 50% a mais de experiência, então comece as suas melhores hunts depois de um bom descanso. Abaixo de 14 horas você ganha metade da experiência e nenhum loot. A stamina volta enquanto você está deslogado, mas só depois de 10 minutos offline, então cada login rápido entre as hunts (para olhar o Market, por exemplo) custa até 10 minutos de recarga, quase 2 minutos de stamina verde.
-- **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena.
+- **Blessings:** as 5 blessings normais, compradas de NPCs nas cidades, fazem você perder uns 70% menos experiência e skill quando morre, e você fica com os seus itens. Elas custam mais ou menos (level − 20) × 1.000 gold até o level 120. Valem a pena: onde e como em [Blessings, passo a passo](#blessings-passo-a-passo).
 - **Comida:** coma até o jogo dizer que você está cheio antes da hunt e de novo de vez em quando; a comida faz você regenerar.
 - **Daily reward:** pegue todo dia no Reward Wall (poções ou runas, Prey Wildcards, training weapons, um bônus de XP). A sequência de dias também faz você regenerar mais rápido em templos, depots e casas.
 - **Compre poções no Market primeiro:** as poções que saem na recompensa diária muitas vezes estão lá bem abaixo do preço dos NPCs.
+
+### Blessings, passo a passo
+As blessings reduzem o que você perde quando morre. Com as 5 normais você fica com todos os seus itens, e um personagem promovido perde 70% menos experiência e skill; as 2 aprimoradas (enhanced) levam isso a 86%. Uma morte tira todas, então compre de novo depois de cada uma. O **Twist of Fate**, vendido por qualquer NPC de templo, só protege as outras quando outro jogador te mata.
+
+Em cada NPC diga **hi**, depois o nome da blessing (por exemplo **spiritual shielding**), depois **yes** para pagar. O Kais e o Nomad também respondem a **enhanced**.
+
+| Blessing | NPC | Onde | Bom saber |
+|---|---|---|---|
+| Spiritual Shielding | Norf | o White Flower Temple, ao sul de Thais | |
+| Wisdom of Solitude | Eremo | a Eremo's Island, de barco a partir de Cormaya | |
+| Spark of the Phoenix | Kawill, depois Pydar | Kazordoon: o Kawill a sudoeste do templo, um andar abaixo; o Pydar ao norte do templo, passando por alguns campos de fogo | fale com o Kawill primeiro; você paga só ao Pydar, 10% a menos com um Phoenix Egg na mochila se você terminou a [The Paradox Tower Quest](https://tibia.fandom.com/wiki/The_Paradox_Tower_Quest) |
+| Fire of the Suns | Edala | a Suntower, ao sul de Ab'Dendriel | |
+| Embrace of Tibia | Humphrey | o templo pequeno ao norte de Carlin | |
+| Blood of the Mountain (enhanced) | Kais | norte de Tiquanda, descendo por um buraco | leve uma Shovel |
+| Heart of the Mountain (enhanced) | Nomad | peça ao Buddel em Svargrond uma passagem para o Raider Camp, ao sul de Bittermor em Hrodmir, depois use Levitate | o barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
+
+**Uma rota para as 5 normais** (TibiaWiki): o Norf ao sul de Thais; o barco para Edron, depois para Cormaya e a Eremo's Island; de volta a Edron e o Magic Carpet para Kazordoon (Kawill, depois Pydar); o vagão de minério até a saída norte e uma caminhada até Ab'Dendriel (Edala), depois até Carlin (Humphrey). O Kais e o Nomad são viagens à parte, para Tiquanda e para Svargrond.
+
+**Custo** (fórmula da TibiaWiki: cada blessing normal custa 200 × (level − 20) gold até o level 120, depois 20.000 + 75 por level acima de 120; cada aprimorada uns 30% a mais):
+
+| Level | 5 normais | Todas as 7 | As 7 + Twist of Fate |
+|---|---|---|---|
+| 30 | 10.000 | 15.200 | 17.200 |
+| 50 | 30.000 | 45.600 | 51.600 |
+| 100 | 80.000 | 121.600 | 137.600 |
+| 150 | 111.250 | 169.250 | 195.250 |
+| 200 | 130.000 | 198.000 | 234.000 |
+| 300 | 167.500 | 255.500 | 305.500 |
+| 500 | 242.500 | 370.500 | 420.500 |
+
+A Store vende as 7 por 130 Tibia Coins, bem mais caro que os NPCs em qualquer um desses levels.
 
 ### Loot
 - **Quick Loot:** Shift + clique direito num corpo pega o loot. Nas Opções, em Hotkeys, coloque o **Quick Loot Nearby Corpses** numa tecla perto das de ataque: ele pega o loot do seu quadrado e dos 8 em volta de uma vez.

@@ -8,7 +8,7 @@ This guide takes a new knight from character creation to level 100 as fast as co
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
 - **12 hours of offline training every day**, at a Training Statue with Sword Fighting + Shielding. Your training time refills one second for every second you're online or offline without training, so 3 hours online plus 9 hours offline gives the next day's 12 hours back.
 - **Skill only from offline training.** Hunting adds a little more, so the real skill will be a bit higher.
-- **No deaths, no bought experience boosts and no events.** Deaths make it slower; events and boosts make it faster.
+- **No deaths, no bought experience boosts and no events.** Deaths make it slower; events and boosts make it faster. Blessings cost only about 10,000 gold up to level 30, so buy them early ([where and what to say](guide.md#blessings-step-by-step)).
 - **The hunting grounds come from the knight guide's Good for XP lists** (Section 1, and Section 1a with the ring): each day, the best one for your level and skill.
 
 ## Day 0: create the character
