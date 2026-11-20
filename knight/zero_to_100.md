@@ -29,7 +29,7 @@ XP/h counts the low level bonus and green stamina. Gold/h is loot minus potions 
 
 - **Targuna (levels 8 to about 20):** do the three missions of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (the knight guide's Section 1 explains them) and hunt the Crimson Court from level 12.
 - **Promotion at level 20:** 20,000 gold at King Tibianus in Thais. You lose 30% less when you die and regenerate faster.
-- **Hotkeys at level 30:** by then you have all the spells for the knight guide's [multi-action buttons](guide.md#how-to-fight) (Shield Bash first for one target, `exori infir min` first for monsters in front of you, `exori scu` first for a group; `exori min` joins at 70).
+- **Hotkeys at level 30:** by then you have all the spells for the knight guide's [multi-action buttons](guide.md#how-to-fight) (Shield Bash first for one target and for a small box, `exori scu` first for a big one; `exori min` joins at 70).
 - **Corym Mines:** in the [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area, on the deepest floor of the Venore Corym Cave. Talking to the Corym Ratter and the Corym Servant opens the mine; you don't have to finish the quest. With a Stealth Ring on, the Stonerefiners can't see you: they never hit you, so you only kill. The Corym Vanguards on the way down can see you, so carry a few health potions.
 - **Stealth Rings:** about 1,000 gold each on the Market, 6 an hour (each lasts 10 minutes). The knight guide's Section 1a explains how to use them.
 - **Gear:** see "Gear by level" below. The gold numbers here don't count it; sell it before you sell the character, or leave it on.
