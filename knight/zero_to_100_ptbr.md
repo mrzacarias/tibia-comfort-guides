@@ -191,13 +191,13 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 |---|---|---|---|---|---|
 | 2 | Stealth Ring + tarefas semanais | 34 | ~316 | ~279 | ~330 |
 | 2 | Ring + tarefas, Corym Mines sempre ocupada | 58 | ~262 | ~136 | ~169 |
-| 2 | Sem ring + tarefas semanais | 62 | ~216 | ~105 | ~131 |
+| 2 | Sem ring + tarefas semanais | 60 | ~274 | ~137 | ~170 |
 | 3 | Stealth Ring + tarefas semanais | 24 | ~356 | ~445 | ~527 |
 | 3 | Ring + tarefas, Corym Mines sempre ocupada | 42 | ~271 | ~194 | ~240 |
 | 3 | Sem ring + tarefas semanais | 43 | ~261 | ~182 | ~228 |
 | 5 | Stealth Ring + tarefas semanais | 17 | ~348 | ~614 | ~714 |
 | 5 | Ring + tarefas, Corym Mines sempre ocupada | 30 | ~268 | ~268 | ~330 |
-| 5 | Sem ring + tarefas semanais | 31 | ~274 | ~265 | ~328 |
+| 5 | Sem ring + tarefas semanais | 31 | ~284 | ~275 | ~338 |
 
 TC por personagem = 0,88 × o preço mediano no level 100 (sword até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **445 TC por mês**, e uns 527 num mundo Optional PvP verde (×1,25).
 

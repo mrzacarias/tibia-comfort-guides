@@ -4,8 +4,8 @@ O que um knight solo constrói além dos levels, de 50 em 50 levels: as quests q
 
 **Resumindo:**
 - São 833 criaturas: 1.247.165 kills e 28.734 Charm Points para completar todas. 69% dessas kills são de criaturas Hard e Challenging, que pedem level alto. Completar tudo é meta de anos, então busque o máximo de Charm Points por hora na sua faixa de level.
-- Abaixo do level 100 há 372 criaturas para completar, que valem 7.072 Charm Points. Fazendo as mais rápidas primeiro, as suas primeiras 300 horas de hunt para o Bestiário ali dão uns 1.400 Charm Points; algumas lentas levam centenas de horas cada, então deixe essas para depois.
-- **Beastly** (2.000 Charm Points) leva umas 656 horas com criaturas abaixo do level 50, as mais rápidas primeiro.
+- Abaixo do level 100 há 372 criaturas para completar, que valem 7.072 Charm Points. Fazendo as mais rápidas primeiro, as suas primeiras 300 horas de hunt para o Bestiário ali dão uns 1.405 Charm Points; algumas lentas levam centenas de horas cada, então deixe essas para depois.
+- **Beastly** (2.000 Charm Points) leva umas 657 horas com criaturas abaixo do level 50, as mais rápidas primeiro.
 - Entre para os caçadores da **Paw and Fur** em Port Hope a partir do level 6 e pegue uma **Adventurer's Stone**: as tasks dão experiência e abrem bosses enquanto as mesmas kills enchem o seu Bestiário.
 - Cace em party quando puder: todo mundo que bateu numa criatura nos 5 minutos antes de ela morrer ganha a kill.
 
@@ -232,7 +232,7 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points por hora primeiro. **Level** é onde caçar a criatura faz sentido (o apêndice explica como ele é definido); **Kills/h** conta só aquela criatura naquela hunt, e **Horas** é o tempo para completá-la ali. As outras criaturas que você mata no caminho contam para as páginas delas. "?" quer dizer que o modelo não tem estimativa.
 
 ### Levels 0–50
-249 criaturas, 139.375 kills, 3.795 Charm Points, umas 3.029 horas (26 sem estimativa). Total acumulado: 3.795 Charm Points, 3.029 horas.
+250 criaturas, 140.375 kills, 3.820 Charm Points, umas 3.037 horas (26 sem estimativa). Total acumulado: 3.820 Charm Points, 3.037 horas.
 
 **Quests**
 
@@ -299,6 +299,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Troll Legionnaire | Medium | 1.000 | 25 | 10 | [Troll Legionnaire (spawns próprios)](https://tibiamaps.io/map#32788,31455,12:2) | 173 | 5,8 |  |
 | Wolf | Trivial | 250 | 5 | 10 | [Thais Wolf Dungeon](https://tibiamaps.io/map#32347,32311,7:2) | 202 | 1,2 |  |
 | Chakoya Windcaller | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 139 | 3,6 |  |
+| Leaf Golem | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 140 | 3,6 |  |
 | Crocodile | Easy | 500 | 15 | 16 | [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | 134 | 3,7 |  |
 | Cyclops | Easy | 500 | 15 | 20 | [Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2) | 136 | 3,7 |  |
 | Minotaur Archer | Easy | 500 | 15 | 20 | [Kazordoon Minotaurs (+1 a +4)](https://tibiamaps.io/map#32491,31966,6:2) | 134 | 3,7 |  |
@@ -340,7 +341,6 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Corym Charlatan | Easy | 500 | 15 | 40 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 98 | 5,1 |  |
 | Orc Warrior | Easy | 500 | 15 | 20 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 95 | 5,2 |  |
 | Lizard Magician | Easy | 500 | 15 | 25 | [Hidden Lizard Temple](https://tibiamaps.io/map#31941,31947,9:2) | 96 | 5,2 |  |
-| Swampling | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 96 | 5,2 |  |
 | Barbarian Brutetamer | Easy | 500 | 15 | 45 | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) | 96 | 5,2 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
 | Barbarian Bloodwalker | Medium | 1.000 | 25 | 45 | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) | 115 | 8,7 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
 | Demon Skeleton | Medium | 1.000 | 25 | 20 | [Isle of the Kings](https://tibiamaps.io/map#32173,31938,7:2) | 114 | 8,8 |  |
@@ -357,6 +357,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Spider | Trivial | 250 | 5 | 10 | [Thais Wolf Dungeon](https://tibiamaps.io/map#32347,32311,7:2) | 130 | 1,9 |  |
 | Penguin | Trivial | 250 | 5 | 20 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 133 | 1,9 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) |
 | Emerald Damselfly | Easy | 500 | 15 | 8 | [Venore Salamander Cave](https://tibiamaps.io/map#32866,32168,10:2) | 88 | 5,7 |  |
+| Swampling | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 88 | 5,7 |  |
 | Assassin | Easy | 500 | 15 | 25 | [Dark Cathedral (-2 a -3)](https://tibiamaps.io/map#32664,32344,9:2) | 86 | 5,8 |  |
 | Quara Mantassin Scout | Easy | 500 | 15 | 45 | [Hrodmir Quara Scout Caves](https://tibiamaps.io/map#32023,31123,7:2) | 87 | 5,8 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
 | Doom Deer | Medium | 1.000 | 25 | 15 | [Doom Deer (spawns próprios)](https://tibiamaps.io/map#32709,31470,7:2) | 103 | 9,7 |  |
@@ -364,7 +365,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Orc Spearman | Easy | 500 | 15 | 13 | [Venore Orc Cave](https://tibiamaps.io/map#33056,32030,7:2) | 84 | 5,9 |  |
 | Elf | Easy | 500 | 15 | 20 | [Elves (Foreigner Quarter, superfície)](https://tibiamaps.io/map#32753,31289,7:2) | 84 | 5,9 |  |
 | Elf Scout | Easy | 500 | 15 | 20 | [Elves (Foreigner Quarter, superfície)](https://tibiamaps.io/map#32753,31289,7:2) | 84 | 5,9 |  |
-| Leaf Golem | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 85 | 5,9 |  |
+| Wilting Leaf Golem | Medium | 1.000 | 25 | 30 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 99 | 10 |  |
 | Pirate Gunner | Easy | 500 | 15 | 8 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 82 | 6,1 |  |
 | Centipede | Easy | 500 | 15 | 35 | [Tiquanda](https://tibiamaps.io/map#32812,32699,7:2) | 82 | 6,1 |  |
 | Barbarian Headsplitter | Easy | 500 | 15 | 35 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 81 | 6,2 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
@@ -407,11 +408,11 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Lizard Executioner | Easy | 500 | 15 | 25 | [Hidden Lizard Temple](https://tibiamaps.io/map#31941,31947,9:2) | 57 | 8,7 |  |
 | Orc Cult Inquisitor | Medium | 1.000 | 25 | 40 | [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 68 | 15 |  |
 | Frost Troll | Trivial | 250 | 5 | 8 | [Folda (-1 a -2)](https://tibiamaps.io/map#32020,31572,8:2) | 84 | 3,0 |  |
+| Bug | Trivial | 250 | 5 | 30 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 84 | 3,0 |  |
 | Orclops Doomhauler | Medium | 1.000 | 25 | 45 | [Desecrated Glade](https://tibiamaps.io/map#32728,32231,8:2) | 67 | 15 |  |
 | Poacher | Easy | 500 | 15 | 20 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 55 | 9,1 |  |
 | Wild Warrior | Easy | 500 | 15 | 25 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 54 | 9,2 |  |
 | Dworc Voodoomaster | Easy | 500 | 15 | 25 | [Trapwood (Tiquanda)](https://tibiamaps.io/map#32688,32911,8:2) | 52 | 9,6 |  |
-| Bug | Trivial | 250 | 5 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 79 | 3,2 |  |
 | Forest Fury | Medium | 1.000 | 25 | 30 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 62 | 16 |  |
 | Ancient Scarab | Medium | 1.000 | 25 | 25 | [Stone Tomb (-4 a -5)](https://tibiamaps.io/map#33282,32743,11:2) | 62 | 16 |  |
 | Seagull | Trivial | 250 | 5 | 12 | [Treasure Island (superfície)](https://tibiamaps.io/map#32156,32948,7:2) | 75 | 3,3 | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) |
@@ -514,7 +515,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Corrupted Skeleton | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? | ? | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) |
 
 ### Levels 50–100
-123 criaturas, 137.800 kills, 3.277 Charm Points, umas 2.513 horas (15 sem estimativa). Total acumulado: 7.072 Charm Points, 5.542 horas.
+122 criaturas, 136.800 kills, 3.252 Charm Points, umas 2.507 horas (15 sem estimativa). Total acumulado: 7.072 Charm Points, 5.544 horas.
 
 **Quests**
 
@@ -572,7 +573,6 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Vile Grandmaster | Medium | 1.000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 158 | 6,3 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
 | Earth Elemental | Medium | 1.000 | 25 | 50 | [Edron Earth Elemental Cave (-1)](https://tibiamaps.io/map#33158,31719,8:2) | 152 | 6,6 |  |
 | Shaburak Demon | Medium | 1.000 | 25 | 70 | [Demonwar Crypt](https://tibiamaps.io/map#33290,31936,12:2) | 148 | 6,7 |  |
-| Wilting Leaf Golem | Medium | 1.000 | 25 | 50 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 147 | 6,8 |  |
 | Stampor | Medium | 1.000 | 25 | 80 | [Stampor Cave](https://tibiamaps.io/map#33166,31211,7:2) | 145 | 6,9 |  |
 | Island Troll | Trivial | 250 | 5 | 70 | [Goroma (superfície)](https://tibiamaps.io/map#32095,32583,7:2) | 182 | 1,4 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
 | Mooh'Tah Warrior | Medium | 1.000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 144 | 7,0 |  |
@@ -671,7 +671,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Crusader | Hard | 2.500 | 50 | 85 | [Book World](https://tibia.fandom.com/wiki/Book_World) | ? | ? | [Between the Lines Quest](https://tibia.fandom.com/wiki/Between_the_Lines_Quest) |
 
 ### Levels 100–150
-88 criaturas, 106.250 kills, 2.490 Charm Points, umas 3.158 horas (7 sem estimativa). Total acumulado: 9.562 Charm Points, 8.700 horas.
+88 criaturas, 106.250 kills, 2.490 Charm Points, umas 3.158 horas (7 sem estimativa). Total acumulado: 9.562 Charm Points, 8.702 horas.
 
 **Quests**
 
@@ -789,7 +789,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Renegade Quara Predator | Medium | 1.000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 
 ### Levels 150–200
-56 criaturas, 82.775 kills, 1.826 Charm Points, umas 2.511 horas (8 sem estimativa). Total acumulado: 11.388 Charm Points, 11.211 horas.
+56 criaturas, 82.775 kills, 1.826 Charm Points, umas 2.511 horas (8 sem estimativa). Total acumulado: 11.388 Charm Points, 11.212 horas.
 
 **Quests**
 
@@ -866,7 +866,7 @@ Com amigos (quests em time): [The Inquisition](https://tibia.fandom.com/wiki/The
 | Hive Overseer | Hard | 2.500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-37 criaturas, 79.000 kills, 1.625 Charm Points, umas 1.618 horas (10 sem estimativa). Total acumulado: 13.013 Charm Points, 12.829 horas.
+37 criaturas, 79.000 kills, 1.625 Charm Points, umas 1.618 horas (10 sem estimativa). Total acumulado: 13.013 Charm Points, 12.831 horas.
 
 **Quests**
 
@@ -921,7 +921,7 @@ Com amigos (quests em time): [The Inquisition](https://tibia.fandom.com/wiki/The
 | Silverfrost Sentinel | Hard | 2.500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-31 criaturas, 67.000 kills, 1.360 Charm Points, umas 2.453 horas (4 sem estimativa). Total acumulado: 14.373 Charm Points, 15.282 horas.
+31 criaturas, 67.000 kills, 1.360 Charm Points, umas 2.453 horas (4 sem estimativa). Total acumulado: 14.373 Charm Points, 15.283 horas.
 
 **Quests**
 
@@ -974,7 +974,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Raubritter Skirmisher | Hard | 2.500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | [The Order of the Stag Quest](https://tibia.fandom.com/wiki/The_Order_of_the_Stag_Quest) |
 
 ### Levels 300–350
-32 criaturas, 74.750 kills, 1.505 Charm Points, umas 3.113 horas (3 sem estimativa). Total acumulado: 15.878 Charm Points, 18.395 horas.
+32 criaturas, 74.750 kills, 1.505 Charm Points, umas 3.113 horas (3 sem estimativa). Total acumulado: 15.878 Charm Points, 18.396 horas.
 
 **Quests**
 
@@ -1024,7 +1024,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Cyclursus | Hard | 2.500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-40 criaturas, 95.500 kills, 1.925 Charm Points, umas 3.474 horas (6 sem estimativa). Total acumulado: 17.803 Charm Points, 21.869 horas.
+40 criaturas, 95.500 kills, 1.925 Charm Points, umas 3.474 horas (6 sem estimativa). Total acumulado: 17.803 Charm Points, 21.871 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Chopper (7.200 HP).
 
@@ -1076,7 +1076,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Roaming Dread | Hard | 2.500 | 50 | 365 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 400–450
-18 criaturas, 45.000 kills, 900 Charm Points, umas 788 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 22.657 horas.
+18 criaturas, 45.000 kills, 900 Charm Points, umas 788 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 22.658 horas.
 
 Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wiki/Ferumbras'_Ascension_Quest) (8% dos knights vendidos aqui).
 
@@ -1108,7 +1108,7 @@ Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wik
 | Mitmah Seer | Hard | 2.500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 criaturas, 10.000 kills, 200 Charm Points, umas 634 horas. Total acumulado: 18.903 Charm Points, 23.291 horas.
+4 criaturas, 10.000 kills, 200 Charm Points, umas 634 horas. Total acumulado: 18.903 Charm Points, 23.292 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Mindmasher (9.500 HP), Sugar Daddy (9.500 HP).
 
@@ -1124,7 +1124,7 @@ Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wik
 | Brain Squid | Hard | 2.500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 12 | 214 |  |
 
 ### Levels 500+
-83 criaturas, 375.000 kills, 7.500 Charm Points, umas 17.758 horas (42 sem estimativa). Total acumulado: 26.403 Charm Points, 41.049 horas.
+83 criaturas, 375.000 kills, 7.500 Charm Points, umas 17.758 horas (42 sem estimativa). Total acumulado: 26.403 Charm Points, 41.050 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Dazed Leaf Golem (10.000 HP), Inkwing (12.000 HP), Gorga (15.000 HP), Grand Canon Dominus (15.000 HP), Preceptor Lazare (16.000 HP), Grand Commander Soeren (17.000 HP), Grand Chaplain Gaunder (18.000 HP), Sir Leonard (22.000 HP), Enusat the Onyx Wing (25.000 HP), Latrivan (25.000 HP), Thawing Dragon Lord (25.000 HP), Rakesh Moonfang (25.500 HP), Hellgorak (25.850 HP), Mozradek (28.000 HP), Tanjis (30.000 HP)…
 
@@ -1235,10 +1235,10 @@ Cada classe dá um título quando todas as páginas dela estão completas (criat
 | Mammal | Huntsman / Huntress | 76 | 62.395 | 1.540 | 600 | 1.836 (55 de 76) |
 | Giant | Tumbler | 18 | 25.000 | 570 | 600 | 1.151 (15 de 18) |
 | Extra Dimensional | Interdimensional Destroyer | 12 | 25.000 | 525 | 675 | 415 (10 de 12) |
-| Plant | Weedkiller | 20 | 41.505 | 920 | 700 | 1.417 (15 de 20) |
+| Plant | Weedkiller | 20 | 41.505 | 920 | 700 | 1.419 (15 de 20) |
 | Elemental | Elementalist | 26 | 44.005 | 1.010 | 740 | 1.221 (21 de 26) |
 | Slime | Ooze Blues | 13 | 20.530 | 496 | 755 | 1.726 (11 de 13) |
-| Vermin | Exterminator | 61 | 86.855 | 1.904 | 795 | 3.745 (53 de 61) |
+| Vermin | Exterminator | 61 | 86.855 | 1.904 | 795 | 3.744 (53 de 61) |
 | Demon | Demonator | 43 | 83.020 | 1.930 | 800 | 2.461 (34 de 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105.515 | 2.390 | 805 | 4.805 (52 de 58) |
 | Undead | Ghosthunter / Ghosthuntress | 94 | 196.525 | 4.355 | 835 | 7.008 (66 de 94) |
@@ -1747,7 +1747,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Brinebrute Inferniarch | Demon | Hard | 2.500 | 50 | 800 | [Azzilon Catacombs](https://tibiamaps.io/map#33792,32318,11:2) | 229 |
 | Broken Shaper | Humanoid | Medium | 1.000 | 25 | 120 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 8,4 |
 | Broodrider Inferniarch | Demon | Hard | 2.500 | 50 | 240 | [Azzilon Castle](https://tibiamaps.io/map#33821,32341,7:2) | 79 |
-| Bug | Vermin | Trivial | 250 | 5 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 3,2 |
+| Bug | Vermin | Trivial | 250 | 5 | 30 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 3,0 |
 | Bulltaur Alchemist | Humanoid | Hard | 2.500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
 | Bulltaur Brute | Humanoid | Hard | 2.500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
 | Bulltaur Forgepriest | Humanoid | Hard | 2.500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
@@ -2098,7 +2098,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Lava Lurker | Elemental | Hard | 2.500 | 50 | 150 | [Gnome Deep Hub](https://tibiamaps.io/map#34013,32254,14:2) | 32 |
 | Lavafungus | Plant | Hard | 2.500 | 50 | 350 | [Grotto of the Lost](https://tibiamaps.io/map#32143,31446,14:2) | 66 |
 | Lavaworm | Vermin | Hard | 2.500 | 50 | 350 | [Grotto of the Lost](https://tibiamaps.io/map#32143,31446,14:2) | 63 |
-| Leaf Golem | Plant | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 5,9 |
+| Leaf Golem | Plant | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 3,6 |
 | Lich (evento) | Undead | Medium | 1.000 | 25 | 140 | [Ferumbras Citadel](https://tibiamaps.io/map#32121,32688,7:2) | 11 |
 | Liodile | Humanoid | Hard | 2.500 | 50 | 215 | [Ingol (-3 a -5)](https://tibiamaps.io/map#33757,32543,10:2) | 116 |
 | Lion | Mammal | Easy | 500 | 15 | 8 | [Jakundaf Desert](https://tibiamaps.io/map#32633,32113,7:2) | 5,0 |
@@ -2397,7 +2397,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Sulphider | Vermin | Challenging | 5.000 | 100 | 600 | [Monster Graveyard](https://tibiamaps.io/map#33602,32821,14:2) | 341 |
 | Sulphur Spouter | Elemental | Challenging | 5.000 | 100 | 600 | [Monster Graveyard](https://tibiamaps.io/map#33719,32829,14:2) | 178 |
 | Swamp Troll | Humanoid | Easy | 500 | 15 | 8 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 1,8 |
-| Swampling | Plant | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya)](https://tibiamaps.io/map#33338,31972,7:2) | 5,2 |
+| Swampling | Plant | Easy | 500 | 15 | 30 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 5,7 |
 | Swan Maiden | Fey | Medium | 1.000 | 25 | 100 | [Feyrist Meadows (superfície)](https://tibiamaps.io/map#33510,32229,7:2) | 54 |
 | Swarmer | Vermin | Medium | 1.000 | 25 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 27 |
 | Tainted Soul | Magical | Easy | 500 | 15 | 10 | [Tainted Caves](https://tibiamaps.io/map#32711,31939,7:2) | 7,1 |
@@ -2491,7 +2491,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Wiggler | Vermin | Medium | 1.000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 4,4 |
 | Wild Horse (muito rara) | Mammal | Trivial | 5 | 10 | 8 | Near the Thais Troll Cave entrance (here) during the Horse Station World Change. | ? |
 | Wild Warrior | Human | Easy | 500 | 15 | 25 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 9,2 |
-| Wilting Leaf Golem | Plant | Medium | 1.000 | 25 | 50 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 6,8 |
+| Wilting Leaf Golem | Plant | Medium | 1.000 | 25 | 30 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 10 |
 | Winged Jaracal | Mammal | Hard | 2.500 | 50 | 205 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? |
 | Winter Wolf | Mammal | Trivial | 250 | 5 | 20 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 2,1 |
 | Wisp | Fey | Trivial | 250 | 5 | 20 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | ? |
