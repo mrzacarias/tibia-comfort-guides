@@ -29,7 +29,7 @@ O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos
 
 - **Targuna (levels 8 a uns 20):** faça as três missões da [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) (a Seção 1 do guia de knight explica) e cace no Crimson Court a partir do level 12.
 - **Promoção no level 20:** 20.000 gold com o King Tibianus em Thais. Você perde 30% menos quando morre e regenera mais rápido.
-- **Hotkeys no level 30:** a essa altura você já tem todas as magias dos [botões multi-action](guide_ptbr.md#como-lutar) do guia de knight (Shield Bash primeiro para um alvo, `exori scu` primeiro para um grupo).
+- **Hotkeys no level 30:** a essa altura você já tem todas as magias dos [botões multi-action](guide_ptbr.md#como-lutar) do guia de knight (Shield Bash primeiro para um alvo, `exori infir min` primeiro para monstros na sua frente, `exori scu` primeiro para um grupo; o `exori min` entra no 70).
 - **Corym Mines:** na área da [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest), no andar mais fundo da Venore Corym Cave. Falar com o Corym Ratter e o Corym Servant abre a mina; não precisa terminar a quest. Com o Stealth Ring, os Stonerefiners não te veem: eles nunca te batem, então você só mata. Os Corym Vanguards no caminho para baixo te veem, então leve algumas poções de vida.
 - **Stealth Rings:** uns 1.000 gold cada no Market, 6 por hora (cada um dura 10 minutos). A Seção 1a do guia de knight explica como usar.
 - **Equipamento:** veja "Equipamento por level" abaixo. Os números de gold aqui não contam isso; venda antes de vender o personagem, ou deixe nele.
