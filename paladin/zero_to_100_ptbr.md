@@ -22,8 +22,8 @@ Este guia leva um paladin novo da criação do personagem até o level 100 o mai
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,0 h | – | – |
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 7,0 h | ~115k | ~51k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 20,5 h | ~102k | ~69k |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 33,0 h | ~141k | ~163k |
-| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 25,0 h | ~281k | ~126k |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 33,5 h | ~139k | ~160k |
+| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 24,5 h | ~281k | ~125k |
 
 O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos poções, munição e rings, com preços do Market.
 
@@ -40,8 +40,8 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 |---|---|---|---|
 | 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (ring): ~127k XP/h, ~13k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (ring): ~124k XP/h, ~56k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (ring): ~98k XP/h, ~47k gold/h |
 | 40–60 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~94k XP/h, ~75k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (ring): ~93k XP/h, ~73k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~91k XP/h, ~119k gold/h |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~136k XP/h, ~163k gold/h | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) (ring): ~114k XP/h, ~22k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~111k XP/h, ~87k gold/h |
-| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~197k XP/h, ~41k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~161k XP/h, ~191k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (ring): ~159k XP/h, ~91k gold/h |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~134k XP/h, ~160k gold/h | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) (ring): ~114k XP/h, ~22k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~111k XP/h, ~87k gold/h |
+| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~197k XP/h, ~41k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (ring): ~159k XP/h, ~91k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~157k XP/h, ~186k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
@@ -50,10 +50,10 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,0 h | – | – |
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 7,0 h | ~115k | ~51k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 20,5 h | ~102k | ~69k |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 33,0 h | ~141k | ~163k |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 33,5 h | ~139k | ~160k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | sim | 38,5 h | ~186k | ~38k |
 
-Isso dá level 100 no dia 34 em vez de 29, com distance 83 (mais dias de treino). Sobra 7.5M de gold em vez de 9.1M, e rende menos TC por mês: uns 281 contra 399 (veja "Lucro").
+Isso dá level 100 no dia 34 em vez de 29, com distance 83 (mais dias de treino). Sobra 7.5M de gold em vez de 9.1M, e rende menos TC por mês: uns 281 contra 398 (veja "Lucro").
 
 ### Sem o ring
 A rota é mais lenta e dá menos loot:
@@ -81,7 +81,7 @@ A regra: **entregue só quando os itens custam menos do que você lootaria no te
 | 40 | 37k | 20 min | 23k | 7% |
 | 50 | 59k | 36 min | 45k | 20% |
 | 60 | 86k | 48 min | 15k | 3% |
-| 70 | 117k | 50 min | 137k | 43% |
+| 70 | 117k | 51 min | 137k | 43% |
 | 80 | 154k | 36 min | 54k | 24% |
 | 90 | 179k | 35 min | 94k | 36% |
 | 100 | 199k | 39 min | 105k | 38% |
@@ -167,17 +167,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 41 | ~353 | ~258 | ~264 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 47 | ~317 | ~202 | ~207 |
+| 2 | Stealth Ring + tarefas semanais | 41 | ~352 | ~258 | ~264 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 47 | ~316 | ~201 | ~207 |
 | 2 | Sem ring + tarefas semanais | 58 | ~290 | ~150 | ~155 |
-| 3 | Stealth Ring + tarefas semanais | 29 | ~386 | ~399 | ~410 |
+| 3 | Stealth Ring + tarefas semanais | 29 | ~385 | ~398 | ~408 |
 | 3 | Ring + tarefas, Corym Mines sempre ocupada | 34 | ~318 | ~281 | ~288 |
 | 3 | Sem ring + tarefas semanais | 42 | ~282 | ~201 | ~207 |
-| 5 | Stealth Ring + tarefas semanais | 21 | ~469 | ~669 | ~687 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~369 | ~461 | ~474 |
+| 5 | Stealth Ring + tarefas semanais | 21 | ~466 | ~666 | ~683 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~367 | ~459 | ~472 |
 | 5 | Sem ring + tarefas semanais | 30 | ~344 | ~344 | ~354 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **399 TC por mês**, e uns 410 num mundo Optional PvP verde (×1,04).
+TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **398 TC por mês**, e uns 408 num mundo Optional PvP verde (×1,04).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -211,7 +211,7 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 Os dias contam a partir de distance 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 29 dias e 87 horas de jogo, por uns 386 TC (a venda mais o gold que sobra). Uns 13,3 TC por dia.
+- **Subir até o 100:** 29 dias e 87 horas de jogo, por uns 385 TC (a venda mais o gold que sobra). Uns 13,3 TC por dia.
 - **Um level 8 treinado até distance 110:** uns 502 dias de treino, por uns 158 TC. Isso dá 0,32 TC por dia, umas 42 vezes menos, mas pede só umas 8 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:

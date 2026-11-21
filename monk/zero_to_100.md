@@ -22,7 +22,7 @@ This guide takes a new monk from character creation to level 100 as fast as comf
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.0 h | – | – |
 | 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | yes | 7.0 h | ~121k | ~15k |
 | 40–60 | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) | yes | 20.5 h | ~120k | – |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 28.0 h | ~150k | ~175k |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 28.5 h | ~147k | ~171k |
 | 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 24.0 h | ~305k | ~140k |
 
 XP/h counts the low level bonus and green stamina. Gold/h is loot minus potions and rings, with Market prices.
@@ -40,8 +40,8 @@ Corym Mines is popular, and the route above assumes it's free for your 3 hours e
 |---|---|---|---|
 | 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (ring): ~127k XP/h, ~15k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (ring): ~86k XP/h, ~45k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (ring): ~86k XP/h, ~41k gold/h |
 | 40–60 | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~109k XP/h, ~-6k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~97k XP/h, ~78k gold/h | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) (ring): ~95k XP/h, ~14k gold/h |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~148k XP/h, ~180k gold/h | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~135k XP/h, ~20k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~115k XP/h, ~90k gold/h |
-| 80–100 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~155k XP/h, ~193k gold/h | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~148k XP/h, ~25k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~147k XP/h, ~98k gold/h |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~145k XP/h, ~176k gold/h | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~135k XP/h, ~20k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~115k XP/h, ~90k gold/h |
+| 80–100 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~152k XP/h, ~189k gold/h | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~150k XP/h, ~25k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (ring): ~147k XP/h, ~98k gold/h |
 
 The numbers are for the route's skill at each level. If Corym Mines were taken every single day, the route would look like this:
 
@@ -50,10 +50,10 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.0 h | – | – |
 | 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | yes | 7.0 h | ~121k | ~15k |
 | 40–60 | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) | yes | 20.5 h | ~120k | – |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 28.0 h | ~150k | ~175k |
-| 80–100 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 40.5 h | ~156k | ~187k |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 28.5 h | ~147k | ~171k |
+| 80–100 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | yes | 41.0 h | ~164k | ~98k |
 
-That's level 100 on day 33 instead of 27, with fist fighting 79 (more days of training). It leaves 10.7M of gold instead of 8.3M, and makes less TC per month: about 292 against 324 (see "Profit").
+That's level 100 on day 33 instead of 27, with fist fighting 79 (more days of training). It leaves 10.3M of gold instead of 8.2M, and makes less TC per month: about 283 against 322 (see "Profit").
 
 ### Without the ring
 The route is slower and loots less:
@@ -63,7 +63,7 @@ The route is slower and loots less:
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.0 h | – | – |
 | 20–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 13.0 h | ~80k | ~35k |
 | 40–60 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 23.5 h | ~97k | ~15k |
-| 60–80 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 44.5 h | ~98k | ~17k |
+| 60–80 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – | 44.0 h | ~101k | ~14k |
 | 80–100 | [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | – | 54.0 h | ~113k | ~10k |
 
 ## Weekly tasks: only the cheap ones
@@ -80,8 +80,8 @@ The rule: **hand in a delivery only when its items cost less than what you'd loo
 | 30 | 20k | 10 min | 2k | 0% |
 | 40 | 37k | 21 min | 7k | 0% |
 | 50 | 59k | 30 min | 0k | 0% |
-| 60 | 86k | 36 min | 102k | 38% |
-| 70 | 117k | 47 min | 141k | 43% |
+| 60 | 86k | 37 min | 102k | 38% |
+| 70 | 117k | 48 min | 141k | 43% |
 | 80 | 154k | 35 min | 63k | 28% |
 | 90 | 179k | 35 min | 95k | 36% |
 | 100 | 199k | 39 min | 105k | 38% |
@@ -116,7 +116,7 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 | 1 | 53 | 64 / 38 | 48 | 64 / 38 |
 | 2 | 71 | 71 / 42 | 62 | 71 / 42 |
 | 3 | 86 | 75 / 44 | 72 | 75 / 44 |
-| 4 | 100 (27) | 77 / 45 | 80 | 78 / 45 |
+| 4 | 100 (27) | 77 / 45 | 81 | 78 / 45 |
 | 5 | 100 (27) | 77 / 45 | 88 | 80 / 47 |
 | 6 | 100 (27) | 77 / 45 | 96 | 82 / 47 |
 | 7 | 100 (27) | 77 / 45 | 100 (46) | 83 / 48 |
@@ -126,11 +126,11 @@ Skills are after each day's training. Once a route reaches level 100, its column
 ## Which plan
 | Plan | Level 100 on day | Hours hunted | Fist at 100 | Deliveries handed in | Gold left |
 |---|---|---|---|---|---|
-| Stealth Ring + weekly tasks | 27 | 81 | 77 | ~4 | 8.3M |
-| Ring + tasks, Corym Mines always taken | 33 | 99 | 79 | ~8 | 10.7M |
-| Stealth Ring only | 29 | 87 | 78 | – | 9.4M |
-| No ring + weekly tasks | 46 | 138 | 83 | ~1 | 2.4M |
-| No ring, no tasks | 49 | 147 | 83 | – | 2.5M |
+| Stealth Ring + weekly tasks | 27 | 81 | 77 | ~4 | 8.2M |
+| Ring + tasks, Corym Mines always taken | 33 | 99 | 79 | ~8 | 10.3M |
+| Stealth Ring only | 29 | 87 | 78 | – | 9.3M |
+| No ring + weekly tasks | 46 | 138 | 83 | ~1 | 2.3M |
+| No ring, no tasks | 48 | 144 | 83 | – | 2.4M |
 
 The ring is the fastest. Without it, the route takes longer and leaves less gold at the end. Gold left = loot minus potions, rings and deliveries, without gear.
 
@@ -166,17 +166,17 @@ The world matters as much as the level. Each sale's price compared with the medi
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + weekly tasks | 38 | ~233 | ~184 | ~208 |
-| 2 | Ring + tasks, Corym Mines always taken | 44 | ~257 | ~175 | ~195 |
-| 2 | No ring + weekly tasks | 66 | ~98 | ~45 | ~56 |
-| 3 | Stealth Ring + weekly tasks | 27 | ~292 | ~324 | ~369 |
-| 3 | Ring + tasks, Corym Mines always taken | 33 | ~321 | ~292 | ~323 |
-| 3 | No ring + weekly tasks | 46 | ~120 | ~79 | ~98 |
-| 5 | Stealth Ring + weekly tasks | 20 | ~385 | ~577 | ~652 |
-| 5 | Ring + tasks, Corym Mines always taken | 23 | ~414 | ~540 | ~592 |
-| 5 | No ring + weekly tasks | 32 | ~150 | ~141 | ~173 |
+| 2 | Stealth Ring + weekly tasks | 38 | ~231 | ~182 | ~207 |
+| 2 | Ring + tasks, Corym Mines always taken | 45 | ~258 | ~172 | ~192 |
+| 2 | No ring + weekly tasks | 66 | ~97 | ~44 | ~55 |
+| 3 | Stealth Ring + weekly tasks | 27 | ~290 | ~322 | ~366 |
+| 3 | Ring + tasks, Corym Mines always taken | 33 | ~312 | ~283 | ~315 |
+| 3 | No ring + weekly tasks | 46 | ~119 | ~78 | ~97 |
+| 5 | Stealth Ring + weekly tasks | 20 | ~382 | ~573 | ~648 |
+| 5 | Ring + tasks, Corym Mines always taken | 24 | ~414 | ~517 | ~568 |
+| 5 | No ring + weekly tasks | 32 | ~148 | ~139 | ~172 |
 
-TC per character = 0.88 × the median price at level 100 (fist fighting within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **324 TC a month**, and about 369 on an Optional PvP, green world (×1.22).
+TC per character = 0.88 × the median price at level 100 (fist fighting within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **322 TC a month**, and about 366 on an Optional PvP, green world (×1.22).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -203,7 +203,7 @@ Another way to make a character worth selling is to leave it at level 8 and only
 Days count from fist fighting 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 27 days and 81 hours of play, for about 292 TC (the sale plus the gold left). About 10.8 TC per day.
+- **Raising to 100:** 27 days and 81 hours of play, for about 290 TC (the sale plus the gold left). About 10.7 TC per day.
 - **A level 8 trained to fist 110:** about 669 days of training, for about 1697 TC. That's 2.54 TC per day, about 4 times less, but it needs only about 11 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:

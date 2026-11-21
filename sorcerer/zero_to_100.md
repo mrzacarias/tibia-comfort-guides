@@ -61,7 +61,7 @@ The route is slower and loots less:
 | Levels | Hunting ground | Invisible | Hours | XP/h | Gold/h |
 |---|---|---|---|---|---|
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.0 h | – | – |
-| 20–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 12.0 h | ~87k | ~49k |
+| 20–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 12.5 h | ~87k | ~49k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 21.5 h | ~103k | ~76k |
 | 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 36.0 h | ~112k | ~118k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 33.5 h | ~219k | ~71k |
@@ -113,7 +113,7 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 ## Week by week
 | Week | Level (invisibility) | Magic level / shielding | Level (no invisibility) | Magic level / shielding |
 |---|---|---|---|---|
-| 1 | 55 | 38 / 25 | 50 | 33 / 25 |
+| 1 | 55 | 38 / 25 | 49 | 33 / 25 |
 | 2 | 71 | 45 / 27 | 65 | 41 / 27 |
 | 3 | 85 | 49 / 27 | 76 | 45 / 27 |
 | 4 | 101 | 53 / 28 | 89 | 49 / 28 |
@@ -173,7 +173,7 @@ The world matters as much as the level. Each sale's price compared with the medi
 | 3 | No invisibility + weekly tasks | 35 | ~301 | ~258 | ~263 |
 | 5 | Invisibility + weekly tasks | 20 | ~398 | ~597 | ~605 |
 | 5 | Invisible + tasks, Corym Mines always taken | 22 | ~371 | ~506 | ~513 |
-| 5 | No invisibility + weekly tasks | 25 | ~320 | ~384 | ~391 |
+| 5 | No invisibility + weekly tasks | 25 | ~320 | ~385 | ~391 |
 
 TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **369 TC a month**, and about 375 on an Optional PvP, green world (×1.03).
 

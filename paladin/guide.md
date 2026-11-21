@@ -335,7 +335,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 | 1 | ~160k–175k | ~85k–95k | Ankrahmun 351 / ~1.5 min | Watch: summoners. Sells: Rope Belt |
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~145k–170k | ~100k | Thais 81 / ~20 s | Watch: Goldhanded Cultist Bride hits 34% of HP. Sells: Broken Shamanic Staff |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k–135k | ~245k–260k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k–130k | ~235k–255k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
 | [Tarpit Tomb (-6 to -8)](https://tibiamaps.io/map#33233,32705,13:2) | 1 | 1 | ~130k–140k | ~170k–185k | Ankrahmun 241 / ~1.0 min | From level 170. Watch: summoners. Sells: Flask of Embalming Fluid |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~155k–160k | ~160k–170k | Port Hope 76 / ~20 s | From level 180. Sells: Cheese Cutter |
 
@@ -345,7 +345,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~40k | ~260k–285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 1 | ~85k–90k | ~245k–265k | Yalahar 95 / ~24 s | Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Sells: Elvish Talisman |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k–135k | ~245k–260k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k–130k | ~235k–255k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
 
 #### Level 200+
 **Typical paladin in this band:** distance fighting 97, Royal Crossbow with Spectral Bolts. Good-value gear, each piece under ~202k: Prismatic Armor, Prismatic Legs, Zaoan Helmet, Guardian Boots, Foxtail Amulet, Butterfly Ring.
@@ -364,7 +364,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 | 1 | ~40k | ~285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 0 | 0 | ~90k | ~265k | Yalahar 95 / ~24 s | Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Sells: Elvish Talisman |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~135k | ~260k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~130k | ~255k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
 
 ## Section 1a: Stealth Ring
 A **Stealth Ring** makes you invisible for 10 minutes. Many monsters can't see invisible players, so they simply ignore you. Players report that these monsters don't attack you or call helpers even while you're hitting them. You can kill them without taking any damage. Cyclops, forest furies, gloom wolves, amazons and barbarians are some of them. Stronger monsters, like dragons and dwarf guards, can see invisible players and attack you as usual.
@@ -438,7 +438,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~19k–30k | ~130k–215k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~20k–40k | ~90k–155k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~20k–40k | ~90k–150k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 3 → **0** | 3 → **0** | ~45k–70k | ~90k–135k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k | ~155k–160k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 50. Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
@@ -451,7 +451,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~70k–80k | ~35k | Darashia 261 / ~1.1 min | Can't see you: Minotaur, Minotaur Archer, Minotaur Guard. Still: Minotaur Mage hits 31% of HP. Sells: Flask of Embalming Fluid |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 3 → **0** | 3 → **0** | ~70k–80k | ~135k–155k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **0** | 2 → **0** | ~70k–75k | ~85k–95k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | Can't see you: Barbarian Bloodwalker, Barbarian Headsplitter, Barbarian Skullhunter, Mammoth, Winter Wolf. Sells: Winter Wolf Fur |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 3 → **1** | 3 → **1** | ~95k | ~180k–185k | Edron 269 / ~1.1 min | From level 70. Can't see you: Crypt Shambler, Skeleton. Still: Mummy hits 15% of HP. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~90k–95k | ~175k–180k | Edron 269 / ~1.1 min | From level 70. Can't see you: Crypt Shambler, Skeleton. Still: Mummy hits 15% of HP. Sells: Flask of Embalming Fluid |
 
 **Good for gold**
 
@@ -459,8 +459,8 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~30k–35k | ~215k–235k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~160k–175k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~40k–45k | ~155k–170k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 3 → **1** | 3 → **1** | ~95k | ~180k–185k | Edron 269 / ~1.1 min | From level 70. Can't see you: Crypt Shambler, Skeleton. Still: Mummy hits 15% of HP. Sells: Flask of Embalming Fluid |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **0** | 2 → **0** | ~40k–45k | ~150k–170k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~90k–95k | ~175k–180k | Edron 269 / ~1.1 min | From level 70. Can't see you: Crypt Shambler, Skeleton. Still: Mummy hits 15% of HP. Sells: Flask of Embalming Fluid |
 
 #### Level 80–100 with a Stealth Ring (~57 hours to the next band)
 
@@ -470,7 +470,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~170k–205k | ~95k–170k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 2 → **1** | 2 → **1** | ~110k–135k | ~60k–70k | Ankrahmun 351 / ~1.5 min | Can't see you: Cobra, Lizard Templar. Still: Acolyte of the Cult hits 22% of HP. Sells: Rope Belt |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–110k | ~185k–210k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~180k–205k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~115k | ~115k–120k | Liberty Bay 82 / ~20 s | From level 90. Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 25% of HP. Sells: Cheese Cutter |
 
 **Good for gold**
@@ -478,9 +478,10 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~35k | ~235k–245k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–110k | ~185k–210k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~180k–205k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~175k–190k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~85k–90k | ~235k–240k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 90. Can't see you: Bug, Wilting Leaf Golem. Still: Haunted Treeling hits 31% of HP. Sells: Piece of Swampling Wood |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~95k | ~205k | Carlin 173 / ~45 s | From level 90. Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 
 #### Level 100–150 with a Stealth Ring (~240 hours to the next band)
 
@@ -499,9 +500,10 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~35k–40k | ~245k–260k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~90k–95k | ~240k–250k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem. Still: Haunted Treeling hits 28% of HP. Sells: Piece of Swampling Wood |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k–125k | ~210k–245k | Edron 269 / ~1.1 min | Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
+| [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~95k–105k | ~205k–220k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~115k–125k | ~220k–235k | Edron 269 / ~1.1 min | From level 130. Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
 
-#### Level 150–200 with a Stealth Ring (~394 hours to the next band)
+#### Level 150–200 with a Stealth Ring (~395 hours to the next band)
 
 **Good for XP**
 
@@ -511,7 +513,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~150k–170k | Port Hope 76 / ~20 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 16% of HP. Sells: Cheese Cutter |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~135k–150k | ~145k–165k | Venore 108 / ~25 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 16% of HP. Sells: Cheese Cutter |
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | 2 → **1** | 2 → **1** | ~185k–200k | ~165k–180k | Ankrahmun 250 / ~1.0 min | From level 170. Can't see you: Crypt Shambler. Sells: Flask of Embalming Fluid |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~125k–135k | ~135k–140k | Ankrahmun 21 / ~5 s | From level 180. Can't see you: Larva, Scarab. Sells: Flask of Embalming Fluid |
+| [Foreigner Quarter (+1 to +2)](https://tibiamaps.io/map#32709,31308,6:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~90k–95k | Yalahar 137 / ~34 s | From level 180. Can't see you: Minotaur Guard. Sells: Elvish Talisman |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~135k | ~150k | Edron + boat to Cormaya | From level 190. Can't see you: Leaf Golem, Wilting Leaf Golem. Still: Haunted Treeling hits 16% of HP. Sells: Dowser |
 
 **Good for gold**
@@ -521,7 +523,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~260k–285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~95k–110k | ~250k–295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem. Still: Haunted Treeling hits 19% of HP. Sells: Piece of Swampling Wood |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 → **0** | 1 → **0** | ~105k–125k | ~220k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~225k–240k | Svargrond, on foot over the ice | From level 160. Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~225k–245k | Svargrond, on foot over the ice | From level 160. Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 #### Level 200+ with a Stealth Ring
 
@@ -539,7 +541,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~110k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Wilting Leaf Golem. Sells: Piece of Swampling Wood |
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~240k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~245k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
 ## Section 1b: Hunting grounds behind quests
 The other sections leave out every hunting ground that needs a quest first, because quests take time and many players find them a chore. Two don't count: the Targuna Quest, which everyone on the island does anyway, and starting The New Frontier Quest, which is only talking to Ongulf. This section lists those hunting grounds, graded like Section 1, with the same two lists per band. When Section 1a makes one of them easier, its note says so.
@@ -884,7 +886,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~30k–35k | ~215k–235k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~155k–170k | Svargrond, on foot over the ice |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~150k–170k | Svargrond, on foot over the ice |  |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~45k–55k | ~125k–145k | Venore, north-west of the city |  |
 
 #### Level 80–100 with leech (~85 hours to the next band)
@@ -906,7 +908,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~55k | ~145k–155k | Venore, north-west of the city |  |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~80k–105k | ~130k–175k | Yalahar 252 / ~1.1 min | Still: summoners |
 
-#### Level 100–150 with leech (~271 hours to the next band)
+#### Level 100–150 with leech (~272 hours to the next band)
 
 **Good for XP**
 
@@ -915,7 +917,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **0** | 1 → **0** | ~110k–145k | ~95k–100k | Thais 81 / ~20 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~205k–220k | Carlin 173 / ~45 s |  |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~85k–95k | ~105k–120k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s |  |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k–125k | ~210k–245k | Edron 269 / ~1.1 min | From level 110 |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~105k–125k | ~205k–235k | Edron 269 / ~1.1 min | From level 110 |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k–145k | ~145k–150k | Port Hope 76 / ~20 s | From level 120 |
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~125k–130k | ~130k–135k | Liberty Bay 82 / ~20 s | From level 120 |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~225k–270k | ~180k | Venore 98 / ~25 s | From level 130 |
@@ -927,9 +929,9 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|---|
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~205k–220k | Carlin 173 / ~45 s |  |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~55k | ~190k–205k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~185k–205k | Svargrond, on foot over the ice |  |
+| [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~155k–170k | Venore, north-west of the city |  |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~80k–85k | ~235k–245k | Yalahar 95 / ~24 s | From level 110 |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~110k–125k | ~210k–245k | Edron 269 / ~1.1 min | From level 110 |
+| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~105k–125k | ~205k–235k | Edron 269 / ~1.1 min | From level 110 |
 
 #### Level 150–200 with leech (~366 hours to the next band)
 
@@ -949,7 +951,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~260k–285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~95k–110k | ~250k–295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~85k–90k | ~245k–265k | Yalahar 95 / ~24 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~225k–240k | Svargrond, on foot over the ice | From level 180 |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~225k–245k | Svargrond, on foot over the ice | From level 180 |
 
 #### Level 200+ with leech
 
@@ -967,7 +969,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~110k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 1 → **0** | 1 → **0** | ~40k | ~285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~240k | Svargrond, on foot over the ice |  |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~245k | Svargrond, on foot over the ice |  |
 
 ## Section 3: Charms and prey
 Charms and prey give you bonuses against specific monsters. They cost little or nothing once unlocked, but you have to choose and switch them as you change hunting grounds.
@@ -1007,7 +1009,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~65k–75k | ~180k–195k | Yalahar 95 / ~24 s | Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
 | [Tarantula Caves (Port Hope)](https://tibiamaps.io/map#32726,32794,7:2) | 2 → **1** | 2 → **1** | ~50k | ~55k–60k | Port Hope 219 / ~55 s | Damage-reduction prey on Tarantula, XP prey on Toad |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~155k–170k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~150k–170k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~50k | ~110k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 70. Damage-reduction prey on Barbarian Headsplitter, XP prey on Barbarian Skullhunter |
 | [Rorc Plains](https://tibiamaps.io/map#32802,31796,7:2) | 2 → **1** | 2 → **1** | ~45k | ~35k | Kazordoon 257 / ~1.1 min | From level 70. Damage-reduction prey on Rorc, XP prey on Wasp |
 | [Fenrock (-1 to -2)](https://tibiamaps.io/map#32543,31290,8:2) | 1 → **0** | 1 → **0** | ~45k | ~45k | Yalahar 192 / ~48 s, Maris's boat to Fenrock | From level 70. Damage-reduction prey on Tortoise, XP prey on Crocodile |
@@ -1017,23 +1019,23 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~65k–75k | ~180k–195k | Yalahar 95 / ~24 s | Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~155k–170k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
-| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 2 → **1** | 2 → **1** | ~35k–40k | ~55k–60k | Kazordoon or Venore, in the swamp between them | Damage-reduction prey on Rotworm, XP prey on Slime. Still: summoners |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~150k–170k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 2 → **1** | 2 → **1** | ~35k–40k | ~55k–65k | Kazordoon or Venore, in the swamp between them | Damage-reduction prey on Rotworm, XP prey on Slime. Still: summoners |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~50k | ~110k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 70. Damage-reduction prey on Barbarian Headsplitter, XP prey on Barbarian Skullhunter |
 | [Fenrock (-1 to -2)](https://tibiamaps.io/map#32543,31290,8:2) | 1 → **0** | 1 → **0** | ~45k | ~45k | Yalahar 192 / ~48 s, Maris's boat to Fenrock | From level 70. Damage-reduction prey on Tortoise, XP prey on Crocodile |
 
-#### Level 80–100 with prey (~85 hours to the next band)
+#### Level 80–100 with prey (~132 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 2 → **1** | 2 → **1** | ~75k | ~30k | Yalahar 137 / ~34 s | Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **1** | ~70k–80k | ~125k–140k | Edron 138 / ~35 s | Damage-reduction prey on Orc Warrior, XP prey on Orc Berserker. Still: summoners |
 | [Rorc Plains](https://tibiamaps.io/map#32802,31796,7:2) | 2 → **1** | 2 → **1** | ~45k–65k | ~35k–50k | Kazordoon 257 / ~1.1 min | Damage-reduction prey on Rorc, XP prey on Wasp |
-| [Bandit Caves (Tiquanda)](https://tibiamaps.io/map#32555,32679,7:2) | 1 → **0** | 1 → **0** | ~35k | ~20k–25k | Port Hope 152 / ~38 s | Damage-reduction prey on Smuggler, XP prey on Bandit |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 3 → **2** | 3 → **2** | ~120k | ~120k | Edron + boat to Cormaya | From level 90. Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~110k–125k | ~150k–175k | Yalahar 252 / ~1.1 min | From level 90. Damage-reduction prey on Novice of the Cult, XP prey on Acolyte of the Cult. Still: summoners |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 90. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
+| [Undead Cave (Mount Sternum, -1 to -3)](https://tibiamaps.io/map#32418,32017,8:2) | 1 → **0** | 1 → **0** | ~45k | ~65k | Thais 286 / ~1.2 min | From level 90. Damage-reduction prey on Ghoul, XP prey on Skeleton |
+| [Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2) | 1 → **0** | 1 → **0** | ~18k | ~19k | Thais 310 / ~1.3 min | From level 90. Damage-reduction prey on Cyclops, XP prey on Wasp |
 
 **Good for gold**
 
@@ -1041,49 +1043,48 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | 2 → **1** | 2 → **1** | ~70k–80k | ~125k–140k | Edron 138 / ~35 s | Damage-reduction prey on Orc Warrior, XP prey on Orc Berserker. Still: summoners |
 | [Rorc Plains](https://tibiamaps.io/map#32802,31796,7:2) | 2 → **1** | 2 → **1** | ~45k–65k | ~35k–50k | Kazordoon 257 / ~1.1 min | Damage-reduction prey on Rorc, XP prey on Wasp |
-| [Bandit Caves (Tiquanda)](https://tibiamaps.io/map#32555,32679,7:2) | 1 → **0** | 1 → **0** | ~35k | ~20k–25k | Port Hope 152 / ~38 s | Damage-reduction prey on Smuggler, XP prey on Bandit |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 3 → **2** | 3 → **2** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 90. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
-| [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 3 → **2** | 3 → **2** | ~80k | ~175k | Kazordoon 201 / ~50 s | From level 90. Damage-reduction prey on Wyvern, XP prey on Hunter |
+| [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 2 → **1** | 2 → **1** | ~75k | ~30k | Yalahar 137 / ~34 s | Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~110k–125k | ~150k–175k | Yalahar 252 / ~1.1 min | From level 90. Damage-reduction prey on Novice of the Cult, XP prey on Acolyte of the Cult. Still: summoners |
+| [Undead Cave (Mount Sternum, -1 to -3)](https://tibiamaps.io/map#32418,32017,8:2) | 1 → **0** | 1 → **0** | ~45k | ~65k | Thais 286 / ~1.2 min | From level 90. Damage-reduction prey on Ghoul, XP prey on Skeleton |
+| [Cyclops Camp](https://tibiamaps.io/map#32352,32391,7:2) | 1 → **0** | 1 → **0** | ~18k | ~19k | Thais 310 / ~1.3 min | From level 90. Damage-reduction prey on Cyclops, XP prey on Wasp |
 
-#### Level 100–150 with prey (~368 hours to the next band)
+#### Level 100–150 with prey (~401 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 3 → **2** | 3 → **2** | ~115k–130k | ~115k–130k | Ab'Dendriel 46 / ~12 s | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul. Still: summoners, skip Elder Bonelord (hits half your HP) |
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~100k–115k | ~55k–60k | Ankrahmun 170 / ~40 s | Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Damage-reduction prey on Tomb Servant, XP prey on Clay Guardian. Still: a rare monster hits half your HP |
-| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~85k | ~45k | Ankrahmun 167 / ~40 s | Damage-reduction prey on Dragon, XP prey on Scorpion |
-| [Drefia (surface)](https://tibiamaps.io/map#33018,32443,7:2) | 2 → **1** | 2 → **1** | ~35k–40k | ~65k–80k | Darashia 274 / ~1.1 min | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul |
+| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~90k–105k | ~75k–90k | Ankrahmun 21 / ~5 s | Damage-reduction prey on Scarab, XP prey on Larva |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 3 → **2** | 3 → **2** | ~185k–210k | ~95k–105k | Darashia 227 / ~0.9 min | From level 110. Damage-reduction prey on Dragon |
 | [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~145k | ~45k | Thais 148 / ~35 s | From level 110. Damage-reduction prey on Dragon, XP prey on Dragon Lord. Still: skip Dragon Lord (hits half your HP) |
 | [Folda (surface)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~40k | ~120k | Carlin 196 / ~49 s, Nielson's boat to Folda, then 28 / ~7 s | From level 110. Damage-reduction prey on Wyvern, XP prey on Frost Troll |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~115k–120k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | From level 120. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~70k–75k | ~65k–70k | Edron 238 / ~1.0 min | From level 120. Damage-reduction prey on Vampire, XP prey on Ghoul |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~60k | ~155k | Edron 129 / ~30 s | From level 120. Damage-reduction prey on Wyvern |
-| [Ankrahmun Library Tomb (-6 to -8)](https://tibiamaps.io/map#33142,32838,13:2) | 3 → **2** | 3 → **2** | ~150k–160k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 130. Damage-reduction prey on Vampire, XP prey on Mummy. Still: summoners, skip Lich (hits half your HP) |
-| [Restricted Area (Magician Quarter, -1)](https://tibiamaps.io/map#32849,31046,8:2) | 3 → **2** | 3 → **2** | ~120k | ~25k | Yalahar, in the Magician Quarter | From level 130. Damage-reduction prey on Plaguesmith, XP prey on Hellspawn |
 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 2 → **1** | 2 → **1** | ~130k | ~40k | Yalahar 192 / ~48 s, Maris's boat to Fenrock, then down through the Fenrock caves to Beregar (ore wagons once you've been there) | From level 140. Damage-reduction prey on Dwarf Geomancer, XP prey on Dwarf Guard |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~115k–120k | ~220k | Carlin 173 / ~45 s | From level 140. Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~110k–120k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 140. Damage-reduction prey on Scarab, XP prey on Larva |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~105k | ~110k–115k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | From level 140. Damage-reduction prey on Demon Skeleton, XP prey on Ghoul. Still: summoners |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
+| [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 3 → **2** | 3 → **2** | ~115k–130k | ~115k–130k | Ab'Dendriel 46 / ~12 s | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul. Still: summoners, skip Elder Bonelord (hits half your HP) |
+| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~90k–105k | ~75k–90k | Ankrahmun 21 / ~5 s | Damage-reduction prey on Scarab, XP prey on Larva |
 | [Drefia (surface)](https://tibiamaps.io/map#33018,32443,7:2) | 2 → **1** | 2 → **1** | ~35k–40k | ~65k–80k | Darashia 274 / ~1.1 min | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul |
-| [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~100k–115k | ~55k–60k | Ankrahmun 170 / ~40 s | Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Damage-reduction prey on Tomb Servant, XP prey on Clay Guardian. Still: a rare monster hits half your HP |
-| [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 3 → **2** | 3 → **2** | ~85k | ~45k | Ankrahmun 167 / ~40 s | Damage-reduction prey on Dragon, XP prey on Scorpion |
 | [Folda (surface)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~40k | ~120k | Carlin 196 / ~49 s, Nielson's boat to Folda, then 28 / ~7 s | From level 110. Damage-reduction prey on Wyvern, XP prey on Frost Troll |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 3 → **2** | 3 → **2** | ~185k–210k | ~95k–105k | Darashia 227 / ~0.9 min | From level 110. Damage-reduction prey on Dragon |
 | [Thais Dragon Lair](https://tibiamaps.io/map#32349,32112,10:2) | 3 → **2** | 3 → **2** | ~145k | ~45k | Thais 148 / ~35 s | From level 110. Damage-reduction prey on Dragon, XP prey on Dragon Lord. Still: skip Dragon Lord (hits half your HP) |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~60k | ~155k | Edron 129 / ~30 s | From level 120. Damage-reduction prey on Wyvern |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~115k–120k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | From level 120. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
-| [Ankrahmun Library Tomb (-6 to -8)](https://tibiamaps.io/map#33142,32838,13:2) | 3 → **2** | 3 → **2** | ~150k–160k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 130. Damage-reduction prey on Vampire, XP prey on Mummy. Still: summoners, skip Lich (hits half your HP) |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~70k–75k | ~65k–70k | Edron 238 / ~1.0 min | From level 130. Damage-reduction prey on Vampire, XP prey on Ghoul |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~115k–120k | ~220k | Carlin 173 / ~45 s | From level 140. Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~60k | ~205k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 140. Damage-reduction prey on Barbarian Headsplitter, XP prey on Barbarian Skullhunter |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~110k–120k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 140. Damage-reduction prey on Scarab, XP prey on Larva |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~105k | ~110k–115k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | From level 140. Damage-reduction prey on Demon Skeleton, XP prey on Ghoul. Still: summoners |
 
-#### Level 150–200 with prey (~514 hours to the next band)
+#### Level 150–200 with prey (~504 hours to the next band)
 
 **Good for XP**
 
@@ -1091,11 +1092,12 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k–150k | ~130k–145k | Carlin 64 / ~15 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~90k–100k | ~245k–265k | Yalahar 95 / ~24 s | Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~75k–90k | ~115k–130k | Svargrond, on foot over the ice | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
-| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 160. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
+| [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~85k | ~45k | Kazordoon 14 / ~4 s | Damage-reduction prey on Dragon |
+| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~115k–130k | ~90k–100k | Ankrahmun 21 / ~5 s | From level 160. Damage-reduction prey on Scarab, XP prey on Larva |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~155k–175k | ~150k–170k | Port Hope 76 / ~20 s | From level 170. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~150k–165k | ~150k–165k | Venore 108 / ~25 s | From level 170. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~270k–290k | ~180k | Venore 98 / ~25 s | From level 180. Damage-reduction prey on Stonerefiner |
+| [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 180. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 2 → **1** | 2 → **1** | ~85k | ~45k | Ankrahmun 167 / ~40 s | From level 180. Damage-reduction prey on Dragon, XP prey on Scorpion |
 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 0 → **0** | 2 → **0** | ~265k | ~85k | Roshamuul 221 / ~55 s | From level 190. Damage-reduction prey on Shiversleep. Still: a rare monster hits half your HP |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~125k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 190. Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
@@ -1106,8 +1108,8 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 → **0** | 1 → **0** | ~90k–100k | ~245k–265k | Yalahar 95 / ~24 s | Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~135k–150k | ~130k–145k | Carlin 64 / ~15 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~75k–90k | ~115k–130k | Svargrond, on foot over the ice | Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~225k–240k | Svargrond, on foot over the ice | From level 160. Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~60k–65k | Targuna depot, on the island | Damage-reduction prey on Lizard Executioner, XP prey on Lizard Henchman |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k–65k | ~225k–245k | Svargrond, on foot over the ice | From level 160. Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 160. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~270k–290k | ~180k | Venore 98 / ~25 s | From level 180. Damage-reduction prey on Stonerefiner |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~125k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 190. Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
@@ -1120,14 +1122,14 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~290k | ~180k | Venore 98 / ~25 s | Damage-reduction prey on Stonerefiner |
 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 0 → **0** | 2 → **0** | ~265k | ~85k | Roshamuul 221 / ~55 s | Damage-reduction prey on Shiversleep. Still: a rare monster hits half your HP |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Ankrahmun 21 / ~5 s | Damage-reduction prey on Scarab, XP prey on Larva |
+| [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~125k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~125k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~65k | ~240k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~65k | ~245k | Svargrond, on foot over the ice | Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~290k | ~180k | Venore 98 / ~25 s | Damage-reduction prey on Stonerefiner |
 
 ## Section 4: Wheel of Destiny and gems
@@ -1146,37 +1148,37 @@ Later, the Wheel also takes **gems**, which add extra bonuses such as more HP or
 ### Reading the Section 4 tables
 These tables assume half your points go into hit-point slices, a rough estimate of about 1 extra HP per level above 50. They grade the Section 1 hunting grounds with that extra health and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total. The life leech from the Wheel isn't counted.
 
-#### Level 60–80 with the Wheel (~66 hours to the next band)
+#### Level 60–80 with the Wheel (~84 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 3 → **2** | 3 → **2** | ~70k–80k | ~85k–95k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | Still: summoners, skip Dragon Lord (hits half your HP) |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 3 → **2** | 3 → **2** | ~70k–85k | ~85k–90k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | Still: summoners, skip Dragon Lord (hits half your HP) |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~60k–70k | ~180k–195k | Yalahar 95 / ~24 s |  |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 3 → **2** | 3 → **2** | ~95k | ~180k–185k | Edron 269 / ~1.1 min | From level 70 |
 | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) | 3 → **2** | 3 → **2** | ~75k | ~40k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 109 / ~27 s | From level 70 |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~45k | ~110k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 70 |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~160k–170k | Svargrond, on foot over the ice | From level 70 |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~60k–70k | ~180k–195k | Yalahar 95 / ~24 s |  |
-| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 3 → **2** | 3 → **2** | ~70k–80k | ~85k–95k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | Still: summoners, skip Dragon Lord (hits half your HP) |
-| [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 3 → **2** | 3 → **2** | ~95k | ~180k–185k | Edron 269 / ~1.1 min | From level 70 |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~165k–170k | Svargrond, on foot over the ice | From level 70 |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 3 → **2** | 3 → **2** | ~70k–85k | ~85k–90k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | Still: summoners, skip Dragon Lord (hits half your HP) |
+| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 2 → **1** | 2 → **1** | ~40k–45k | ~160k–170k | Svargrond, on foot over the ice | From level 70 |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | 2 → **1** | 2 → **1** | ~45k | ~110k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 70 |
+| [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) | 3 → **2** | 3 → **2** | ~75k | ~40k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 109 / ~27 s | From level 70 |
 
-#### Level 80–100 with the Wheel (~80 hours to the next band)
+#### Level 80–100 with the Wheel (~78 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 3 → **2** | 3 → **2** | ~90k–125k | ~100k–135k | Venore 108 / ~25 s |  |
+| [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 2 → **1** | 2 → **1** | ~65k | ~30k | Yalahar 137 / ~34 s |  |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 3 → **2** | 3 → **2** | ~60k | ~150k–155k | Edron 129 / ~30 s |  |
-| [Rorc Plains](https://tibiamaps.io/map#32802,31796,7:2) | 2 → **1** | 2 → **1** | ~45k–60k | ~35k–50k | Kazordoon 257 / ~1.1 min |  |
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 2 → **1** | 2 → **1** | ~130k–135k | ~70k | Ankrahmun 351 / ~1.5 min | From level 90. Still: summoners |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~90k–105k | ~150k–175k | Yalahar 252 / ~1.1 min | From level 90. Still: summoners |
 
@@ -1190,72 +1192,76 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 2 → **1** | 2 → **1** | ~90k–105k | ~150k–175k | Yalahar 252 / ~1.1 min | From level 90. Still: summoners |
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 2 → **1** | 2 → **1** | ~130k–135k | ~70k | Ankrahmun 351 / ~1.5 min | From level 90. Still: summoners |
 
-#### Level 100–150 with the Wheel (~892 hours to the next band)
+#### Level 100–150 with the Wheel (~501 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~95k–105k | ~55k–60k | Ankrahmun 170 / ~40 s | Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Still: a rare monster hits half your HP |
+| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~80k–95k | ~75k–90k | Ankrahmun 21 / ~5 s |  |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~160k–180k | Venore 207 / ~50 s |  |
-| [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 1 → **0** | 1 → **0** | ~12k | ~4k | Yalahar 137 / ~34 s | From level 110 |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 3 → **2** | 3 → **2** | ~190k–210k | ~95k–105k | Darashia 227 / ~0.9 min | From level 120 |
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | 3 → **2** | 3 → **2** | ~160k–180k | ~145k–165k | Ankrahmun 250 / ~1.0 min | From level 120. Still: summoners |
-| [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 3 → **2** | 3 → **2** | ~125k–135k | ~130k–140k | Ab'Dendriel 46 / ~12 s | From level 120. Still: summoners, skip Elder Bonelord (hits half your HP) |
+| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 1 → **0** | 1 → **0** | ~35k | ~20k | Thais 380 / ~1.6 min | From level 120 |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~60k | ~155k | Edron 129 / ~30 s | From level 130 |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 140 |
+| [Foreigner Quarter (surface)](https://tibiamaps.io/map#32709,31308,7:2) | 2 → **1** | 2 → **1** | ~60k | ~55k | Yalahar 137 / ~34 s | From level 130 |
+| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 1 → **0** | 1 → **0** | ~30k | ~20k | Carlin 241 / ~1.0 min | From level 130. Still: summoners |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k–115k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | From level 140. Still: summoners |
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 2 → **1** | 2 → **1** | ~75k | ~80k | Edron 401 / ~1.7 min | From level 140 |
-| [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~55k | ~205k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 140 |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~65k–70k | ~65k–70k | Edron 238 / ~1.0 min | From level 140 |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~160k–180k | Venore 207 / ~50 s |  |
+| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~80k–95k | ~75k–90k | Ankrahmun 21 / ~5 s |  |
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~95k–105k | ~55k–60k | Ankrahmun 170 / ~40 s | Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Still: a rare monster hits half your HP |
-| [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 1 → **0** | 1 → **0** | ~12k | ~4k | Yalahar 137 / ~34 s | From level 110 |
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | 3 → **2** | 3 → **2** | ~160k–180k | ~145k–165k | Ankrahmun 250 / ~1.0 min | From level 120. Still: summoners |
-| [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 3 → **2** | 3 → **2** | ~125k–135k | ~130k–140k | Ab'Dendriel 46 / ~12 s | From level 120. Still: summoners, skip Elder Bonelord (hits half your HP) |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 3 → **2** | 3 → **2** | ~190k–210k | ~95k–105k | Darashia 227 / ~0.9 min | From level 120 |
+| [Magician Tower](https://tibiamaps.io/map#32502,32041,7:2) | 1 → **0** | 1 → **0** | ~35k | ~20k | Thais 380 / ~1.6 min | From level 120 |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~60k | ~155k | Edron 129 / ~30 s | From level 130 |
+| [Foreigner Quarter (surface)](https://tibiamaps.io/map#32709,31308,7:2) | 2 → **1** | 2 → **1** | ~60k | ~55k | Yalahar 137 / ~34 s | From level 130 |
+| [Maze of Lost Souls](https://tibiamaps.io/map#32490,31697,7:2) | 1 → **0** | 1 → **0** | ~30k | ~20k | Carlin 241 / ~1.0 min | From level 130. Still: summoners |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~55k | ~205k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 140 |
-| [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~125k–135k | Ankrahmun 21 / ~5 s | From level 140 |
+| [Draconia](https://tibiamaps.io/map#32802,31589,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k–115k | Ab'Dendriel, through Hellgate and the tunnel under the sea to the Red Bone Castle | From level 140. Still: summoners |
 | [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 1 → **0** | 1 → **0** | ~35k | ~85k | Carlin 364 / ~1.5 min | From level 140 |
 
-#### Level 150–200 with the Wheel (~719 hours to the next band)
+#### Level 150–200 with the Wheel (~704 hours to the next band)
 
 **Good for XP**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 3 → **2** | 3 → **2** | ~115k–140k | ~105k | Port Hope 423 / ~1.8 min | Still: summoners, skip Hideous Fungus (hits half your HP) |
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~70k–85k | ~115k–130k | Svargrond, on foot over the ice |  |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~60k–65k | Targuna depot, on the island |  |
 | [Tarpit Tomb (-6 to -8)](https://tibiamaps.io/map#33233,32705,13:2) | 2 → **1** | 2 → **1** | ~130k–140k | ~170k–185k | Ankrahmun 241 / ~1.0 min | From level 160. Still: summoners |
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~130k–145k | ~135k–150k | Liberty Bay 82 / ~20 s | From level 160 |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~130k–145k | ~130k–145k | Carlin 64 / ~15 s | From level 160 |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~155k | ~185k | Ankrahmun 345 / ~1.4 min | From level 170 |
 | [Undead Cave (Mount Sternum, -4 to -7)](https://tibiamaps.io/map#32418,32017,11:2) | 2 → **1** | 2 → **1** | ~125k–140k | ~85k–90k | Thais 286 / ~1.2 min | From level 170. Still: summoners |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k–130k | ~170k–185k | Kazordoon 453 / ~1.9 min | From level 170. Still: summoners |
 | [Foreigner Quarter (+1 to +2)](https://tibiamaps.io/map#32709,31308,6:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~90k–95k | Yalahar 137 / ~34 s | From level 180 |
 | [Kha'zeel Dragon Lairs](https://tibiamaps.io/map#33060,32736,7:2) | 2 → **1** | 2 → **1** | ~85k | ~45k | Ankrahmun 167 / ~40 s | From level 180 |
-| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~70k–80k | Kazordoon or Venore, in the swamp between them | From level 180. Still: summoners |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~75k–80k | Kazordoon or Venore, in the swamp between them | From level 180. Still: summoners |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 190. Gloom wolf days are great for money and bad for XP |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 2 → **1** | 2 → **1** | ~70k–85k | ~115k–130k | Svargrond, on foot over the ice |  |
 | [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 3 → **2** | 3 → **2** | ~115k–140k | ~105k | Port Hope 423 / ~1.8 min | Still: summoners, skip Hideous Fungus (hits half your HP) |
 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~60k–65k | Targuna depot, on the island |  |
 | [Tarpit Tomb (-6 to -8)](https://tibiamaps.io/map#33233,32705,13:2) | 2 → **1** | 2 → **1** | ~130k–140k | ~170k–185k | Ankrahmun 241 / ~1.0 min | From level 160. Still: summoners |
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~130k–145k | ~135k–150k | Liberty Bay 82 / ~20 s | From level 160 |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~130k–145k | ~130k–145k | Carlin 64 / ~15 s | From level 160 |
+| [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3 → **2** | 3 → **2** | ~155k | ~185k | Ankrahmun 345 / ~1.4 min | From level 170 |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 2 → **1** | 2 → **1** | ~125k–130k | ~170k–185k | Kazordoon 453 / ~1.9 min | From level 170. Still: summoners |
 | [Undead Cave (Mount Sternum, -4 to -7)](https://tibiamaps.io/map#32418,32017,11:2) | 2 → **1** | 2 → **1** | ~125k–140k | ~85k–90k | Thais 286 / ~1.2 min | From level 170. Still: summoners |
 | [Tiquanda](https://tibiamaps.io/map#32812,32699,7:2) | 1 → **0** | 1 → **0** | ~35k–40k | ~115k–125k | Port Hope 358 / ~1.5 min | From level 180. Still: summoners |
 | [Foreigner Quarter (+1 to +2)](https://tibiamaps.io/map#32709,31308,6:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~90k–95k | Yalahar 137 / ~34 s | From level 180 |
-| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~70k–80k | Kazordoon or Venore, in the swamp between them | From level 180. Still: summoners |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~75k–80k | Kazordoon or Venore, in the swamp between them | From level 180. Still: summoners |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 190. Gloom wolf days are great for money and bad for XP |
 | [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 2 → **1** | 2 → **1** | ~80k | ~175k | Kazordoon 201 / ~50 s | From level 190 |
 
@@ -1267,15 +1273,15 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|---|
 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 0 → **0** | 2 → **0** | ~265k | ~85k | Roshamuul 221 / ~55 s | Still: a rare monster hits half your HP |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~110k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~240k | Svargrond, on foot over the ice |  |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~50k | ~80k | Kazordoon or Venore, in the swamp between them | Still: summoners |
 
 **Good for gold**
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~110k | ~295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s |  |
-| [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~60k | ~240k | Svargrond, on foot over the ice |  |
 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 0 → **0** | 2 → **0** | ~265k | ~85k | Roshamuul 221 / ~55 s | Still: a rare monster hits half your HP |
+| [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~50k | ~80k | Kazordoon or Venore, in the swamp between them | Still: summoners |
 
 ## Section 5: Weapon proficiency
 Every monster you kill with a weapon equipped builds up that weapon's **proficiency**. Each proficiency level unlocks a choice of perks for that weapon, such as more damage, more critical hits or more leech. You pick one perk per level. You can pick anywhere, but changing a perk needs a protection zone.
