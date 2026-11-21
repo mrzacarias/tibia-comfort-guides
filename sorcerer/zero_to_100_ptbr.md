@@ -2,7 +2,7 @@
 
 Este guia leva um sorcerer novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de sorcerer](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo invisível (Stealth Ring até o level 35, depois `utana vid`), terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com magic level por volta de 54. Um sorcerer assim foi vendido por uma mediana de uns **250 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo invisível (Stealth Ring até o level 35, depois `utana vid`), terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com magic level por volta de 53. Um sorcerer assim foi vendido por uma mediana de uns **251 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -21,9 +21,9 @@ Este guia leva um sorcerer novo da criação do personagem até o level 100 o ma
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,0 h | – | – |
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 7,0 h | ~118k | ~52k |
-| 40–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | sim | 19,0 h | ~131k | ~16k |
-| 60–80 | [Kazordoon Minotaurs (+1 a +4)](https://tibiamaps.io/map#32491,31966,6:2) | sim | 30,5 h | ~153k | ~28k |
-| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 26,0 h | ~285k | ~133k |
+| 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 18,0 h | ~107k | ~76k |
+| 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | sim | 31,5 h | ~136k | ~164k |
+| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | sim | 26,0 h | ~284k | ~133k |
 
 O XP/h conta o bônus de level baixo e a stamina verde. O Gold/h é o loot menos poções e rings (a mana do `utana vid` conta como poções), com preços do Market.
 
@@ -39,9 +39,9 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 | Levels | Primeira opção | Segunda | Terceira |
 |---|---|---|---|
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (invisibilidade): ~120k XP/h, ~54k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (invisibilidade): ~119k XP/h, ~14k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (invisibilidade): ~94k XP/h, ~45k gold/h |
-| 40–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (invisibilidade): ~120k XP/h, ~16k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~112k XP/h, ~152k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibilidade): ~110k XP/h, ~93k gold/h |
-| 60–80 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) (invisibilidade): ~141k XP/h, ~19k gold/h | [Kazordoon Minotaurs (+1 a +4)](https://tibiamaps.io/map#32491,31966,6:2) (invisibilidade): ~141k XP/h, ~28k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~138k XP/h, ~176k gold/h |
-| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2): ~220k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibilidade): ~161k XP/h, ~118k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibilidade): ~160k XP/h, ~106k gold/h |
+| 40–60 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~112k XP/h, ~152k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibilidade): ~110k XP/h, ~93k gold/h | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) (invisibilidade): ~106k XP/h, ~40k gold/h |
+| 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~138k XP/h, ~176k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibilidade): ~126k XP/h, ~103k gold/h | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) (invisibilidade): ~123k XP/h, ~46k gold/h |
+| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2): ~219k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibilidade): ~161k XP/h, ~118k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibilidade): ~160k XP/h, ~106k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
@@ -49,19 +49,19 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,0 h | – | – |
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 7,0 h | ~118k | ~52k |
-| 40–60 | [Forsaken Mine, Cyclopes (Ab'Dendriel)](https://tibiamaps.io/map#32648,31732,7:2) | sim | 19,0 h | ~131k | ~16k |
-| 60–80 | [Kazordoon Minotaurs (+1 a +4)](https://tibiamaps.io/map#32491,31966,6:2) | sim | 30,5 h | ~153k | ~28k |
-| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31,0 h | ~220k | ~71k |
+| 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | sim | 18,0 h | ~107k | ~76k |
+| 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | sim | 31,5 h | ~136k | ~164k |
+| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31,0 h | ~219k | ~71k |
 
-Isso dá level 100 no dia 30 em vez de 28, com magic level 54 (mais dias de treino). Sobra 4.1M de gold em vez de 5.3M, e rende menos TC por mês: uns 206 contra 248 (veja "Lucro").
+Isso dá level 100 no dia 30 em vez de 28, com magic level 53 (mais dias de treino). Sobra 9.4M de gold em vez de 10.6M, e rende menos TC por mês: uns 320 contra 369 (veja "Lucro").
 
 ### Sem invisibilidade
-A rota é mais lenta e dá mais loot:
+A rota é mais lenta e dá menos loot:
 
 | Levels | Hunt | Invisível | Horas | XP/h | Gold/h |
 |---|---|---|---|---|---|
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,0 h | – | – |
-| 20–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 12,5 h | ~87k | ~49k |
+| 20–40 | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) | – | 12,0 h | ~87k | ~49k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 21,5 h | ~103k | ~76k |
 | 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 36,0 h | ~112k | ~118k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 33,5 h | ~219k | ~71k |
@@ -79,9 +79,9 @@ A regra: **entregue só quando os itens custam menos do que você lootaria no te
 |---|---|---|---|---|
 | 30 | 20k | 10 min | 9k | 1% |
 | 40 | 37k | 19 min | 24k | 7% |
-| 50 | 59k | 29 min | 8k | 1% |
-| 60 | 86k | 38 min | 11k | 1% |
-| 70 | 117k | 46 min | 22k | 6% |
+| 50 | 59k | 30 min | 47k | 21% |
+| 60 | 86k | 42 min | 108k | 38% |
+| 70 | 117k | 51 min | 149k | 45% |
 | 80 | 154k | 33 min | 55k | 24% |
 | 90 | 179k | 38 min | 98k | 37% |
 | 100 | 199k | 42 min | 124k | 41% |
@@ -113,24 +113,24 @@ Então: guarde os 3 wildcards grátis de cada semana. A cada duas semanas, gaste
 ## Semana a semana
 | Semana | Level (invisibilidade) | Magic level / shielding | Level (sem invisibilidade) | Magic level / shielding |
 |---|---|---|---|---|
-| 1 | 54 | 38 / 25 | 49 | 33 / 25 |
-| 2 | 70 | 47 / 27 | 65 | 41 / 27 |
-| 3 | 85 | 51 / 27 | 76 | 45 / 27 |
-| 4 | 101 | 54 / 28 | 89 | 49 / 28 |
-| 5 | 100 (28) | 54 / 28 | 101 | 52 / 29 |
+| 1 | 55 | 38 / 25 | 50 | 33 / 25 |
+| 2 | 71 | 45 / 27 | 65 | 41 / 27 |
+| 3 | 85 | 49 / 27 | 76 | 45 / 27 |
+| 4 | 101 | 53 / 28 | 89 | 49 / 28 |
+| 5 | 100 (28) | 53 / 28 | 101 | 52 / 29 |
 
 Os skills são depois do treino de cada dia. Quando uma rota chega no level 100, a coluna dela mostra o dia em que chegou.
 
 ## Qual plano
 | Plano | Level 100 no dia | Horas de hunt | Magic level no 100 | Entregas feitas | Gold que sobra |
 |---|---|---|---|---|---|
-| Invisibilidade + tarefas semanais | 28 | 84 | 54 | ~4 | 5.3M |
-| Invisível + tarefas, Corym Mines sempre ocupada | 30 | 90 | 54 | ~4 | 4.1M |
-| Só Invisibilidade | 29 | 87 | 54 | – | 5.6M |
+| Invisibilidade + tarefas semanais | 28 | 84 | 53 | ~9 | 10.6M |
+| Invisível + tarefas, Corym Mines sempre ocupada | 30 | 90 | 53 | ~8 | 9.4M |
+| Só Invisibilidade | 30 | 90 | 54 | – | 11.9M |
 | Sem invisibilidade + tarefas semanais | 35 | 105 | 52 | ~9 | 7.7M |
-| Sem invisibilidade, sem tarefas | 39 | 117 | 54 | – | 9.1M |
+| Sem invisibilidade, sem tarefas | 39 | 117 | 54 | – | 9.2M |
 
-A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra mais gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
+A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra menos gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
 
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
@@ -139,12 +139,12 @@ Por quanto sorcerers assim foram vendidos (leilões vendidos no exiva.pro, level
 
 | Level | Magic level | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
-| 54 (fim da semana 1) | 38 | 36 | 122 TC | 66–241 |
-| 70 (fim da semana 2) | 47 | 69 | 151 TC | 60–314 |
-| 85 (fim da semana 3) | 51 | 101 | 126 TC | 76–376 |
-| 100 (fim da semana 4) | 54 | 122 | 250 TC | 88–500 |
+| 55 (fim da semana 1) | 38 | 32 | 116 TC | 62–241 |
+| 71 (fim da semana 2) | 45 | 26 | 114 TC | 57–371 |
+| 85 (fim da semana 3) | 49 | 46 | 126 TC | 81–264 |
+| 100 (fim da semana 4) | 53 | 93 | 251 TC | 90–500 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe: umas 2,0 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe: umas 2,2 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
 O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (403 vendas):
 
@@ -165,17 +165,17 @@ O mundo pesa tanto quanto o level. O preço de cada venda comparado com a median
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Invisibilidade + tarefas semanais | 40 | ~221 | ~166 | ~170 |
-| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~199 | ~139 | ~143 |
-| 2 | Sem invisibilidade + tarefas semanais | 50 | ~274 | ~164 | ~168 |
-| 3 | Invisibilidade + tarefas semanais | 28 | ~231 | ~248 | ~253 |
-| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~206 | ~206 | ~212 |
-| 3 | Sem invisibilidade + tarefas semanais | 35 | ~300 | ~257 | ~262 |
-| 5 | Invisibilidade + tarefas semanais | 20 | ~260 | ~390 | ~398 |
-| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 21 | ~221 | ~316 | ~324 |
-| 5 | Sem invisibilidade + tarefas semanais | 25 | ~319 | ~382 | ~389 |
+| 2 | Invisibilidade + tarefas semanais | 40 | ~333 | ~250 | ~254 |
+| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~310 | ~216 | ~220 |
+| 2 | Sem invisibilidade + tarefas semanais | 50 | ~275 | ~165 | ~168 |
+| 3 | Invisibilidade + tarefas semanais | 28 | ~344 | ~369 | ~375 |
+| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~320 | ~320 | ~325 |
+| 3 | Sem invisibilidade + tarefas semanais | 35 | ~301 | ~258 | ~263 |
+| 5 | Invisibilidade + tarefas semanais | 20 | ~398 | ~597 | ~605 |
+| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 22 | ~371 | ~506 | ~513 |
+| 5 | Sem invisibilidade + tarefas semanais | 25 | ~320 | ~384 | ~391 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **248 TC por mês**, e uns 253 num mundo Optional PvP verde (×1,03).
+TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **369 TC por mês**, e uns 375 num mundo Optional PvP verde (×1,03).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -204,7 +204,7 @@ Outra forma de fazer um personagem que vale a pena vender é deixar ele no level
 
 Os dias contam a partir de magic level 0, com 12 horas por dia (30 de mana por minuto). TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
-Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 231 TC (a venda mais o gold que sobra), uns 8,3 TC por dia. Então, para um sorcerer, subir de level é a renda:
+Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 344 TC (a venda mais o gold que sobra), uns 12,3 TC por dia. Então, para um sorcerer, subir de level é a renda:
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
 - **Não continue treinando o level 100.** Nos levels 90 a 110, sorcerers com magic level 70–79 foram vendidos por uma mediana de 110 TC (100 vendas), não mais que os 214 TC do magic level 53–58, então centenas de dias de treino extra não compensam.
 - **Os preços de level baixo vêm de poucas vendas** (4–15 por skill), e são melhores na Europa.
