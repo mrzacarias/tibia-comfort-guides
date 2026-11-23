@@ -126,21 +126,21 @@ Na Seção 1 você usa só itens que nunca acabam, então não há cargas nem te
 - **Compre poções no Market primeiro:** as poções que saem na recompensa diária muitas vezes estão lá bem abaixo do preço dos NPCs.
 
 ### Blessings, passo a passo
-As blessings reduzem o que você perde quando morre. Com as 5 normais você fica com todos os seus itens, e um personagem promovido perde 70% menos experiência e skill; as 2 aprimoradas (enhanced) levam isso a 86%. Uma morte tira todas, então compre de novo depois de cada uma. O **Twist of Fate**, vendido por qualquer NPC de templo, só protege as outras quando outro jogador te mata.
+As blessings reduzem o que você perde quando morre. Com as 5 normais você fica com todos os seus itens, e um personagem promovido perde 70% menos experiência e skill; as 2 aprimoradas (enhanced) levam isso a 86%. O que conta é quantas você tem, não quais: quaisquer 5 protegem todos os seus itens, enquanto com 4 cada peça ainda tem 1% de chance de cair e a mochila 10%. A 6ª e a 7ª só reduzem mais a perda de experiência e skill, então as 2 aprimoradas, as mais caras e mais longe, são as que dá para pular quando falta gold ou tempo. Uma morte tira todas, então compre de novo depois de cada uma. O **Twist of Fate**, vendido por qualquer NPC de templo, só protege as outras quando outro jogador te mata.
 
 Em cada NPC diga **hi**, depois o nome da blessing (por exemplo **spiritual shielding**), depois **yes** para pagar. O Kais e o Nomad também respondem a **enhanced**.
 
 | Blessing | NPC | Onde | Bom saber |
 |---|---|---|---|
-| Spiritual Shielding | Norf | o White Flower Temple, ao sul de Thais | |
-| Wisdom of Solitude | Eremo | a Eremo's Island, de barco a partir de Cormaya | |
-| Spark of the Phoenix | Kawill, depois Pydar | Kazordoon: o Kawill a sudoeste do templo, um andar abaixo; o Pydar ao norte do templo, passando por alguns campos de fogo | fale com o Kawill primeiro; você paga só ao Pydar, 10% a menos com um Phoenix Egg na mochila se você terminou a [The Paradox Tower Quest](https://tibia.fandom.com/wiki/The_Paradox_Tower_Quest) |
-| Fire of the Suns | Edala | a Suntower, ao sul de Ab'Dendriel | |
-| Embrace of Tibia | Humphrey | o templo pequeno ao norte de Carlin | |
-| Blood of the Mountain (enhanced) | Kais | norte de Tiquanda, descendo por um buraco | leve uma Shovel |
-| Heart of the Mountain (enhanced) | Nomad | peça ao Buddel em Svargrond uma passagem para o Raider Camp, ao sul de Bittermor em Hrodmir, depois use Levitate | o barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
+| Spiritual Shielding | Norf | o White Flower Temple, ao sul de Thais ([mapa](https://tibiamaps.io/map#32346,32364,7:2)) | |
+| Wisdom of Solitude | Eremo | a Eremo's Island, de barco a partir de Cormaya ([mapa](https://tibiamaps.io/map#33322,31884,7:2)) | |
+| Spark of the Phoenix | Kawill, depois Pydar | Kazordoon: o Kawill a sudoeste do templo, um andar abaixo ([mapa](https://tibiamaps.io/map#32644,31969,12:2)); o Pydar ao norte do templo, passando por alguns campos de fogo ([mapa](https://tibiamaps.io/map#32655,31893,11:2)) | fale com o Kawill primeiro; você paga só ao Pydar, 10% a menos com um Phoenix Egg na mochila se você terminou a [The Paradox Tower Quest](https://tibia.fandom.com/wiki/The_Paradox_Tower_Quest) |
+| Fire of the Suns | Edala | a Suntower, ao sul de Ab'Dendriel ([mapa](https://tibiamaps.io/map#32697,31719,7:2)) | |
+| Embrace of Tibia | Humphrey | o templo pequeno ao norte de Carlin ([mapa](https://tibiamaps.io/map#32358,31688,7:2)) | |
+| Blood of the Mountain (enhanced) | Kais | norte de Tiquanda, descendo por um buraco ([mapa](https://tibiamaps.io/map#32910,32515,7:2)) | leve uma Shovel |
+| Heart of the Mountain (enhanced) | Nomad | peça ao Buddel em Svargrond uma passagem para o Raider Camp, ao sul de Bittermor em Hrodmir, depois use Levitate ([mapa](https://tibiamaps.io/map#31940,31307,7:2)) | o barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
 
-**Uma rota para as 5 normais** (TibiaWiki): o Norf ao sul de Thais; o barco para Edron, depois para Cormaya e a Eremo's Island; de volta a Edron e o Magic Carpet para Kazordoon (Kawill, depois Pydar); o vagão de minério até a saída norte e uma caminhada até Ab'Dendriel (Edala), depois até Carlin (Humphrey). O Kais e o Nomad são viagens à parte, para Tiquanda e para Svargrond.
+**Uma rota para as 5 normais** (TibiaWiki): o Norf ao sul de Thais; o barco para Edron, depois para Cormaya e a Eremo's Island; de volta a Edron e o Magic Carpet para Kazordoon (Kawill, depois Pydar); o vagão de minério até a saída norte e uma caminhada até Ab'Dendriel (Edala), depois até Carlin (Humphrey). Os vagões de minério de Kazordoon pedem um ticket de 250 gold, do Lokur, o carteiro, ou do Brodrosch no cais do steamship (o steamship de Cormaya é outro caminho até lá); eles ligam a entrada, o depot, o templo, o steamship e as lojas. O Kais e o Nomad são viagens à parte, para Tiquanda e para Svargrond.
 
 **Custo** (fórmula da TibiaWiki: cada blessing normal custa 200 × (level − 20) gold até o level 120, depois 20.000 + 75 por level acima de 120; cada aprimorada uns 30% a mais):
 
