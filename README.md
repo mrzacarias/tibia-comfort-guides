@@ -16,6 +16,6 @@ Solo hunting guides for Tibia, one per vocation, sorted by how comfortable each 
 | Knight, comfortable solo at 100+ | [knight/comfort_solo_100.md](knight/comfort_solo_100.md) | [knight/comfort_solo_100_ptbr.md](knight/comfort_solo_100_ptbr.md) | Calm solo hunting from level 100 to 800+: auto attack, Shield Bash and exori, small pulls, cheap leech imbuements doing the healing; what to set up on the character and the best hunting grounds per band; untested estimates |
 
 How each guide works:
-- It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, skinning and dusting, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
+- It adds the game's systems **one at a time**: Section 1 is just basic mechanics, then the Stealth Ring, more spells, imbuements, charms and prey, and the Wheel of Destiny. Each section lists the best hunting grounds for every level band.
 - Section 1 also covers playing on a free account, the daily boosted creature and the Task Board.
 - XP and loot numbers are estimates until tested. Each vocation folder has a `spot_tests.md` log for real hunts; tested hunting grounds get a ✓ and use the real numbers.
