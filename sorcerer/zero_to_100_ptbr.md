@@ -2,7 +2,7 @@
 
 Este guia leva um sorcerer novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de sorcerer](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo invisível (Stealth Ring até o level 35, depois `utana vid`), terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com magic level por volta de 53. Um sorcerer assim foi vendido por uma mediana de uns **251 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo invisível (Stealth Ring até o level 35, depois `utana vid`), terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **28 dias** (84 horas de hunt), com magic level por volta de 53. Um sorcerer assim foi vendido por uma mediana de uns **300 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -12,7 +12,7 @@ Este guia leva um sorcerer novo da criação do personagem até o level 100 o ma
 - **As hunts vêm das listas Bom para XP do guia de sorcerer** (Seção 1, e Seção 1a com invisibilidade): a cada dia, a melhor para o seu level e skill.
 
 ## Dia 0: crie o personagem
-1. **Escolha o mundo primeiro:** um mundo Retro Open PvP com BattlEye verde, de preferência na América do Norte. Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
+1. **Escolha o mundo primeiro:** um mundo com BattlEye verde, de preferência na América do Norte (o tipo de mundo muda o preço em menos de 10%). Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
 2. **Em Newhaven, a ilha inicial**, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest) antes de sair. Não dá para voltar.
 3. **Em Targuna, no level 8, treine offline primeiro:** use a Training Statue e deslogue por 12 horas. Isso leva o magic level a uns 9 e o shielding de 12 para 20, e cada magic level conta mais conforme o seu level sobe.
 
@@ -41,7 +41,7 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (invisibilidade): ~120k XP/h, ~54k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (invisibilidade): ~119k XP/h, ~14k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (invisibilidade): ~94k XP/h, ~45k gold/h |
 | 40–60 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~112k XP/h, ~152k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibilidade): ~110k XP/h, ~93k gold/h | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) (invisibilidade): ~106k XP/h, ~40k gold/h |
 | 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibilidade): ~138k XP/h, ~176k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibilidade): ~126k XP/h, ~103k gold/h | [Krimhorn barbarians (superfície)](https://tibiamaps.io/map#32028,31397,7:2) (invisibilidade): ~123k XP/h, ~46k gold/h |
-| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2): ~219k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibilidade): ~161k XP/h, ~118k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibilidade): ~160k XP/h, ~106k gold/h |
+| 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2): ~219k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibilidade): ~161k XP/h, ~117k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibilidade): ~160k XP/h, ~106k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
 
@@ -53,7 +53,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | sim | 31,5 h | ~136k | ~164k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31,0 h | ~219k | ~71k |
 
-Isso dá level 100 no dia 30 em vez de 28, com magic level 53 (mais dias de treino). Sobra 9.4M de gold em vez de 10.6M, e rende menos TC por mês: uns 320 contra 369 (veja "Lucro").
+Isso dá level 100 no dia 30 em vez de 28, com magic level 53 (mais dias de treino). Sobra 9.4M de gold em vez de 10.6M, e rende menos TC por mês: uns 336 contra 386 (veja "Lucro").
 
 ### Sem invisibilidade
 A rota é mais lenta e dá menos loot:
@@ -135,47 +135,45 @@ A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra menos go
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
 
-Por quanto sorcerers assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e magic level até 2 de diferença, todos os mundos):
+Por quanto sorcerers assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e magic level até 2 de diferença, todos os mundos, nos últimos 12 meses):
 
 | Level | Magic level | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
-| 55 (fim da semana 1) | 38 | 32 | 116 TC | 62–241 |
-| 71 (fim da semana 2) | 45 | 26 | 114 TC | 57–371 |
-| 85 (fim da semana 3) | 49 | 46 | 126 TC | 81–264 |
-| 100 (fim da semana 4) | 53 | 93 | 251 TC | 90–500 |
+| 55 (fim da semana 1) | 38 | 12 | 111 TC | 70–147 |
+| 71 (fim da semana 2) | 45 | 5 | 61 TC | 57–300 |
+| 85 (fim da semana 3) | 49 | 22 | 138 TC | 100–240 |
+| 100 (fim da semana 4) | 53 | 33 | 300 TC | 118–500 |
 
-O preço não cresce do level 50 até uns 85, e depois sobe: umas 2,2 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 85, e depois sobe: umas 2,7 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
-O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (403 vendas):
+Quanto o mundo muda o preço: o preço de cada venda comparado com a mediana do level e skill dela (204 vendas; grupos de mundo com 30 ou mais):
 
 | Tipo de mundo | Vendas | Preço vs a mediana |
 |---|---|---|
-| BattlEye verde | 313 | ×1,11 |
-| BattlEye amarelo | 90 | ×0,62 |
-| Retro Open PvP | 65 | ×1,97 |
-| Optional PvP | 79 | ×1,00 |
-| Open PvP | 213 | ×0,92 |
-| Retro Hardcore PvP | 45 | ×0,92 |
-| América do Norte | 89 | ×1,31 |
-| América do Sul | 154 | ×0,98 |
-| Europa | 160 | ×0,96 |
+| BattlEye verde | 157 | ×1,02 |
+| BattlEye amarelo | 47 | ×0,82 |
+| Optional PvP | 63 | ×1,00 |
+| Open PvP | 104 | ×1,00 |
+| América do Norte | 52 | ×1,24 |
+| América do Sul | 71 | ×0,92 |
+| Europa | 81 | ×0,90 |
 
-**Crie o personagem em um mundo Retro Open PvP com BattlEye verde, de preferência na América do Norte.** Nunca BattlEye amarelo. Mas isso é para vender: em mundos retro e hardcore qualquer um pode te atacar, e guilds dominantes podem infernizar quem é neutro. Para um personagem que você vai continuar jogando, Optional PvP é a escolha tranquila, porque lá ninguém pode te matar. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
+**Crie o personagem em um mundo com BattlEye verde, de preferência na América do Norte (o tipo de mundo muda o preço em menos de 10%).** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Invisibilidade + tarefas semanais | 40 | ~333 | ~250 | ~254 |
-| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~310 | ~216 | ~220 |
-| 2 | Sem invisibilidade + tarefas semanais | 50 | ~275 | ~165 | ~168 |
-| 3 | Invisibilidade + tarefas semanais | 28 | ~344 | ~369 | ~375 |
-| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~320 | ~320 | ~325 |
-| 3 | Sem invisibilidade + tarefas semanais | 35 | ~301 | ~258 | ~263 |
-| 5 | Invisibilidade + tarefas semanais | 20 | ~398 | ~597 | ~605 |
-| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 22 | ~371 | ~506 | ~513 |
-| 5 | Sem invisibilidade + tarefas semanais | 25 | ~320 | ~385 | ~391 |
+| 2 | Invisibilidade + tarefas semanais | 40 | ~350 | ~262 | ~263 |
+| 2 | Invisível + tarefas, Corym Mines sempre ocupada | 43 | ~327 | ~228 | ~229 |
+| 2 | Sem invisibilidade + tarefas semanais | 50 | ~291 | ~175 | ~175 |
+| 3 | Invisibilidade + tarefas semanais | 28 | ~361 | ~386 | ~388 |
+| 3 | Invisível + tarefas, Corym Mines sempre ocupada | 30 | ~336 | ~336 | ~337 |
+| 3 | Sem invisibilidade + tarefas semanais | 35 | ~321 | ~276 | ~276 |
+| 5 | Invisibilidade + tarefas semanais | 20 | ~414 | ~621 | ~623 |
+| 5 | Invisível + tarefas, Corym Mines sempre ocupada | 22 | ~387 | ~528 | ~529 |
+| 5 | Sem invisibilidade + tarefas semanais | 25 | ~337 | ~404 | ~405 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **369 TC por mês**, e uns 375 num mundo Optional PvP verde (×1,03).
+TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **386 TC por mês**, e uns 388 num mundo Optional PvP verde (×1,00).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -185,29 +183,39 @@ Fora da conta:
 Os preços variam bastante: metade das vendas cai numa faixa de 2 a 5 vezes de largura. Personagens vendidos muitas vezes têm extras que um novo não tem (outfits, montarias, charms). Use estes números como uma referência aproximada.
 
 ## Subir até o 100 ou ter um level 8 com skill alto?
-Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Para um sorcerer isso não compensa. Sorcerers de level baixo com magic level alto vendem a partir de uns magic level 46, mas a maioria por perto do mínimo de 57 TC, o que não sobra nada depois da taxa (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos):
+Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Para um sorcerer isso não compensa. Sorcerers de level baixo com magic level alto vendem a partir de uns magic level 46, mas a maioria por perto do mínimo de 57 TC, o que não sobra nada depois da taxa (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos, nos últimos 12 meses):
 
 | Skill | Dias de treino offline | Vendas | Mediana | TC depois das taxas | TC por dia |
 |---|---|---|---|---|---|
 | 46–47 | ~62 | 4 | 57 TC | nada | – |
-| 60–61 | ~236 | 11 | 57 TC | nada | – |
-| 62–63 | ~285 | 5 | 96 TC | ~22 | 0,08 |
-| 64–65 | ~346 | 6 | 58 TC | nada | – |
-| 66–67 | ~418 | 4 | 57 TC | nada | – |
-| 68–69 | ~506 | 5 | 57 TC | nada | – |
-| 70–71 | ~613 | 15 | 69 TC | nada | – |
-| 72–73 | ~742 | 10 | 60 TC | nada | – |
-| 74–75 | ~898 | 13 | 150 TC | ~70 | 0,08 |
-| 76–77 | ~1086 | 8 | 118 TC | ~42 | 0,04 |
-| 78–79 | ~1314 | 8 | 260 TC | ~166 | 0,13 |
-| 80–81 | ~1591 | 8 | 196 TC | ~110 | 0,07 |
+| 50–51 | ~90 | 5 | 57 TC | nada | – |
+| 52–53 | ~110 | 9 | 57 TC | nada | – |
+| 54–55 | ~133 | 5 | 99 TC | ~25 | 0,19 |
+| 56–57 | ~161 | 7 | 57 TC | nada | – |
+| 58–59 | ~195 | 11 | 57 TC | nada | – |
+| 60–61 | ~236 | 33 | 57 TC | nada | – |
+| 62–63 | ~285 | 19 | 65 TC | nada | – |
+| 64–65 | ~346 | 32 | 57 TC | nada | – |
+| 66–67 | ~418 | 26 | 58 TC | nada | – |
+| 68–69 | ~506 | 28 | 59 TC | nada | – |
+| 70–71 | ~613 | 68 | 100 TC | ~26 | 0,04 |
+| 72–73 | ~742 | 48 | 95 TC | ~21 | 0,03 |
+| 74–75 | ~898 | 52 | 69 TC | nada | – |
+| 76–77 | ~1086 | 44 | 101 TC | ~26 | 0,02 |
+| 78–79 | ~1314 | 31 | 150 TC | ~70 | 0,05 |
+| 80–81 | ~1591 | 40 | 225 TC | ~136 | 0,09 |
+| 82–83 | ~1925 | 24 | 281 TC | ~185 | 0,10 |
+| 84–85 | ~2329 | 20 | 256 TC | ~162 | 0,07 |
+| 86–87 | ~2819 | 10 | 406 TC | ~294 | 0,10 |
+| 88–89 | ~3411 | 3 | 201 TC | ~114 | 0,03 |
+| 90–91 | ~4127 | 4 | 2112 TC | ~1796 | 0,44 |
 
 Os dias contam a partir de magic level 0, com 12 horas por dia (30 de mana por minuto). TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
-Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 344 TC (a venda mais o gold que sobra), uns 12,3 TC por dia. Então, para um sorcerer, subir de level é a renda:
+Subir até o 100 leva 28 dias e 84 horas de jogo, por uns 361 TC (a venda mais o gold que sobra), uns 12,9 TC por dia. Então, para um sorcerer, subir de level é a renda:
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
-- **Não continue treinando o level 100.** Nos levels 90 a 110, sorcerers com magic level 70–79 foram vendidos por uma mediana de 110 TC (100 vendas), não mais que os 214 TC do magic level 53–58, então centenas de dias de treino extra não compensam.
-- **Os preços de level baixo vêm de poucas vendas** (4–15 por skill), e são melhores na Europa.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, sorcerers com magic level 70–79 foram vendidos por uma mediana de 110 TC (100 vendas), não mais que os 224 TC do magic level 53–58, então centenas de dias de treino extra não compensam.
+- **Os preços de level baixo vêm de poucas vendas** (3–68 por skill), e são melhores na Europa.
 
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de sorcerer (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki (30 de mana por minuto offline, mais a mana gasta caçando). O modelo de sorcerer ainda não foi conferido com hunts de sorcerer: o loot dele vem dos testes dos knights, então trate a rota como uma primeira estimativa.

@@ -2,7 +2,7 @@
 
 This guide takes a new sorcerer from character creation to level 100 as fast as comfort allows, and shows what the character is worth on the Char Bazaar at the end. It builds on the [sorcerer guide](guide.md): the same comfort grades (only hunting grounds with Prep and Hunt of 0 or 1), the same hunting grounds and the same model. It assumes a premium account. Every number is an estimate; the last part explains how they're made.
 
-**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then follow the route below invisible (a Stealth Ring until level 35, then `utana vid`), ending in Corym Mines, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with magic level about 53. A sorcerer like that has sold for a median of about **251 TC**.
+**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then follow the route below invisible (a Stealth Ring until level 35, then `utana vid`), ending in Corym Mines, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **28 days** (84 hours of hunting), with magic level about 53. A sorcerer like that has sold for a median of about **300 TC**.
 
 ## What the plan assumes
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
@@ -12,7 +12,7 @@ This guide takes a new sorcerer from character creation to level 100 as fast as 
 - **The hunting grounds come from the sorcerer guide's Good for XP lists** (Section 1, and Section 1a with invisibility): each day, the best one for your level and skill.
 
 ## Day 0: create the character
-1. **Pick the world first:** a world with Retro Open PvP and green BattlEye, ideally in North America. It decides the price later (see "Selling the character"), and moving later costs a world transfer.
+1. **Pick the world first:** a world with green BattlEye, ideally in North America (the world type changes the price by less than 10%). It decides the price later (see "Selling the character"), and moving later costs a world transfer.
 2. **On Newhaven, the starting island**, do the [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1,600 experience and a Guardian Ring) and the [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest) before you leave. You can't go back.
 3. **On Targuna, at level 8, train offline first:** use the Training Statue and log out for 12 hours. That takes magic level to about 9 and shielding from 12 to 20, and every magic level counts more as your level grows.
 
@@ -41,7 +41,7 @@ Corym Mines is popular, and the route above assumes it's free for your 3 hours e
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (invisibility): ~120k XP/h, ~54k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (invisibility): ~119k XP/h, ~14k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (invisibility): ~94k XP/h, ~45k gold/h |
 | 40–60 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibility): ~112k XP/h, ~152k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibility): ~110k XP/h, ~93k gold/h | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) (invisibility): ~106k XP/h, ~40k gold/h |
 | 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (invisibility): ~138k XP/h, ~176k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (invisibility): ~126k XP/h, ~103k gold/h | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) (invisibility): ~123k XP/h, ~46k gold/h |
-| 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2): ~219k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibility): ~161k XP/h, ~118k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibility): ~160k XP/h, ~106k gold/h |
+| 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2): ~219k XP/h, ~72k gold/h | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) (invisibility): ~161k XP/h, ~117k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (invisibility): ~160k XP/h, ~106k gold/h |
 
 The numbers are for the route's skill at each level. If Corym Mines were taken every single day, the route would look like this:
 
@@ -53,7 +53,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | yes | 31.5 h | ~136k | ~164k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31.0 h | ~219k | ~71k |
 
-That's level 100 on day 30 instead of 28, with magic level 53 (more days of training). It leaves 9.4M of gold instead of 10.6M, and makes less TC per month: about 320 against 369 (see "Profit").
+That's level 100 on day 30 instead of 28, with magic level 53 (more days of training). It leaves 9.4M of gold instead of 10.6M, and makes less TC per month: about 336 against 386 (see "Profit").
 
 ### Without invisibility
 The route is slower and loots less:
@@ -135,47 +135,45 @@ Invisibility is the fastest. Without it, the route takes longer and leaves less 
 ## Selling the character
 On the [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) the seller pays a 50 TC fee to list (lost if the character doesn't sell) and 12% of the price. An account can have one auction at a time, and the coins from a sale may arrive as non-transferable.
 
-What sorcerers like this sold for (sold auctions on exiva.pro, levels within 10% and magic level within 2, all worlds):
+What sorcerers like this sold for (sold auctions on exiva.pro, levels within 10% and magic level within 2, all worlds, the last 12 months):
 
 | Level | Magic level | Sales | Median | Middle half |
 |---|---|---|---|---|
-| 55 (end of week 1) | 38 | 32 | 116 TC | 62–241 |
-| 71 (end of week 2) | 45 | 26 | 114 TC | 57–371 |
-| 85 (end of week 3) | 49 | 46 | 126 TC | 81–264 |
-| 100 (end of week 4) | 53 | 93 | 251 TC | 90–500 |
+| 55 (end of week 1) | 38 | 12 | 111 TC | 70–147 |
+| 71 (end of week 2) | 45 | 5 | 61 TC | 57–300 |
+| 85 (end of week 3) | 49 | 22 | 138 TC | 100–240 |
+| 100 (end of week 4) | 53 | 33 | 300 TC | 118–500 |
 
-The price doesn't grow from level 50 to about 85, then rises: about 2.2× the earlier median by level 100. **Sell right after level 100**, not on the way.
+The price doesn't grow from level 50 to about 85, then rises: about 2.7× the earlier median by level 100. **Sell right after level 100**, not on the way.
 
-The world matters as much as the level. Each sale's price compared with the median for its level and skill (403 sales):
+How much the world changes the price: each sale's price compared with the median for its level and skill (204 sales; world groups with 30 or more):
 
 | World type | Sales | Price vs the median |
 |---|---|---|
-| Green BattlEye | 313 | ×1.11 |
-| Yellow BattlEye | 90 | ×0.62 |
-| Retro Open PvP | 65 | ×1.97 |
-| Optional PvP | 79 | ×1.00 |
-| Open PvP | 213 | ×0.92 |
-| Retro Hardcore PvP | 45 | ×0.92 |
-| North America | 89 | ×1.31 |
-| South America | 154 | ×0.98 |
-| Europe | 160 | ×0.96 |
+| Green BattlEye | 157 | ×1.02 |
+| Yellow BattlEye | 47 | ×0.82 |
+| Optional PvP | 63 | ×1.00 |
+| Open PvP | 104 | ×1.00 |
+| North America | 52 | ×1.24 |
+| South America | 71 | ×0.92 |
+| Europe | 81 | ×0.90 |
 
-**Create the character on a world with Retro Open PvP and green BattlEye, ideally in North America.** Never yellow BattlEye. That's for selling, though: on retro and hardcore worlds anyone can attack you, and dominant guilds can make life hard for neutral players. For a character you'll keep playing, Optional PvP is the calm choice, since nobody can kill you there. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
+**Create the character on a world with green BattlEye, ideally in North America (the world type changes the price by less than 10%).** Never yellow BattlEye. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
 
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Invisibility + weekly tasks | 40 | ~333 | ~250 | ~254 |
-| 2 | Invisible + tasks, Corym Mines always taken | 43 | ~310 | ~216 | ~220 |
-| 2 | No invisibility + weekly tasks | 50 | ~275 | ~165 | ~168 |
-| 3 | Invisibility + weekly tasks | 28 | ~344 | ~369 | ~375 |
-| 3 | Invisible + tasks, Corym Mines always taken | 30 | ~320 | ~320 | ~325 |
-| 3 | No invisibility + weekly tasks | 35 | ~301 | ~258 | ~263 |
-| 5 | Invisibility + weekly tasks | 20 | ~398 | ~597 | ~605 |
-| 5 | Invisible + tasks, Corym Mines always taken | 22 | ~371 | ~506 | ~513 |
-| 5 | No invisibility + weekly tasks | 25 | ~320 | ~385 | ~391 |
+| 2 | Invisibility + weekly tasks | 40 | ~350 | ~262 | ~263 |
+| 2 | Invisible + tasks, Corym Mines always taken | 43 | ~327 | ~228 | ~229 |
+| 2 | No invisibility + weekly tasks | 50 | ~291 | ~175 | ~175 |
+| 3 | Invisibility + weekly tasks | 28 | ~361 | ~386 | ~388 |
+| 3 | Invisible + tasks, Corym Mines always taken | 30 | ~336 | ~336 | ~337 |
+| 3 | No invisibility + weekly tasks | 35 | ~321 | ~276 | ~276 |
+| 5 | Invisibility + weekly tasks | 20 | ~414 | ~621 | ~623 |
+| 5 | Invisible + tasks, Corym Mines always taken | 22 | ~387 | ~528 | ~529 |
+| 5 | No invisibility + weekly tasks | 25 | ~337 | ~404 | ~405 |
 
-TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **369 TC a month**, and about 375 on an Optional PvP, green world (×1.03).
+TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **386 TC a month**, and about 388 on an Optional PvP, green world (×1.00).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -185,29 +183,39 @@ Not counted:
 Prices scatter a lot: half of the sales fall in a range 2 to 5 times wide. Sold characters often carry extras a fresh one doesn't have (outfits, mounts, charms). Treat these numbers as a rough guide.
 
 ## Should I raise to 100 or have a level 8 with high skill?
-Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. For a sorcerer this doesn't pay. Low-level sorcerers with a high magic level sell from about magic level 46, but most for about the 57 TC minimum, which leaves nothing after the fee (sold auctions on exiva.pro, levels 8 to 20, all worlds):
+Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. For a sorcerer this doesn't pay. Low-level sorcerers with a high magic level sell from about magic level 46, but most for about the 57 TC minimum, which leaves nothing after the fee (sold auctions on exiva.pro, levels 8 to 20, all worlds, the last 12 months):
 
 | Skill | Days of offline training | Sales | Median | TC after fees | TC per day |
 |---|---|---|---|---|---|
 | 46–47 | ~62 | 4 | 57 TC | nothing | – |
-| 60–61 | ~236 | 11 | 57 TC | nothing | – |
-| 62–63 | ~285 | 5 | 96 TC | ~22 | 0.08 |
-| 64–65 | ~346 | 6 | 58 TC | nothing | – |
-| 66–67 | ~418 | 4 | 57 TC | nothing | – |
-| 68–69 | ~506 | 5 | 57 TC | nothing | – |
-| 70–71 | ~613 | 15 | 69 TC | nothing | – |
-| 72–73 | ~742 | 10 | 60 TC | nothing | – |
-| 74–75 | ~898 | 13 | 150 TC | ~70 | 0.08 |
-| 76–77 | ~1086 | 8 | 118 TC | ~42 | 0.04 |
-| 78–79 | ~1314 | 8 | 260 TC | ~166 | 0.13 |
-| 80–81 | ~1591 | 8 | 196 TC | ~110 | 0.07 |
+| 50–51 | ~90 | 5 | 57 TC | nothing | – |
+| 52–53 | ~110 | 9 | 57 TC | nothing | – |
+| 54–55 | ~133 | 5 | 99 TC | ~25 | 0.19 |
+| 56–57 | ~161 | 7 | 57 TC | nothing | – |
+| 58–59 | ~195 | 11 | 57 TC | nothing | – |
+| 60–61 | ~236 | 33 | 57 TC | nothing | – |
+| 62–63 | ~285 | 19 | 65 TC | nothing | – |
+| 64–65 | ~346 | 32 | 57 TC | nothing | – |
+| 66–67 | ~418 | 26 | 58 TC | nothing | – |
+| 68–69 | ~506 | 28 | 59 TC | nothing | – |
+| 70–71 | ~613 | 68 | 100 TC | ~26 | 0.04 |
+| 72–73 | ~742 | 48 | 95 TC | ~21 | 0.03 |
+| 74–75 | ~898 | 52 | 69 TC | nothing | – |
+| 76–77 | ~1086 | 44 | 101 TC | ~26 | 0.02 |
+| 78–79 | ~1314 | 31 | 150 TC | ~70 | 0.05 |
+| 80–81 | ~1591 | 40 | 225 TC | ~136 | 0.09 |
+| 82–83 | ~1925 | 24 | 281 TC | ~185 | 0.10 |
+| 84–85 | ~2329 | 20 | 256 TC | ~162 | 0.07 |
+| 86–87 | ~2819 | 10 | 406 TC | ~294 | 0.10 |
+| 88–89 | ~3411 | 3 | 201 TC | ~114 | 0.03 |
+| 90–91 | ~4127 | 4 | 2112 TC | ~1796 | 0.44 |
 
 Days count from magic level 0, at 12 hours a day (30 mana a minute). TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
-Raising to 100 takes 28 days and 84 hours of play, for about 344 TC (the sale plus the gold left), about 12.3 TC per day. So for a sorcerer, raising is the income:
+Raising to 100 takes 28 days and 84 hours of play, for about 361 TC (the sale plus the gold left), about 12.9 TC per day. So for a sorcerer, raising is the income:
 - **Space out the sales.** An account can have only one auction at a time.
-- **Don't keep training the level 100.** At levels 90 to 110, sorcerers with magic level 70–79 sold for a median of 110 TC (100 sales), no more than the 214 TC of magic level 53–58, so hundreds of days of extra training don't pay.
-- **Low-level prices rest on few sales** (4–15 per skill), and they're best in Europe.
+- **Don't keep training the level 100.** At levels 90 to 110, sorcerers with magic level 70–79 sold for a median of 110 TC (100 sales), no more than the 224 TC of magic level 53–58, so hundreds of days of extra training don't pay.
+- **Low-level prices rest on few sales** (3–68 per skill), and they're best in Europe.
 
 ## How the numbers are made
 - **The route:** a day-by-day simulation with the sorcerer guide's model (its appendix) at the character's real level and skill. XP × the low level bonus × green stamina; skill from offline training only, with TibiaWiki's formulas (30 mana a minute offline, plus the mana spent hunting). The sorcerer model hasn't been checked against sorcerer hunts yet: its loot comes from the knights' tests, so treat the route as a first estimate.

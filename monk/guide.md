@@ -347,7 +347,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | 1 | 1 | ~125k–145k | ~35k–45k | Edron 237 / ~1.0 min | From level 160. Stay on the upper cyclops floors; behemoths deep. Sells: Battle Shield |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~140k–150k | ~145k–155k | Port Hope 76 / ~20 s | From level 170. Watch: Corym Vanguard hits 16% of HP. Sells: Cheese Cutter |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 1 | 1 | ~235k–300k | ~185k | Venore 98 / ~25 s | From level 180. [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) area; Teleport on the deepest floor of the Venore Corym Cave; talking to the Corym Ratter and the Corym Servant opens the mine, no need to finish the quest; run past the Corym on the way down to the Stonerefiners. Sells: Stonerefiner's Skull |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~145k–155k | ~90k | Thais 81 / ~20 s | From level 180. Watch: Goldhanded Cultist Bride hits 29% of HP. Sells: Broken Shamanic Staff |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~145k–155k | ~60k | Thais 81 / ~20 s | From level 180. Watch: Goldhanded Cultist Bride hits 29% of HP. Sells: Flask of Embalming Fluid |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 1 | 1 | ~160k–165k | ~40k | Carlin 77 / ~19 s | From level 190. Premium only; Entrance explained in the [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest); a tested 2026 route hunts it from level 70, after the rebalance. Watch: Cult Scholar hits 30% of HP. Sells: Might Ring |
 
 **Good for gold**
@@ -732,7 +732,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 2 | 2 | ~14k–17k | ~110k–135k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: Gnarlhound hits 23% of HP. Sells: Shaggy Tail. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 2 | 2 | ~18k–25k | ~25k–30k | Venore 645 / ~2.7 min | Watch: Wild Warrior hits 23% of HP, summoners, skip Slime (hits half your HP). Sells: Centipede Leg |
 
-#### Level 40–60 with a long trip (~81 hours to the next band)
+#### Level 40–60 with a long trip (~54 hours to the next band)
 
 **Good for XP**
 
@@ -741,9 +741,6 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 2 | 2 | ~45k–70k | ~18k–30k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: Gozzler hits 49% of HP. Sells: Stone Wing. With a Stealth Ring: Prep 1, Hunt 1 |
 | [Plains of Havoc (surface)](https://tibiamaps.io/map#32735,32297,7:2) | 2 | 2 | ~30k–75k | ~25k–45k | Venore 527 / ~2.2 min | Watch: Cyclops hits 21% of HP, summoners, skip Giant Spider (hits half your HP). Sells: Wyvern Talisman. With a Stealth Ring: Prep 1, Hunt 2 |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2.7 min | Watch: summoners, skip Slime (hits half your HP). Sells: Centipede Leg |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k | ~95k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With a Stealth Ring: Prep 0, Hunt 0 |
-| [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k | ~12k–13k | Thais 499 / ~2.1 min | From level 50. Sells: Honeycomb. With a Stealth Ring: Prep 0, Hunt 0 |
-| [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~25k | ~185k–210k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail. With a Stealth Ring: Prep 0, Hunt 0 |
 
 **Good for gold**
 
@@ -752,7 +749,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~17k–25k | ~135k–210k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~20k–30k | ~65k–95k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With a Stealth Ring: Prep 0, Hunt 0 |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2.7 min | Watch: summoners, skip Slime (hits half your HP). Sells: Centipede Leg |
-| [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 1 | 1 | ~30k | ~12k–13k | Thais 499 / ~2.1 min | From level 50. Sells: Honeycomb. With a Stealth Ring: Prep 0, Hunt 0 |
+| [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 2 | 2 | ~40k | ~115k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners, skip Lizard Zaogun (hits half your HP). Sells: Sandcrawler Shell |
 
 #### Level 60–80 with a long trip (~135 hours to the next band)
 
@@ -927,7 +924,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~125k–135k | ~135k–145k | Venore 108 / ~25 s |  |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **0** | 2 → **1** | ~100k–135k | ~85k–90k | Thais 81 / ~20 s |  |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **0** | 2 → **1** | ~100k–135k | ~60k | Thais 81 / ~20 s |  |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~85k–110k | ~170k–220k | Ab'Dendriel 84 / ~21 s |  |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k | ~145k | Port Hope 76 / ~20 s | From level 110 |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~125k | ~125k | Carlin 64 / ~15 s | From level 110 |
@@ -954,7 +951,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **0** | 2 → **1** | ~145k–165k | ~30k–40k | Carlin 77 / ~19 s | Plus a rare Might Ring (~14k) about once every 3 hours, not counted in Loot/h |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~140k–150k | ~145k–155k | Port Hope 76 / ~20 s |  |
 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 2 → **0** | 2 → **1** | ~145k–155k | ~75k–85k | Thais 270 / ~1.1 min | From level 170 |
-| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 2 → **1** | 2 → **1** | ~235k–255k | ~50k | Port Hope 331 / ~1.4 min | From level 180 |
+| [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 2 → **1** | 2 → **1** | ~235k–255k | ~45k–50k | Port Hope 331 / ~1.4 min | From level 180 |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 2 → **1** | 2 → **1** | ~190k–210k | ~95k–105k | Darashia 227 / ~0.9 min | From level 190 |
 
 **Good for gold**
@@ -1068,7 +1065,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~110k–140k | ~85k–90k | Thais 81 / ~20 s | Damage-reduction prey on Animated Ogre Brute, XP prey on Animated Ogre Savage |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~110k–140k | ~60k | Thais 81 / ~20 s | Damage-reduction prey on Animated Ogre Brute, XP prey on Animated Ogre Savage |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~180k–195k | Carlin 173 / ~45 s | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k–125k | ~170k–220k | Ab'Dendriel 84 / ~21 s | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k–115k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | From level 120. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
@@ -1083,7 +1080,8 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 |---|---|---|---|---|---|---|
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~180k–195k | Carlin 173 / ~45 s | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 → **0** | 1 → **0** | ~95k–125k | ~170k–220k | Ab'Dendriel 84 / ~21 s | Damage-reduction prey on Wilting Leaf Golem, XP prey on Forest Fury |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~110k–140k | ~85k–90k | Thais 81 / ~20 s | Damage-reduction prey on Animated Ogre Brute, XP prey on Animated Ogre Savage |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~110k–140k | ~60k | Thais 81 / ~20 s | Damage-reduction prey on Animated Ogre Brute, XP prey on Animated Ogre Savage |
+| [Edron Undead Cave](https://tibiamaps.io/map#33229,31764,7:2) | 2 → **1** | 2 → **1** | ~70k | ~65k | Edron 238 / ~1.0 min | From level 110. Damage-reduction prey on Vampire, XP prey on Ghoul |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 2 → **1** | 2 → **1** | ~60k | ~155k | Edron 129 / ~30 s | From level 120. Damage-reduction prey on Wyvern |
 | [Folda (surface)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~40k | ~120k | Carlin 196 / ~49 s, Nielson's boat to Folda, then 28 / ~7 s | From level 120. Damage-reduction prey on Wyvern, XP prey on Frost Troll |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k–115k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | From level 120. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
@@ -1100,7 +1098,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~225k–300k | ~185k | Venore 98 / ~25 s | Damage-reduction prey on Stonerefiner |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~150k–165k | ~145k–155k | Port Hope 76 / ~20 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~145k–155k | Venore 108 / ~25 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~90k | Thais 81 / ~20 s | From level 160. Damage-reduction prey on Goldhanded Cultist Bride, XP prey on Goldhanded Cultist |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~60k | Thais 81 / ~20 s | From level 160. Damage-reduction prey on Goldhanded Cultist Bride, XP prey on Goldhanded Cultist |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~160k–175k | ~35k–40k | Carlin 77 / ~19 s | From level 170. Damage-reduction prey on Cult Scholar, XP prey on Vile Grandmaster |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~105k–110k | ~250k–270k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 180. Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 180. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
@@ -1113,7 +1111,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~225k–300k | ~185k | Venore 98 / ~25 s | Damage-reduction prey on Stonerefiner |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~150k–165k | ~145k–155k | Port Hope 76 / ~20 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~145k–155k | Venore 108 / ~25 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~90k | Thais 81 / ~20 s | From level 160. Damage-reduction prey on Goldhanded Cultist Bride, XP prey on Goldhanded Cultist |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~60k | Thais 81 / ~20 s | From level 160. Damage-reduction prey on Goldhanded Cultist Bride, XP prey on Goldhanded Cultist |
 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 2 → **1** | 2 → **1** | ~90k | ~210k | Kazordoon 137 / ~34 s | From level 170. Gloom wolf days are great for money and bad for XP. Damage-reduction prey on Wyvern, XP prey on Poacher |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~195k–215k | Svargrond, on foot over the ice | From level 170. Damage-reduction prey on Mammoth, XP prey on Winter Wolf |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~105k–110k | ~250k–270k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 180. Damage-reduction prey on Haunted Treeling, XP prey on Wilting Leaf Golem |
@@ -1241,7 +1239,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~85k | ~45k | Kazordoon 14 / ~4 s | From level 160 |
 | [Elvenbane (surface to -1)](https://tibiamaps.io/map#32590,31645,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~45k | Ab'Dendriel 136 / ~34 s | From level 160. Still: summoners |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~230k–300k | ~185k | Venore 98 / ~25 s | From level 170 |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~140k–155k | ~90k | Thais 81 / ~20 s | From level 170 |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~140k–155k | ~60k | Thais 81 / ~20 s | From level 170 |
 | [Undead Cave (Mount Sternum, -4 to -7)](https://tibiamaps.io/map#32418,32017,11:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~80k–85k | Thais 286 / ~1.2 min | From level 170. Still: summoners |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~155k–165k | ~35k–40k | Carlin 77 / ~19 s | From level 180 |
 | [Ancient Ruins Tomb (-4 to -5)](https://tibiamaps.io/map#33207,32592,11:2) | 1 → **0** | 1 → **0** | ~60k–70k | ~55k–65k | Ankrahmun 326 / ~1.4 min | From level 180. Still: summoners |
@@ -1261,8 +1259,8 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Elvenbane (surface to -1)](https://tibiamaps.io/map#32590,31645,7:2) | 1 → **0** | 1 → **0** | ~55k–60k | ~45k | Ab'Dendriel 136 / ~34 s | From level 160. Still: summoners |
 | [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 2 → **1** | 2 → **1** | ~85k | ~45k | Kazordoon 14 / ~4 s | From level 160 |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~230k–300k | ~185k | Venore 98 / ~25 s | From level 170 |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 2 → **1** | 2 → **1** | ~140k–155k | ~90k | Thais 81 / ~20 s | From level 170 |
 | [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | 2 → **1** | 2 → **1** | ~95k–110k | ~80k–95k | Ankrahmun 21 / ~5 s | From level 170 |
+| [Undead Cave (Mount Sternum, -4 to -7)](https://tibiamaps.io/map#32418,32017,11:2) | 2 → **1** | 2 → **1** | ~120k–130k | ~80k–85k | Thais 286 / ~1.2 min | From level 170. Still: summoners |
 | [Green Claw Swamp](https://tibiamaps.io/map#32759,31989,7:2) | 1 → **0** | 1 → **0** | ~40k–45k | ~70k–75k | Kazordoon or Venore, in the swamp between them | From level 180. Still: summoners |
 | [Ancient Ruins Tomb (-4 to -5)](https://tibiamaps.io/map#33207,32592,11:2) | 1 → **0** | 1 → **0** | ~60k–70k | ~55k–65k | Ankrahmun 326 / ~1.4 min | From level 180. Still: summoners |
 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 2 → **1** | 2 → **1** | ~155k–165k | ~35k–40k | Carlin 77 / ~19 s | From level 180 |

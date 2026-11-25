@@ -345,7 +345,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 1 | 1 | ~135k–150k | ~140k–155k | Liberty Bay 82 / ~20 s | From level 160. Coryms below Liberty Bay. Watch: Corym Vanguard hits 23% of HP. Sells: Cheese Cutter |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 1 | 1 | ~135k–150k | ~135k–145k | Carlin 64 / ~15 s | From level 160. Coryms, like the Venore and Tiquanda Corym Caves. Watch: Corym Vanguard hits 23% of HP. Sells: Cheese Cutter |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 1 | 1 | ~145k–160k | ~155k–170k | Venore 108 / ~25 s | From level 170. Watch: Corym Vanguard hits 22% of HP. Sells: Cheese Cutter |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~145k–155k | ~155k–165k | Port Hope 76 / ~20 s | From level 180. Watch: Corym Vanguard hits 21% of HP. Sells: Cheese Cutter |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~145k–155k | ~150k–165k | Port Hope 76 / ~20 s | From level 180. Watch: Corym Vanguard hits 21% of HP. Sells: Cheese Cutter |
 
 **Good for gold**
 
@@ -365,7 +365,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 |---|---|---|---|---|---|---|
 | [Iksupan Last Stand](https://tibiamaps.io/map#34062,31706,9:2) | 0 | 0 | ~215k | ~60k | not computed |  |
 | [Iksupan Occupied Sanctuary](https://tibiamaps.io/map#34071,31484,11:2) | 0 | 0 | ~215k | ~60k | not computed |  |
-| [Bulltaur Lair](https://tibiamaps.io/map#32883,32363,8:2) | 0 | 0 | ~200k | ~70k | not computed |  |
+| [Bulltaur Lair](https://tibiamaps.io/map#32883,32363,8:2) | 0 | 0 | ~200k | ~65k | not computed |  |
 
 **Good for gold**
 
@@ -495,7 +495,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **0** | 3 → **0** | ~220k–240k | ~180k–195k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k–145k | ~130k–155k | Port Hope 76 / ~20 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 34% of HP. Sells: Cheese Cutter |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k–145k | ~130k–150k | Port Hope 76 / ~20 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 34% of HP. Sells: Cheese Cutter |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~120k–145k | ~130k–155k | Venore 108 / ~25 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 34% of HP. Sells: Cheese Cutter |
 
 **Good for gold**
@@ -514,7 +514,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **0** | 2 → **0** | ~240k–260k | ~195k | Venore 98 / ~25 s | Can't see you: Stonerefiner. Sells: Stonerefiner's Skull |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k–155k | ~155k–165k | Port Hope 76 / ~20 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 25% of HP. Sells: Cheese Cutter |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k–155k | ~150k–165k | Port Hope 76 / ~20 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 25% of HP. Sells: Cheese Cutter |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~155k–170k | Venore 108 / ~25 s | Can't see you: Corym Charlatan, Corym Skirmisher. Still: Corym Vanguard hits 25% of HP. Sells: Cheese Cutter |
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | 2 → **1** | 2 → **1** | ~200k–220k | ~180k–200k | Ankrahmun 250 / ~1.0 min | From level 170. Can't see you: Crypt Shambler. Sells: Flask of Embalming Fluid |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 2 → **1** | 2 → **1** | ~125k–135k | ~140k–150k | Edron + boat to Cormaya | From level 180. Can't see you: Leaf Golem, Wilting Leaf Golem. Still: Haunted Treeling hits 26% of HP. Sells: Dowser |
@@ -741,7 +741,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 1 | 1 | ~17k–25k | ~135k–190k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail. With invisibility: Prep 0, Hunt 0 |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~20k–30k | ~70k–105k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~20k–30k | ~70k–100k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2.7 min | Watch: summoners, skip Slime (hits half your HP). Sells: Centipede Leg |
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 2 | 2 | ~45k | ~125k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners, skip Lizard Zaogun (hits half your HP). Sells: Sandcrawler Shell |
 
@@ -752,7 +752,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 1 | 1 | ~65k | ~15k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k–35k | ~105k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k–35k | ~100k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
 | [Outlaw Camp](https://tibiamaps.io/map#32643,32222,7:2) | 0 | 0 | ~30k–35k | ~13k–15k | Thais 499 / ~2.1 min | Sells: Honeycomb |
 
 **Good for gold**
@@ -760,7 +760,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~190k–210k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail |
-| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k–35k | ~105k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
+| [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k–35k | ~100k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 1 | 1 | ~65k | ~15k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
 
 #### Level 80–100 with a long trip (~85 hours to the next band)
@@ -918,7 +918,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 → **0** | 1 → **0** | ~160k–175k | ~85k–95k | Ankrahmun 351 / ~1.5 min | Still: summoners |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k–145k | ~130k–155k | Port Hope 76 / ~20 s |  |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~125k–145k | ~130k–150k | Port Hope 76 / ~20 s |  |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~120k–145k | ~130k–155k | Venore 108 / ~25 s |  |
 
 **Good for gold**
@@ -937,7 +937,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 → **0** | 1 → **0** | ~175k–190k | ~95k–105k | Ankrahmun 351 / ~1.5 min | Still: summoners |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k–155k | ~155k–165k | Port Hope 76 / ~20 s |  |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~145k–155k | ~150k–165k | Port Hope 76 / ~20 s |  |
 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | 2 → **1** | 2 → **1** | ~145k–160k | ~155k–170k | Venore 108 / ~25 s |  |
 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 1 → **0** | 1 → **0** | ~130k–145k | ~45k–50k | Yalahar 192 / ~48 s, Maris's boat to Fenrock, then down through the Fenrock caves to Beregar (ore wagons once you've been there) | From level 170 |
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | 2 → **1** | 2 → **1** | ~200k–220k | ~185k–200k | Ankrahmun 250 / ~1.0 min | From level 180. Still: summoners |
@@ -1050,7 +1050,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k–110k | ~45k | Darashia 261 / ~1.1 min | Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~105k–110k | ~45k–50k | Darashia 261 / ~1.1 min | Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
 | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~50k–60k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 109 / ~27 s | Damage-reduction prey on Barbarian Bloodwalker, XP prey on Barbarian Headsplitter |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~85k–95k | ~225k–255k | Yalahar 95 / ~24 s | Damage-reduction prey on Elf Arcanist, XP prey on Elf Scout |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~110k–115k | ~80k–85k | Darashia 266 / ~1.1 min | From level 110. Damage-reduction prey on Shadow Pupil, XP prey on Demon Skeleton. Still: summoners |
@@ -1087,7 +1087,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~145k–155k | ~135k–145k | Carlin 64 / ~15 s | Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
 | [Foreigner Quarter (+1 to +2)](https://tibiamaps.io/map#32709,31308,6:2) | 2 → **1** | 2 → **1** | ~130k–145k | ~95k–105k | Yalahar 137 / ~34 s | From level 160. Damage-reduction prey on Pirate Marauder, XP prey on Pirate Buccaneer |
 | [Ferngrims Gate](https://tibiamaps.io/map#32780,31831,7:2) | 2 → **1** | 2 → **1** | ~80k | ~175k | Kazordoon 201 / ~50 s | From level 160. Damage-reduction prey on Wyvern, XP prey on Hunter |
-| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~160k–170k | ~155k–165k | Port Hope 76 / ~20 s | From level 170. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
+| [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 2 → **1** | 2 → **1** | ~160k–170k | ~150k–165k | Port Hope 76 / ~20 s | From level 170. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Larva Caves](https://tibiamaps.io/map#33072,32760,7:2) | 2 → **1** | 2 → **1** | ~130k–140k | ~35k | Ankrahmun 131 / ~33 s | From level 170. Damage-reduction prey on Scarab, XP prey on Larva. Still: summoners |
 | [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 2 → **1** | 2 → **1** | ~125k–135k | ~70k–80k | Ankrahmun 370 / ~1.5 min | From level 170. Damage-reduction prey on Scarab, XP prey on Ancient Scarab. Still: summoners |
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~240k–260k | ~195k | Venore 98 / ~25 s | From level 180. Damage-reduction prey on Stonerefiner |
@@ -1166,7 +1166,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 3 → **2** | 3 → **2** | ~95k–100k | ~55k–60k | Ankrahmun 370 / ~1.5 min | Still: summoners, skip Necromancer (hits half your HP) |
 | [Foreigner Quarter (surface)](https://tibiamaps.io/map#32709,31308,7:2) | 2 → **1** | 2 → **1** | ~60k | ~55k | Yalahar 137 / ~34 s |  |
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~105k–110k | ~60k–65k | Ankrahmun 170 / ~40 s | From level 90. Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Still: skip Clay Guardian (hits half your HP) |
-| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 3 → **2** | 3 → **2** | ~90k–100k | ~40k | Thais 83 / ~21 s, then down through the Ancient Temple | From level 90. Still: summoners, skip Dragon (hits half your HP) |
+| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 3 → **2** | 3 → **2** | ~90k–100k | ~35k–40k | Thais 83 / ~21 s, then down through the Ancient Temple | From level 90. Still: summoners, skip Dragon (hits half your HP) |
 
 **Good for gold**
 
@@ -1175,7 +1175,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Mother of Scarabs Lair](https://tibiamaps.io/map#33236,32577,7:2) | 3 → **2** | 3 → **2** | ~95k–100k | ~55k–60k | Ankrahmun 370 / ~1.5 min | Still: summoners, skip Necromancer (hits half your HP) |
 | [Foreigner Quarter (surface)](https://tibiamaps.io/map#32709,31308,7:2) | 2 → **1** | 2 → **1** | ~60k | ~55k | Yalahar 137 / ~34 s |  |
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~105k–110k | ~60k–65k | Ankrahmun 170 / ~40 s | From level 90. Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Still: skip Clay Guardian (hits half your HP) |
-| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 3 → **2** | 3 → **2** | ~90k–100k | ~40k | Thais 83 / ~21 s, then down through the Ancient Temple | From level 90. Still: summoners, skip Dragon (hits half your HP) |
+| [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 3 → **2** | 3 → **2** | ~90k–100k | ~35k–40k | Thais 83 / ~21 s, then down through the Ancient Temple | From level 90. Still: summoners, skip Dragon (hits half your HP) |
 
 #### Level 100–150 with the Wheel (~378 hours to the next band)
 
@@ -1183,7 +1183,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~45k | Darashia 261 / ~1.1 min |  |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~45k–50k | Darashia 261 / ~1.1 min |  |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~225k–255k | Yalahar 95 / ~24 s |  |
 | [Folda (surface)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~40k | ~120k | Carlin 196 / ~49 s, Nielson's boat to Folda, then 28 / ~7 s |  |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~100k–105k | ~80k–85k | Darashia 266 / ~1.1 min | From level 110. Still: summoners |
@@ -1202,7 +1202,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 |---|---|---|---|---|---|---|
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 2 → **1** | 2 → **1** | ~80k–90k | ~225k–255k | Yalahar 95 / ~24 s |  |
 | [Folda (surface)](https://tibiamaps.io/map#32020,31572,7:2) | 2 → **1** | 2 → **1** | ~40k | ~120k | Carlin 196 / ~49 s, Nielson's boat to Folda, then 28 / ~7 s |  |
-| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~45k | Darashia 261 / ~1.1 min |  |
+| [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~45k–50k | Darashia 261 / ~1.1 min |  |
 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 3 → **2** | 3 → **2** | ~80k–90k | ~170k–180k | Venore 207 / ~50 s | From level 110. Still: skip Dragon (hits half your HP) |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 2 → **1** | 2 → **1** | ~100k–105k | ~80k–85k | Darashia 266 / ~1.1 min | From level 110. Still: summoners |
 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 2 → **1** | 2 → **1** | ~65k | ~30k | Yalahar 137 / ~34 s | From level 110 |

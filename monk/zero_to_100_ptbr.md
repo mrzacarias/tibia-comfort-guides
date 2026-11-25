@@ -2,7 +2,7 @@
 
 Este guia leva um monk novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de monk](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo com Stealth Ring, terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **27 dias** (81 horas de hunt), com fist fighting por volta de 77. Um monk assim foi vendido por uma mediana de uns **300 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo com Stealth Ring, terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **27 dias** (81 horas de hunt), com fist fighting por volta de 77. Um monk assim foi vendido por uma mediana de uns **251 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -12,7 +12,7 @@ Este guia leva um monk novo da criação do personagem até o level 100 o mais r
 - **As hunts vêm das listas Bom para XP do guia de monk** (Seção 1, e Seção 1a com o ring): a cada dia, a melhor para o seu level e skill.
 
 ## Dia 0: crie o personagem
-1. **Escolha o mundo primeiro:** um mundo Optional PvP com BattlEye verde, na América do Sul ou na América do Norte. Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
+1. **Escolha o mundo primeiro:** um mundo com BattlEye verde, de preferência na América do Sul (o tipo de mundo muda o preço em menos de 10%). Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
 2. **Em Newhaven, a ilha inicial**, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest) antes de sair. Não dá para voltar.
 3. **Em Targuna, no level 8, treine offline primeiro:** use a Training Statue e deslogue por 12 horas. Isso leva o fist fighting de uns 16 para 43 e o shielding de 12 para 27, o que mais que dobra o seu dano.
 
@@ -53,7 +53,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 28,5 h | ~147k | ~171k |
 | 80–100 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | sim | 41,0 h | ~164k | ~98k |
 
-Isso dá level 100 no dia 33 em vez de 27, com fist fighting 79 (mais dias de treino). Sobra 10.3M de gold em vez de 8.2M, e rende menos TC por mês: uns 283 contra 322 (veja "Lucro").
+Isso dá level 100 no dia 33 em vez de 27, com fist fighting 79 (mais dias de treino). Sobra 10.3M de gold em vez de 8.2M, e rende menos TC por mês: uns 264 contra 322 (veja "Lucro").
 
 ### Sem o ring
 A rota é mais lenta e dá menos loot:
@@ -137,46 +137,45 @@ O ring é o mais rápido. Sem ele, a rota demora mais e sobra menos gold no fina
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
 
-Por quanto monks assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e fist fighting até 2 de diferença, todos os mundos):
+Por quanto monks assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e fist fighting até 2 de diferença, todos os mundos, nos últimos 12 meses):
 
 | Level | Fist | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
 | 53 (fim da semana 1) | 64 | 12 | 68 TC | 57–451 |
 | 71 (fim da semana 2) | 71 | 6 | 142 TC | 90–784 |
-| 86 (fim da semana 3) | 75 | 31 | 300 TC | 100–501 |
-| 100 (level 100) | 77 | 43 | 300 TC | 81–451 |
+| 86 (fim da semana 3) | 75 | 26 | 250 TC | 78–501 |
+| 100 (level 100) | 77 | 39 | 251 TC | 78–450 |
 
 O preço sobe até uns level 85 e fica parecido no 100; as vendas antes do 85 são poucas, então essa parte é aproximada. **Venda no level 100**: a rota chega no 85 só uma semana antes, e o level 100 tem muito mais compradores.
 
-O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (168 vendas):
+Quanto o mundo muda o preço: o preço de cada venda comparado com a mediana do level e skill dela (156 vendas; grupos de mundo com 30 ou mais):
 
 | Tipo de mundo | Vendas | Preço vs a mediana |
 |---|---|---|
-| BattlEye verde | 138 | ×1,00 |
+| BattlEye verde | 126 | ×1,00 |
 | BattlEye amarelo | 30 | ×0,84 |
-| Optional PvP | 60 | ×1,09 |
-| Retro Open PvP | 17 | ×1,03 |
-| Open PvP | 88 | ×0,98 |
-| América do Sul | 61 | ×1,10 |
-| América do Norte | 38 | ×1,10 |
-| Europa | 69 | ×0,93 |
+| Optional PvP | 56 | ×1,07 |
+| Open PvP | 81 | ×1,00 |
+| América do Sul | 54 | ×1,16 |
+| América do Norte | 38 | ×1,12 |
+| Europa | 64 | ×0,91 |
 
-**Crie o personagem em um mundo Optional PvP com BattlEye verde, na América do Sul ou na América do Norte.** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
+**Crie o personagem em um mundo com BattlEye verde, de preferência na América do Sul (o tipo de mundo muda o preço em menos de 10%).** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 38 | ~231 | ~182 | ~207 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 45 | ~258 | ~172 | ~192 |
-| 2 | Sem ring + tarefas semanais | 66 | ~97 | ~44 | ~55 |
-| 3 | Stealth Ring + tarefas semanais | 27 | ~290 | ~322 | ~366 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~312 | ~283 | ~315 |
-| 3 | Sem ring + tarefas semanais | 46 | ~119 | ~78 | ~97 |
-| 5 | Stealth Ring + tarefas semanais | 20 | ~382 | ~573 | ~648 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~414 | ~517 | ~568 |
-| 5 | Sem ring + tarefas semanais | 32 | ~148 | ~139 | ~172 |
+| 2 | Stealth Ring + tarefas semanais | 38 | ~227 | ~179 | ~208 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 45 | ~258 | ~172 | ~196 |
+| 2 | Sem ring + tarefas semanais | 66 | ~99 | ~45 | ~59 |
+| 3 | Stealth Ring + tarefas semanais | 27 | ~290 | ~322 | ~375 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 33 | ~290 | ~264 | ~297 |
+| 3 | Sem ring + tarefas semanais | 46 | ~119 | ~78 | ~101 |
+| 5 | Stealth Ring + tarefas semanais | 20 | ~341 | ~511 | ~583 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~411 | ~514 | ~574 |
+| 5 | Sem ring + tarefas semanais | 32 | ~127 | ~119 | ~153 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (fist fighting até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **322 TC por mês**, e uns 366 num mundo Optional PvP verde (×1,22).
+TC por personagem = 0,88 × o preço mediano no level 100 (fist fighting até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **322 TC por mês**, e uns 375 num mundo Optional PvP verde (×1,27).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -186,31 +185,31 @@ Fora da conta:
 Os preços variam bastante: metade das vendas cai numa faixa de 2 a 5 vezes de largura. Personagens vendidos muitas vezes têm extras que um novo não tem (outfits, montarias, charms). Use estes números como uma referência aproximada.
 
 ## Subir até o 100 ou ter um level 8 com skill alto?
-Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Monks de level baixo com fist fighting alto vendem, mas só a partir de uns fist 92, e o preço fica baixo até uns 104, depois sobe rápido (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos):
+Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Monks de level baixo com fist fighting alto vendem, mas só a partir de uns fist 92, e o preço fica baixo até uns 104, depois sobe rápido (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos, nos últimos 12 meses):
 
 | Skill | Dias de treino offline | Vendas | Mediana | TC depois das taxas | TC por dia |
 |---|---|---|---|---|---|
 | 92–93 | ~120 | 3 | 57 TC | nada | – |
-| 94–95 | ~146 | 3 | 101 TC | ~26 | 0,18 |
-| 96–97 | ~176 | 6 | 57 TC | nada | – |
-| 98–99 | ~213 | 10 | 57 TC | nada | – |
-| 100–101 | ~258 | 55 | 101 TC | ~26 | 0,10 |
-| 102–103 | ~312 | 19 | 113 TC | ~37 | 0,12 |
-| 104–105 | ~378 | 22 | 251 TC | ~158 | 0,42 |
-| 106–107 | ~457 | 20 | 364 TC | ~258 | 0,56 |
-| 108–109 | ~553 | 31 | 711 TC | ~563 | 1,02 |
+| 94–95 | ~146 | 67 | 101 TC | ~26 | 0,18 |
+| 96–97 | ~176 | 192 | 140 TC | ~61 | 0,34 |
+| 98–99 | ~213 | 236 | 198 TC | ~112 | 0,52 |
+| 100–101 | ~258 | 757 | 251 TC | ~158 | 0,61 |
+| 102–103 | ~312 | 312 | 251 TC | ~158 | 0,51 |
+| 104–105 | ~378 | 185 | 254 TC | ~161 | 0,43 |
+| 106–107 | ~457 | 120 | 501 TC | ~378 | 0,83 |
+| 108–109 | ~553 | 65 | 750 TC | ~598 | 1,08 |
 
 Os dias contam a partir de fist fighting 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
 - **Subir até o 100:** 27 dias e 81 horas de jogo, por uns 290 TC (a venda mais o gold que sobra). Uns 10,7 TC por dia.
-- **Um level 8 treinado até fist 110:** uns 669 dias de treino, por uns 1697 TC. Isso dá 2,54 TC por dia, umas 4 vezes menos, mas pede só umas 11 horas de login no total.
+- **Um level 8 treinado até fist 114:** uns 980 dias de treino, por uns 4338 TC. Isso dá 4,43 TC por dia, umas 2 vezes menos, mas pede só umas 16 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
-- **Não continue treinando o level 100.** Nos levels 90 a 110, monks com skill 100–109 foram vendidos por uma mediana de 251 TC (100 vendas), pouco mais que os 221 TC do skill 76–81, então centenas de dias de treino extra não compensam.
-- **Os preços de level baixo vêm de poucas vendas** (3–55 por skill), e são melhores na América do Sul.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, monks com skill 100–109 foram vendidos por uma mediana de 251 TC (100 vendas), pouco mais que os 204 TC do skill 76–81, então centenas de dias de treino extra não compensam.
+- **Os preços de level baixo vêm de poucas vendas** (3–757 por skill), e são melhores na América do Sul.
 
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de monk (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki (15 pontos de fist por minuto). O modelo de monk ainda não foi conferido com hunts de monk: o loot dele vem dos testes dos knights, então trate a rota como uma primeira estimativa.

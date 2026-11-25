@@ -290,7 +290,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 1 | 1 | ~70k | ~85k | Targuna, then Sterling's sea turtle (free) | Pirates; part of the [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest). Sells: Gold Tooth |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 1 | 1 | ~70k–80k | ~195k–230k | Yalahar 95 / ~24 s | Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: Elf Arcanist hits 23% of HP. Sells: Elvish Talisman |
 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 1 | 1 | ~95k | ~75k | Darashia 266 / ~1.1 min | From level 90. Watch: Shadow Pupil hits 38% of HP, summoners. Sells: Horoscope |
-| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 1 | 1 | ~85k | ~30k | Thais 221 / ~55 s | From level 90. Plus a rare Green Dragon Leather (~16k) about once every 5 hours, not counted in Loot/h |
+| [Mintwallin](https://tibiamaps.io/map#32447,32101,15:2) | 1 | 1 | ~85k | ~35k | Thais 221 / ~55 s | From level 90. Plus a rare Green Dragon Leather (~16k) about once every 5 hours, not counted in Loot/h |
 
 **Good for gold**
 
@@ -312,7 +312,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 | 1 | ~135k–160k | ~70k–85k | Ankrahmun 351 / ~1.5 min | Watch: Acolyte of the Cult hits 18% of HP, summoners. Sells: Rope Belt |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~110k–145k | ~95k–100k | Thais 81 / ~20 s | Watch: Animated Ogre Brute hits 29% of HP. Sells: Broken Shamanic Staff |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~110k–145k | ~65k–70k | Thais 81 / ~20 s | Watch: Animated Ogre Brute hits 29% of HP. Sells: Flask of Embalming Fluid |
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 1 | 1 | ~105k | ~175k | Yalahar 252 / ~1.1 min | Level 30 gate; novices and acolytes; Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: Novice of the Cult hits 24% of HP, mostly elemental damage, summoners. Sells: Rope Belt |
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 0 | 0 | ~110k | ~220k | Ab'Dendriel 84 / ~21 s | From level 130. Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: slows or summons. Sells: Elven Hoof |
 
@@ -335,7 +335,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | Hunting ground | Prep | Hunt | XP/h | Loot/h | Depot | Notes |
 |---|---|---|---|---|---|---|
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 | 1 | ~160k–175k | ~85k–95k | Ankrahmun 351 / ~1.5 min | Watch: summoners. Sells: Rope Belt |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~145k–170k | ~100k | Thais 81 / ~20 s | Watch: Goldhanded Cultist Bride hits 34% of HP. Sells: Broken Shamanic Staff |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 | 1 | ~145k–170k | ~70k | Thais 81 / ~20 s | Watch: Goldhanded Cultist Bride hits 34% of HP. Sells: Flask of Embalming Fluid |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 1 | 1 | ~125k–130k | ~235k–255k | Edron 269 / ~1.1 min | Ghouls, skeletons, mummies and crypt shamblers, near Stonehome. Sells: Flask of Embalming Fluid |
 | [Tarpit Tomb (-6 to -8)](https://tibiamaps.io/map#33233,32705,13:2) | 1 | 1 | ~130k–140k | ~170k–185k | Ankrahmun 241 / ~1.0 min | From level 170. Watch: summoners. Sells: Flask of Embalming Fluid |
 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 1 | 1 | ~155k–160k | ~160k–170k | Port Hope 76 / ~20 s | From level 180. Sells: Cheese Cutter |
@@ -915,7 +915,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 
 | Hunting ground | Prep | Hunt | XP/h (at least) | Loot/h (at least) | Depot | Notes |
 |---|---|---|---|---|---|---|
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **0** | 1 → **0** | ~110k–145k | ~95k–100k | Thais 81 / ~20 s |  |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **0** | 1 → **0** | ~110k–145k | ~65k–70k | Thais 81 / ~20 s |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–105k | ~205k–220k | Carlin 173 / ~45 s |  |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~85k–95k | ~105k–120k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s |  |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~105k–125k | ~205k–235k | Edron 269 / ~1.1 min | From level 110 |
@@ -942,7 +942,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 |---|---|---|---|---|---|---|
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 2 → **1** | 2 → **1** | ~270k–290k | ~180k | Venore 98 / ~25 s |  |
 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | 1 → **0** | 1 → **0** | ~160k–175k | ~85k–95k | Ankrahmun 351 / ~1.5 min | Still: summoners |
-| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **0** | 1 → **0** | ~145k–170k | ~100k | Thais 81 / ~20 s |  |
+| [Museum of Tibian Arts](https://tibiamaps.io/map#32394,32194,8:2) | 1 → **0** | 1 → **0** | ~145k–170k | ~70k | Thais 81 / ~20 s |  |
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 2 → **1** | 2 → **1** | ~210k | ~105k | Darashia 227 / ~0.9 min | From level 180 |
 
 **Good for gold**

@@ -2,7 +2,7 @@
 
 Este guia leva um paladin novo da criação do personagem até o level 100 o mais rápido que o conforto permite, e mostra quanto o personagem vale no Char Bazaar no final. Ele se apoia no [guia de paladin](guide_ptbr.md): as mesmas notas de conforto (só hunts com Preparo e Atenção 0 ou 1), as mesmas hunts e o mesmo modelo. Ele assume conta premium. Todo número é uma estimativa; a última parte explica como eles são feitos.
 
-**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo com Stealth Ring, terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **29 dias** (87 horas de hunt), com distance por volta de 81. Um paladin assim foi vendido por uma mediana de uns **365 TC**.
+**Resumindo:** cace 3 horas por dia e treine offline 12 horas por dia. Passe por Targuna, depois siga a rota abaixo com Stealth Ring, terminando nas Corym Mines, e faça a tarefa de matar Any Creature, que sai de graça, e só as entregas baratas. Isso dá level 100 em uns **29 dias** (87 horas de hunt), com distance por volta de 81. Um paladin assim foi vendido por uma mediana de uns **251 TC**.
 
 ## O que o plano assume
 - **3 horas de hunt por dia.** Todas com stamina verde (+50% de experiência): a stamina volta offline, e 21 horas offline por dia é mais do que as 18 horas que as últimas 3 horas dela pedem.
@@ -12,7 +12,7 @@ Este guia leva um paladin novo da criação do personagem até o level 100 o mai
 - **As hunts vêm das listas Bom para XP do guia de paladin** (Seção 1, e Seção 1a com o ring): a cada dia, a melhor para o seu level e skill.
 
 ## Dia 0: crie o personagem
-1. **Escolha o mundo primeiro:** um mundo Optional PvP com BattlEye verde, na América do Sul ou na Europa. Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
+1. **Escolha o mundo primeiro:** um mundo com BattlEye verde, de preferência na América do Norte (o tipo de mundo muda o preço em menos de 10%). Ele decide o preço depois (veja "Vendendo o personagem"), e mudar depois custa uma transferência de mundo.
 2. **Em Newhaven, a ilha inicial**, faça a [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1.600 de experiência e um Guardian Ring) e a [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest) antes de sair. Não dá para voltar.
 3. **Em Targuna, no level 8, treine offline primeiro:** use a Training Statue e deslogue por 12 horas. Isso leva o distance de uns 16 para 46 e o shielding de 12 para 36, o que mais que dobra o seu dano.
 
@@ -40,7 +40,7 @@ A Corym Mines é popular, e a rota acima assume que ela está livre nas suas 3 h
 |---|---|---|---|
 | 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) (ring): ~127k XP/h, ~13k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (ring): ~124k XP/h, ~56k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2) (ring): ~98k XP/h, ~47k gold/h |
 | 40–60 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~94k XP/h, ~75k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) (ring): ~93k XP/h, ~73k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~91k XP/h, ~119k gold/h |
-| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~134k XP/h, ~160k gold/h | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) (ring): ~114k XP/h, ~22k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~111k XP/h, ~87k gold/h |
+| 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~134k XP/h, ~160k gold/h | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) (ring): ~114k XP/h, ~23k gold/h | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~111k XP/h, ~87k gold/h |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) (ring): ~197k XP/h, ~41k gold/h | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) (ring): ~159k XP/h, ~91k gold/h | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) (ring): ~157k XP/h, ~186k gold/h |
 
 Os números são para o skill da rota em cada level. Se a Corym Mines estivesse ocupada todos os dias, a rota ficaria assim:
@@ -53,7 +53,7 @@ Os números são para o skill da rota em cada level. Se a Corym Mines estivesse 
 | 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | sim | 33,5 h | ~139k | ~160k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | sim | 38,5 h | ~186k | ~38k |
 
-Isso dá level 100 no dia 34 em vez de 29, com distance 83 (mais dias de treino). Sobra 7.5M de gold em vez de 9.1M, e rende menos TC por mês: uns 281 contra 398 (veja "Lucro").
+Isso dá level 100 no dia 34 em vez de 29, com distance 83 (mais dias de treino). Sobra 7.5M de gold em vez de 9.1M, e rende menos TC por mês: uns 281 contra 363 (veja "Lucro").
 
 ### Sem o ring
 A rota é mais lenta e dá menos loot:
@@ -136,48 +136,46 @@ O ring é o mais rápido. Sem ele, a rota demora mais e sobra menos gold no fina
 ## Vendendo o personagem
 No [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) o vendedor paga uma taxa de 50 TC para anunciar (perdida se o personagem não vender) e 12% do preço. Uma conta pode ter um leilão por vez, e as moedas de uma venda podem chegar como não transferíveis.
 
-Por quanto paladins assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e distance até 2 de diferença, todos os mundos):
+Por quanto paladins assim foram vendidos (leilões vendidos no exiva.pro, level até 10% diferente e distance até 2 de diferença, todos os mundos, nos últimos 12 meses):
 
 | Level | Distance | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
-| 54 (fim da semana 1) | 67 | 31 | 151 TC | 91–301 |
-| 69 (fim da semana 2) | 74 | 63 | 152 TC | 100–301 |
-| 81 (fim da semana 3) | 78 | 78 | 250 TC | 101–397 |
-| 98 (fim da semana 4) | 81 | 102 | 320 TC | 151–552 |
-| 100 (level 100) | 81 | 106 | 365 TC | 152–601 |
+| 54 (fim da semana 1) | 67 | 14 | 136 TC | 82–376 |
+| 69 (fim da semana 2) | 74 | 36 | 171 TC | 100–301 |
+| 81 (fim da semana 3) | 78 | 27 | 200 TC | 79–353 |
+| 98 (fim da semana 4) | 81 | 55 | 241 TC | 120–528 |
+| 100 (level 100) | 81 | 61 | 251 TC | 151–539 |
 
-O preço não cresce do level 50 até uns 70, e depois sobe: umas 2,4 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
+O preço não cresce do level 50 até uns 70, e depois sobe: umas 1,5 vezes a mediana de antes até o level 100. **Venda logo depois do level 100**, não no caminho.
 
-O mundo pesa tanto quanto o level. O preço de cada venda comparado com a mediana do level e skill dela (382 vendas):
+Quanto o mundo muda o preço: o preço de cada venda comparado com a mediana do level e skill dela (212 vendas; grupos de mundo com 30 ou mais):
 
 | Tipo de mundo | Vendas | Preço vs a mediana |
 |---|---|---|
-| BattlEye verde | 364 | ×1,00 |
-| BattlEye amarelo | 18 | ×0,42 |
-| Optional PvP | 109 | ×1,00 |
-| Retro Open PvP | 71 | ×1,00 |
-| Open PvP | 191 | ×0,94 |
-| Retro Hardcore PvP | 11 | ×0,80 |
-| América do Sul | 106 | ×1,01 |
-| Europa | 186 | ×1,00 |
-| América do Norte | 89 | ×0,88 |
+| BattlEye verde | 197 | ×1,00 |
+| Open PvP | 91 | ×1,00 |
+| Optional PvP | 80 | ×1,00 |
+| Retro Open PvP | 38 | ×0,87 |
+| América do Norte | 61 | ×1,20 |
+| Europa | 83 | ×0,98 |
+| América do Sul | 67 | ×0,89 |
 
-**Crie o personagem em um mundo Optional PvP com BattlEye verde, na América do Sul ou na Europa.** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
+**Crie o personagem em um mundo com BattlEye verde, de preferência na América do Norte (o tipo de mundo muda o preço em menos de 10%).** Nunca BattlEye amarelo. Termine o leilão à noite na região do mundo, não nas horas logo antes do server save, quando os preços são os mais baixos.
 
 ## Lucro
 | Horas por dia | Plano | Dias por personagem | TC por personagem | TC por mês | Num mundo Optional PvP verde |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + tarefas semanais | 41 | ~352 | ~258 | ~264 |
-| 2 | Ring + tarefas, Corym Mines sempre ocupada | 47 | ~316 | ~201 | ~207 |
-| 2 | Sem ring + tarefas semanais | 58 | ~290 | ~150 | ~155 |
-| 3 | Stealth Ring + tarefas semanais | 29 | ~385 | ~398 | ~408 |
-| 3 | Ring + tarefas, Corym Mines sempre ocupada | 34 | ~318 | ~281 | ~288 |
-| 3 | Sem ring + tarefas semanais | 42 | ~282 | ~201 | ~207 |
-| 5 | Stealth Ring + tarefas semanais | 21 | ~466 | ~666 | ~683 |
-| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~367 | ~459 | ~472 |
-| 5 | Sem ring + tarefas semanais | 30 | ~344 | ~344 | ~354 |
+| 2 | Stealth Ring + tarefas semanais | 41 | ~352 | ~258 | ~261 |
+| 2 | Ring + tarefas, Corym Mines sempre ocupada | 47 | ~316 | ~201 | ~204 |
+| 2 | Sem ring + tarefas semanais | 58 | ~258 | ~133 | ~135 |
+| 3 | Stealth Ring + tarefas semanais | 29 | ~351 | ~363 | ~368 |
+| 3 | Ring + tarefas, Corym Mines sempre ocupada | 34 | ~318 | ~281 | ~285 |
+| 3 | Sem ring + tarefas semanais | 42 | ~282 | ~201 | ~205 |
+| 5 | Stealth Ring + tarefas semanais | 21 | ~366 | ~523 | ~529 |
+| 5 | Ring + tarefas, Corym Mines sempre ocupada | 24 | ~341 | ~426 | ~433 |
+| 5 | Sem ring + tarefas semanais | 30 | ~310 | ~310 | ~314 |
 
-TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **398 TC por mês**, e uns 408 num mundo Optional PvP verde (×1,04).
+TC por personagem = 0,88 × o preço mediano no level 100 (distance até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **363 TC por mês**, e uns 368 num mundo Optional PvP verde (×1,02).
 
 Fora da conta:
 - **O tempo de premium.** Se você mantém premium só para isso, desconte.
@@ -187,38 +185,41 @@ Fora da conta:
 Os preços variam bastante: metade das vendas cai numa faixa de 2 a 5 vezes de largura. Personagens vendidos muitas vezes têm extras que um novo não tem (outfits, montarias, charms). Use estes números como uma referência aproximada.
 
 ## Subir até o 100 ou ter um level 8 com skill alto?
-Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Paladins de level baixo com distance alto vendem, mas só a partir de uns distance 92, e o preço cresce devagar e aos saltos a cada ponto (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos):
+Outra forma de fazer um personagem que vale a pena vender é deixar ele no level 8 e só treinar offline: sem hunt, só um login por dia para começar as próximas 12 horas. Paladins de level baixo com distance alto vendem, mas só a partir de uns distance 92, e o preço cresce devagar e aos saltos a cada ponto (leilões vendidos no exiva.pro, levels 8 a 20, todos os mundos, nos últimos 12 meses):
 
 | Skill | Dias de treino offline | Vendas | Mediana | TC depois das taxas | TC por dia |
 |---|---|---|---|---|---|
 | 92–93 | ~90 | 3 | 57 TC | nada | – |
-| 94–95 | ~109 | 3 | 300 TC | ~202 | 1,85 |
-| 96–97 | ~132 | 4 | 57 TC | nada | – |
-| 98–99 | ~160 | 9 | 100 TC | ~26 | 0,16 |
-| 100–101 | ~193 | 17 | 61 TC | nada | – |
-| 102–103 | ~234 | 8 | 58 TC | nada | – |
-| 104–105 | ~283 | 27 | 150 TC | ~70 | 0,25 |
-| 106–107 | ~343 | 15 | 111 TC | ~35 | 0,10 |
-| 108–109 | ~415 | 19 | 251 TC | ~158 | 0,38 |
-| 110–111 | ~502 | 25 | 251 TC | ~158 | 0,32 |
-| 112–113 | ~607 | 34 | 263 TC | ~169 | 0,28 |
-| 114–115 | ~735 | 21 | 269 TC | ~174 | 0,24 |
-| 116–117 | ~889 | 10 | 236 TC | ~145 | 0,16 |
-| 118–119 | ~1076 | 9 | 1001 TC | ~818 | 0,76 |
-| 120–121 | ~1302 | 6 | 1501 TC | ~1258 | 0,97 |
-| 122–123 | ~1575 | 3 | 3501 TC | ~3018 | 1,92 |
+| 94–95 | ~109 | 23 | 62 TC | nada | – |
+| 96–97 | ~132 | 58 | 60 TC | nada | – |
+| 98–99 | ~160 | 90 | 62 TC | nada | – |
+| 100–101 | ~193 | 330 | 100 TC | ~26 | 0,13 |
+| 102–103 | ~234 | 230 | 100 TC | ~26 | 0,11 |
+| 104–105 | ~283 | 315 | 121 TC | ~44 | 0,16 |
+| 106–107 | ~343 | 292 | 134 TC | ~55 | 0,16 |
+| 108–109 | ~415 | 305 | 200 TC | ~114 | 0,27 |
+| 110–111 | ~502 | 425 | 250 TC | ~158 | 0,31 |
+| 112–113 | ~607 | 331 | 249 TC | ~157 | 0,26 |
+| 114–115 | ~735 | 303 | 301 TC | ~202 | 0,28 |
+| 116–117 | ~889 | 237 | 501 TC | ~378 | 0,43 |
+| 118–119 | ~1076 | 184 | 701 TC | ~554 | 0,52 |
+| 120–121 | ~1302 | 181 | 1382 TC | ~1154 | 0,89 |
+| 122–123 | ~1575 | 66 | 2162 TC | ~1840 | 1,17 |
+| 124–125 | ~1906 | 54 | 3060 TC | ~2631 | 1,38 |
+| 126–127 | ~2306 | 21 | 3556 TC | ~3067 | 1,33 |
+| 128–129 | ~2790 | 6 | 7200 TC | ~6274 | 2,25 |
 
 Os dias contam a partir de distance 16, com 12 horas por dia. TC depois das taxas = 0,88 × a mediana − a taxa de 50 TC (contando 1 em 5 leilões sem venda).
 
 Lado a lado:
-- **Subir até o 100:** 29 dias e 87 horas de jogo, por uns 385 TC (a venda mais o gold que sobra). Uns 13,3 TC por dia.
-- **Um level 8 treinado até distance 110:** uns 502 dias de treino, por uns 158 TC. Isso dá 0,32 TC por dia, umas 42 vezes menos, mas pede só umas 8 horas de login no total.
+- **Subir até o 100:** 29 dias e 87 horas de jogo, por uns 351 TC (a venda mais o gold que sobra). Uns 12,1 TC por dia.
+- **Um level 8 treinado até distance 110:** uns 502 dias de treino, por uns 158 TC. Isso dá 0,31 TC por dia, umas 39 vezes menos, mas pede só umas 8 horas de login no total.
 
 Então subir de level é a renda, e um level 8 treinado é um extra passivo:
 - **Treine vários ao mesmo tempo.** Personagens da mesma conta podem treinar offline juntos, cada um com o seu login diário, e todos usam o premium da conta. Na conta que você já usa para subir personagens, eles não custam premium a mais.
 - **Espace as vendas.** Uma conta só pode ter um leilão por vez.
-- **Não continue treinando o level 100.** Nos levels 90 a 110, paladins com skill 105–114 foram vendidos por uma mediana de 200 TC (100 vendas), não mais que os 302 TC do skill 80–85, então centenas de dias de treino extra não compensam.
-- **Os preços de level baixo vêm de poucas vendas** (3–34 por skill), e são melhores na América do Sul.
+- **Não continue treinando o level 100.** Nos levels 90 a 110, paladins com skill 105–114 foram vendidos por uma mediana de 200 TC (100 vendas), não mais que os 266 TC do skill 80–85, então centenas de dias de treino extra não compensam.
+- **Os preços de level baixo vêm de poucas vendas** (3–425 por skill), e são melhores na Oceania.
 
 ## Como os números são feitos
 - **A rota:** uma simulação dia a dia com o modelo do guia de paladin (o apêndice dele) no level e skill reais do personagem. XP × o bônus de level baixo × a stamina verde; skill só do treino offline, com as fórmulas da TibiaWiki (12 pontos de distance por minuto). O modelo de paladin ainda não foi conferido com hunts de paladin: o loot dele vem dos testes dos knights, então trate a rota como uma primeira estimativa.

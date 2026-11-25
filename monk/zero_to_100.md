@@ -2,7 +2,7 @@
 
 This guide takes a new monk from character creation to level 100 as fast as comfort allows, and shows what the character is worth on the Char Bazaar at the end. It builds on the [monk guide](guide.md): the same comfort grades (only hunting grounds with Prep and Hunt of 0 or 1), the same hunting grounds and the same model. It assumes a premium account. Every number is an estimate; the last part explains how they're made.
 
-**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then follow the route below with a Stealth Ring, ending in Corym Mines, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **27 days** (81 hours of hunting), with fist fighting about 77. A monk like that has sold for a median of about **300 TC**.
+**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then follow the route below with a Stealth Ring, ending in Corym Mines, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **27 days** (81 hours of hunting), with fist fighting about 77. A monk like that has sold for a median of about **251 TC**.
 
 ## What the plan assumes
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
@@ -12,7 +12,7 @@ This guide takes a new monk from character creation to level 100 as fast as comf
 - **The hunting grounds come from the monk guide's Good for XP lists** (Section 1, and Section 1a with the ring): each day, the best one for your level and skill.
 
 ## Day 0: create the character
-1. **Pick the world first:** a world with Optional PvP and green BattlEye, in South America or North America. It decides the price later (see "Selling the character"), and moving later costs a world transfer.
+1. **Pick the world first:** a world with green BattlEye, ideally in South America (the world type changes the price by less than 10%). It decides the price later (see "Selling the character"), and moving later costs a world transfer.
 2. **On Newhaven, the starting island**, do the [Newhaven Quest](https://tibia.fandom.com/wiki/Newhaven_Quest) (1,600 experience and a Guardian Ring) and the [Newhaven Legion Helmet Quest](https://tibia.fandom.com/wiki/Newhaven_Legion_Helmet_Quest) before you leave. You can't go back.
 3. **On Targuna, at level 8, train offline first:** use the Training Statue and log out for 12 hours. That takes fist fighting from about 16 to 43 and shielding from 12 to 27, which more than doubles your damage.
 
@@ -53,7 +53,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 28.5 h | ~147k | ~171k |
 | 80–100 | [Venore Corym Cave](https://tibiamaps.io/map#33073,32085,7:2) | yes | 41.0 h | ~164k | ~98k |
 
-That's level 100 on day 33 instead of 27, with fist fighting 79 (more days of training). It leaves 10.3M of gold instead of 8.2M, and makes less TC per month: about 283 against 322 (see "Profit").
+That's level 100 on day 33 instead of 27, with fist fighting 79 (more days of training). It leaves 10.3M of gold instead of 8.2M, and makes less TC per month: about 264 against 322 (see "Profit").
 
 ### Without the ring
 The route is slower and loots less:
@@ -137,46 +137,45 @@ The ring is the fastest. Without it, the route takes longer and leaves less gold
 ## Selling the character
 On the [Char Bazaar](https://www.tibia.com/charactertrade/?subtopic=currentcharactertrades) the seller pays a 50 TC fee to list (lost if the character doesn't sell) and 12% of the price. An account can have one auction at a time, and the coins from a sale may arrive as non-transferable.
 
-What monks like this sold for (sold auctions on exiva.pro, levels within 10% and fist fighting within 2, all worlds):
+What monks like this sold for (sold auctions on exiva.pro, levels within 10% and fist fighting within 2, all worlds, the last 12 months):
 
 | Level | Fist | Sales | Median | Middle half |
 |---|---|---|---|---|
 | 53 (end of week 1) | 64 | 12 | 68 TC | 57–451 |
 | 71 (end of week 2) | 71 | 6 | 142 TC | 90–784 |
-| 86 (end of week 3) | 75 | 31 | 300 TC | 100–501 |
-| 100 (level 100) | 77 | 43 | 300 TC | 81–451 |
+| 86 (end of week 3) | 75 | 26 | 250 TC | 78–501 |
+| 100 (level 100) | 77 | 39 | 251 TC | 78–450 |
 
 The price climbs until about level 85 and is about the same at 100; the sales before 85 are few, so that part is rough. **Sell at level 100**: the route reaches 85 only a week earlier, and level 100 has many more buyers.
 
-The world matters as much as the level. Each sale's price compared with the median for its level and skill (168 sales):
+How much the world changes the price: each sale's price compared with the median for its level and skill (156 sales; world groups with 30 or more):
 
 | World type | Sales | Price vs the median |
 |---|---|---|
-| Green BattlEye | 138 | ×1.00 |
+| Green BattlEye | 126 | ×1.00 |
 | Yellow BattlEye | 30 | ×0.84 |
-| Optional PvP | 60 | ×1.09 |
-| Retro Open PvP | 17 | ×1.03 |
-| Open PvP | 88 | ×0.98 |
-| South America | 61 | ×1.10 |
-| North America | 38 | ×1.10 |
-| Europe | 69 | ×0.93 |
+| Optional PvP | 56 | ×1.07 |
+| Open PvP | 81 | ×1.00 |
+| South America | 54 | ×1.16 |
+| North America | 38 | ×1.12 |
+| Europe | 64 | ×0.91 |
 
-**Create the character on a world with Optional PvP and green BattlEye, in South America or North America.** Never yellow BattlEye. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
+**Create the character on a world with green BattlEye, ideally in South America (the world type changes the price by less than 10%).** Never yellow BattlEye. Also end the auction in the evening of the world's region, not in the hours just before server save, when prices are lowest.
 
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + weekly tasks | 38 | ~231 | ~182 | ~207 |
-| 2 | Ring + tasks, Corym Mines always taken | 45 | ~258 | ~172 | ~192 |
-| 2 | No ring + weekly tasks | 66 | ~97 | ~44 | ~55 |
-| 3 | Stealth Ring + weekly tasks | 27 | ~290 | ~322 | ~366 |
-| 3 | Ring + tasks, Corym Mines always taken | 33 | ~312 | ~283 | ~315 |
-| 3 | No ring + weekly tasks | 46 | ~119 | ~78 | ~97 |
-| 5 | Stealth Ring + weekly tasks | 20 | ~382 | ~573 | ~648 |
-| 5 | Ring + tasks, Corym Mines always taken | 24 | ~414 | ~517 | ~568 |
-| 5 | No ring + weekly tasks | 32 | ~148 | ~139 | ~172 |
+| 2 | Stealth Ring + weekly tasks | 38 | ~227 | ~179 | ~208 |
+| 2 | Ring + tasks, Corym Mines always taken | 45 | ~258 | ~172 | ~196 |
+| 2 | No ring + weekly tasks | 66 | ~99 | ~45 | ~59 |
+| 3 | Stealth Ring + weekly tasks | 27 | ~290 | ~322 | ~375 |
+| 3 | Ring + tasks, Corym Mines always taken | 33 | ~290 | ~264 | ~297 |
+| 3 | No ring + weekly tasks | 46 | ~119 | ~78 | ~101 |
+| 5 | Stealth Ring + weekly tasks | 20 | ~341 | ~511 | ~583 |
+| 5 | Ring + tasks, Corym Mines always taken | 24 | ~411 | ~514 | ~574 |
+| 5 | No ring + weekly tasks | 32 | ~127 | ~119 | ~153 |
 
-TC per character = 0.88 × the median price at level 100 (fist fighting within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **322 TC a month**, and about 366 on an Optional PvP, green world (×1.22).
+TC per character = 0.88 × the median price at level 100 (fist fighting within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **322 TC a month**, and about 375 on an Optional PvP, green world (×1.27).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -186,31 +185,31 @@ Not counted:
 Prices scatter a lot: half of the sales fall in a range 2 to 5 times wide. Sold characters often carry extras a fresh one doesn't have (outfits, mounts, charms). Treat these numbers as a rough guide.
 
 ## Should I raise to 100 or have a level 8 with high skill?
-Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. Low-level monks with high fist fighting do sell, but only from about fist 92, and the price stays low until about 104, then climbs fast (sold auctions on exiva.pro, levels 8 to 20, all worlds):
+Another way to make a character worth selling is to leave it at level 8 and only train it offline: no hunting, just one login a day to start the next 12 hours. Low-level monks with high fist fighting do sell, but only from about fist 92, and the price stays low until about 104, then climbs fast (sold auctions on exiva.pro, levels 8 to 20, all worlds, the last 12 months):
 
 | Skill | Days of offline training | Sales | Median | TC after fees | TC per day |
 |---|---|---|---|---|---|
 | 92–93 | ~120 | 3 | 57 TC | nothing | – |
-| 94–95 | ~146 | 3 | 101 TC | ~26 | 0.18 |
-| 96–97 | ~176 | 6 | 57 TC | nothing | – |
-| 98–99 | ~213 | 10 | 57 TC | nothing | – |
-| 100–101 | ~258 | 55 | 101 TC | ~26 | 0.10 |
-| 102–103 | ~312 | 19 | 113 TC | ~37 | 0.12 |
-| 104–105 | ~378 | 22 | 251 TC | ~158 | 0.42 |
-| 106–107 | ~457 | 20 | 364 TC | ~258 | 0.56 |
-| 108–109 | ~553 | 31 | 711 TC | ~563 | 1.02 |
+| 94–95 | ~146 | 67 | 101 TC | ~26 | 0.18 |
+| 96–97 | ~176 | 192 | 140 TC | ~61 | 0.34 |
+| 98–99 | ~213 | 236 | 198 TC | ~112 | 0.52 |
+| 100–101 | ~258 | 757 | 251 TC | ~158 | 0.61 |
+| 102–103 | ~312 | 312 | 251 TC | ~158 | 0.51 |
+| 104–105 | ~378 | 185 | 254 TC | ~161 | 0.43 |
+| 106–107 | ~457 | 120 | 501 TC | ~378 | 0.83 |
+| 108–109 | ~553 | 65 | 750 TC | ~598 | 1.08 |
 
 Days count from fist fighting 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
 - **Raising to 100:** 27 days and 81 hours of play, for about 290 TC (the sale plus the gold left). About 10.7 TC per day.
-- **A level 8 trained to fist 110:** about 669 days of training, for about 1697 TC. That's 2.54 TC per day, about 4 times less, but it needs only about 11 hours of logins in total.
+- **A level 8 trained to fist 114:** about 980 days of training, for about 4338 TC. That's 4.43 TC per day, about 2 times less, but it needs only about 16 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
 - **Space out the sales.** An account can have only one auction at a time.
-- **Don't keep training the level 100.** At levels 90 to 110, monks with skill 100–109 sold for a median of 251 TC (100 sales), barely more than the 221 TC of skill 76–81, so hundreds of days of extra training don't pay.
-- **Low-level prices rest on few sales** (3–55 per skill), and they're best in South America.
+- **Don't keep training the level 100.** At levels 90 to 110, monks with skill 100–109 sold for a median of 251 TC (100 sales), barely more than the 204 TC of skill 76–81, so hundreds of days of extra training don't pay.
+- **Low-level prices rest on few sales** (3–757 per skill), and they're best in South America.
 
 ## How the numbers are made
 - **The route:** a day-by-day simulation with the monk guide's model (its appendix) at the character's real level and skill. XP × the low level bonus × green stamina; skill from offline training only, with TibiaWiki's formulas (15 fist points a minute). The monk model hasn't been checked against monk hunts yet: its loot comes from the knights' tests, so treat the route as a first estimate.
