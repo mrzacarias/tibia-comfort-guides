@@ -7,7 +7,7 @@ A régua é uma hunt testada: um knight level 99 com Basic Vampirism e Basic Voi
 ## Resumindo
 - A melhor XP confortável por hora, crua: uns **132k no level 100, 330k no 200, 353k no 300, 436k no 400, 785k no 500, 816k no 600 e 925k no 800**. O loot vai de uns 377k a 647k por hora nas melhores hunts de gold.
 - O kit: **Basic Vampirism e Basic Void** abaixo do level 200, uns 4k por hora, e a partir do 200 **um segundo Basic Void na arma** (6% de mana leech), uns 6k por hora. Os imbuements Powerful custariam uns 53k por hora (veja a comparação no fim).
-- Subir de level assim fica lento: a XP por hora cresce bem mais devagar que a experiência que um level pede. O título de cada faixa mostra as horas de hunt crua até a próxima faixa nas melhores hunts de XP; stamina verde, prey e as weekly tasks cortam muito disso. Quem fala em milhões de XP por hora faz box grande com todas as magias de área e bebe poção sem parar.
+- Subir de level assim fica lento: a XP por hora cresce bem mais devagar que a experiência que um level pede. O título de cada faixa mostra as horas de hunt crua até a próxima faixa nas melhores hunts de XP; stamina verde, prey e as weekly tasks cortam muito disso. Quem fala em milhões de XP por hora faz box grande com todas as magias de área e bebe poção sem parar: isso é o [Box hunt no 90+](box_hunting_90_ptbr.md).
 - Cada faixa começa com as hunts que ela **libera**: confortáveis naquele level, não na faixa anterior.
 
 ## O que é confortável aqui

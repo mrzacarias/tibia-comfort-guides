@@ -7,7 +7,7 @@ The yardstick is a tested hunt: a level 99 knight with Basic Vampirism and Basic
 ## The short version
 - The best comfortable XP per hour, raw: about **132k at level 100, 330k at 200, 353k at 300, 436k at 400, 785k at 500, 816k at 600 and 925k at 800**. Loot runs from about 377k to 647k per hour at the best gold hunting grounds.
 - The kit: **Basic Vampirism and Basic Void** below level 200, about 4k an hour, and from 200 **a second Basic Void on the weapon** (6% mana leech), about 6k an hour. Powerful imbuements would cost about 53k an hour (see the comparison at the end).
-- Levelling this way gets slow: XP per hour grows much slower than the experience a level needs. Each band's title shows the hours of raw hunting to the next band at the best XP hunting grounds; green stamina, prey and the weekly tasks cut that a lot. Players who report millions of XP per hour box big groups with every area spell and drink potions nonstop.
+- Levelling this way gets slow: XP per hour grows much slower than the experience a level needs. Each band's title shows the hours of raw hunting to the next band at the best XP hunting grounds; green stamina, prey and the weekly tasks cut that a lot. Players who report millions of XP per hour box big groups with every area spell and drink potions nonstop: that's [Box hunting at 90+](box_hunting_90.md).
 - Each band starts with the hunting grounds it **unlocks**: comfortable at that level, not at the band before.
 
 ## What comfortable means here
