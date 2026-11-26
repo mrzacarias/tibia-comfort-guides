@@ -63,7 +63,7 @@ No-potion version: [main guide, Level 80–100](guide.md#level-80100-92-hours-to
 | [Golem Workshop](https://tibiamaps.io/map#32943,31953,10:2) | [see TibiaWiki](https://tibia.fandom.com/wiki/Golem_Workshop) | 1 | 273k | 65k | 55k | 10k | – | Monsters: [Enraged Crystal Golem](https://tibia.fandom.com/wiki/Enraged_Crystal_Golem). Pulls of about 3.1 (up to 5). |
 | [Cyclopolis (Edron)](https://tibiamaps.io/map#33251,31698,7:2) | Edron 237 / ~1.0 min | 1 | 157k–165k | 49k–52k | 30k | 19k | +60% | Monsters: [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Cyclops Drone](https://tibia.fandom.com/wiki/Cyclops_Drone), [Cyclops Smith](https://tibia.fandom.com/wiki/Cyclops_Smith), [Dwarf Soldier](https://tibia.fandom.com/wiki/Dwarf_Soldier), [Fire Elemental](https://tibia.fandom.com/wiki/Fire_Elemental), [Dwarf Guard](https://tibia.fandom.com/wiki/Dwarf_Guard), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Dragon](https://tibia.fandom.com/wiki/Dragon), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout), [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Elf Arcanist](https://tibia.fandom.com/wiki/Elf_Arcanist), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader). Stay on the upper cyclops floors; behemoths deep Pulls of about 3.7 (up to 6). Health potions: Health Potion. |
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | Liberty Bay 82 / ~20 s | 1 | 150k–155k | 156k–161k | 39k | 118k | +56% | Monsters: [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Vanguard](https://tibia.fandom.com/wiki/Corym_Vanguard), [Bat](https://tibia.fandom.com/wiki/Bat), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Amazon](https://tibia.fandom.com/wiki/Amazon), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Lizard Sentinel](https://tibia.fandom.com/wiki/Lizard_Sentinel), [Kongra](https://tibia.fandom.com/wiki/Kongra), [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Priestess](https://tibia.fandom.com/wiki/Priestess), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch). Coryms below Liberty Bay Pulls of about 3.3 (up to 4). |
-| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | Edron + boat to Cormaya | 1 | 142k–145k | 157k–160k | 36k | 121k | – | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Deer](https://tibia.fandom.com/wiki/Deer), [Emerald Damselfly](https://tibia.fandom.com/wiki/Emerald_Damselfly), [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Marsh Stalker](https://tibia.fandom.com/wiki/Marsh_Stalker). Leaf golems and haunted treelings; Elven Hoofs, like Forest Fury Camp Pulls of about 3.0 (up to 4). Health potions: Health Potion. |
+| [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | Edron + boat to Cormaya | 1 | 142k–145k | 157k–160k | 35k | 121k | – | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Deer](https://tibia.fandom.com/wiki/Deer), [Emerald Damselfly](https://tibia.fandom.com/wiki/Emerald_Damselfly), [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Marsh Stalker](https://tibia.fandom.com/wiki/Marsh_Stalker). Leaf golems and haunted treelings; Elven Hoofs, like Forest Fury Camp Pulls of about 3.0 (up to 4). Health potions: Health Potion. |
 | [Treasure Island (-1 to -3)](https://tibiamaps.io/map#32156,32948,8:2) | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (for the caverns). Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | 1 | 141k–144k | 276k–283k | 33k | 244k | – | Monsters: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). The caverns need the Treasure Island Quest each visit Pulls of about 3.4 (up to 6). Health potions: Health Potion. |
 
 **Best for gold**
@@ -123,7 +123,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 150–200](comfort_s
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 2 | 162k–187k | 333k–384k | 43k | 290k | – | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords Pulls of about 4.0 (up to 5). |
 
 ### Level 200–250 (~171 hours to 250)
-No-potion version: [Comfortable solo hunting at 100+, Level 200–250](comfort_solo_100.md#level-200250-471-hours-to-250).
+No-potion version: [Comfortable solo hunting at 100+, Level 200–250](comfort_solo_100.md#level-200250-439-hours-to-250).
 
 **Best for XP**
 
@@ -146,7 +146,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 200–250](comfort_s
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | Edron 269 / ~1.1 min | 0 | 178k–180k | 347k–351k | 21k | 326k | +46% | Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Blue Djinn](https://tibia.fandom.com/wiki/Blue_Djinn), [Vampire](https://tibia.fandom.com/wiki/Vampire). Ghouls, skeletons, mummies and crypt shamblers, near Stonehome Pulls of about 4.8 (up to 6). |
 
 ### Level 250–300 (~229 hours to 300)
-No-potion version: [Comfortable solo hunting at 100+, Level 250–300](comfort_solo_100.md#level-250300-643-hours-to-300).
+No-potion version: [Comfortable solo hunting at 100+, Level 250–300](comfort_solo_100.md#level-250300-586-hours-to-300).
 
 **Best for XP**
 
@@ -169,7 +169,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 250–300](comfort_s
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 188k–189k | 386k–389k | 39k | 347k | +40% | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords Pulls of about 4.5 (up to 6). |
 
 ### Level 300–350 (~282 hours to 350)
-No-potion version: [Comfortable solo hunting at 100+, Level 300–350](comfort_solo_100.md#level-300350-774-hours-to-350).
+No-potion version: [Comfortable solo hunting at 100+, Level 300–350](comfort_solo_100.md#level-300350-714-hours-to-350).
 
 **Best for XP**
 
@@ -192,7 +192,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 300–350](comfort_s
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | Gray Beach 140 / ~35 s | 2 | 754k–878k | 530k–617k | 97k | 432k | – | Monsters: [Spitter](https://tibia.fandom.com/wiki/Spitter), [Waspoid](https://tibia.fandom.com/wiki/Waspoid), [Crawler](https://tibia.fandom.com/wiki/Crawler), [Spidris](https://tibia.fandom.com/wiki/Spidris), [Insectoid Worker](https://tibia.fandom.com/wiki/Insectoid_Worker), [Kollos](https://tibia.fandom.com/wiki/Kollos), [Swarmer](https://tibia.fandom.com/wiki/Swarmer), [Ladybug](https://tibia.fandom.com/wiki/Ladybug), [Lesser Swarmer](https://tibia.fandom.com/wiki/Lesser_Swarmer), [Spidris Elite](https://tibia.fandom.com/wiki/Spidris_Elite), [Hive Pore](https://tibia.fandom.com/wiki/Hive_Pore), [Floor Blob](https://tibia.fandom.com/wiki/Floor_Blob), [Hive Overseer](https://tibia.fandom.com/wiki/Hive_Overseer). Pulls of about 3.2 (up to 2). Health potions: Health Potion. |
 
 ### Level 350–400 (~337 hours to 400)
-No-potion version: [Comfortable solo hunting at 100+, Level 350–400](comfort_solo_100.md#level-350400-948-hours-to-400).
+No-potion version: [Comfortable solo hunting at 100+, Level 350–400](comfort_solo_100.md#level-350400-873-hours-to-400).
 
 **Best for XP**
 
@@ -215,7 +215,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 350–400](comfort_s
 | [Forbidden Temple (Ankrahmun, -3 to -4)](https://tibiamaps.io/map#33315,32675,10:2) | Ankrahmun 351 / ~1.5 min | 3 | 347k | 573k | 49k | 524k | – | Monsters: [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Enlightened of the Cult](https://tibia.fandom.com/wiki/Enlightened_of_the_Cult), [Lizard Templar](https://tibia.fandom.com/wiki/Lizard_Templar), [Lizard Snakecharmer](https://tibia.fandom.com/wiki/Lizard_Snakecharmer), [Cobra](https://tibia.fandom.com/wiki/Cobra). Pulls of about 5.6 (up to 6). |
 
 ### Level 400–450 (~417 hours to 450)
-No-potion version: [Comfortable solo hunting at 100+, Level 400–450](comfort_solo_100.md#level-400450-1180-hours-to-450).
+No-potion version: [Comfortable solo hunting at 100+, Level 400–450](comfort_solo_100.md#level-400450-1073-hours-to-450).
 
 **Best for XP**
 
@@ -238,7 +238,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 400–450](comfort_s
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), mission The Curse Spreads | 3 | 1.2M | 656k–693k | 109k | 547k | – | Monsters: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls of about 3.0 (up to 4). Health potions: Health Potion. |
 
 ### Level 450–500 (~466 hours to 500)
-No-potion version: [Comfortable solo hunting at 100+, Level 450–500](comfort_solo_100.md#level-450500-1230-hours-to-500).
+No-potion version: [Comfortable solo hunting at 100+, Level 450–500](comfort_solo_100.md#level-450500-1190-hours-to-500).
 
 **Best for XP**
 

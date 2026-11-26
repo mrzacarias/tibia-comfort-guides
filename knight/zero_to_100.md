@@ -195,8 +195,8 @@ How much the world changes the price: each sale's price compared with the median
 | 3 | Ring + tasks, Corym Mines always taken | 39 | ~372 | ~286 | ~298 |
 | 3 | No ring + weekly tasks | 40 | ~351 | ~263 | ~274 |
 | 5 | Stealth Ring + weekly tasks | 18 | ~487 | ~811 | ~850 |
-| 5 | Ring + tasks, Corym Mines always taken | 28 | ~512 | ~549 | ~568 |
-| 5 | No ring + weekly tasks | 28 | ~502 | ~538 | ~556 |
+| 5 | Ring + tasks, Corym Mines always taken | 28 | ~507 | ~543 | ~562 |
+| 5 | No ring + weekly tasks | 28 | ~483 | ~517 | ~536 |
 
 TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **498 TC a month**, and about 523 on an Optional PvP, green world (×1.07).
 
