@@ -233,6 +233,31 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 | [20 Years a Cook Quest](https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest) | 350+ |  | Bulltaur Lair, Nimmersatt's Breeding Ground | 6 | 300 |
 | [The Roost of the Graveborn Quest](https://tibia.fandom.com/wiki/The_Roost_of_the_Graveborn_Quest) | 450 / 450 |  | Forgotten Crypt, Unhallowed Crypt | 5 | 500 |
 
+## Dinheiro além da hunt
+Formas de ganhar gold além do loot da hunt. Os preços são o preço do meio no Market de três mundos grandes (novembro de 2026): a **buy offer** é o que você recebe vendendo na hora, a **sell offer** o que pedem os vendedores pacientes. Os preços mudam muito entre mundos, então confira os do seu antes de investir. O Market fica com 2% de toda oferta que você cria; vender para uma buy offer que já existe não custa nada.
+
+### Recompensas de quest que vendem (uma vez por personagem)
+- **[Secret Service Quest](https://tibia.fandom.com/wiki/Secret_Service_Quest)** (level 50, 60+ sugerido; está na checklist Comprehensive): a multitool vende por ~410–670k para buy offers e ~0,9–1,4M com sell offer (a Squeezing Gear of Girlpower é a que mais vende). Cada personagem faz um ramo, então cada um pode fazer uma.
+- **[Koshei the Deathless Quest](https://tibia.fandom.com/wiki/Koshei_the_Deathless_Quest)** (level 40, 70+ sugerido, Darashia): escolha o Koshei's Ancient Amulet (~100k em buy offer, ~200k em sell offer) ou as Blue Legs (~90k / ~240k).
+
+### Trocas repetíveis (desbloqueie uma vez)
+- **Blessed Wooden Stake** ([The Blessed Stake Quest](https://tibia.fandom.com/wiki/The_Blessed_Stake_Quest) e Access to Meriana): o Chondur abençoa mais uma stake por semana. Uma Wooden Stake de 5.000 gold do Gamon vira ~40k numa buy offer, ~90k com sell offer.
+- **Obsidian Knife extra** ([Obsidian Knife Quest](https://tibia.fandom.com/wiki/Obsidian_Knife_Quest), a cada 20 horas): um Dragon Shield (~4k) e uma Obsidian Lance (~0,5k) dão uma faca que vale ~7k na hora ou ~30k com sell offer (poucas vendem por mês).
+- **Spool of Yarn** ([The Mermaid Marina Quest](https://tibia.fandom.com/wiki/The_Mermaid_Marina_Quest): 50 Honeycombs uma vez): a Marina troca 10 Spider Silk (~0,8k em buy offer, ~1,2k em sell offer) por um spool (~11k em buy offer, ~28k em sell offer). Comprar e vender na hora dá prejuízo; com buy offers para as silks e sell offer para o spool rende até ~19k por spool, mas só algumas dezenas de spools vendem por mês num mundo.
+- **Tirar ferrugem** (Flask of Rust Remover, 50 gold com o Harog depois da [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest)): limpe as suas armaduras, legs, capacetes e escudos enferrujados em vez de vendê-los: em média uma peça vale 0,5–1,2k limpa contra 0,2–0,8k enferrujada, mesmo com cerca de um terço quebrando. Comprar peças enferrujadas para limpar rende só ~0,3–1k cada.
+
+### Coleta e tasks diárias
+- **Pesca no gelo** (pick, fishing rod e worms; gelo rachado perto de Svargrond, a maior parte em Nibelor): abra uma rachadura com a pick e pesque um peixe nela; ela congela de novo depois de 15 minutos. 2–3% das pescas são Northern Pikes (~110k em buy offer).
+- Tasks da **[Dangerous Depths Quest](https://tibia.fandom.com/wiki/Dangerous_Depths_Quest)** (level 100, 200 sugerido; Gnomus, Klom Stonecutter e Lardoc Bashsmite no Gnome Deep Hub, a cada 20 horas): cada task dá uma Surprise Jar, duas com o objetivo extra. Uma jar vale ~22k em média (Blue Gem 42%, Silver Token 26%, Violet Gem 14%, Suspicious Device 10%, Gold Token 8%; tokens ~48k).
+- **Skinning e dusting** (Obsidian Knife, Blessed Wooden Stake): Green Dragon Leather ~13k, Vampire Dust ~7k, Red Dragon Leather ~2,9k, Demon Dust ~2,7k.
+- **Honeycomb** (Wasps e Bears): ~5k cada e mais de 700 compradas por mês num mundo, bom dinheiro em level baixo.
+
+### Vendendo
+- **Nunca venda estes para NPCs**, o Market paga muito mais: Might Ring (~16k contra 0,2k), Stone Skin Amulet (~13,5k contra 0,5k), Collar of Red Plasma (~26k contra 6k), Northern Pike (~110k contra 0,1k), e a maioria dos produtos de criatura: Gloom Wolf Fur ~23k, Green Dragon Leather ~13k, Vampire Dust ~7k, Medicine Pouch ~6k, Honeycomb ~5k, Protective Charm ~2,8k.
+- **Alguns NPCs pagam mais que o Market**, então confira antes de vender: Lightning Legs (Rashid 11k contra ~9,5k em buy offer), Relic Sword (Rashid 25k contra ~20k), Mercenary Sword (Rashid 12k contra ~9k), Young Lich Worm (Yasir 25k contra ~19k), Hexagonal Ruby (Valindara 30k contra ~26k), Giant Sword (Alesar 17k contra ~14,6k), Butcher's Axe (Nah'bob 18k contra ~16k). O Rashid só compra depois que você ganha a confiança dele ([The Travelling Trader Quest](https://tibia.fandom.com/wiki/The_Travelling_Trader_Quest)) e fica numa cidade diferente a cada dia; Alesar e Yaman pedem o lado Efreet da [The Djinn War](https://tibia.fandom.com/wiki/The_Djinn_War_-_Efreet_Faction), Nah'bob e Haroun o [lado Marid](https://tibia.fandom.com/wiki/The_Djinn_War_-_Marid_Faction).
+- **Revenda:** as mesmas diferenças funcionam ao contrário. Crie buy offers abaixo do que um NPC paga e venda para o NPC: uma Relic Sword ou um Young Lich Worm deixa ~5k cada depois da taxa. As diferenças mudam todo dia, então confira o seu mundo.
+- **Momento:** os preços sobem quando os jogadores têm mais gold para gastar (dias de Yasir), e itens de evento vendem melhor perto do evento (ingredientes e pratos da Hot Cuisine em agosto).
+
 ## O caminho, de 50 em 50 levels
 Cada faixa lista as criaturas cujo level cai nela, as que dão mais Charm Points por hora primeiro. **Level** é onde caçar a criatura faz sentido (o apêndice explica como ele é definido); **Kills/h** conta só aquela criatura naquela hunt, e **Horas** é o tempo para completá-la ali. As outras criaturas que você mata no caminho contam para as páginas delas. "?" quer dizer que o modelo não tem estimativa.
 
