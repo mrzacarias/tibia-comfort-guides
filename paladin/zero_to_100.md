@@ -23,7 +23,7 @@ This guide takes a new paladin from character creation to level 100 as fast as c
 | 20–40 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | yes | 9.5 h | ~59k | ~54k |
 | 40–60 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | yes | 21.5 h | ~72k | ~119k |
 | 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 30.5 h | ~93k | ~160k |
-| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 25.5 h | ~186k | ~124k |
+| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 25.0 h | ~186k | ~123k |
 
 XP/h is raw (no low level bonus or green stamina bonus); the hours and days count green stamina's +50% (all 3 hours a day are green). Gold/h is loot minus potions, ammunition and rings, with Market prices.
 
@@ -53,7 +53,7 @@ The numbers are for the route's skill at each level. If Corym Mines were taken e
 | 60–80 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | yes | 30.5 h | ~93k | ~160k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | yes | 39.0 h | ~124k | ~38k |
 
-That's level 100 on day 35 instead of 30, with distance 83 (more days of training). It leaves 7.8M of gold instead of 9.5M, and makes less TC per month: about 278 against 360 (see "Profit").
+That's level 100 on day 35 instead of 30, with distance 83 (more days of training). It leaves 7.9M of gold instead of 9.6M, and makes less TC per month: about 280 against 362 (see "Profit").
 
 ### Without the ring
 The route is slower and loots less:
@@ -126,9 +126,9 @@ Skills are after each day's training. Once a route reaches level 100, its column
 ## Which plan
 | Plan | Level 100 on day | Hours hunted | Distance at 100 | Deliveries handed in | Gold left |
 |---|---|---|---|---|---|
-| Stealth Ring + weekly tasks | 30 | 90 | 81 | ~9 | 9.5M |
-| Ring + tasks, Corym Mines always taken | 35 | 105 | 83 | ~8 | 7.8M |
-| Stealth Ring only | 33 | 99 | 82 | – | 11.3M |
+| Stealth Ring + weekly tasks | 30 | 90 | 81 | ~9 | 9.6M |
+| Ring + tasks, Corym Mines always taken | 35 | 105 | 83 | ~8 | 7.9M |
+| Stealth Ring only | 33 | 99 | 82 | – | 11.4M |
 | No ring + weekly tasks | 45 | 135 | 85 | ~6 | 6.8M |
 | No ring, no tasks | 49 | 147 | 86 | – | 8.3M |
 
@@ -167,16 +167,16 @@ How much the world changes the price: each sale's price compared with the median
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
 | 2 | Stealth Ring + weekly tasks | 43 | ~357 | ~249 | ~252 |
-| 2 | Ring + tasks, Corym Mines always taken | 49 | ~320 | ~196 | ~199 |
-| 2 | No ring + weekly tasks | 63 | ~275 | ~131 | ~133 |
-| 3 | Stealth Ring + weekly tasks | 30 | ~360 | ~360 | ~365 |
-| 3 | Ring + tasks, Corym Mines always taken | 35 | ~324 | ~278 | ~282 |
-| 3 | No ring + weekly tasks | 45 | ~302 | ~201 | ~204 |
-| 5 | Stealth Ring + weekly tasks | 22 | ~381 | ~519 | ~525 |
-| 5 | Ring + tasks, Corym Mines always taken | 25 | ~354 | ~425 | ~431 |
+| 2 | Ring + tasks, Corym Mines always taken | 49 | ~319 | ~195 | ~198 |
+| 2 | No ring + weekly tasks | 63 | ~273 | ~130 | ~132 |
+| 3 | Stealth Ring + weekly tasks | 30 | ~362 | ~362 | ~367 |
+| 3 | Ring + tasks, Corym Mines always taken | 35 | ~326 | ~280 | ~284 |
+| 3 | No ring + weekly tasks | 45 | ~302 | ~202 | ~204 |
+| 5 | Stealth Ring + weekly tasks | 22 | ~383 | ~522 | ~528 |
+| 5 | Ring + tasks, Corym Mines always taken | 25 | ~356 | ~427 | ~433 |
 | 5 | No ring + weekly tasks | 32 | ~317 | ~297 | ~301 |
 
-TC per character = 0.88 × the median price at level 100 (distance within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **360 TC a month**, and about 365 on an Optional PvP, green world (×1.02).
+TC per character = 0.88 × the median price at level 100 (distance within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **362 TC a month**, and about 367 on an Optional PvP, green world (×1.02).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -213,7 +213,7 @@ Another way to make a character worth selling is to leave it at level 8 and only
 Days count from distance 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 30 days and 90 hours of play, for about 360 TC (the sale plus the gold left). About 12.0 TC per day.
+- **Raising to 100:** 30 days and 90 hours of play, for about 362 TC (the sale plus the gold left). About 12.1 TC per day.
 - **A level 8 trained to distance 110:** about 502 days of training, for about 158 TC. That's 0.31 TC per day, about 38 times less, but it needs only about 8 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:

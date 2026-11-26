@@ -96,18 +96,18 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 97k–106k | 245k–267k | 0k | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 53k–63k | 231k–274k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 200–250 (~292 horas até o 250)
-**Novas hunts neste level** (confortáveis agora, não no 150): Replica Dungeon (330k XP, 68k loot), Yielothax Dimension (295k XP, 124k loot), Dragonblaze Peaks (superfície) (256k XP, 121k loot), Edron Dragon Lair (231k XP, 126k loot), Astral Shaper Dungeon (210k XP, 148k loot), Darashia Dragon Lair (-3) (206k XP, 104k loot).
+### Level 200–250 (~285 horas até o 250)
+**Novas hunts neste level** (confortáveis agora, não no 150): Replica Dungeon (330k XP, 68k loot), Yielothax Dimension (307k XP, 129k loot), Astral Shaper Dungeon (263k XP, 185k loot), Dragonblaze Peaks (superfície) (256k XP, 121k loot), Edron Dragon Lair (231k XP, 126k loot), Darashia Dragon Lair (-3) (206k XP, 104k loot).
 
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
 |---|---|---|---|---|---|---|
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | Port Hope 331 / ~1.4 min | 1 | 330k–332k | 68k | 0k | Monstros: [Diamond Servant Replica](https://tibia.fandom.com/wiki/Diamond_Servant_Replica), [Golden Servant Replica](https://tibia.fandom.com/wiki/Golden_Servant_Replica), [Iron Servant Replica](https://tibia.fandom.com/wiki/Iron_Servant_Replica). |
-| [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) até a missão 2 (Farmine, depois o portal no topo da torre do Raging Mage no sul de Zao) | 1 | 295k–372k | 124k–157k | 0k | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax). Pergunte a um Guide NPC sobre a Mage Tower antes de ir. |
+| [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) até a missão 2 (Farmine, depois o portal no topo da torre do Raging Mage no sul de Zao) | 1 | 307k–372k | 129k–157k | 0k | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax). Pergunte a um Guide NPC sobre a Mage Tower antes de ir. |
 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 0 | 263k–266k | 66k–67k | 0k | Monstros: [Killer Caiman](https://tibia.fandom.com/wiki/Killer_Caiman). |
+| [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 1 | 263k–273k | 185k–192k | 0k | Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). |
 | [Dragonblaze Peaks (superfície)](https://tibiamaps.io/map#33228,31305,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 256k | 121k | 0k | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Dragon Hatchling](https://tibia.fandom.com/wiki/Dragon_Hatchling), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord). |
-| [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) (iniciada: fale com o Corym Ratter e o Corym Servant). Venore 98 / ~25 s | 1 | 236k–241k | 131k–134k | 0k | Monstros: [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner). |
 
 **Melhores para gold**
 
@@ -143,7 +143,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k | 276k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
 ### Level 300–350 (~476 horas até o 350)
-**Novas hunts neste level** (confortáveis agora, não no 250): Fibula Dungeon (-3) (293k XP, 106k loot), Edron Bog Raider Cave (221k XP, 122k loot), Crystal Gardens (219k XP, 187k loot), Old Masonry (-1 a -2) (210k XP, 73k loot), Factory Quarter (-1 a -2) (208k XP, 36k loot), Stampor Cave (124k XP, 49k loot).
+**Novas hunts neste level** (confortáveis agora, não no 250): Fibula Dungeon (-3) (293k XP, 106k loot), Crystal Gardens (262k XP, 225k loot), Edron Bog Raider Cave (241k XP, 133k loot), Old Masonry (-1 a -2) (218k XP, 76k loot), Factory Quarter (-1 a -2) (208k XP, 36k loot), Stampor Cave (124k XP, 49k loot).
 
 **Melhores para XP**
 
@@ -166,7 +166,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k–69k | 276k–301k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
 ### Level 350–400 (~582 horas até o 400)
-**Novas hunts neste level** (confortáveis agora, não no 300): Ramoa (232k XP, 101k loot), Nibelor Crystal Spiders (232k XP, 90k loot), Formorgar Glacier Crystal Spiders (212k XP, 116k loot), Edron Earth Elemental Cave (-2) (198k XP, 97k loot), Formorgar Glacier (frost trolls, mammoths) (166k XP, 63k loot), Forbidden Lands (superfície) (161k XP, 129k loot).
+**Novas hunts neste level** (confortáveis agora, não no 300): Nibelor Crystal Spiders (274k XP, 106k loot), Ramoa (232k XP, 101k loot), Formorgar Glacier Crystal Spiders (229k XP, 126k loot), Edron Earth Elemental Cave (-2) (198k XP, 97k loot), Formorgar Glacier (frost trolls, mammoths) (167k XP, 64k loot), Forbidden Lands (superfície) (161k XP, 129k loot).
 
 **Melhores para XP**
 
@@ -189,7 +189,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 69k | 301k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
 ### Level 400–450 (~716 horas até o 450)
-**Novas hunts neste level** (confortáveis agora, não no 350): Yakchal Crypt (301k XP, 50k loot), Malada (-1 a -3) (204k XP, 121k loot), Talahu (-1 a -3) (202k XP, 109k loot), Mad Mage Room (102k XP, 44k loot).
+**Novas hunts neste level** (confortáveis agora, não no 350): Yakchal Crypt (332k XP, 55k loot), Malada (-1 a -3) (204k XP, 121k loot), Talahu (-1 a -3) (203k XP, 109k loot), Mad Mage Room (102k XP, 44k loot).
 
 **Melhores para XP**
 
@@ -211,16 +211,16 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 1 | 436k–470k | 308k–332k | 0k | Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). |
 
-### Level 450–500 (~793 horas até o 500)
-**Novas hunts neste level** (confortáveis agora, não no 400): Dragonblaze Peaks (+3 a +6) (450k XP, 65k loot), Venore Dragon Lair (284k XP, 87k loot), Ancient Ruins Tomb (-6 a -8) (152k XP, 150k loot).
+### Level 450–500 (~762 horas até o 500)
+**Novas hunts neste level** (confortáveis agora, não no 400): Dragonblaze Peaks (+3 a +6) (600k XP, 87k loot), Venore Dragon Lair (284k XP, 87k loot), Ancient Ruins Tomb (-6 a -8) (152k XP, 150k loot).
 
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
 |---|---|---|---|---|---|---|
+| [Dragonblaze Peaks (+3 a +6)](https://tibiamaps.io/map#33228,31305,4:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 600k | 87k | 0k | Monstros: [Frost Dragon](https://tibia.fandom.com/wiki/Frost_Dragon), [Frost Dragon Hatchling](https://tibia.fandom.com/wiki/Frost_Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord). O respawn é o limite. |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) até a missão 2 (Farmine, depois o portal no topo da torre do Raging Mage no sul de Zao) | 0 | 528k–542k | 222k–228k | 0k | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax). Pergunte a um Guide NPC sobre a Mage Tower antes de ir. |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 0 | 470k–561k | 332k–395k | 0k | Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). |
-| [Dragonblaze Peaks (+3 a +6)](https://tibiamaps.io/map#33228,31305,4:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 450k–557k | 65k–81k | 0k | Monstros: [Frost Dragon](https://tibia.fandom.com/wiki/Frost_Dragon), [Frost Dragon Hatchling](https://tibia.fandom.com/wiki/Frost_Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord). O respawn é o limite. |
 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | Port Hope 331 / ~1.4 min | 0 | 390k–445k | 80k–91k | 0k | Monstros: [Diamond Servant Replica](https://tibia.fandom.com/wiki/Diamond_Servant_Replica), [Golden Servant Replica](https://tibia.fandom.com/wiki/Golden_Servant_Replica), [Iron Servant Replica](https://tibia.fandom.com/wiki/Iron_Servant_Replica). |
 | [Fibula Dungeon (-3)](https://tibiamaps.io/map#32171,32440,10:2) | Thais 232 / ~58 s, through the Fibula Tunnel to Fibula | 1 | 380k–383k | 138k–139k | 0k | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton). O respawn é o limite. |
 
@@ -234,8 +234,8 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 48k | 327k–331k | 0k | Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). O respawn é o limite. |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). |
 
-### Level 500–600 (~1.386 horas até o 600)
-**Novas hunts neste level** (confortáveis agora, não no 450): Sea Serpent Area (785k XP, 154k loot), Pits of Inferno Dragon Lair (704k XP, 137k loot), Fenrock Dragon Lair (690k XP, 105k loot), Darashia Dragon Lair (-4) (653k XP, 112k loot), Okolnir frost dragons (596k XP, 83k loot), Seacrest Grounds (591k XP, 147k loot).
+### Level 500–600 (~1.397 horas até o 600)
+**Novas hunts neste level** (confortáveis agora, não no 450): Sea Serpent Area (785k XP, 154k loot), Pits of Inferno Dragon Lair (704k XP, 137k loot), Fenrock Dragon Lair (690k XP, 105k loot), Darashia Dragon Lair (-4) (653k XP, 112k loot), Okolnir frost dragons (599k XP, 83k loot), Seacrest Grounds (591k XP, 147k loot).
 
 **Melhores para XP**
 
@@ -245,7 +245,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Pits of Inferno Dragon Lair](https://tibiamaps.io/map#32788,32335,12:2) | [The Pits of Inferno Quest](https://tibia.fandom.com/wiki/The_Pits_of_Inferno_Quest) (primeiras missões). Venore 580 / ~2.4 min | 1 | 704k–816k | 137k–159k | 0k | Espada: Winterblade (gelo). Monstros: [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon](https://tibia.fandom.com/wiki/Dragon). |
 | [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) (iniciada). Yalahar 192 / ~48 s, Maris's boat to Fenrock | 1 | 690k–769k | 105k–117k | 0k | Espada: Winterblade (gelo). Monstros: [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling). |
 | [Darashia Dragon Lair (-4)](https://tibiamaps.io/map#33264,32277,11:2) | Darashia 227 / ~0.9 min | 1 | 653k–692k | 112k–118k | 0k | Espada: Winterblade (gelo). Monstros: [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord). |
-| [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel). Svargrond 63 / ~16 s, Buddel's boat to Okolnir, then 34 / ~8 s | 1 | 596k–737k | 83k–103k | 0k | Espada: Gnome Sword (energia). Monstros: [Frost Dragon](https://tibia.fandom.com/wiki/Frost_Dragon), [Frost Dragon Hatchling](https://tibia.fandom.com/wiki/Frost_Dragon_Hatchling), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
+| [Dragonblaze Peaks (+3 a +6)](https://tibiamaps.io/map#33228,31305,4:2) | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores). Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | 1 | 600k–674k | 87k–98k | 0k | Espada: Gnome Sword (energia). Monstros: [Frost Dragon](https://tibia.fandom.com/wiki/Frost_Dragon), [Frost Dragon Hatchling](https://tibia.fandom.com/wiki/Frost_Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord). |
 
 **Melhores para gold**
 
@@ -258,7 +258,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 169k–172k | 348k–355k | 0k | Espada: Summerblade (fogo). Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 
 ### Level 600–800 (~4.150 horas até o 800)
-**Novas hunts neste level** (confortáveis agora, não no 500): Forbidden Lands (-1 a -3) (484k XP, 156k loot), Kha'zeel Dragon Lairs (417k XP, 132k loot), Underground Glooth Factory (Rathleton, superfície a -1) (408k XP, 234k loot), Underground Glooth Factory (Rathleton, -6 a -8) (395k XP, 151k loot).
+**Novas hunts neste level** (confortáveis agora, não no 500): Underground Glooth Factory (Rathleton, superfície a -1) (507k XP, 290k loot), Forbidden Lands (-1 a -3) (484k XP, 156k loot), Kha'zeel Dragon Lairs (480k XP, 152k loot), Underground Glooth Factory (Rathleton, -6 a -8) (470k XP, 180k loot).
 
 **Melhores para XP**
 
@@ -281,7 +281,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 172k–191k | 355k–393k | 0k | Espada: Summerblade (fogo). Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 
 ### Level 800+
-**Novas hunts neste level** (confortáveis agora, não no 600): Sunken Temple (921k XP, 251k loot), Temple of Equilibrium (681k XP, 265k loot), Fire Dragon Dojo (628k XP, 244k loot), Factory Quarter (-3 a -5) (530k XP, 186k loot), Misguided Camp (509k XP, 93k loot), Edron Orc Cave (Orc Cult) (443k XP, 274k loot).
+**Novas hunts neste level** (confortáveis agora, não no 600): Sunken Temple (921k XP, 251k loot), Temple of Equilibrium (681k XP, 265k loot), Fire Dragon Dojo (628k XP, 244k loot), Edron Orc Cave (Orc Cult) (565k XP, 350k loot), Glooth Factory (537k XP, 187k loot), Factory Quarter (-3 a -5) (530k XP, 186k loot).
 
 **Melhores para XP**
 

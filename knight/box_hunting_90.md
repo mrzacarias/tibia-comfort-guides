@@ -54,7 +54,7 @@ Combat Mastery adds 1% damage for every 12% of health the target is missing (abo
 Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot at Market prices. XP and loot show the band's first and last level; the rest is for its first level. **Potions/h** is the mana and health potions the model expects, **Profit/h** the loot minus potions (the imbuements cost another ~6k an hour). The XP list takes each hunting ground's pull size with the most XP, the gold list the one with the most profit.
 
 ### Level 90–100 (~17 hours to 100)
-No-potion version: [main guide, Level 80–100](guide.md#level-80100-92-hours-to-the-next-band).
+No-potion version: [main guide, Level 80–100](guide.md#level-80100-61-hours-to-the-next-band).
 
 **Best for XP**
 
@@ -123,7 +123,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 150–200](comfort_s
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 2 | 162k–187k | 333k–384k | 43k | 290k | – | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords Pulls of about 4.0 (up to 5). |
 
 ### Level 200–250 (~114 hours to 250)
-No-potion version: [Comfortable solo hunting at 100+, Level 200–250](comfort_solo_100.md#level-200250-292-hours-to-250).
+No-potion version: [Comfortable solo hunting at 100+, Level 200–250](comfort_solo_100.md#level-200250-285-hours-to-250).
 
 **Best for XP**
 
@@ -238,7 +238,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 400–450](comfort_s
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), mission The Curse Spreads | 3 | 1.2M | 656k–693k | 109k | 547k | – | Monsters: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls of about 3.0 (up to 4). Health potions: Health Potion. |
 
 ### Level 450–500 (~311 hours to 500)
-No-potion version: [Comfortable solo hunting at 100+, Level 450–500](comfort_solo_100.md#level-450500-793-hours-to-500).
+No-potion version: [Comfortable solo hunting at 100+, Level 450–500](comfort_solo_100.md#level-450500-762-hours-to-500).
 
 **Best for XP**
 
@@ -261,7 +261,7 @@ No-potion version: [Comfortable solo hunting at 100+, Level 450–500](comfort_s
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), mission The Curse Spreads | 3 | 1.2M–1.4M | 693k–770k | 125k | 568k | – | Monsters: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls of about 3.5 (up to 5). Health potions: Health Potion. |
 
 ### Level 500–600 (~747 hours to 600)
-No-potion version: [Comfortable solo hunting at 100+, Level 500–600](comfort_solo_100.md#level-500600-1386-hours-to-600).
+No-potion version: [Comfortable solo hunting at 100+, Level 500–600](comfort_solo_100.md#level-500600-1397-hours-to-600).
 
 **Best for XP**
 

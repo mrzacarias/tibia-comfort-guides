@@ -63,7 +63,7 @@ The route is slower and loots less:
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – |
 | 20–40 | [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | – | 17.5 h | ~20k | ~14k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 23.0 h | ~66k | ~76k |
-| 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 36.5 h | ~75k | ~118k |
+| 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 37.0 h | ~75k | ~118k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 to -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31.5 h | ~146k | ~71k |
 
 ## Weekly tasks: only the cheap ones
@@ -114,7 +114,7 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 | Week | Level (invisibility) | Magic level / shielding | Level (no invisibility) | Magic level / shielding |
 |---|---|---|---|---|
 | 1 | 51 | 37 / 25 | 43 | 33 / 25 |
-| 2 | 68 | 45 / 27 | 61 | 40 / 27 |
+| 2 | 69 | 45 / 27 | 61 | 40 / 27 |
 | 3 | 81 | 49 / 27 | 73 | 45 / 27 |
 | 4 | 98 | 53 / 28 | 84 | 49 / 28 |
 | 5 | 100 (29) | 53 / 28 | 97 | 52 / 29 |
@@ -128,7 +128,7 @@ Skills are after each day's training. Once a route reaches level 100, its column
 | Invisibility + weekly tasks | 29 | 87 | 53 | ~7 | 10.9M |
 | Invisible + tasks, Corym Mines always taken | 32 | 96 | 53 | ~7 | 10.2M |
 | Invisibility only | 32 | 96 | 54 | – | 12.6M |
-| No invisibility + weekly tasks | 37 | 111 | 53 | ~8 | 7.9M |
+| No invisibility + weekly tasks | 37 | 111 | 53 | ~8 | 8.0M |
 | No invisibility, no tasks | 41 | 123 | 54 | – | 9.3M |
 
 Invisibility is the fastest. Without it, the route takes longer and leaves less gold at the end. Gold left = loot minus potions, rings and deliveries, without gear.
@@ -141,7 +141,7 @@ What sorcerers like this sold for (sold auctions on exiva.pro, levels within 10%
 | Level | Magic level | Sales | Median | Middle half |
 |---|---|---|---|---|
 | 51 (end of week 1) | 37 | 7 | 135 TC | 63–200 |
-| 68 (end of week 2) | 45 | 7 | 61 TC | 57–124 |
+| 69 (end of week 2) | 45 | 7 | 61 TC | 57–124 |
 | 81 (end of week 3) | 49 | 24 | 118 TC | 100–228 |
 | 98 (end of week 4) | 53 | 34 | 276 TC | 122–500 |
 | 100 (level 100) | 53 | 33 | 300 TC | 118–500 |
@@ -167,13 +167,13 @@ How much the world changes the price: each sale's price compared with the median
 |---|---|---|---|---|---|
 | 2 | Invisibility + weekly tasks | 42 | ~351 | ~251 | ~251 |
 | 2 | Invisible + tasks, Corym Mines always taken | 44 | ~324 | ~221 | ~222 |
-| 2 | No invisibility + weekly tasks | 52 | ~289 | ~167 | ~167 |
+| 2 | No invisibility + weekly tasks | 52 | ~288 | ~166 | ~167 |
 | 3 | Invisibility + weekly tasks | 29 | ~368 | ~381 | ~382 |
 | 3 | Invisible + tasks, Corym Mines always taken | 32 | ~352 | ~330 | ~331 |
-| 3 | No invisibility + weekly tasks | 37 | ~304 | ~246 | ~247 |
+| 3 | No invisibility + weekly tasks | 37 | ~304 | ~247 | ~248 |
 | 5 | Invisibility + weekly tasks | 21 | ~417 | ~595 | ~597 |
 | 5 | Invisible + tasks, Corym Mines always taken | 22 | ~379 | ~516 | ~518 |
-| 5 | No invisibility + weekly tasks | 27 | ~347 | ~385 | ~387 |
+| 5 | No invisibility + weekly tasks | 27 | ~346 | ~384 | ~385 |
 
 TC per character = 0.88 × the median price at level 100 (magic level within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **381 TC a month**, and about 382 on an Optional PvP, green world (×1.00).
 

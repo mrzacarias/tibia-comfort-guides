@@ -63,7 +63,7 @@ A rota é mais lenta e dá menos loot:
 | 8–20 | Missões de Targuna: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1,5 h | – | – |
 | 20–40 | [Reptile and Crustacean Caves (Tiquanda)](https://tibiamaps.io/map#32590,32694,8:2) | – | 17,5 h | ~20k | ~14k |
 | 40–60 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | – | 23,0 h | ~66k | ~76k |
-| 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 36,5 h | ~75k | ~118k |
+| 60–80 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – | 37,0 h | ~75k | ~118k |
 | 80–100 | [Forbidden Temple (Ankrahmun, -1 a -2)](https://tibiamaps.io/map#33315,32675,8:2) | – | 31,5 h | ~146k | ~71k |
 
 ## Tarefas semanais: só as baratas
@@ -114,7 +114,7 @@ Então: guarde os 3 wildcards grátis de cada semana. A cada duas semanas, gaste
 | Semana | Level (invisibilidade) | Magic level / shielding | Level (sem invisibilidade) | Magic level / shielding |
 |---|---|---|---|---|
 | 1 | 51 | 37 / 25 | 43 | 33 / 25 |
-| 2 | 68 | 45 / 27 | 61 | 40 / 27 |
+| 2 | 69 | 45 / 27 | 61 | 40 / 27 |
 | 3 | 81 | 49 / 27 | 73 | 45 / 27 |
 | 4 | 98 | 53 / 28 | 84 | 49 / 28 |
 | 5 | 100 (29) | 53 / 28 | 97 | 52 / 29 |
@@ -128,7 +128,7 @@ Os skills são depois do treino de cada dia. Quando uma rota chega no level 100,
 | Invisibilidade + tarefas semanais | 29 | 87 | 53 | ~7 | 10.9M |
 | Invisível + tarefas, Corym Mines sempre ocupada | 32 | 96 | 53 | ~7 | 10.2M |
 | Só Invisibilidade | 32 | 96 | 54 | – | 12.6M |
-| Sem invisibilidade + tarefas semanais | 37 | 111 | 53 | ~8 | 7.9M |
+| Sem invisibilidade + tarefas semanais | 37 | 111 | 53 | ~8 | 8.0M |
 | Sem invisibilidade, sem tarefas | 41 | 123 | 54 | – | 9.3M |
 
 A invisibilidade é o mais rápido. Sem ela, a rota demora mais e sobra menos gold no final. Gold que sobra = loot menos poções, rings e entregas, sem o equipamento.
@@ -141,7 +141,7 @@ Por quanto sorcerers assim foram vendidos (leilões vendidos no exiva.pro, level
 | Level | Magic level | Vendas | Mediana | Metade do meio |
 |---|---|---|---|---|
 | 51 (fim da semana 1) | 37 | 7 | 135 TC | 63–200 |
-| 68 (fim da semana 2) | 45 | 7 | 61 TC | 57–124 |
+| 69 (fim da semana 2) | 45 | 7 | 61 TC | 57–124 |
 | 81 (fim da semana 3) | 49 | 24 | 118 TC | 100–228 |
 | 98 (fim da semana 4) | 53 | 34 | 276 TC | 122–500 |
 | 100 (level 100) | 53 | 33 | 300 TC | 118–500 |
@@ -167,13 +167,13 @@ Quanto o mundo muda o preço: o preço de cada venda comparado com a mediana do 
 |---|---|---|---|---|---|
 | 2 | Invisibilidade + tarefas semanais | 42 | ~351 | ~251 | ~251 |
 | 2 | Invisível + tarefas, Corym Mines sempre ocupada | 44 | ~324 | ~221 | ~222 |
-| 2 | Sem invisibilidade + tarefas semanais | 52 | ~289 | ~167 | ~167 |
+| 2 | Sem invisibilidade + tarefas semanais | 52 | ~288 | ~166 | ~167 |
 | 3 | Invisibilidade + tarefas semanais | 29 | ~368 | ~381 | ~382 |
 | 3 | Invisível + tarefas, Corym Mines sempre ocupada | 32 | ~352 | ~330 | ~331 |
-| 3 | Sem invisibilidade + tarefas semanais | 37 | ~304 | ~246 | ~247 |
+| 3 | Sem invisibilidade + tarefas semanais | 37 | ~304 | ~247 | ~248 |
 | 5 | Invisibilidade + tarefas semanais | 21 | ~417 | ~595 | ~597 |
 | 5 | Invisível + tarefas, Corym Mines sempre ocupada | 22 | ~379 | ~516 | ~518 |
-| 5 | Sem invisibilidade + tarefas semanais | 27 | ~347 | ~385 | ~387 |
+| 5 | Sem invisibilidade + tarefas semanais | 27 | ~346 | ~384 | ~385 |
 
 TC por personagem = 0,88 × o preço mediano no level 100 (magic level até 5 de diferença do da rota, porque ali o preço quase não muda com o skill) − a taxa de 50 TC (contando 1 em 5 leilões sem venda) + o gold que sobra, a 47.000 gold por Tibia Coin. Com 3 horas por dia isso dá uns **381 TC por mês**, e uns 382 num mundo Optional PvP verde (×1,00).
 
