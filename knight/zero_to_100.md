@@ -2,7 +2,7 @@
 
 This guide takes a new knight from character creation to level 100 as fast as comfort allows, and shows what the character is worth on the Char Bazaar at the end. It builds on the [knight guide](guide.md): the same comfort grades (only hunting grounds with Prep and Hunt of 0 or 1), the same hunting grounds and the same model. It assumes a premium account. Every number is an estimate; the last part explains how they're made.
 
-**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **23 days** (69 hours of hunting), with sword about 76. A knight like that has sold for a median of about **325 TC**.
+**In short:** hunt 3 hours a day and train offline 12 hours a day. Go through Targuna, then Corym Mines with a Stealth Ring, and do the free Any Creature kill task and only the cheap delivery tasks. That's level 100 in about **21 days** (63 hours of hunting), with sword about 75. A knight like that has sold for a median of about **350 TC**.
 
 ## What the plan assumes
 - **3 hours of hunting a day.** They're all in green stamina (+50% experience): stamina refills offline, and 21 hours offline a day is more than the 18 hours its last 3 hours need.
@@ -20,10 +20,10 @@ This guide takes a new knight from character creation to level 100 as fast as co
 | Levels | Hunting ground | Ring | Hours | XP/h | Gold/h | Monsters |
 |---|---|---|---|---|---|---|
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 7.0 h | ~52k | ~19k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 40–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 11.0 h | ~141k | ~90k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
-| 60–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 19.5 h | ~155k | ~99k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
-| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 28.5 h | ~155k | ~125k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 6.5 h | ~55k | ~21k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 40–60 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 10.5 h | ~151k | ~98k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 60–80 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 17.5 h | ~170k | ~109k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
+| 80–100 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | yes | 27.0 h | ~170k | ~138k | [Stonerefiner](https://tibia.fandom.com/wiki/Stonerefiner) |
 
 XP/h is raw (no low level bonus or green stamina bonus); the hours and days count green stamina's +50% (all 3 hours a day are green). Gold/h is loot minus potions and rings, with Market prices. The route only uses hunting grounds you can hunt without potions (the knight guide's lists), so potions are close to nothing.
 
@@ -41,8 +41,8 @@ The knight guide's good-value picks for each band (per slot, the best piece that
 |---|---|---|---|
 | 8–20 | Spike Sword (880), Crown Armor (11k), Zaoan Legs (14k), Warrior Helmet (5k), Vampire Shield (15k), Fur Boots (2k), Platinum Amulet (3k), Guardian Ring (Newhaven Quest) | 51k | – |
 | 20–40 | Crimson Sword (610), Golden Armor (21k), Royal Helmet (30k), Carapace Shield (31k), Boots of Haste (31k) | 113k | – |
-| 40–60 | Assassin Dagger (19k), Magic Plate Armor (93k), Zaoan Helmet (56k), Rift Shield (51k) | 220k | 137k |
-| 60–80 | Mystic Blade (59k), Badger Boots (21k), Butterfly Ring (3k) | 83k | 1.1M |
+| 40–60 | Assassin Dagger (19k), Magic Plate Armor (93k), Zaoan Helmet (56k), Rift Shield (51k) | 220k | 144k |
+| 60–80 | Mystic Blade (59k), Badger Boots (21k), Butterfly Ring (3k) | 83k | 1.2M |
 | 80–100 | Crystalline Sword (16k), Guardian Boots (103k), Gearwheel Chain (5k) | 124k | 2.8M |
 
 All of it costs about 591k (about 13 TC in gold), less what the pieces each row replaces sell back for on the Market. The route's gold catches up with the list at about level 60. Before that, buy the sword first, since kill speed is what moves the route, and the rest as the gold comes in.
@@ -52,22 +52,22 @@ Corym Mines is popular, and the route above assumes it's free for your 3 hours e
 
 | Levels | First choice | Second | Third |
 |---|---|---|---|
-| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~53k XP/h, ~20k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~45k XP/h, ~55k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~44k XP/h, ~52k gold/h |
-| 40–60 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~71k XP/h, ~86k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~68k XP/h, ~-6k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~65k XP/h, ~27k gold/h |
-| 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~75k XP/h, ~141k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~74k XP/h, ~30k gold/h | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2): ~73k XP/h, ~213k gold/h |
-| 80–100 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2): ~78k XP/h, ~220k gold/h | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2): ~77k XP/h, ~25k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~76k XP/h, ~186k gold/h |
+| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~56k XP/h, ~21k gold/h | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2): ~49k XP/h, ~59k gold/h | [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2): ~47k XP/h, ~55k gold/h |
+| 40–60 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) (ring): ~76k XP/h, ~91k gold/h | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) (ring): ~74k XP/h, ~-6k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~67k XP/h, ~29k gold/h |
+| 60–80 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~81k XP/h, ~153k gold/h | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2): ~78k XP/h, ~221k gold/h | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2): ~77k XP/h, ~31k gold/h |
+| 80–100 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2): ~83k XP/h, ~234k gold/h | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2): ~82k XP/h, ~26k gold/h | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) (ring): ~82k XP/h, ~186k gold/h |
 
 The numbers are for the route's skill at each level. If Corym Mines were taken every single day, the route would look like this:
 
 | Levels | Hunting ground | Ring | Hours | XP/h | Gold/h | Monsters |
 |---|---|---|---|---|---|---|
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~60k | ~20k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 40–60 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | yes | 20.0 h | ~77k | ~86k | [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer) |
-| 60–80 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | yes | 34.0 h | ~78k | ~86k | [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer) |
-| 80–100 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | – | 56.5 h | ~84k | ~24k | [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Cyclops Drone](https://tibia.fandom.com/wiki/Cyclops_Drone), [Cyclops Smith](https://tibia.fandom.com/wiki/Cyclops_Smith), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab) |
+| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 8.5 h | ~63k | ~21k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 40–60 | [Upper Spike](https://tibiamaps.io/map#32246,32601,8:2) | yes | 20.0 h | ~81k | – | [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Corym Skirmisher](https://tibia.fandom.com/wiki/Corym_Skirmisher), [Corym Charlatan](https://tibia.fandom.com/wiki/Corym_Charlatan) |
+| 60–80 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | yes | 33.0 h | ~83k | ~92k | [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer) |
+| 80–100 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | yes | 45.5 h | ~88k | ~176k | [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf) |
 
-That's level 100 on day 41 instead of 23, with sword 81 (more days of training). But this route loots much more, so it leaves 7.5M of gold instead of 6.7M, and makes less TC per month: about 232 against 507 (see "Profit").
+That's level 100 on day 37 instead of 21, with sword 80 (more days of training). But this route loots much more, so it leaves 11.7M of gold instead of 6.7M, and makes less TC per month: about 330 against 554 (see "Profit").
 
 ### Without the ring
 The route is slower but loots more:
@@ -75,10 +75,10 @@ The route is slower but loots more:
 | Levels | Hunting ground | Ring | Hours | XP/h | Gold/h | Monsters |
 |---|---|---|---|---|---|---|
 | 8–20 | Targuna missions: [Hidden Lizard Temple (Targuna)](https://tibiamaps.io/map#31936,31863,7:2), [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2), [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 1.5 h | – | – | [Lizard Henchman](https://tibia.fandom.com/wiki/Lizard_Henchman), [Lizard Magician](https://tibia.fandom.com/wiki/Lizard_Magician), [Lizard Swordmaster](https://tibia.fandom.com/wiki/Lizard_Swordmaster), [Lizard Executioner](https://tibia.fandom.com/wiki/Lizard_Executioner), [Pirate Navigator](https://tibia.fandom.com/wiki/Pirate_Navigator), [Pirate Gunner](https://tibia.fandom.com/wiki/Pirate_Gunner), [Pirate Quartermaster](https://tibia.fandom.com/wiki/Pirate_Quartermaster), [Pirate Cook](https://tibia.fandom.com/wiki/Pirate_Cook), [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 9.0 h | ~60k | ~20k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 40–60 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 21.5 h | ~70k | ~26k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
-| 60–80 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | – | 34.0 h | ~78k | ~213k | [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling) |
-| 80–100 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | – | 57.5 h | ~84k | ~24k | [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Cyclops Drone](https://tibia.fandom.com/wiki/Cyclops_Drone), [Cyclops Smith](https://tibia.fandom.com/wiki/Cyclops_Smith), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab) |
+| 20–40 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 8.5 h | ~63k | ~21k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 40–60 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | – | 19.5 h | ~74k | ~27k | [Infernoid Blob](https://tibia.fandom.com/wiki/Infernoid_Blob), [Infernoid Hound](https://tibia.fandom.com/wiki/Infernoid_Hound), [Infernoid Soul](https://tibia.fandom.com/wiki/Infernoid_Soul) |
+| 60–80 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | – | 33.5 h | ~81k | ~218k | [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling) |
+| 80–100 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | – | 45.0 h | ~90k | ~191k | [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf) |
 
 ## Weekly tasks: only the cheap ones
 The **Task Board** gives each character 6 delivery tasks and 6 kill tasks a week, reset on Monday at server save (9 of each with the Permanent Weekly Task Expansion, 750 TC in the Store). The list is drawn for you: you can't choose or reroll it. A delivery task gives **half a level of experience up to level 82**, and 1,994 × your level after that. Kill tasks give the same, with a cap (200k experience for beginner tasks, 800k for adept).
@@ -92,13 +92,13 @@ The rule: **hand in a delivery only when its items cost less than what you'd loo
 | Level | Experience per delivery | Hunting time it replaces | Worth paying up to | Tasks that cheap |
 |---|---|---|---|---|
 | 30 | 20k | 7 min | 5k | 0% |
-| 40 | 37k | 12 min | 16k | 3% |
-| 50 | 59k | 18 min | 30k | 10% |
-| 60 | 86k | 27 min | 44k | 20% |
-| 70 | 117k | 36 min | 60k | 27% |
-| 80 | 154k | 44 min | 72k | 32% |
-| 90 | 179k | 50 min | 121k | 40% |
-| 100 | 199k | 54 min | 131k | 42% |
+| 40 | 37k | 11 min | 16k | 3% |
+| 50 | 59k | 16 min | 30k | 10% |
+| 60 | 86k | 24 min | 44k | 20% |
+| 70 | 117k | 33 min | 60k | 27% |
+| 80 | 154k | 43 min | 77k | 33% |
+| 90 | 179k | 45 min | 121k | 40% |
+| 100 | 199k | 50 min | 131k | 42% |
 
 - **Deliver on Sunday,** the last day before the reset: the experience depends on your level when you hand it in, so later pays more.
 - **Keep what your hunting ground drops** if one of the week's deliveries asks for it: that one is free.
@@ -127,23 +127,23 @@ So: save the 3 free wildcards each week. Every second week, spend 5 on Stonerefi
 ## Week by week
 | Week | Level (ring) | Sword / shielding | Level (no ring) | Sword / shielding |
 |---|---|---|---|---|
-| 1 | 62 | 64 / 57 | 51 | 64 / 57 |
-| 2 | 83 | 71 / 63 | 66 | 71 / 63 |
-| 3 | 97 | 75 / 67 | 78 | 75 / 67 |
-| 4 | 100 (23) | 76 / 68 | 86 | 78 / 70 |
-| 5 | 100 (23) | 76 / 68 | 94 | 80 / 73 |
-| 6 | 100 (23) | 76 / 68 | 102 | 82 / 74 |
+| 1 | 64 | 64 / 57 | 53 | 64 / 57 |
+| 2 | 85 | 71 / 63 | 69 | 71 / 63 |
+| 3 | 100 | 75 / 67 | 81 | 75 / 67 |
+| 4 | 100 (21) | 75 / 67 | 89 | 78 / 70 |
+| 5 | 100 (21) | 75 / 67 | 98 | 80 / 73 |
+| 6 | 100 (21) | 75 / 67 | 100 (36) | 80 / 73 |
 
 Skills are after each day's training. Once a route reaches level 100, its column shows the day it got there.
 
 ## Which plan
 | Plan | Level 100 on day | Hours hunted | Sword at 100 | Deliveries handed in | Gold left |
 |---|---|---|---|---|---|
-| Stealth Ring + weekly tasks | 23 | 69 | 76 | ~5 | 6.7M |
-| Ring + tasks, Corym Mines always taken | 41 | 123 | 81 | ~7 | 7.5M |
-| Stealth Ring only | 25 | 75 | 76 | – | 7.7M |
-| No ring + weekly tasks | 42 | 126 | 82 | ~10 | 8.5M |
-| No ring, no tasks | 46 | 138 | 83 | – | 9.9M |
+| Stealth Ring + weekly tasks | 21 | 63 | 75 | ~5 | 6.7M |
+| Ring + tasks, Corym Mines always taken | 37 | 111 | 80 | ~10 | 11.7M |
+| Stealth Ring only | 23 | 69 | 76 | – | 7.7M |
+| No ring + weekly tasks | 36 | 108 | 80 | ~14 | 15.1M |
+| No ring, no tasks | 43 | 129 | 82 | – | 19.1M |
 
 The ring is the fastest. Without it, the route takes longer but loots more (and no rings to pay), so it leaves more gold at the end. Gold left = loot minus potions, rings and deliveries, without gear.
 
@@ -154,19 +154,19 @@ What knights like this sold for at every 10 levels of the route (sold auctions o
 
 | Level | Day | Hours hunted | Sword | Sales | Median | Middle half | TC after fees and gear | TC per hour hunted |
 |---|---|---|---|---|---|---|---|---|
-| 20 | 1 | 3 | 50 | 2 (few) | 122 TC | 89–156 | ~45 | – |
-| 30 | 2 | 6 | 54 | 3 (few) | 91 TC | 66–190 | ~19 | – |
-| 40 | 3 | 9 | 57 | 8 (few) | 151 TC | 70–202 | ~73 | 8.1 |
-| 50 | 5 | 15 | 61 | 19 | 200 TC | 91–376 | ~127 | 8.5 |
-| 60 | 7 | 21 | 64 | 15 | 201 TC | 71–266 | ~135 | 6.4 |
-| 70 | 10 | 30 | 67 | 17 | 251 TC | 100–401 | ~198 | 6.6 |
-| 80 | 13 | 39 | 70 | 31 | 252 TC | 111–530 | ~216 | 5.5 |
-| 90 | 18 | 54 | 73 | 41 | 189 TC | 124–300 | ~193 | 3.6 |
-| 100 | 23 | 69 | 76 | 56 | 325 TC | 150–512 | ~354 | 5.1 |
+| 20 | 1 | 3 | 50 | 2 (few) | 122 TC | 89–156 | ~46 | – |
+| 30 | 2 | 6 | 54 | 3 (few) | 91 TC | 66–190 | ~20 | – |
+| 40 | 3 | 9 | 57 | 8 (few) | 151 TC | 70–202 | ~74 | 8.2 |
+| 50 | 5 | 15 | 61 | 19 | 200 TC | 91–376 | ~129 | 8.6 |
+| 60 | 7 | 21 | 64 | 15 | 201 TC | 71–266 | ~138 | 6.6 |
+| 70 | 9 | 27 | 66 | 16 | 292 TC | 167–480 | ~232 | 8.6 |
+| 80 | 12 | 36 | 69 | 26 | 325 TC | 146–535 | ~280 | 7.8 |
+| 90 | 16 | 48 | 72 | 31 | 200 TC | 150–451 | ~197 | 4.1 |
+| 100 | 21 | 63 | 75 | 51 | 350 TC | 186–502 | ~375 | 5.9 |
 
 TC after fees and gear = 0.88 × the median − the 50 TC fee (counted for 1 in 5 auctions not selling) + the route's gold by then, less the gear bought by then (see "Gear by level"), at 47,000 gold per Tibia Coin. Hours hunted = days × 3. TC per hour is left out where fewer than 5 sold. "(few)" marks fewer than 10 sales: a rough price, left out of the best level per hour.
 
-**Sell right after level 100.** It pays the most per character. Level 50 pays the most per hour hunted (8.5 TC an hour, against 5.1 at level 100), so selling there and starting a new knight is faster income if you don't mind repeating the early levels. Few knights that low sell, though (19 sales), so that price is less sure. In between, the price barely moves: once past level 50, go on to 100.
+**Sell right after level 100.** It pays the most per character. Level 70 pays the most per hour hunted (8.6 TC an hour, against 5.9 at level 100), so selling there and starting a new knight is faster income if you don't mind repeating the early levels. Few knights that low sell, though (16 sales), so that price is less sure. In between, the price barely moves: once past level 70, go on to 100.
 
 If you'd rather keep the knight, [Comfortable solo hunting at 100+](comfort_solo_100.md) picks up from level 100.
 
@@ -188,17 +188,17 @@ How much the world changes the price: each sale's price compared with the median
 ## Profit
 | Hours a day | Plan | Days per character | TC per character | TC per month | On an Optional PvP, green world |
 |---|---|---|---|---|---|
-| 2 | Stealth Ring + weekly tasks | 34 | ~299 | ~264 | ~277 |
-| 2 | Ring + tasks, Corym Mines always taken | 56 | ~255 | ~137 | ~142 |
-| 2 | No ring + weekly tasks | 56 | ~305 | ~164 | ~169 |
-| 3 | Stealth Ring + weekly tasks | 23 | ~388 | ~507 | ~533 |
-| 3 | Ring + tasks, Corym Mines always taken | 41 | ~317 | ~232 | ~243 |
-| 3 | No ring + weekly tasks | 42 | ~337 | ~241 | ~251 |
-| 5 | Stealth Ring + weekly tasks | 16 | ~459 | ~860 | ~904 |
-| 5 | Ring + tasks, Corym Mines always taken | 29 | ~417 | ~431 | ~450 |
-| 5 | No ring + weekly tasks | 29 | ~482 | ~499 | ~517 |
+| 2 | Stealth Ring + weekly tasks | 31 | ~312 | ~302 | ~317 |
+| 2 | Ring + tasks, Corym Mines always taken | 49 | ~314 | ~192 | ~200 |
+| 2 | No ring + weekly tasks | 51 | ~361 | ~213 | ~220 |
+| 3 | Stealth Ring + weekly tasks | 21 | ~388 | ~554 | ~583 |
+| 3 | Ring + tasks, Corym Mines always taken | 37 | ~408 | ~330 | ~342 |
+| 3 | No ring + weekly tasks | 36 | ~480 | ~400 | ~413 |
+| 5 | Stealth Ring + weekly tasks | 15 | ~466 | ~933 | ~980 |
+| 5 | Ring + tasks, Corym Mines always taken | 27 | ~525 | ~583 | ~603 |
+| 5 | No ring + weekly tasks | 28 | ~569 | ~610 | ~629 |
 
-TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **507 TC a month**, and about 533 on an Optional PvP, green world (×1.07).
+TC per character = 0.88 × the median price at level 100 (sword within 5 of the route's, since the price barely moves with skill there) − the 50 TC fee (counted for 1 in 5 auctions not selling) + the gold left, at 47,000 gold per Tibia Coin. At 3 hours a day that's about **554 TC a month**, and about 583 on an Optional PvP, green world (×1.07).
 
 Not counted:
 - **Premium time.** If you keep premium only for this, subtract it.
@@ -232,8 +232,8 @@ Another way to make a character worth selling is to leave it at level 8 and only
 Days count from sword 16, at 12 hours a day. TC after fees = 0.88 × the median − the 50 TC fee (counting 1 in 5 auctions not selling).
 
 Compared side by side:
-- **Raising to 100:** 23 days and 69 hours of play, for about 388 TC (the sale plus the gold left). About 16.9 TC per day.
-- **A level 8 trained to skill 110:** about 669 days of training, for about 349 TC. That's 0.52 TC per day, about 32 times less, but it needs only about 11 hours of logins in total.
+- **Raising to 100:** 21 days and 63 hours of play, for about 388 TC (the sale plus the gold left). About 18.5 TC per day.
+- **A level 8 trained to skill 110:** about 669 days of training, for about 349 TC. That's 0.52 TC per day, about 35 times less, but it needs only about 11 hours of logins in total.
 
 So raising is the income, and a trained level 8 is a passive extra on the side:
 - **Train several at once.** Characters on one account can train offline at the same time, each with its own daily login, and they all share the account's premium. On the account you already use for raising, they cost no extra premium.
