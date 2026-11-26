@@ -228,9 +228,9 @@ As tabelas usam só o básico, mas algumas magias deixam a caçada mais tranquil
 
 Embaixo da linha do equipamento, **Libere antes** lista as quests que as hunts da faixa exigem (faça uma vez e essas hunts se abrem), e **Vale a pena** aponta a quest rara cuja experiência compensa a viagem.
 
-O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida, level a level, pela XP/h média da sua lista **Bom para XP** naquele level. A conta usa experiência raw mais o low level bonus (todo personagem abaixo do level 50 ganha experiência extra: quase o dobro no level 8, uns 60% a mais no level 20 e nada a partir do level 50), então o bônus de stamina, os boosts de XP e as preys deixam tudo mais rápido.
+O título de cada faixa também mostra mais ou menos quanto tempo leva para chegar à próxima faixa: a experiência entre os dois levels dividida, level a level, pela XP/h média da sua lista **Bom para XP** naquele level. A conta usa o +50% da stamina verde (as 3 primeiras horas do dia, conta premium); boosts de XP e preys deixam tudo mais rápido, e passar de 3 horas por dia, mais lento.
 
-#### Level 20–40 (~13 horas até a próxima faixa)
+#### Level 20–40 (~12 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 43, ataque da arma 31. Equipamento com bom custo-benefício, cada peça abaixo de ~37k: Crimson Sword, Furry Club ou Dwarven Axe (sword, club ou axe), com Golden Armor, Zaoan Legs, Royal Helmet, Carapace Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
@@ -249,7 +249,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) ✓ | 0 | 0 | 25k | 70k | Carlin 195 / ~49 s | Monstros: [Amazon](https://tibia.fandom.com/wiki/Amazon), [Valkyrie](https://tibia.fandom.com/wiki/Valkyrie), [Witch](https://tibia.fandom.com/wiki/Witch). **Testado** (level 41, sword ~57): 550 gold de supplies por hora, quase sem cura, 25k de XP/h. Poucos monstros: você sobe e desce a torre esperando o respawn. Cuidado: Valkyrie bate 33% da vida. Vende bem: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | ~11k–12k | ~60k–65k | Venore 262 / ~1,1 min | Monstros: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). **Testado** (level 26, sword 48): 200 gold de supplies por hora, quase sem cura, 72k de loot/h naquele mundo, 11k de XP/h. Vende bem: Medicine Pouch |
 
-#### Level 40–60 (~35 horas até a próxima faixa)
+#### Level 40–60 (~24 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 57, ataque da arma 40. Equipamento com bom custo-benefício, cada peça abaixo de ~107k: Assassin Dagger, Shadow Sceptre ou Warrior's Axe (sword, club ou axe), com Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Bom para XP**
@@ -272,7 +272,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 1 | ~40k | ~155k | Svargrond, a pé pelo gelo | A partir do level 50. Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Vende bem: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k–25k | ~115k–125k | Venore 262 / ~1,1 min | A partir do level 50. Monstros: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). Vende bem: Medicine Pouch |
 
-#### Level 60–80 (~63 horas até a próxima faixa)
+#### Level 60–80 (~42 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 68, ataque da arma 44. Equipamento com bom custo-benefício, cada peça abaixo de ~129k: Mystic Blade, Metal Bat ou Vile Axe (sword, club ou axe), com Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -291,7 +291,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~40k–45k | ~155k–180k | Svargrond, a pé pelo gelo | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Vende bem: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~25k | ~125k–135k | Venore 262 / ~1,1 min | Monstros: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). Vende bem: Medicine Pouch |
 
-#### Level 80–100 (~92 horas até a próxima faixa)
+#### Level 80–100 (~61 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 76, ataque da arma 47. Equipamento com bom custo-benefício, cada peça abaixo de ~149k: Crystalline Sword, Onyx Flail ou Deepling Axe (sword, club ou axe), com Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
@@ -314,7 +314,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~35k | ~255k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | A partir do level 90. Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) ✓ | 0 | 0 | 90k | 225k | Edron 129 / ~30 s | A partir do level 90. Monstros: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). **Testado** (level 91, club 107): outro jogador dividiu a hunt, 100 gold de supplies por hora, quase sem cura, mundo com preços altos, 264k de loot/h naquele mundo, 90k de XP/h. Vende bem: Wyvern Talisman |
 
-#### Level 100–150 (~346 horas até a próxima faixa)
+#### Level 100–150 (~231 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 81, ataque da arma 49. Equipamento com bom custo-benefício, cada peça abaixo de ~155k: Blade of Corruption, Obsidian Truncheon ou Deepling Axe (sword, club ou axe), com Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186.000 de experiência).
@@ -337,7 +337,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 1 | ~80k–90k | ~225k–250k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: Haunted Treeling bate 22% da vida, paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~90k | ~225k | Edron 129 / ~30 s | Monstros: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Vende bem: Wyvern Talisman |
 
-#### Level 150–200 (~541 horas até a próxima faixa)
+#### Level 150–200 (~361 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 90, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~174k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Zaoan Legs, Zaoan Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Vale a pena:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325.000 de experiência; quest longa, com bosses).
@@ -359,7 +359,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~90k | ~225k | Edron 129 / ~30 s | Monstros: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Vende bem: Wyvern Talisman |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~60k–65k | ~240k–250k | Svargrond, a pé pelo gelo | A partir do level 190. Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Vende bem: Winter Wolf Fur |
 
-#### Level 200–250 (~436 horas até a próxima faixa)
+#### Level 200–250 (~291 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 97, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~178k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Zaoan Legs, Zaoan Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Bom para XP**
@@ -378,7 +378,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k | ~285k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | 1 | 1 | ~135k | ~265k | Liberty Bay 143 / ~35 s | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). A Deeper Cult Cave (andares -3/-4: acolytes, adepts, dark monks) abre tocando o piano no andar -2, depois de aprender os quatro versos das Music Sheets; evite os elder bonelords. Cuidado: monstros que invocam. Vende bem: Rope Belt |
 
-#### Level 250–300 (~645 horas até a próxima faixa)
+#### Level 250–300 (~430 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 98, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~795k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -397,7 +397,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k | ~285k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | 1 | 1 | ~135k–140k | ~265k–275k | Liberty Bay 143 / ~35 s | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). A Deeper Cult Cave (andares -3/-4: acolytes, adepts, dark monks) abre tocando o piano no andar -2, depois de aprender os quatro versos das Music Sheets; evite os elder bonelords. Cuidado: monstros que invocam. Vende bem: Rope Belt |
 
-#### Level 300–350 (~732 horas até a próxima faixa)
+#### Level 300–350 (~488 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 100, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~683k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -416,7 +416,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~370k–425k | ~290k–330k | Thais 193 / ~48 s, depois o Holy Portal nos Halls of Hope | Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). Holy Portal nos Halls of Hope: entregue 50 Incantation Notes (do Market) ao Albinius uma vez, depois dos 5 Heavy Old Tomes da [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); não use a Time Machine no fim do lado leste: a única saída é pelo boss. Vende bem: Ancient Belt Buckle |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k–110k | ~285k–295k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 
-#### Level 350–400 (~897 horas até a próxima faixa)
+#### Level 350–400 (~598 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 102, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~668k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -435,7 +435,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~325k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | 0 | 0 | ~155k–160k | ~305k–320k | Liberty Bay 143 / ~35 s | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). A Deeper Cult Cave (andares -3/-4: acolytes, adepts, dark monks) abre tocando o piano no andar -2, depois de aprender os quatro versos das Music Sheets; evite os elder bonelords. Cuidado: monstros que invocam. Vende bem: Rope Belt |
 
-#### Level 400–450 (~1116 horas até a próxima faixa)
+#### Level 400–450 (~744 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 103, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~689k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -454,7 +454,7 @@ O título de cada faixa também mostra mais ou menos quanto tempo leva para cheg
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~325k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings e os leaf golems do Forest Fury Camp. Cuidado: paralisam ou invocam. Vende bem: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | 0 | 0 | ~160k–165k | ~320k–325k | Liberty Bay 143 / ~35 s | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). A Deeper Cult Cave (andares -3/-4: acolytes, adepts, dark monks) abre tocando o piano no andar -2, depois de aprender os quatro versos das Music Sheets; evite os elder bonelords. Cuidado: monstros que invocam. Vende bem: Rope Belt |
 
-#### Level 450–500 (~1313 horas até a próxima faixa)
+#### Level 450–500 (~876 horas até a próxima faixa)
 **Knight típico desta faixa:** skill 104, ataque da arma 50. Equipamento com bom custo-benefício, cada peça abaixo de ~704k: Shiny Blade, Obsidian Truncheon ou Crystalline Axe (sword, club ou axe), com Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Bom para XP**
@@ -527,7 +527,7 @@ Como na Seção 2, estas tabelas dão as notas das hunts com o anel e mostram as
 
 Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O resultado real pode ser diferente: você não consegue juntar grupos, mas também nunca para para se curar. O loot aparece antes de pagar os anéis.
 
-#### Level 20–40 com Stealth Ring (~14 horas até a próxima faixa)
+#### Level 20–40 com Stealth Ring (~13 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -551,7 +551,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | – → **0** | – → **0** | ~20k–40k | ~95k–155k | Svargrond, a pé pelo gelo | A partir do level 30. Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Não te veem: Badger, Mammoth, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | – → **0** | – → **0** | ~25k | ~50k | Edron 306 / ~1,3 min | A partir do level 30. Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton). Não te veem: Demon Skeleton. Ainda: Ghoul bate 19% da vida. Vende bem: Rotten Piece of Cloth |
 
-#### Level 40–60 com Stealth Ring (~26 horas até a próxima faixa)
+#### Level 40–60 com Stealth Ring (~18 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -573,7 +573,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **0** | – → **0** | ~40k–45k | ~145k–155k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | A partir do level 50. Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | – → **0** | – → **0** | ~65k–70k | ~125k–135k | Carlin 173 / ~45 s | A partir do level 50. Monstros: [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf). Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-#### Level 60–80 com Stealth Ring (~47 horas até a próxima faixa)
+#### Level 60–80 com Stealth Ring (~31 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -591,7 +591,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **0** | – → **0** | ~45k–50k | ~155k–180k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | – → **0** | – → **0** | ~70k–80k | ~135k–155k | Carlin 173 / ~45 s | Monstros: [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf). Não te veem: Leaf Golem, Forest Fury, Wilting Leaf Golem. Vende bem: Elven Hoof |
 
-#### Level 80–100 com Stealth Ring (~81 horas até a próxima faixa)
+#### Level 80–100 com Stealth Ring (~54 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -613,7 +613,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | – → **0** | – → **0** | ~45k | ~110k–115k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 226 / ~56 s | A partir do level 90. Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider). Não te veem: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Vende bem: Winter Wolf Fur |
 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – → **0** | – → **0** | ~65k | ~105k | Carlin 349 / ~1,5 min | A partir do level 90. Monstros: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Pirate Marauder](https://tibia.fandom.com/wiki/Pirate_Marauder), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Pirate Cutthroat](https://tibia.fandom.com/wiki/Pirate_Cutthroat), [Pirate Buccaneer](https://tibia.fandom.com/wiki/Pirate_Buccaneer), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost). Não te veem: Smuggler, Bandit, Pirate Skeleton. Vende bem: Stone Skin Amulet |
 
-#### Level 100–150 com Stealth Ring (~409 horas até a próxima faixa)
+#### Level 100–150 com Stealth Ring (~273 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -636,7 +636,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Drefia (superfície)](https://tibiamaps.io/map#33018,32443,7:2) | – → **0** | – → **0** | ~35k | ~70k | Darashia 274 / ~1,1 min | A partir do level 130. Monstros: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Skeleton Warrior](https://tibia.fandom.com/wiki/Skeleton_Warrior), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [Snake](https://tibia.fandom.com/wiki/Snake), [White Shade](https://tibia.fandom.com/wiki/White_Shade), [Tarnished Spirit](https://tibia.fandom.com/wiki/Tarnished_Spirit), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Zombie](https://tibia.fandom.com/wiki/Zombie). Não te veem: Demon Skeleton, Sandcrawler, Scorpion. Vende bem: Stone Skin Amulet |
 | [Tarpit Tomb (-4 a -5)](https://tibiamaps.io/map#33233,32705,11:2) | – → **0** | – → **0** | ~70k | ~115k | Ankrahmun 241 / ~1,0 min | A partir do level 140. Monstros: [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Larva](https://tibia.fandom.com/wiki/Larva), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Necromancer](https://tibia.fandom.com/wiki/Necromancer). Não te veem: Larva, Scarab, Skeleton. Vende bem: Rotten Piece of Cloth |
 
-#### Level 150–200 com Stealth Ring (~777 horas até a próxima faixa)
+#### Level 150–200 com Stealth Ring (~518 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -656,7 +656,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Cult Cave (Liberty Bay, +1 a -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **0** | – → **0** | ~65k–80k | ~145k–170k | Liberty Bay 143 / ~35 s | A partir do level 170. Monstros: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Não te veem: Novice of the Cult, Tarantula. Vende bem: Rope Belt |
 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | – → **0** | – → **0** | ~65k–75k | ~120k–135k | Edron 138 / ~35 s | A partir do level 180. Monstros: [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Deer](https://tibia.fandom.com/wiki/Deer), [Snake](https://tibia.fandom.com/wiki/Snake), [Fox](https://tibia.fandom.com/wiki/Fox), [Wisp](https://tibia.fandom.com/wiki/Wisp). Não te veem: Orc Spearman, Orc Warrior, Poison Spider. Vende bem: Broken Shamanic Staff |
 
-#### Level 200–250 com Stealth Ring (~946 horas até a próxima faixa)
+#### Level 200–250 com Stealth Ring (~631 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -674,7 +674,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Tarpit Tomb (-6 a -8)](https://tibiamaps.io/map#33233,32705,13:2) | 1 → **0** | 1 → **0** | ~125k–130k | ~160k–165k | Ankrahmun 241 / ~1,0 min | Monstros: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Stone Golem](https://tibia.fandom.com/wiki/Stone_Golem), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Larva](https://tibia.fandom.com/wiki/Larva), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider). Não te veem: Crypt Shambler. Vende bem: Flask of Embalming Fluid |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~130k–135k | ~145k | Edron + barco para Cormaya | Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Deer](https://tibia.fandom.com/wiki/Deer), [Emerald Damselfly](https://tibia.fandom.com/wiki/Emerald_Damselfly), [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Marsh Stalker](https://tibia.fandom.com/wiki/Marsh_Stalker). Não te veem: Leaf Golem, Wilting Leaf Golem. Vende bem: Dowser |
 
-#### Level 250–300 com Stealth Ring (~1452 horas até a próxima faixa)
+#### Level 250–300 com Stealth Ring (~968 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -692,7 +692,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Drefia (-1 a -2)](https://tibiamaps.io/map#33018,32443,8:2) | 1 → **0** | 1 → **0** | ~90k–95k | ~175k | Darashia 274 / ~1,1 min | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Tarnished Spirit](https://tibia.fandom.com/wiki/Tarnished_Spirit), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Skeleton Warrior](https://tibia.fandom.com/wiki/Skeleton_Warrior), [Snake](https://tibia.fandom.com/wiki/Snake), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Lich](https://tibia.fandom.com/wiki/Lich), [Zombie](https://tibia.fandom.com/wiki/Zombie). Não te veem: Demon Skeleton, Sandcrawler, Skeleton, Tarnished Spirit. Vende bem: Stone Skin Amulet |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 1 → **0** | 1 → **0** | ~110k–120k | ~150k–165k | Kazordoon 453 / ~1,9 min | Monstros: [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Orc](https://tibia.fandom.com/wiki/Orc), [Rorc](https://tibia.fandom.com/wiki/Rorc), [Orc Rider](https://tibia.fandom.com/wiki/Orc_Rider), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord), [Wolf](https://tibia.fandom.com/wiki/Wolf), [Bear](https://tibia.fandom.com/wiki/Bear), [Slime](https://tibia.fandom.com/wiki/Slime), [Chicken](https://tibia.fandom.com/wiki/Chicken), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Dragon](https://tibia.fandom.com/wiki/Dragon), [Elf](https://tibia.fandom.com/wiki/Elf), [Stone Golem](https://tibia.fandom.com/wiki/Stone_Golem). Não te veem: Orc Berserker, Orc Spearman, Orc Warrior. Vende bem: Broken Shamanic Staff |
 
-#### Level 300–350 com Stealth Ring (~2142 horas até a próxima faixa)
+#### Level 300–350 com Stealth Ring (~1428 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -710,7 +710,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Stone Tomb (-6 a -8)](https://tibiamaps.io/map#33282,32743,13:2) | – → **1** | – → **1** | ~140k–155k | ~130k–140k | Ankrahmun 250 / ~1,0 min | Monstros: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Slime](https://tibia.fandom.com/wiki/Slime), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Larva](https://tibia.fandom.com/wiki/Larva), [Plaguethrower](https://tibia.fandom.com/wiki/Plaguethrower), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Ancient Scarab](https://tibia.fandom.com/wiki/Ancient_Scarab), [Giant Spider](https://tibia.fandom.com/wiki/Giant_Spider). Não te veem: Crypt Shambler. Vende bem: Flask of Embalming Fluid |
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | – → **0** | – → **0** | ~105k–120k | ~110k–125k | Ab'Dendriel 46 / ~12 s | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Não te veem: Demon Skeleton, Skeleton. Vende bem: Rotten Piece of Cloth |
 
-#### Level 350–400 com Stealth Ring (~2636 horas até a próxima faixa)
+#### Level 350–400 com Stealth Ring (~1757 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -728,7 +728,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Ancient Ruins Tomb (-6 a -8)](https://tibiamaps.io/map#33207,32592,13:2) | – → **1** | – → **1** | ~145k–150k | ~140k–145k | Ankrahmun 326 / ~1,4 min | Monstros: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Slime](https://tibia.fandom.com/wiki/Slime), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Magicthrower](https://tibia.fandom.com/wiki/Magicthrower), [Banshee](https://tibia.fandom.com/wiki/Banshee), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Lich](https://tibia.fandom.com/wiki/Lich), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Shredderthrower](https://tibia.fandom.com/wiki/Shredderthrower), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Fire Elemental](https://tibia.fandom.com/wiki/Fire_Elemental). Não te veem: Ghost. Vende bem: Flask of Embalming Fluid |
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 1 → **0** | 1 → **0** | ~120k–125k | ~125k–130k | Ab'Dendriel 46 / ~12 s | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Não te veem: Demon Skeleton, Skeleton. Vende bem: Rotten Piece of Cloth |
 
-#### Level 400–450 com Stealth Ring (~3344 horas até a próxima faixa)
+#### Level 400–450 com Stealth Ring (~2229 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -746,7 +746,7 @@ Os números de XP e loot usam a mesma velocidade de matar da Seção 1. O result
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 1 → **0** | 1 → **0** | ~125k–130k | ~130k–135k | Ab'Dendriel 46 / ~12 s | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Não te veem: Demon Skeleton, Skeleton. Vende bem: Rotten Piece of Cloth |
 | [Ankrahmun Library Tomb (-6 a -8)](https://tibiamaps.io/map#33142,32838,13:2) | – → **1** | – → **1** | ~125k–130k | ~110k–115k | Ankrahmun 21 / ~5 s | Monstros: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Larva](https://tibia.fandom.com/wiki/Larva), [Lich](https://tibia.fandom.com/wiki/Lich), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Behemoth](https://tibia.fandom.com/wiki/Behemoth), [Ancient Scarab](https://tibia.fandom.com/wiki/Ancient_Scarab). Não te veem: Crypt Shambler, Demon Skeleton, Ghost. Vende bem: Flask of Embalming Fluid |
 
-#### Level 450–500 com Stealth Ring (~4634 horas até a próxima faixa)
+#### Level 450–500 com Stealth Ring (~3089 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -802,7 +802,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) | ela abre o portal para a hunt, a TibiaWiki sugere level 70 para a quest: Lion's Rock (Darashia) | 200–250 | sim | Lion's Rock |
 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius; sem level mínimo: Old Masonry (-1 a -2), Old Masonry (-3) | 300–350 | sim | Halls of Hope |
 
-#### Level 20–40 atrás de quests (~47 horas até a próxima faixa)
+#### Level 20–40 atrás de quests (~43 horas até a próxima faixa)
 
 **Libere antes:** [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (para as cavernas, para Treasure Island (superfície); a TibiaWiki sugere level 40 para a quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest, para Nibelor; a TibiaWiki sugere level 25 para a quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão, para Nibelor).
 
@@ -820,7 +820,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | ~6k–8k | ~90k–105k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). **Testado** (level 23, sword 47): 300 gold de supplies por hora, quase sem cura, Winter Wolf Fur vendida por cerca de 4k, 77k de loot/h naquele mundo, 6k de XP/h. Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 | [Treasure Island (superfície)](https://tibiamaps.io/map#32156,32948,7:2) | 0 | 0 | ~17k–19k | ~1k–2k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | Monstros: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Larva](https://tibia.fandom.com/wiki/Larva), [Crab](https://tibia.fandom.com/wiki/Crab). As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Cuidado: Scorpion bate 18% da vida |
 
-#### Level 40–60 atrás de quests (~66 horas até a próxima faixa)
+#### Level 40–60 atrás de quests (~46 horas até a próxima faixa)
 
 **Libere antes:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, para Jotunar, Tyrsung), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (missão "Nibelor 2" iniciada, para Jotunar, Tyrsung; a TibiaWiki sugere level 130+ para a quest).
 
@@ -842,7 +842,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Treasure Island (superfície)](https://tibiamaps.io/map#32156,32948,7:2) | 0 | 0 | ~19k–35k | ~2k–3k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | Monstros: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Larva](https://tibia.fandom.com/wiki/Larva), [Crab](https://tibia.fandom.com/wiki/Crab). As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita |
 | [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 0 | 0 | ~40k–45k | ~18k–20k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 135 / ~34 s | A partir do level 50. Monstros: [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Frost Giantess](https://tibia.fandom.com/wiki/Frost_Giantess), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Bandit](https://tibia.fandom.com/wiki/Bandit), [Penguin](https://tibia.fandom.com/wiki/Penguin), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Pirate Marauder](https://tibia.fandom.com/wiki/Pirate_Marauder), [Hunter](https://tibia.fandom.com/wiki/Hunter), [Pirate Buccaneer](https://tibia.fandom.com/wiki/Pirate_Buccaneer), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Pirate Cutthroat](https://tibia.fandom.com/wiki/Pirate_Cutthroat). O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 25% da vida. Vende bem: Ice Cube |
 
-#### Level 60–80 atrás de quests (~83 horas até a próxima faixa)
+#### Level 60–80 atrás de quests (~55 horas até a próxima faixa)
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Nargor, depois da Access to Meriana: cinco tarefas em Sabrehaven (100 Bread, uma Whisper Beer, uma carta, um Atlas, 5 Pirate Voodoo Dolls), depois peça uma mission ao Duncan; sem level mínimo, para Nargor Undead Cave).
 
@@ -864,7 +864,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 0 | 0 | ~60k | ~20k–25k | Svargrond 63 / ~16 s, barco do Buddel para Tyrsung, depois 90 / ~22 s | Monstros: [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Frost Giantess](https://tibia.fandom.com/wiki/Frost_Giantess), [Mammoth](https://tibia.fandom.com/wiki/Mammoth). O barco do Buddel exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a missão "Nibelor 2" da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) iniciada. Cuidado: Frost Giant bate 21% da vida. Vende bem: Ice Cube |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~60k–65k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor | A partir do level 70. Monstros: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Exige a parte Access to Nargor da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Slime bate 33% da vida, monstros que invocam. Vende bem: Stone Skin Amulet |
 
-#### Level 80–100 atrás de quests (~115 horas até a próxima faixa)
+#### Level 80–100 atrás de quests (~76 horas até a próxima faixa)
 
 **Libere antes:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold; ela também libera as tartarugas da Marina, para Laguna Islands, Blood Crabs).
 
@@ -884,7 +884,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~16k | ~220k–225k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~65k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor | Monstros: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Exige a parte Access to Nargor da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Slime bate 29% da vida, monstros que invocam. Vende bem: Stone Skin Amulet |
 
-#### Level 100–150 atrás de quests (~353 horas até a próxima faixa)
+#### Level 100–150 atrás de quests (~235 horas até a próxima faixa)
 
 **Libere antes:** [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) (missão 5 iniciada, o que abre o portão do Arena and Zoo Quarter, para Arena and Zoo Quarter (-1 a -5)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (parte Access to Meriana, sem level mínimo: tarefas, um Rake, um Love Poem e uns 1.000 gold, para Meriana Gargoyle Cave).
 
@@ -905,7 +905,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~16k–17k | ~225k–240k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~65k–75k | ~155k–180k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor | Monstros: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Exige a parte Access to Nargor da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Slime bate 23% da vida, monstros que invocam. Vende bem: Stone Skin Amulet |
 
-#### Level 150–200 atrás de quests (~597 horas até a próxima faixa)
+#### Level 150–200 atrás de quests (~398 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -923,7 +923,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~17k–18k | ~240k–255k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~75k–100k | ~180k–240k | Liberty Bay 9 / ~2 s, Captain Waverider (diga "peg leg"), depois barco do Sebastian para Nargor | Monstros: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Exige a parte Access to Nargor da [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Cuidado: Slime bate 16% da vida, monstros que invocam. Vende bem: Stone Skin Amulet |
 
-#### Level 200–250 atrás de quests (~566 horas até a próxima faixa)
+#### Level 200–250 atrás de quests (~377 horas até a próxima faixa)
 
 **Libere antes:** [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) (ela abre o portal para a hunt, para Lion's Rock (Darashia)), [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (missão 4, para Vengoth).
 
@@ -943,7 +943,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Arena and Zoo Quarter (-1 a -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k | ~275k | Yalahar 193 / ~48 s | Monstros: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). A primeira ida a Yalahar exige a missão do Wyrdin em Edron (Explorer Society Novice, depois o barco do Captain Max saindo de Liberty Bay), e o Captain Karith só leva de volta depois da missão Searoutes around Yalahar dele (5 lembranças de outras cidades). Cuidado: monstros invisíveis. Vende bem: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k | ~255k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
-#### Level 250–300 atrás de quests (~766 horas até a próxima faixa)
+#### Level 250–300 atrás de quests (~511 horas até a próxima faixa)
 
 **Libere antes:** [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) (missão 8 iniciada, o que abre o portão do Factory Quarter, para Factory Quarter (-1 a -2)).
 
@@ -963,7 +963,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Arena and Zoo Quarter (-1 a -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k | ~275k | Yalahar 193 / ~48 s | Monstros: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). A primeira ida a Yalahar exige a missão do Wyrdin em Edron (Explorer Society Novice, depois o barco do Captain Max saindo de Liberty Bay), e o Captain Karith só leva de volta depois da missão Searoutes around Yalahar dele (5 lembranças de outras cidades). Cuidado: monstros invisíveis. Vende bem: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k | ~255k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
-#### Level 300–350 atrás de quests (~958 horas até a próxima faixa)
+#### Level 300–350 atrás de quests (~638 horas até a próxima faixa)
 
 **Libere antes:** [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius; sem level mínimo, para Old Masonry (-1 a -2)).
 
@@ -983,7 +983,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Arena and Zoo Quarter (-1 a -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k–325k | ~275k–305k | Yalahar 193 / ~48 s | Monstros: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). A primeira ida a Yalahar exige a missão do Wyrdin em Edron (Explorer Society Novice, depois o barco do Captain Max saindo de Liberty Bay), e o Captain Karith só leva de volta depois da missão Searoutes around Yalahar dele (5 lembranças de outras cidades). Cuidado: monstros invisíveis. Vende bem: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k–19k | ~255k–270k | Svargrond 182 / ~46 s | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Exige a [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) e a primeira missão da [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), depois peça "passage" ao Iskan em Svargrond. Vende bem: Winter Wolf Fur |
 
-#### Level 350–400 atrás de quests (~1160 horas até a próxima faixa)
+#### Level 350–400 atrás de quests (~773 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1001,7 +1001,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Arena and Zoo Quarter (-1 a -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~325k | ~305k | Yalahar 193 / ~48 s | Monstros: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). A primeira ida a Yalahar exige a missão do Wyrdin em Edron (Explorer Society Novice, depois o barco do Captain Max saindo de Liberty Bay), e o Captain Karith só leva de volta depois da missão Searoutes around Yalahar dele (5 lembranças de outras cidades). Cuidado: monstros invisíveis. Vende bem: Mutated Rat Tail |
 | [Treasure Island (-1 a -3)](https://tibiamaps.io/map#32156,32948,8:2) | 0 | 0 | ~140k–150k | ~275k–300k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | Monstros: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain |
 
-#### Level 400–450 atrás de quests (~1377 horas até a próxima faixa)
+#### Level 400–450 atrás de quests (~918 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1019,7 +1019,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 | [Arena and Zoo Quarter (-1 a -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~325k–345k | ~305k–325k | Yalahar 193 / ~48 s | Monstros: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). A primeira ida a Yalahar exige a missão do Wyrdin em Edron (Explorer Society Novice, depois o barco do Captain Max saindo de Liberty Bay), e o Captain Karith só leva de volta depois da missão Searoutes around Yalahar dele (5 lembranças de outras cidades). Cuidado: monstros invisíveis. Vende bem: Mutated Rat Tail |
 | [Treasure Island (-1 a -3)](https://tibiamaps.io/map#32156,32948,8:2) | 0 | 0 | ~150k | ~300k | Liberty Bay 85 / ~21 s, barco do porto, depois 54 / ~14 s | Monstros: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). As cavernas exigem a [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) a cada visita. Vende bem: Half-Eaten Brain |
 
-#### Level 450–500 atrás de quests (~1604 horas até a próxima faixa)
+#### Level 450–500 atrás de quests (~1069 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1058,7 +1058,7 @@ As quests que essas hunts pedem, na ordem em que você vai precisar delas pela p
 ## Seção 1c: Hunts com viagem longa
 As outras seções também deixam de fora as hunts a mais de uns 2 minutos do depot, contando cada barco ou tartaruga como uns 30 segundos: cada ida para vender o loot ou repor supplies custa esse tempo duas vezes. Muitas são boas, então esta seção lista essas hunts, avaliadas como na Seção 1, com as mesmas duas listas por faixa. A coluna Depot mostra a viagem. As hunts que também exigem uma quest estão na Seção 1b.
 
-#### Level 20–40 com viagem longa (~38 horas até a próxima faixa)
+#### Level 20–40 com viagem longa (~35 horas até a próxima faixa)
 
 **Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (iniciada: peça uma mission ao Ongulf, o que abre as portas dos elevadores, para Gnarlhound Caves).
 
@@ -1074,7 +1074,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) ✓ | 0 | 0 | ~14k–17k | ~115k–135k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). **Testado** (um knight de level 20–30): 400 gold de supplies por hora, Shaggy Tail vendida por cerca de 2,2k, seguro, mas as mortes demoram, nenhum outro jogador lá, 134k de loot/h naquele mundo, 14k de XP/h. O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Gnarlhound bate 19% da vida. Vende bem: Shaggy Tail |
 
-#### Level 40–60 com viagem longa (~72 horas até a próxima faixa)
+#### Level 40–60 com viagem longa (~50 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1092,7 +1092,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k–30k | ~65k–100k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~45k–50k | ~11k–12k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 50. Monstros: [Terramite](https://tibia.fandom.com/wiki/Terramite). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Terramite Legs |
 
-#### Level 60–80 com viagem longa (~124 horas até a próxima faixa)
+#### Level 60–80 com viagem longa (~83 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1110,7 +1110,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~30k–35k | ~100k–120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~50k–60k | ~12k–14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Terramite](https://tibia.fandom.com/wiki/Terramite). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Terramite Legs |
 
-#### Level 80–100 com viagem longa (~192 horas até a próxima faixa)
+#### Level 80–100 com viagem longa (~128 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1128,7 +1128,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k | ~120k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~60k | ~14k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Terramite](https://tibia.fandom.com/wiki/Terramite). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Terramite Legs |
 
-#### Level 100–150 com viagem longa (~778 horas até a próxima faixa)
+#### Level 100–150 com viagem longa (~519 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1146,7 +1146,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k–40k | ~120k–130k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~45k–50k | ~60k–65k | Venore 645 / ~2,7 min | Monstros: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Bat](https://tibia.fandom.com/wiki/Bat), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Assassin](https://tibia.fandom.com/wiki/Assassin), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Witch](https://tibia.fandom.com/wiki/Witch). Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 
-#### Level 150–200 com viagem longa (~1376 horas até a próxima faixa)
+#### Level 150–200 com viagem longa (~918 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1166,7 +1166,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Dark Cathedral (superfície a -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~50k–60k | ~65k–80k | Venore 645 / ~2,7 min | Monstros: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Bat](https://tibia.fandom.com/wiki/Bat), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Assassin](https://tibia.fandom.com/wiki/Assassin), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Witch](https://tibia.fandom.com/wiki/Witch). Cuidado: monstros que invocam. Vende bem: Centipede Leg |
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~55k–65k | ~160k–195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | A partir do level 170. Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 200–250 com viagem longa (~449 horas até a próxima faixa)
+#### Level 200–250 com viagem longa (~299 horas até a próxima faixa)
 
 **Libere antes:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (até a missão 2, para a Mage's Tower, para Yielothax Dimension).
 
@@ -1186,7 +1186,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~65k–70k | ~195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~50k | ~155k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 
-#### Level 250–300 com viagem longa (~622 horas até a próxima faixa)
+#### Level 250–300 com viagem longa (~415 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1204,7 +1204,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~70k | ~195k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~380k–430k | ~155k–180k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax) até o próximo server save. Pergunte a um Guide NPC sobre a Mage Tower antes de ir. A torre precisa da The New Frontier Quest até a missão 2; O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Yielothax bate 19% da vida, dano quase todo elemental. Vende bem: Might Ring |
 
-#### Level 300–350 com viagem longa (~787 horas até a próxima faixa)
+#### Level 300–350 com viagem longa (~525 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1222,7 +1222,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~70k–75k | ~195k–215k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: monstros que invocam. Vende bem: Sandcrawler Shell |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~430k–455k | ~180k–190k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax) até o próximo server save. Pergunte a um Guide NPC sobre a Mage Tower antes de ir. A torre precisa da The New Frontier Quest até a missão 2; O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Cuidado: Yielothax bate 16% da vida, dano quase todo elemental. Vende bem: Might Ring |
 
-#### Level 350–400 com viagem longa (~960 horas até a próxima faixa)
+#### Level 350–400 com viagem longa (~640 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1240,7 +1240,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~210k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~455k–515k | ~190k–215k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax) até o próximo server save. Pergunte a um Guide NPC sobre a Mage Tower antes de ir. A torre precisa da The New Frontier Quest até a missão 2; O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Might Ring |
 
-#### Level 400–450 com viagem longa (~1065 horas até a próxima faixa)
+#### Level 400–450 com viagem longa (~710 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1258,7 +1258,7 @@ As outras seções também deixam de fora as hunts a mais de uns 2 minutos do de
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~515k–530k | ~215k–220k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). Uma world change, então pode estar fechada: o portal abre num horário aleatório depois do server save e fecha 5 minutos depois que o Raging Mage morre (possível quando o mundo já matou 2 mil Yielothax) até o próximo server save. Pergunte a um Guide NPC sobre a Mage Tower antes de ir. A torre precisa da The New Frontier Quest até a missão 2; O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Might Ring |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~210k | Edron, depois 3–4+ min: barco para Cormaya, steamboat para Farmine, o elevador e vários ledges com exani hur | Monstros: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). O depot de Farmine só abre depois da missão 5 da The New Frontier Quest. Vende bem: Shaggy Tail |
 
-#### Level 450–500 com viagem longa (~1279 horas até a próxima faixa)
+#### Level 450–500 com viagem longa (~853 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1327,7 +1327,7 @@ Estas tabelas dão as notas das hunts com o kit e mostram as 3 melhores para XP 
 
 O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz de tirar metade da sua vida num golpe, contra monstros que invocam outros ou ficam invisíveis, nem contra dano elemental, então essas hunts mantêm as notas.
 
-#### Level 60–80 com leech (~60 horas até a próxima faixa)
+#### Level 60–80 com leech (~40 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1348,7 +1348,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **1** | – → **1** | ~45k–50k | ~160k–185k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 157 / ~39 s | Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker) |
 | [Elves (Foreigner Quarter, superfície)](https://tibiamaps.io/map#32753,31289,7:2) | – → **1** | – → **1** | ~45k–55k | ~135k–160k | Yalahar 95 / ~24 s | Monstros: [Elf](https://tibia.fandom.com/wiki/Elf), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout), [Elf Arcanist](https://tibia.fandom.com/wiki/Elf_Arcanist) |
 
-#### Level 80–100 com leech (~78 horas até a próxima faixa)
+#### Level 80–100 com leech (~52 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1370,7 +1370,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | – → **1** | – → **1** | ~80k–85k | ~130k–140k | Yalahar 252 / ~1,1 min | A partir do level 90. Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult). Ainda: monstros que invocam |
 | [Cult Cave (Liberty Bay, +1 a -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **1** | – → **1** | ~60k | ~125k–130k | Liberty Bay 143 / ~35 s | A partir do level 90. Monstros: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Ainda: monstros que invocam |
 
-#### Level 100–150 com leech (~327 horas até a próxima faixa)
+#### Level 100–150 com leech (~218 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1389,7 +1389,7 @@ O leech ajuda mais contra dano constante. Ele não ajuda contra um monstro capaz
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | – → **1** | – → **1** | ~85k–95k | ~140k–160k | Yalahar 252 / ~1,1 min | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult). Ainda: monstros que invocam |
 | [Cult Cave (Liberty Bay, +1 a -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **1** | – → **1** | ~60k–70k | ~130k–145k | Liberty Bay 143 / ~35 s | Monstros: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Ainda: monstros que invocam |
 
-#### Level 150–200 com leech (~493 horas até a próxima faixa)
+#### Level 150–200 com leech (~329 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1442,7 +1442,7 @@ Os charms mudam o seu dano médio, não o pior golpe, então eles não mudam as 
 ### Lendo as tabelas da Seção 3
 Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de dano e mostram as 3 melhores para XP e as 3 melhores para lucro por faixa. Elas só pegam hunts em que isso baixa Preparo e Atenção em 2 ou mais no total. As notas dizem qual criatura escolher em cada slot de prey. Os números de XP já incluem a prey de bônus de experiência.
 
-#### Level 60–80 com prey (~94 horas até a próxima faixa)
+#### Level 60–80 com prey (~63 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1460,7 +1460,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | – → **1** | – → **1** | ~60k–65k | ~14k–15k | Ankrahmun 162 / ~40 s | Monstros: [Terramite](https://tibia.fandom.com/wiki/Terramite). Prey de redução de dano em Terramite |
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | – → **1** | – → **1** | ~40k | ~255k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 137 / ~34 s | A partir do level 70. Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Prey de redução de dano em Leaf Golem, prey de XP em Wilting Leaf Golem |
 
-#### Level 80–100 com prey (~135 horas até a próxima faixa)
+#### Level 80–100 com prey (~90 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1481,7 +1481,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Kazordoon Minotaurs (+1 a +4)](https://tibiamaps.io/map#32491,31966,6:2) | – → **0** | – → **0** | ~60k | ~19k | Ab'Dendriel 486 / ~2,0 min | A partir do level 90. Monstros: [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage). Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
 | [Terramite Breeding Tunnels](https://tibiamaps.io/map#33115,32483,7:2) | – → **0** | – → **0** | ~65k | ~15k | Darashia 116 / ~29 s | A partir do level 90. Monstros: [Terramite](https://tibia.fandom.com/wiki/Terramite). Prey de redução de dano em Terramite |
 
-#### Level 100–150 com prey (~793 horas até a próxima faixa)
+#### Level 100–150 com prey (~528 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1501,7 +1501,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Tiquanda](https://tibiamaps.io/map#32812,32699,7:2) | – → **0** | – → **2** | ~40k | ~120k | Port Hope 358 / ~1,5 min | A partir do level 120. Monstros: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Spider](https://tibia.fandom.com/wiki/Spider), [Bug](https://tibia.fandom.com/wiki/Bug), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Crocodile](https://tibia.fandom.com/wiki/Crocodile), [Flamingo](https://tibia.fandom.com/wiki/Flamingo), [Wasp](https://tibia.fandom.com/wiki/Wasp), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Snake](https://tibia.fandom.com/wiki/Snake), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Tiger](https://tibia.fandom.com/wiki/Tiger), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Elephant](https://tibia.fandom.com/wiki/Elephant), [Bat](https://tibia.fandom.com/wiki/Bat), [Slime](https://tibia.fandom.com/wiki/Slime), [Spit Nettle](https://tibia.fandom.com/wiki/Spit_Nettle), [Panda](https://tibia.fandom.com/wiki/Panda), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Hunter](https://tibia.fandom.com/wiki/Hunter), [Hydra](https://tibia.fandom.com/wiki/Hydra), [Wolf](https://tibia.fandom.com/wiki/Wolf). Prey de redução de dano em Centipede, prey de XP em Hydra. Ainda: monstros que invocam, evite Hydra (bate metade da sua vida) |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | – → **0** | – → **0** | ~55k | ~125k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 226 / ~56 s | A partir do level 140. Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider). Prey de redução de dano em Barbarian Headsplitter, prey de XP em Barbarian Skullhunter |
 
-#### Level 150–200 com prey (~1095 horas até a próxima faixa)
+#### Level 150–200 com prey (~730 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1521,7 +1521,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | – → **0** | – → **0** | ~90k–105k | ~30k–35k | Edron 36 / ~9 s, barco do Captain Seahorse para Cormaya, depois 139 / ~35 s | A partir do level 180. Monstros: [Dwarf Soldier](https://tibia.fandom.com/wiki/Dwarf_Soldier), [Dwarf](https://tibia.fandom.com/wiki/Dwarf), [Dwarf Guard](https://tibia.fandom.com/wiki/Dwarf_Guard), [Dwarf Geomancer](https://tibia.fandom.com/wiki/Dwarf_Geomancer). Prey de redução de dano em Dwarf Guard, prey de XP em Dwarf Soldier |
 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – → **0** | – → **0** | ~75k | ~30k | Yalahar 137 / ~34 s | A partir do level 190. Monstros: [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Elf Arcanist](https://tibia.fandom.com/wiki/Elf_Arcanist). Prey de redução de dano em Minotaur Mage, prey de XP em Minotaur Guard |
 
-#### Level 200–250 com prey (~800 horas até a próxima faixa)
+#### Level 200–250 com prey (~534 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1539,7 +1539,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 1 → **0** | 1 → **0** | ~205k | ~105k | Darashia 227 / ~0,9 min | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon). Prey de redução de dano em Dragon |
 | [Ankrahmun Library Tomb (-1 a -3)](https://tibiamaps.io/map#33142,32838,8:2) | – → **1** | – → **1** | ~100k | ~75k–80k | Ankrahmun 21 / ~5 s | Monstros: [Larva](https://tibia.fandom.com/wiki/Larva), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [Snake](https://tibia.fandom.com/wiki/Snake), [Behemoth](https://tibia.fandom.com/wiki/Behemoth), [Scorpion](https://tibia.fandom.com/wiki/Scorpion). Prey de redução de dano em Scarab, prey de XP em Larva |
 
-#### Level 250–300 com prey (~573 horas até a próxima faixa)
+#### Level 250–300 com prey (~382 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1557,7 +1557,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~110k | ~120k–125k | Svargrond 63 / ~16 s, barco do Buddel para os Barbarian Settlements, depois 223 / ~56 s | Monstros: [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer). Prey de redução de dano em Barbarian Bloodwalker, prey de XP em Mammoth |
 | [Fibula Dungeon (-3)](https://tibiamaps.io/map#32171,32440,10:2) | – → **1** | – → **1** | ~360k | ~120k | Thais 232 / ~58 s, pelo Fibula Tunnel até Fibula | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton). Prey de redução de dano em Dragon, prey de XP em Dragon Lord. Ainda: monstros que invocam |
 
-#### Level 300–350 com prey (~1228 horas até a próxima faixa)
+#### Level 300–350 com prey (~819 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1575,7 +1575,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | – → **1** | – → **1** | ~245k | ~125k | Svargrond, a pé pelo gelo | Monstros: [Ice Golem](https://tibia.fandom.com/wiki/Ice_Golem), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider), [Wyvern](https://tibia.fandom.com/wiki/Wyvern), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit). Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 | [Quara Grotto (-1)](https://tibiamaps.io/map#32208,32887,8:2) | 1 → **0** | 1 → **0** | ~215k–240k | ~120k–135k | Liberty Bay 172 / ~43 s | Monstros: [Quara Predator Scout](https://tibia.fandom.com/wiki/Quara_Predator_Scout), [Quara Mantassin Scout](https://tibia.fandom.com/wiki/Quara_Mantassin_Scout), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Quara Pincher Scout](https://tibia.fandom.com/wiki/Quara_Pincher_Scout), [Quara Hydromancer Scout](https://tibia.fandom.com/wiki/Quara_Hydromancer_Scout). Prey de redução de dano em Quara Hydromancer Scout, prey de XP em Quara Predator Scout |
 
-#### Level 350–400 com prey (~906 horas até a próxima faixa)
+#### Level 350–400 com prey (~604 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1593,7 +1593,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | – → **2** | – → **1** | ~155k | ~185k | Ankrahmun 345 / ~1,4 min | Monstros: [Energy Elemental](https://tibia.fandom.com/wiki/Energy_Elemental). Prey de redução de dano em Energy Elemental |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | – → **2** | – → **1** | ~295k | ~80k | Venore 381 / ~1,6 min | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Dragon Hatchling](https://tibia.fandom.com/wiki/Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling). Prey de redução de dano em Dragon Lord, prey de XP em Dragon |
 
-#### Level 400–450 com prey (~1242 horas até a próxima faixa)
+#### Level 400–450 com prey (~828 horas até a próxima faixa)
 
 **Bom para XP**
 
@@ -1611,7 +1611,7 @@ Estas tabelas dão as notas das hunts da Seção 1 com a prey de redução de da
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 1 → **0** | 1 → **0** | ~370k | ~175k | Edron 401 / ~1,7 min | Monstros: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Dragon Hatchling](https://tibia.fandom.com/wiki/Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling), [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Prey de redução de dano em Dragon Lord, prey de XP em Dragon |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~175k | ~65k | Svargrond, a pé pelo gelo | Monstros: [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Ice Golem](https://tibia.fandom.com/wiki/Ice_Golem), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider), [Penguin](https://tibia.fandom.com/wiki/Penguin), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Wyvern](https://tibia.fandom.com/wiki/Wyvern), [Deer](https://tibia.fandom.com/wiki/Deer), [Dire Penguin](https://tibia.fandom.com/wiki/Dire_Penguin), [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch). Prey de redução de dano em Crystal Spider, prey de XP em Ice Golem |
 
-#### Level 450–500 com prey (~1758 horas até a próxima faixa)
+#### Level 450–500 com prey (~1172 horas até a próxima faixa)
 
 **Bom para XP**
 

@@ -7,7 +7,7 @@ The yardstick is a tested hunt: a level 99 knight with Basic Vampirism and Basic
 ## The short version
 - The best comfortable XP per hour, raw: about **132k at level 100, 330k at 200, 429k at 300, 516k at 400, 785k at 500, 816k at 600 and 925k at 800**. Loot runs from about 377k to 647k per hour at the best gold hunting grounds.
 - The kit: **Basic Vampirism and Basic Void** below level 200, about 4k an hour, and from 200 **a second Basic Void on the weapon** (6% mana leech), about 6k an hour. Powerful imbuements would cost about 53k an hour (see the comparison at the end).
-- Levelling this way gets slow: XP per hour grows much slower than the experience a level needs. Each band's title shows the hours of raw hunting to the next band at the best XP hunting grounds; green stamina, prey and the weekly tasks cut that a lot. Players who report millions of XP per hour box big groups with every area spell and drink potions nonstop: that's [Box hunting at 90+](box_hunting_90.md).
+- Levelling this way gets slow: XP per hour grows much slower than the experience a level needs. Each band's title shows the hours of hunting to the next band at the best XP hunting grounds, with green stamina's +50% (the first 3 hours a day); prey and the weekly tasks cut that a lot. Players who report millions of XP per hour box big groups with every area spell and drink potions nonstop: that's [Box hunting at 90+](box_hunting_90.md).
 - Each band starts with the hunting grounds it **unlocks**: comfortable at that level, not at the band before.
 
 ## What comfortable means here
@@ -52,7 +52,7 @@ Unlock imbuing with the first part of the [Forgotten Knowledge Quest](https://ti
 ## Hunting grounds
 Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot at Market prices. XP and loot show the band's first and last level (751k–820k); the lists, grades and potions are for its first level. **Hunt** is the grade with the Basic kit. Potions/h is the mana and health potions the model expects; the imbuements cost another ~4k an hour on top, everywhere.
 
-### Level 100–150 (~297 hours to 150)
+### Level 100–150 (~198 hours to 150)
 **Best for XP**
 
 | Hunting ground | Access | Hunt | Raw XP/h | Loot/h | Potions/h | Notes |
@@ -73,7 +73,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 48k–53k | 209k–231k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier). Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | 0 | 53k–59k | 190k–210k | 0k | Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the Barbarian Test Quest, or walk over the Formorgar Glacier |
 
-### Level 150–200 (~414 hours to 200)
+### Level 150–200 (~276 hours to 200)
 **New at this level** (comfortable now, not at 100): Corym Mines (Venore) (179k XP, 100k loot), Undead Cave (Mount Sternum, -4 to -7) (102k XP, 69k loot), Lair of the Treeling Witch (Cormaya, -2) (97k XP, 245k loot), Plains of Havoc (surface) (96k XP, 66k loot), Beregar Mines (93k XP, 31k loot), Krimhorn barbarians (surface) (86k XP, 50k loot).
 
 **Best for XP**
@@ -96,7 +96,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 97k–106k | 245k–267k | 0k | Monsters: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings and Forest Fury Camp's leaf golems |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 53k–63k | 231k–274k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 200–250 (~439 hours to 250)
+### Level 200–250 (~292 hours to 250)
 **New at this level** (comfortable now, not at 150): Replica Dungeon (330k XP, 68k loot), Yielothax Dimension (295k XP, 124k loot), Dragonblaze Peaks (surface) (256k XP, 121k loot), Edron Dragon Lair (231k XP, 126k loot), Astral Shaper Dungeon (210k XP, 148k loot), Darashia Dragon Lair (-3) (206k XP, 104k loot).
 
 **Best for XP**
@@ -119,7 +119,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 63k–64k | 274k–276k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 133k–135k | 274k–277k | 0k | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords |
 
-### Level 250–300 (~586 hours to 300)
+### Level 250–300 (~391 hours to 300)
 **New at this level** (comfortable now, not at 200): Dragon Lairs (Goroma, surface to -3) (159k XP, 39k loot), Edron Earth Elemental Cave (-1) (159k XP, 37k loot), Ice Witch Temple (-3) (144k XP, 17k loot), Spider Caves (-1 to -2) (109k XP, 41k loot), Ankrahmun Library Tomb (-1 to -3) (92k XP, 80k loot), Drefia (-1 to -2) (91k XP, 177k loot).
 
 **Best for XP**
@@ -142,7 +142,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 135k–139k | 277k–285k | 0k | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k | 276k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 300–350 (~714 hours to 350)
+### Level 300–350 (~476 hours to 350)
 **New at this level** (comfortable now, not at 250): Fibula Dungeon (-3) (293k XP, 106k loot), Edron Bog Raider Cave (221k XP, 122k loot), Crystal Gardens (219k XP, 187k loot), Old Masonry (-1 to -2) (210k XP, 73k loot), Factory Quarter (-1 to -2) (208k XP, 36k loot), Stampor Cave (124k XP, 49k loot).
 
 **Best for XP**
@@ -165,7 +165,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 139k–155k | 285k–319k | 0k | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k–69k | 276k–301k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 350–400 (~873 hours to 400)
+### Level 350–400 (~582 hours to 400)
 **New at this level** (comfortable now, not at 300): Ramoa (232k XP, 101k loot), Nibelor Crystal Spiders (232k XP, 90k loot), Formorgar Glacier Crystal Spiders (212k XP, 116k loot), Edron Earth Elemental Cave (-2) (198k XP, 97k loot), Formorgar Glacier (frost trolls, mammoths) (166k XP, 63k loot), Forbidden Lands (surface) (161k XP, 129k loot).
 
 **Best for XP**
@@ -188,7 +188,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the Barbarian Test Quest and the first mission of The Ice Islands Quest, then ask Iskan in Svargrond for a "passage" |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 69k | 301k | 0k | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 400–450 (~1,073 hours to 450)
+### Level 400–450 (~716 hours to 450)
 **New at this level** (comfortable now, not at 350): Yakchal Crypt (301k XP, 50k loot), Malada (-1 to -3) (204k XP, 121k loot), Talahu (-1 to -3) (202k XP, 109k loot), Mad Mage Room (102k XP, 44k loot).
 
 **Best for XP**
@@ -211,7 +211,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the Barbarian Test Quest and the first mission of The Ice Islands Quest, then ask Iskan in Svargrond for a "passage" |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 1 | 436k–470k | 308k–332k | 0k | Monsters: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the Forgotten Knowledge Quest; don't use the Time Machine at the east end: the only way out is through the boss |
 
-### Level 450–500 (~1,190 hours to 500)
+### Level 450–500 (~793 hours to 500)
 **New at this level** (comfortable now, not at 400): Dragonblaze Peaks (+3 to +6) (450k XP, 65k loot), Venore Dragon Lair (284k XP, 87k loot), Ancient Ruins Tomb (-6 to -8) (152k XP, 150k loot).
 
 **Best for XP**
@@ -234,7 +234,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 48k | 327k–331k | 0k | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings and Forest Fury Camp's leaf golems The respawn is the limit. |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the Barbarian Test Quest and the first mission of The Ice Islands Quest, then ask Iskan in Svargrond for a "passage" |
 
-### Level 500–600 (~2,078 hours to 600)
+### Level 500–600 (~1,386 hours to 600)
 **New at this level** (comfortable now, not at 450): Sea Serpent Area (785k XP, 154k loot), Pits of Inferno Dragon Lair (704k XP, 137k loot), Fenrock Dragon Lair (690k XP, 105k loot), Darashia Dragon Lair (-4) (653k XP, 112k loot), Okolnir frost dragons (596k XP, 83k loot), Seacrest Grounds (591k XP, 147k loot).
 
 **Best for XP**
@@ -257,7 +257,7 @@ Numbers per hour of raw experience (no stamina, prey or boosted bonus) and loot 
 | [Old Masonry (-3)](https://tibiamaps.io/map#32805,31657,10:2) | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed). Thais 193 / ~48 s, then the Death Portal in the Halls of Hope | 1 | 533k–582k | 361k–395k | 0k | Sword: Gnome Sword (energy). Monsters: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Shaper Matriarch](https://tibia.fandom.com/wiki/Shaper_Matriarch), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). Warlocks; Needs the Forgotten Knowledge Quest (Death Portal in the Halls of Hope) |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 169k–172k | 348k–355k | 0k | Sword: Summerblade (fire). Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords |
 
-### Level 600–800 (~6,226 hours to 800)
+### Level 600–800 (~4,150 hours to 800)
 **New at this level** (comfortable now, not at 500): Forbidden Lands (-1 to -3) (484k XP, 156k loot), Kha'zeel Dragon Lairs (417k XP, 132k loot), Underground Glooth Factory (Rathleton, surface to -1) (408k XP, 234k loot), Underground Glooth Factory (Rathleton, -6 to -8) (395k XP, 151k loot).
 
 **Best for XP**

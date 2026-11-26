@@ -7,7 +7,7 @@ A régua é uma hunt testada: um knight level 99 com Basic Vampirism e Basic Voi
 ## Resumindo
 - A melhor XP confortável por hora, crua: uns **132k no level 100, 330k no 200, 429k no 300, 516k no 400, 785k no 500, 816k no 600 e 925k no 800**. O loot vai de uns 377k a 647k por hora nas melhores hunts de gold.
 - O kit: **Basic Vampirism e Basic Void** abaixo do level 200, uns 4k por hora, e a partir do 200 **um segundo Basic Void na arma** (6% de mana leech), uns 6k por hora. Os imbuements Powerful custariam uns 53k por hora (veja a comparação no fim).
-- Subir de level assim fica lento: a XP por hora cresce bem mais devagar que a experiência que um level pede. O título de cada faixa mostra as horas de hunt crua até a próxima faixa nas melhores hunts de XP; stamina verde, prey e as weekly tasks cortam muito disso. Quem fala em milhões de XP por hora faz box grande com todas as magias de área e bebe poção sem parar: isso é o [Box hunt no 90+](box_hunting_90_ptbr.md).
+- Subir de level assim fica lento: a XP por hora cresce bem mais devagar que a experiência que um level pede. O título de cada faixa mostra as horas de hunt até a próxima faixa nas melhores hunts de XP, com o +50% da stamina verde (as 3 primeiras horas do dia); prey e as weekly tasks cortam muito disso. Quem fala em milhões de XP por hora faz box grande com todas as magias de área e bebe poção sem parar: isso é o [Box hunt no 90+](box_hunting_90_ptbr.md).
 - Cada faixa começa com as hunts que ela **libera**: confortáveis naquele level, não na faixa anterior.
 
 ## O que é confortável aqui
@@ -52,7 +52,7 @@ Libere o imbuing com a primeira parte da [Forgotten Knowledge Quest](https://tib
 ## Hunts
 Números por hora de experiência crua (sem bônus de stamina, prey ou criatura boostada) e loot a preço de Market. XP e loot mostram o primeiro e o último level da faixa (751k–820k); as listas, as notas e as poções são do primeiro level. **Atenção** é a nota com o kit Basic. Poções/h são as mana e health potions que o modelo espera; os imbuements custam mais uns 4k por hora, em todas.
 
-### Level 100–150 (~297 horas até o 150)
+### Level 100–150 (~198 horas até o 150)
 **Melhores para XP**
 
 | Hunt | Acesso | Atenção | XP crua/h | Loot/h | Poções/h | Notas |
@@ -73,7 +73,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 48k–53k | 209k–231k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (para o barco do Buddel, ou vá a pé pelo Formorgar Glacier). Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | 0 | 53k–59k | 190k–210k | 0k | Monstros: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). |
 
-### Level 150–200 (~414 horas até o 200)
+### Level 150–200 (~276 horas até o 200)
 **Novas hunts neste level** (confortáveis agora, não no 100): Corym Mines (Venore) (179k XP, 100k loot), Undead Cave (Mount Sternum, -4 a -7) (102k XP, 69k loot), Lair of the Treeling Witch (Cormaya, -2) (97k XP, 245k loot), Plains of Havoc (superfície) (96k XP, 66k loot), Beregar Mines (93k XP, 31k loot), Krimhorn barbarians (superfície) (86k XP, 50k loot).
 
 **Melhores para XP**
@@ -96,7 +96,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 97k–106k | 245k–267k | 0k | Monstros: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 53k–63k | 231k–274k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 200–250 (~439 horas até o 250)
+### Level 200–250 (~292 horas até o 250)
 **Novas hunts neste level** (confortáveis agora, não no 150): Replica Dungeon (330k XP, 68k loot), Yielothax Dimension (295k XP, 124k loot), Dragonblaze Peaks (superfície) (256k XP, 121k loot), Edron Dragon Lair (231k XP, 126k loot), Astral Shaper Dungeon (210k XP, 148k loot), Darashia Dragon Lair (-3) (206k XP, 104k loot).
 
 **Melhores para XP**
@@ -119,7 +119,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 63k–64k | 274k–276k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 133k–135k | 274k–277k | 0k | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 
-### Level 250–300 (~586 horas até o 300)
+### Level 250–300 (~391 horas até o 300)
 **Novas hunts neste level** (confortáveis agora, não no 200): Dragon Lairs (Goroma, superfície a -3) (159k XP, 39k loot), Edron Earth Elemental Cave (-1) (159k XP, 37k loot), Ice Witch Temple (-3) (144k XP, 17k loot), Spider Caves (-1 a -2) (109k XP, 41k loot), Ankrahmun Library Tomb (-1 a -3) (92k XP, 80k loot), Drefia (-1 a -2) (91k XP, 177k loot).
 
 **Melhores para XP**
@@ -142,7 +142,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 135k–139k | 277k–285k | 0k | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k | 276k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 300–350 (~714 horas até o 350)
+### Level 300–350 (~476 horas até o 350)
 **Novas hunts neste level** (confortáveis agora, não no 250): Fibula Dungeon (-3) (293k XP, 106k loot), Edron Bog Raider Cave (221k XP, 122k loot), Crystal Gardens (219k XP, 187k loot), Old Masonry (-1 a -2) (210k XP, 73k loot), Factory Quarter (-1 a -2) (208k XP, 36k loot), Stampor Cave (124k XP, 49k loot).
 
 **Melhores para XP**
@@ -165,7 +165,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 139k–155k | 285k–319k | 0k | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 64k–69k | 276k–301k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 350–400 (~873 horas até o 400)
+### Level 350–400 (~582 horas até o 400)
 **Novas hunts neste level** (confortáveis agora, não no 300): Ramoa (232k XP, 101k loot), Nibelor Crystal Spiders (232k XP, 90k loot), Formorgar Glacier Crystal Spiders (212k XP, 116k loot), Edron Earth Elemental Cave (-2) (198k XP, 97k loot), Formorgar Glacier (frost trolls, mammoths) (166k XP, 63k loot), Forbidden Lands (superfície) (161k XP, 129k loot).
 
 **Melhores para XP**
@@ -188,7 +188,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 69k | 301k | 0k | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). |
 
-### Level 400–450 (~1.073 horas até o 450)
+### Level 400–450 (~716 horas até o 450)
 **Novas hunts neste level** (confortáveis agora, não no 350): Yakchal Crypt (301k XP, 50k loot), Malada (-1 a -3) (204k XP, 121k loot), Talahu (-1 a -3) (202k XP, 109k loot), Mad Mage Room (102k XP, 44k loot).
 
 **Melhores para XP**
@@ -211,7 +211,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). |
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | 1 | 436k–470k | 308k–332k | 0k | Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). |
 
-### Level 450–500 (~1.190 horas até o 500)
+### Level 450–500 (~793 horas até o 500)
 **Novas hunts neste level** (confortáveis agora, não no 400): Dragonblaze Peaks (+3 a +6) (450k XP, 65k loot), Venore Dragon Lair (284k XP, 87k loot), Ancient Ruins Tomb (-6 a -8) (152k XP, 150k loot).
 
 **Melhores para XP**
@@ -234,7 +234,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Lair of the Treeling Witch (Cormaya, superfície a -1)](https://tibiamaps.io/map#33338,31972,7:2) | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | 0 | 48k | 327k–331k | 0k | Monstros: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). O respawn é o limite. |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (exigida antes da Ice Islands Quest); [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (primeira missão). Svargrond 182 / ~46 s | 0 | 19k | 316k | 0k | Monstros: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). |
 
-### Level 500–600 (~2.078 horas até o 600)
+### Level 500–600 (~1.386 horas até o 600)
 **Novas hunts neste level** (confortáveis agora, não no 450): Sea Serpent Area (785k XP, 154k loot), Pits of Inferno Dragon Lair (704k XP, 137k loot), Fenrock Dragon Lair (690k XP, 105k loot), Darashia Dragon Lair (-4) (653k XP, 112k loot), Okolnir frost dragons (596k XP, 83k loot), Seacrest Grounds (591k XP, 147k loot).
 
 **Melhores para XP**
@@ -257,7 +257,7 @@ Números por hora de experiência crua (sem bônus de stamina, prey ou criatura 
 | [Old Masonry (-3)](https://tibiamaps.io/map#32805,31657,10:2) | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius; sem level mínimo). Thais 193 / ~48 s, then the Death Portal in the Halls of Hope | 1 | 533k–582k | 361k–395k | 0k | Espada: Gnome Sword (energia). Monstros: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Shaper Matriarch](https://tibia.fandom.com/wiki/Shaper_Matriarch), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 0 | 169k–172k | 348k–355k | 0k | Espada: Summerblade (fogo). Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). |
 
-### Level 600–800 (~6.226 horas até o 800)
+### Level 600–800 (~4.150 horas até o 800)
 **Novas hunts neste level** (confortáveis agora, não no 500): Forbidden Lands (-1 a -3) (484k XP, 156k loot), Kha'zeel Dragon Lairs (417k XP, 132k loot), Underground Glooth Factory (Rathleton, superfície a -1) (408k XP, 234k loot), Underground Glooth Factory (Rathleton, -6 a -8) (395k XP, 151k loot).
 
 **Melhores para XP**

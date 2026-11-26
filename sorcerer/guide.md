@@ -209,9 +209,9 @@ The tables use only the basics, but a few spells make hunting calmer once you're
 
 Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
 
-Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided level by level by the average XP/h of its **Good for XP** list at that level. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
+Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided level by level by the average XP/h of its **Good for XP** list at that level. It counts green stamina's +50% (the first 3 hours a day, premium account); XP boosts and prey make it faster, hunting past 3 hours a day slower.
 
-#### Level 20–40 (~21 hours to the next band)
+#### Level 20–40 (~19 hours to the next band)
 **Typical sorcerer in this band:** magic level 18, Wand of Decay. Good-value gear, each piece under ~17k: Heat Core, Zaoan Legs, Warrior Helmet, Spellbook, Fur Boots, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
@@ -235,7 +235,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~25k | ~100k | Svargrond, on foot over the ice | From level 30. Watch: Mammoth hits 19% of HP. Sells: Winter Wolf Fur |
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~25k–30k | ~65k–80k | Venore, north-west of the city | From level 30. Watch: Valkyrie hits 29% of HP. Sells: Protective Charm |
 
-#### Level 40–60 (~42 hours to the next band)
+#### Level 40–60 (~29 hours to the next band)
 **Typical sorcerer in this band:** magic level 32, Wand of Inferno. Good-value gear, each piece under ~74k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
@@ -259,7 +259,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 | 1 | ~30k–50k | ~80k–135k | Venore, north-west of the city | Watch: Valkyrie hits 25% of HP. Sells: Protective Charm |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k | ~180k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 50. Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Watch: Barbarian Headsplitter hits 22% of HP. Sells: Winter Wolf Fur |
 
-#### Level 60–80 (~66 hours to the next band)
+#### Level 60–80 (~44 hours to the next band)
 **Typical sorcerer in this band:** magic level 46, Wand of Inferno. Good-value gear, each piece under ~88k: Heat Core, Zaoan Legs, Royal Helmet, Spellbook of Warding, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
@@ -281,7 +281,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~45k–50k | ~180k–195k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 | 1 | ~50k–55k | ~180k–195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Watch: Barbarian Headsplitter hits 19% of HP. Sells: Winter Wolf Fur |
 
-#### Level 80–100 (~74 hours to the next band)
+#### Level 80–100 (~49 hours to the next band)
 **Typical sorcerer in this band:** magic level 58, Wand of Everblazing. Good-value gear, each piece under ~123k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
@@ -303,7 +303,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 | 1 | ~50k | ~195k | Svargrond, on foot over the ice | Sells: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 0 | 0 | ~55k | ~195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Barbarians, winter wolves and mammoths, like Ragnir; Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), or walk over the Formorgar Glacier. Watch: Barbarian Headsplitter hits 16% of HP. Sells: Winter Wolf Fur |
 
-#### Level 100–150 (~297 hours to the next band)
+#### Level 100–150 (~198 hours to the next band)
 **Typical sorcerer in this band:** magic level 68, Wand of Everblazing. Good-value gear, each piece under ~135k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, or walk over the Formorgar Glacier, for Bittermor barbarians).
@@ -331,7 +331,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Forest Furies (Forsaken Mine)](https://tibiamaps.io/map#32648,31732,7:2) | 1 | 1 | ~110k | ~215k–220k | Ab'Dendriel 84 / ~21 s | Rough estimate: no spawn data for this place. From level 120. Only some days: the mine changes daily (Rorcs, Forest Furies, Cyclopes or Lost Dwarves). Watch: Wilting Leaf Golem hits 17% of HP, slows or summons. Sells: Elven Hoof |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 1 | 1 | ~110k | ~235k | Carlin 173 / ~45 s | From level 140. Elven Hoofs; easy monsters: nothing flees, heals, summons or keeps its distance. Sells: Elven Hoof |
 
-#### Level 150–200 (~484 hours to the next band)
+#### Level 150–200 (~323 hours to the next band)
 **Typical sorcerer in this band:** magic level 84, Wand of Everblazing. Good-value gear, each piece under ~164k: Heat Core, Zaoan Legs, Demon Helmet, Spellbook of Warding, Oriental Shoes, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
@@ -410,7 +410,7 @@ Like Section 2, these tables grade the hunting grounds with invisibility and lis
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal.
 
-#### Level 20–40 with invisibility (~12 hours to the next band)
+#### Level 20–40 with invisibility (~11 hours to the next band)
 
 **Good for XP**
 
@@ -430,7 +430,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 2 → **1** | 2 → **1** | ~18k–20k | ~125k–135k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 30. Can't see you: Bug, Leaf Golem. Sells: Piece of Swampling Wood |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k | ~100k | Svargrond, on foot over the ice | From level 30. Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
-#### Level 40–60 with invisibility (~30 hours to the next band)
+#### Level 40–60 with invisibility (~21 hours to the next band)
 
 **Good for XP**
 
@@ -451,7 +451,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~25k–45k | ~100k–180k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k | ~180k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 50. Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
-#### Level 60–80 with invisibility (~55 hours to the next band)
+#### Level 60–80 with invisibility (~37 hours to the next band)
 
 **Good for XP**
 
@@ -469,7 +469,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 1 → **0** | 1 → **0** | ~45k–50k | ~180k–195k | Svargrond, on foot over the ice | Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~180k–195k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 
-#### Level 80–100 with invisibility (~57 hours to the next band)
+#### Level 80–100 with invisibility (~38 hours to the next band)
 
 **Good for XP**
 
@@ -489,7 +489,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~95k–100k | ~185k–220k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~95k | ~255k–260k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 90. Can't see you: Bug, Wilting Leaf Golem. Still: Haunted Treeling hits 46% of HP. Sells: Piece of Swampling Wood |
 
-#### Level 100–150 with invisibility (~221 hours to the next band)
+#### Level 100–150 with invisibility (~147 hours to the next band)
 
 **Good for XP**
 
@@ -508,7 +508,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **0** | 2 → **0** | ~100k–110k | ~220k–235k | Carlin 173 / ~45 s | Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k–240k | Edron 269 / ~1.1 min | From level 140. Can't see you: Crypt Shambler, Skeleton. Sells: Flask of Embalming Fluid |
 
-#### Level 150–200 with invisibility (~399 hours to the next band)
+#### Level 150–200 with invisibility (~266 hours to the next band)
 
 **Good for XP**
 
@@ -560,7 +560,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold: Meriana Gargoyle Cave<br>Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; it also unlocks Marina's sea turtles: Laguna Islands, Blood Crabs<br>Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; no level needed: Nargor | 20–40 | yes | Liberty Bay |
 | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | mission 6 started, which opens the Cemetery Quarter gate: Cemetery Quarter (-2) | 80–100 | partly | Edron |
 
-#### Level 20–40 behind quests (~16 hours to the next band)
+#### Level 20–40 behind quests (~15 hours to the next band)
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Jotunar, Tyrsung, Tyrsung Furrier Camp, Hrodmir Stone Golem Caves; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) ("Nibelor 2" mission started, for Jotunar, Tyrsung, Tyrsung Furrier Camp; TibiaWiki suggests level 130+ for the quest), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
@@ -584,7 +584,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 2 | 2 | ~40k–55k | ~65k–100k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | From level 30. Plus a rare Bloody Pincers (~13k) about once every 3 hours, not counted in Loot/h. Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Thornback Tortoise hits 19% of HP. Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 | [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 2 | 2 | ~35k–45k | ~35k–40k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | From level 30. Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Watch: Stone Golem hits 19% of HP. Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 
-#### Level 40–60 behind quests (~42 hours to the next band)
+#### Level 40–60 behind quests (~30 hours to the next band)
 
 **Good for XP**
 
@@ -603,7 +603,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~55k–85k | ~100k–170k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Thornback Tortoise hits 16% of HP. Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 1 | 1 | ~45k–65k | ~16k–25k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 90 / ~22 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the "Nibelor 2" mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) started. Watch: Frost Giant hits 42% of HP. Sells: Ice Cube. With invisibility: Prep 0, Hunt 0 |
 
-#### Level 60–80 behind quests (~61 hours to the next band)
+#### Level 60–80 behind quests (~41 hours to the next band)
 
 **Good for XP**
 
@@ -621,7 +621,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~85k–95k | ~170k–185k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 | [Hrodmir Stone Golem Caves](https://tibiamaps.io/map#32065,31194,7:2) | 1 | 1 | ~70k | ~65k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 163 / ~41 s | Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest). Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 
-#### Level 80–100 behind quests (~89 hours to the next band)
+#### Level 80–100 behind quests (~59 hours to the next band)
 
 **Unlock first:** [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) (mission 6 started, which opens the Cemetery Quarter gate, for Cemetery Quarter (-2)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; it also unlocks Marina's sea turtles, for Laguna Islands, Blood Crabs).
 
@@ -643,7 +643,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Cemetery Quarter (-2)](https://tibiamaps.io/map#32761,31077,9:2) | 1 | 1 | ~70k | ~90k | Yalahar, in the Cemetery Quarter | Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: Crypt Shambler hits 23% of HP. Sells: Rotten Piece of Cloth. With invisibility: Prep 0, Hunt 0 |
 | [Laguna Islands, Blood Crabs](https://tibiamaps.io/map#32466,32939,11:2) | 1 | 1 | ~90k–100k | ~425k–460k | Liberty Bay, then a sea turtle | From level 90. Needs turtle permission (Eleonore part of the Shattered Isles Quest); Bloody Pincers. Sells: Bloody Pincers. With invisibility: Prep 0, Hunt 0 |
 
-#### Level 100–150 behind quests (~338 hours to the next band)
+#### Level 100–150 behind quests (~225 hours to the next band)
 
 **Good for XP**
 
@@ -662,7 +662,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Meriana Gargoyle Cave](https://tibiamaps.io/map#32389,32604,7:2) | 1 | 1 | ~115k–130k | ~220k–250k | Liberty Bay 9 / ~2 s, Captain Waverider's boat to Meriana (say "Peg Leg"), then 48 / ~12 s | Boat from Liberty Bay; Stone Wings; Needs the Access to Meriana part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Sells: Stone Wing. With invisibility: Prep 0, Hunt 0 |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~14k–15k | ~200k–210k | Svargrond 182 / ~46 s | Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 
-#### Level 150–200 behind quests (~577 hours to the next band)
+#### Level 150–200 behind quests (~384 hours to the next band)
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; no level needed, for Nargor).
 
@@ -704,7 +704,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 ## Section 1c: Hunting grounds with a long trip
 The other sections also leave out hunting grounds more than about 2 minutes from the depot, counting each boat or turtle ride as about 30 seconds: every trip to sell loot or restock costs that time twice. Many of them are good, so this section lists them, graded like Section 1, with the same two lists per band. The Depot column shows the trip. Hunting grounds that also need a quest are in Section 1b.
 
-#### Level 20–40 with a long trip (~21 hours to the next band)
+#### Level 20–40 with a long trip (~19 hours to the next band)
 
 **Unlock first:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves, Zao Terramite Caves).
 
@@ -726,7 +726,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 2 | 2 | ~18k–25k | ~20k–30k | Venore 645 / ~2.7 min | Watch: summoners, skip Slime (hits half your HP). Sells: Centipede Leg. With invisibility: Prep 1, Hunt 2 |
 | [Plains of Havoc (surface)](https://tibiamaps.io/map#32735,32297,7:2) | 2 | 2 | ~25k–35k | ~8k–30k | Venore 527 / ~2.2 min | Plus a rare Broken Shamanic Staff (~11k) about once every 5 hours, not counted in Loot/h. Watch: Cyclops hits 21% of HP, summoners, skip Giant Spider (hits half your HP). Sells: Tarantula Egg. With invisibility: Prep 0, Hunt 2 |
 
-#### Level 40–60 with a long trip (~37 hours to the next band)
+#### Level 40–60 with a long trip (~26 hours to the next band)
 
 **Good for XP**
 
@@ -746,7 +746,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 2 | ~25k–40k | ~30k–55k | Venore 645 / ~2.7 min | Watch: summoners, skip Slime (hits half your HP). Sells: Centipede Leg |
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 2 | 2 | ~45k | ~125k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners, skip Lizard Zaogun (hits half your HP). Sells: Sandcrawler Shell |
 
-#### Level 60–80 with a long trip (~107 hours to the next band)
+#### Level 60–80 with a long trip (~72 hours to the next band)
 
 **Good for XP**
 
@@ -764,7 +764,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 1 | 1 | ~30k–35k | ~100k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell. With invisibility: Prep 0, Hunt 0 |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 1 | 1 | ~65k | ~15k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
 
-#### Level 80–100 with a long trip (~85 hours to the next band)
+#### Level 80–100 with a long trip (~57 hours to the next band)
 
 **Good for XP**
 
@@ -783,7 +783,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Dwarf Cave (Port Hope)](https://tibiamaps.io/map#32978,32661,7:2) | 1 | 1 | ~80k–85k | ~30k | Port Hope 562 / ~2.3 min | Watch: Dwarf Guard hits 17% of HP. Sells: Battle Shield |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 1 | 1 | ~45k–50k | ~65k | Venore 645 / ~2.7 min | From level 90. Watch: summoners. Sells: Centipede Leg. With invisibility: Prep 0, Hunt 0 |
 
-#### Level 100–150 with a long trip (~344 hours to the next band)
+#### Level 100–150 with a long trip (~230 hours to the next band)
 
 **Good for XP**
 
@@ -802,7 +802,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k–40k | ~120k–130k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~50k–55k | ~65k–70k | Venore 645 / ~2.7 min | Watch: summoners. Sells: Centipede Leg |
 
-#### Level 150–200 with a long trip (~627 hours to the next band)
+#### Level 150–200 with a long trip (~418 hours to the next band)
 
 **Good for XP**
 
@@ -871,7 +871,7 @@ These tables grade the hunting grounds with the kit and list the 3 best for XP a
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
-#### Level 60–80 with leech (~52 hours to the next band)
+#### Level 60–80 with leech (~35 hours to the next band)
 
 **Good for XP**
 
@@ -892,7 +892,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 1 → **0** | 1 → **0** | ~50k–55k | ~135k–160k | Venore, north-west of the city |  |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k | ~180k–185k | Carlin 173 / ~45 s | From level 70 |
 
-#### Level 80–100 with leech (~70 hours to the next band)
+#### Level 80–100 with leech (~47 hours to the next band)
 
 **Good for XP**
 
@@ -912,7 +912,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~95k–100k | ~185k–220k | Carlin 173 / ~45 s |  |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 2 → **1** | 2 → **1** | ~95k | ~255k–260k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 90 |
 
-#### Level 100–150 with leech (~253 hours to the next band)
+#### Level 100–150 with leech (~169 hours to the next band)
 
 **Good for XP**
 
@@ -931,7 +931,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 2 → **1** | 2 → **1** | ~100k–110k | ~220k–235k | Carlin 173 / ~45 s |  |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | 2 → **1** | 2 → **1** | ~125k | ~235k–240k | Edron 269 / ~1.1 min | From level 140 |
 
-#### Level 150–200 with leech (~454 hours to the next band)
+#### Level 150–200 with leech (~303 hours to the next band)
 
 **Good for XP**
 
@@ -1001,7 +1001,7 @@ Charms change your average damage, not the worst hit, so they don't change the g
 ### Reading the Section 3 tables
 These tables grade the Section 1 hunting grounds with the damage-reduction prey and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-#### Level 60–80 with prey (~59 hours to the next band)
+#### Level 60–80 with prey (~39 hours to the next band)
 
 **Good for XP**
 
@@ -1024,7 +1024,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~90k | ~30k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 139 / ~35 s | From level 70. Damage-reduction prey on Dwarf Guard, XP prey on Dwarf Soldier |
 | [Ab'Dendriel Elf Cave](https://tibiamaps.io/map#32646,31619,7:2) | 1 → **0** | 1 → **0** | ~11k | ~30k | Ab'Dendriel 155 / ~39 s | From level 70. Damage-reduction prey on Elf Scout, XP prey on Elf |
 
-#### Level 80–100 with prey (~85 hours to the next band)
+#### Level 80–100 with prey (~57 hours to the next band)
 
 **Good for XP**
 
@@ -1044,7 +1044,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Drefia (surface)](https://tibiamaps.io/map#33018,32443,7:2) | 2 → **1** | 2 → **1** | ~55k–60k | ~105k | Darashia 274 / ~1.1 min | Damage-reduction prey on Demon Skeleton, XP prey on Ghoul |
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2 → **1** | 2 → **1** | ~100k | ~110k–115k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | From level 90. Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
 
-#### Level 100–150 with prey (~332 hours to the next band)
+#### Level 100–150 with prey (~222 hours to the next band)
 
 **Good for XP**
 
@@ -1076,7 +1076,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Corym Black Market (Liberty Bay)](https://tibiamaps.io/map#32268,32835,7:2) | 2 → **1** | 2 → **1** | ~145k | ~140k | Liberty Bay 82 / ~20 s | From level 140. Damage-reduction prey on Corym Vanguard, XP prey on Corym Skirmisher |
 | [Carlin Corym Cave](https://tibiamaps.io/map#32361,31826,11:2) | 2 → **1** | 2 → **1** | ~145k | ~135k | Carlin 64 / ~15 s | From level 140. Damage-reduction prey on Corym Vanguard, XP prey on Corym Charlatan |
 
-#### Level 150–200 with prey (~491 hours to the next band)
+#### Level 150–200 with prey (~327 hours to the next band)
 
 **Good for XP**
 
@@ -1139,7 +1139,7 @@ Later, the Wheel also takes **gems**, which add extra bonuses such as more HP or
 ### Reading the Section 4 tables
 These tables assume half your points go into hit-point slices, a rough estimate of about 0.5 extra HP per level above 50. That's little, so few hunting grounds change here: the Wheel helps a sorcerer mostly through Enhanced Magic Shield and stronger spells, which the tables don't count. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total.
 
-#### Level 60–80 with the Wheel (~57 hours to the next band)
+#### Level 60–80 with the Wheel (~38 hours to the next band)
 
 **Good for XP**
 
@@ -1157,7 +1157,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | 3 → **2** | 3 → **2** | ~65k | ~30k | Yalahar 137 / ~34 s |  |
 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | 2 → **1** | 2 → **1** | ~85k | ~30k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 139 / ~35 s | From level 70 |
 
-#### Level 80–100 with the Wheel (~84 hours to the next band)
+#### Level 80–100 with the Wheel (~56 hours to the next band)
 
 **Good for XP**
 
@@ -1177,7 +1177,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 3 → **2** | 3 → **2** | ~105k–110k | ~60k–65k | Ankrahmun 170 / ~40 s | From level 90. Plus a rare Fist on a Stick (~240k) about once every 4 hours, not counted in Loot/h. Still: skip Clay Guardian (hits half your HP) |
 | [Mad Mage Room](https://tibiamaps.io/map#32559,32177,14:2) | 3 → **2** | 3 → **2** | ~90k–100k | ~35k–40k | Thais 83 / ~21 s, then down through the Ancient Temple | From level 90. Still: summoners, skip Dragon (hits half your HP) |
 
-#### Level 100–150 with the Wheel (~389 hours to the next band)
+#### Level 100–150 with the Wheel (~259 hours to the next band)
 
 **Good for XP**
 
@@ -1209,7 +1209,7 @@ These tables assume half your points go into hit-point slices, a rough estimate 
 | [Corym Mines (Venore)](https://tibiamaps.io/map#33055,32012,11:2) | 3 → **2** | 3 → **2** | ~240k | ~195k | Venore 98 / ~25 s | From level 130 |
 | [Kazordoon Dragon Lair](https://tibiamaps.io/map#32658,31895,7:2) | 3 → **2** | 3 → **2** | ~85k | ~45k | Kazordoon 14 / ~4 s | From level 140 |
 
-#### Level 150–200 with the Wheel (~755 hours to the next band)
+#### Level 150–200 with the Wheel (~504 hours to the next band)
 
 **Good for XP**
 

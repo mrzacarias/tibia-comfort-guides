@@ -53,7 +53,7 @@ O Combat Mastery dá 1% de dano a mais para cada 12% de vida que falta no alvo (
 ## Hunts
 Números por hora de experiência crua (sem bônus de stamina, prey ou criatura boostada) e loot a preço de Market. XP e loot mostram o primeiro e o último level da faixa; o resto é do primeiro level. **Poções/h** são as mana e health potions que o modelo espera, **Lucro/h** o loot menos as poções (os imbuements custam mais uns 6k por hora). A lista de XP pega o tamanho de pull com mais XP de cada hunt, a de gold o com mais lucro.
 
-### Level 90–100 (~25 horas até o 100)
+### Level 90–100 (~17 horas até o 100)
 Versão sem poção: [guia principal, Level 80–100](guide_ptbr.md#level-80100-92-horas-até-a-próxima-faixa).
 
 **Melhores para XP**
@@ -76,8 +76,8 @@ Versão sem poção: [guia principal, Level 80–100](guide_ptbr.md#level-80100-
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | Edron 269 / ~1.1 min | 1 | 139k–148k | 271k–289k | 28k | 243k | – | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Blue Djinn](https://tibia.fandom.com/wiki/Blue_Djinn), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 3,7 (até 3). Health potion: Health Potion. |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 60k | 258k–260k | 21k | 238k | +25% | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Pulls de uns 3,4 (até 5). |
 
-### Level 100–150 (~229 horas até o 150)
-Versão sem poção: [Hunt confortável solo no 100+, Level 100–150](comfort_solo_100_ptbr.md#level-100150-297-horas-até-o-150).
+### Level 100–150 (~153 horas até o 150)
+Versão sem poção: [Hunt confortável solo no 100+, Level 100–150](comfort_solo_100_ptbr.md#level-100150-198-horas-até-o-150).
 
 **Melhores para XP**
 
@@ -99,8 +99,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 100–150](comfort_s
 | [Treasure Island (-1 a -3)](https://tibiamaps.io/map#32156,32948,8:2) | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (para as cavernas). Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | 1 | 144k–163k | 283k–318k | 30k | 253k | – | Monstros: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). Pulls de uns 3,4 (até 6). Health potion: Health Potion. |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | Svargrond, on foot over the ice | 0 | 60k–69k | 260k–299k | 19k | 240k | +24% | Monstros: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Pulls de uns 3,4 (até 5). |
 
-### Level 150–200 (~177 horas até o 200)
-Versão sem poção: [Hunt confortável solo no 100+, Level 150–200](comfort_solo_100_ptbr.md#level-150200-414-horas-até-o-200).
+### Level 150–200 (~118 horas até o 200)
+Versão sem poção: [Hunt confortável solo no 100+, Level 150–200](comfort_solo_100_ptbr.md#level-150200-276-horas-até-o-200).
 
 **Melhores para XP**
 
@@ -122,8 +122,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 150–200](comfort_s
 | [Treasure Island (-1 a -3)](https://tibiamaps.io/map#32156,32948,8:2) | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (para as cavernas). Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | 0 | 163k–178k | 318k–349k | 27k | 291k | – | Monstros: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). Pulls de uns 3,4 (até 5). Health potion: Health Potion. |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 2 | 162k–187k | 333k–384k | 43k | 290k | – | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 4,0 (até 5). |
 
-### Level 200–250 (~171 horas até o 250)
-Versão sem poção: [Hunt confortável solo no 100+, Level 200–250](comfort_solo_100_ptbr.md#level-200250-439-horas-até-o-250).
+### Level 200–250 (~114 horas até o 250)
+Versão sem poção: [Hunt confortável solo no 100+, Level 200–250](comfort_solo_100_ptbr.md#level-200250-292-horas-até-o-250).
 
 **Melhores para XP**
 
@@ -145,8 +145,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 200–250](comfort_s
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 187k–188k | 384k–386k | 39k | 345k | +40% | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 4,0 (até 5). |
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | Edron 269 / ~1.1 min | 0 | 178k–180k | 347k–351k | 21k | 326k | +46% | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Blue Djinn](https://tibia.fandom.com/wiki/Blue_Djinn), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 4,8 (até 6). |
 
-### Level 250–300 (~229 horas até o 300)
-Versão sem poção: [Hunt confortável solo no 100+, Level 250–300](comfort_solo_100_ptbr.md#level-250300-586-horas-até-o-300).
+### Level 250–300 (~153 horas até o 300)
+Versão sem poção: [Hunt confortável solo no 100+, Level 250–300](comfort_solo_100_ptbr.md#level-250300-391-horas-até-o-300).
 
 **Melhores para XP**
 
@@ -168,8 +168,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 250–300](comfort_s
 | [Forbidden Temple (Ankrahmun, -3 a -4)](https://tibiamaps.io/map#33315,32675,10:2) | Ankrahmun 351 / ~1.5 min | 3 | 289k–296k | 478k–489k | 57k | 421k | – | Monstros: [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Enlightened of the Cult](https://tibia.fandom.com/wiki/Enlightened_of_the_Cult), [Lizard Templar](https://tibia.fandom.com/wiki/Lizard_Templar), [Lizard Snakecharmer](https://tibia.fandom.com/wiki/Lizard_Snakecharmer), [Cobra](https://tibia.fandom.com/wiki/Cobra). Pulls de uns 5,6 (até 6). Health potion: Health Potion. |
 | [Cult Cave (Liberty Bay, -3 a -4)](https://tibiamaps.io/map#32359,32721,10:2) | Liberty Bay 143 / ~35 s | 1 | 188k–189k | 386k–389k | 39k | 347k | +40% | Monstros: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 4,5 (até 6). |
 
-### Level 300–350 (~282 horas até o 350)
-Versão sem poção: [Hunt confortável solo no 100+, Level 300–350](comfort_solo_100_ptbr.md#level-300350-714-horas-até-o-350).
+### Level 300–350 (~188 horas até o 350)
+Versão sem poção: [Hunt confortável solo no 100+, Level 300–350](comfort_solo_100_ptbr.md#level-300350-476-horas-até-o-350).
 
 **Melhores para XP**
 
@@ -191,8 +191,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 300–350](comfort_s
 | [Forbidden Temple (Ankrahmun, -3 a -4)](https://tibiamaps.io/map#33315,32675,10:2) | Ankrahmun 351 / ~1.5 min | 3 | 296k–347k | 489k–573k | 53k | 436k | – | Monstros: [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Enlightened of the Cult](https://tibia.fandom.com/wiki/Enlightened_of_the_Cult), [Lizard Templar](https://tibia.fandom.com/wiki/Lizard_Templar), [Lizard Snakecharmer](https://tibia.fandom.com/wiki/Lizard_Snakecharmer), [Cobra](https://tibia.fandom.com/wiki/Cobra). Pulls de uns 5,6 (até 6). |
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | Gray Beach 140 / ~35 s | 2 | 754k–878k | 530k–617k | 97k | 432k | – | Monstros: [Spitter](https://tibia.fandom.com/wiki/Spitter), [Waspoid](https://tibia.fandom.com/wiki/Waspoid), [Crawler](https://tibia.fandom.com/wiki/Crawler), [Spidris](https://tibia.fandom.com/wiki/Spidris), [Insectoid Worker](https://tibia.fandom.com/wiki/Insectoid_Worker), [Kollos](https://tibia.fandom.com/wiki/Kollos), [Swarmer](https://tibia.fandom.com/wiki/Swarmer), [Ladybug](https://tibia.fandom.com/wiki/Ladybug), [Lesser Swarmer](https://tibia.fandom.com/wiki/Lesser_Swarmer), [Spidris Elite](https://tibia.fandom.com/wiki/Spidris_Elite), [Hive Pore](https://tibia.fandom.com/wiki/Hive_Pore), [Floor Blob](https://tibia.fandom.com/wiki/Floor_Blob), [Hive Overseer](https://tibia.fandom.com/wiki/Hive_Overseer). Pulls de uns 3,2 (até 2). Health potion: Health Potion. |
 
-### Level 350–400 (~337 horas até o 400)
-Versão sem poção: [Hunt confortável solo no 100+, Level 350–400](comfort_solo_100_ptbr.md#level-350400-873-horas-até-o-400).
+### Level 350–400 (~224 horas até o 400)
+Versão sem poção: [Hunt confortável solo no 100+, Level 350–400](comfort_solo_100_ptbr.md#level-350400-582-horas-até-o-400).
 
 **Melhores para XP**
 
@@ -214,8 +214,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 350–400](comfort_s
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), missão The Curse Spreads | 3 | 1,1M–1,2M | 647k–656k | 114k | 533k | – | Monstros: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls de uns 3,0 (até 4). Health potion: Health Potion. |
 | [Forbidden Temple (Ankrahmun, -3 a -4)](https://tibiamaps.io/map#33315,32675,10:2) | Ankrahmun 351 / ~1.5 min | 3 | 347k | 573k | 49k | 524k | – | Monstros: [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Enlightened of the Cult](https://tibia.fandom.com/wiki/Enlightened_of_the_Cult), [Lizard Templar](https://tibia.fandom.com/wiki/Lizard_Templar), [Lizard Snakecharmer](https://tibia.fandom.com/wiki/Lizard_Snakecharmer), [Cobra](https://tibia.fandom.com/wiki/Cobra). Pulls de uns 5,6 (até 6). |
 
-### Level 400–450 (~417 horas até o 450)
-Versão sem poção: [Hunt confortável solo no 100+, Level 400–450](comfort_solo_100_ptbr.md#level-400450-1073-horas-até-o-450).
+### Level 400–450 (~278 horas até o 450)
+Versão sem poção: [Hunt confortável solo no 100+, Level 400–450](comfort_solo_100_ptbr.md#level-400450-716-horas-até-o-450).
 
 **Melhores para XP**
 
@@ -237,8 +237,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 400–450](comfort_s
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | Gray Beach 140 / ~35 s | 3 | 953k–1,0M | 669k–705k | 115k | 554k | – | Monstros: [Spitter](https://tibia.fandom.com/wiki/Spitter), [Waspoid](https://tibia.fandom.com/wiki/Waspoid), [Crawler](https://tibia.fandom.com/wiki/Crawler), [Spidris](https://tibia.fandom.com/wiki/Spidris), [Insectoid Worker](https://tibia.fandom.com/wiki/Insectoid_Worker), [Kollos](https://tibia.fandom.com/wiki/Kollos), [Swarmer](https://tibia.fandom.com/wiki/Swarmer), [Ladybug](https://tibia.fandom.com/wiki/Ladybug), [Lesser Swarmer](https://tibia.fandom.com/wiki/Lesser_Swarmer), [Spidris Elite](https://tibia.fandom.com/wiki/Spidris_Elite), [Hive Pore](https://tibia.fandom.com/wiki/Hive_Pore), [Floor Blob](https://tibia.fandom.com/wiki/Floor_Blob), [Hive Overseer](https://tibia.fandom.com/wiki/Hive_Overseer). Pulls de uns 4,2 (até 5). Health potion: Health Potion. |
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), missão The Curse Spreads | 3 | 1,2M | 656k–693k | 109k | 547k | – | Monstros: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls de uns 3,0 (até 4). Health potion: Health Potion. |
 
-### Level 450–500 (~466 horas até o 500)
-Versão sem poção: [Hunt confortável solo no 100+, Level 450–500](comfort_solo_100_ptbr.md#level-450500-1190-horas-até-o-500).
+### Level 450–500 (~311 horas até o 500)
+Versão sem poção: [Hunt confortável solo no 100+, Level 450–500](comfort_solo_100_ptbr.md#level-450500-793-horas-até-o-500).
 
 **Melhores para XP**
 
@@ -260,8 +260,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 450–500](comfort_s
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | Gray Beach 140 / ~35 s | 2 | 1,0M–1,1M | 705k–760k | 114k | 591k | – | Monstros: [Spitter](https://tibia.fandom.com/wiki/Spitter), [Waspoid](https://tibia.fandom.com/wiki/Waspoid), [Crawler](https://tibia.fandom.com/wiki/Crawler), [Spidris](https://tibia.fandom.com/wiki/Spidris), [Insectoid Worker](https://tibia.fandom.com/wiki/Insectoid_Worker), [Kollos](https://tibia.fandom.com/wiki/Kollos), [Swarmer](https://tibia.fandom.com/wiki/Swarmer), [Ladybug](https://tibia.fandom.com/wiki/Ladybug), [Lesser Swarmer](https://tibia.fandom.com/wiki/Lesser_Swarmer), [Spidris Elite](https://tibia.fandom.com/wiki/Spidris_Elite), [Hive Pore](https://tibia.fandom.com/wiki/Hive_Pore), [Floor Blob](https://tibia.fandom.com/wiki/Floor_Blob), [Hive Overseer](https://tibia.fandom.com/wiki/Hive_Overseer). Pulls de uns 4,4 (até 6). Health potion: Health Potion. |
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), missão The Curse Spreads | 3 | 1,2M–1,4M | 693k–770k | 125k | 568k | – | Monstros: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls de uns 3,5 (até 5). Health potion: Health Potion. |
 
-### Level 500–600 (~1.121 horas até o 600)
-Versão sem poção: [Hunt confortável solo no 100+, Level 500–600](comfort_solo_100_ptbr.md#level-500600-2078-horas-até-o-600).
+### Level 500–600 (~747 horas até o 600)
+Versão sem poção: [Hunt confortável solo no 100+, Level 500–600](comfort_solo_100_ptbr.md#level-500600-1386-horas-até-o-600).
 
 **Melhores para XP**
 
@@ -283,8 +283,8 @@ Versão sem poção: [Hunt confortável solo no 100+, Level 500–600](comfort_s
 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest), missão The Curse Spreads | 3 | 1,4M | 770k–783k | 84k | 686k | – | Espada: Summerblade (fogo). Monstros: [Werebadger](https://tibia.fandom.com/wiki/Werebadger), [Werebear](https://tibia.fandom.com/wiki/Werebear), [Werewolf](https://tibia.fandom.com/wiki/Werewolf), [Wereboar](https://tibia.fandom.com/wiki/Wereboar), [Werefox](https://tibia.fandom.com/wiki/Werefox). Werecreatures. Pulls de uns 3,5 (até 5). Health potion: Health Potion. |
 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | Gray Beach 140 / ~35 s | 2 | 1,1M | 760k–786k | 83k | 676k | – | Espada: Winterblade (gelo). Monstros: [Spitter](https://tibia.fandom.com/wiki/Spitter), [Waspoid](https://tibia.fandom.com/wiki/Waspoid), [Crawler](https://tibia.fandom.com/wiki/Crawler), [Spidris](https://tibia.fandom.com/wiki/Spidris), [Insectoid Worker](https://tibia.fandom.com/wiki/Insectoid_Worker), [Kollos](https://tibia.fandom.com/wiki/Kollos), [Swarmer](https://tibia.fandom.com/wiki/Swarmer), [Ladybug](https://tibia.fandom.com/wiki/Ladybug), [Lesser Swarmer](https://tibia.fandom.com/wiki/Lesser_Swarmer), [Spidris Elite](https://tibia.fandom.com/wiki/Spidris_Elite), [Hive Pore](https://tibia.fandom.com/wiki/Hive_Pore), [Floor Blob](https://tibia.fandom.com/wiki/Floor_Blob), [Hive Overseer](https://tibia.fandom.com/wiki/Hive_Overseer). Pulls de uns 4,4 (até 6). Health potion: Health Potion. |
 
-### Level 600–800 (~3.129 horas até o 800)
-Versão sem poção: [Hunt confortável solo no 100+, Level 600–800](comfort_solo_100_ptbr.md#level-600800-6226-horas-até-o-800).
+### Level 600–800 (~2.086 horas até o 800)
+Versão sem poção: [Hunt confortável solo no 100+, Level 600–800](comfort_solo_100_ptbr.md#level-600800-4150-horas-até-o-800).
 
 **Melhores para XP**
 

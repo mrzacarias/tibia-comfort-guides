@@ -225,9 +225,9 @@ The tables use only the basics, but a few spells make hunting calmer once you're
 
 Under the gear line, **Unlock first** lists the quests the band's hunting grounds need (do them once, and those hunting grounds open up), and **Worth doing** points out the rare quest whose experience is worth the trip.
 
-Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided level by level by the average XP/h of its **Good for XP** list at that level. It counts raw experience plus the low level bonus (every character below level 50 gets extra experience: almost double at level 8, about 60% more at level 20, and none from level 50 on), so the stamina bonus, XP boosts and prey make it faster.
+Each band's title also shows roughly how long it takes to reach the next band: the experience between the two levels, divided level by level by the average XP/h of its **Good for XP** list at that level. It counts green stamina's +50% (the first 3 hours a day, premium account); XP boosts and prey make it faster, hunting past 3 hours a day slower.
 
-#### Level 20–40 (~13 hours to the next band)
+#### Level 20–40 (~12 hours to the next band)
 **Typical knight in this band:** skill 43, weapon attack 31. Good-value gear, each piece under ~37k: Crimson Sword, Furry Club or Dwarven Axe (sword, club or axe), with Golden Armor, Zaoan Legs, Royal Helmet, Carapace Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
@@ -246,7 +246,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Amazon Tower](https://tibiamaps.io/map#32355,31645,7:2) ✓ | 0 | 0 | 25k | 70k | Carlin 195 / ~49 s | Monsters: [Amazon](https://tibia.fandom.com/wiki/Amazon), [Valkyrie](https://tibia.fandom.com/wiki/Valkyrie), [Witch](https://tibia.fandom.com/wiki/Witch). **Tested** (level 41, sword ~57): 550 gold of supplies per hour, almost no healing, 25k XP/h. Few monsters: you loop up and down the tower waiting for respawns. Watch: Valkyrie hits 33% of HP. Sells: Protective Charm |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) ✓ | 0 | 0 | ~11k–12k | ~60k–65k | Venore 262 / ~1.1 min | Monsters: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). **Tested** (level 26, sword 48): 200 gold of supplies per hour, almost no healing, 72k loot/h on that world, 11k XP/h. Sells: Medicine Pouch |
 
-#### Level 40–60 (~35 hours to the next band)
+#### Level 40–60 (~24 hours to the next band)
 **Typical knight in this band:** skill 57, weapon attack 40. Good-value gear, each piece under ~107k: Assassin Dagger, Shadow Sceptre or Warrior's Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Boots of Haste, Platinum Amulet, Guardian Ring.
 
 **Good for XP**
@@ -269,7 +269,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 1 | ~40k | ~155k | Svargrond, on foot over the ice | From level 50. Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Sells: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~20k–25k | ~115k–125k | Venore 262 / ~1.1 min | From level 50. Monsters: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). Sells: Medicine Pouch |
 
-#### Level 60–80 (~63 hours to the next band)
+#### Level 60–80 (~42 hours to the next band)
 **Typical knight in this band:** skill 68, weapon attack 44. Good-value gear, each piece under ~129k: Mystic Blade, Metal Bat or Vile Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Badger Boots, Platinum Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -288,7 +288,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~40k–45k | ~155k–180k | Svargrond, on foot over the ice | Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Sells: Winter Wolf Fur |
 | [Swamp Troll Cave](https://tibiamaps.io/map#32938,32219,7:2) | 0 | 0 | ~25k | ~125k–135k | Venore 262 / ~1.1 min | Monsters: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bat](https://tibia.fandom.com/wiki/Bat), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton). Sells: Medicine Pouch |
 
-#### Level 80–100 (~92 hours to the next band)
+#### Level 80–100 (~61 hours to the next band)
 **Typical knight in this band:** skill 76, weapon attack 47. Good-value gear, each piece under ~149k: Crystalline Sword, Onyx Flail or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
@@ -311,7 +311,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~35k | ~255k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 90. Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) ✓ | 0 | 0 | 90k | 225k | Edron 129 / ~30 s | From level 90. Monsters: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). **Tested** (level 91, club 107): another player shared the hunting ground, 100 gold of supplies per hour, almost no healing, high-price world, 264k loot/h on that world, 90k XP/h. Sells: Wyvern Talisman |
 
-#### Level 100–150 (~346 hours to the next band)
+#### Level 100–150 (~231 hours to the next band)
 **Typical knight in this band:** skill 81, weapon attack 49. Good-value gear, each piece under ~155k: Blade of Corruption, Obsidian Truncheon or Deepling Axe (sword, club or axe), with Magic Plate Armor, Zaoan Legs, Zaoan Helmet, Rift Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Vampire Hunter Quest](https://tibia.fandom.com/wiki/Vampire_Hunter_Quest) (186,000 experience).
@@ -334,7 +334,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 1 | ~80k–90k | ~225k–250k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings and Forest Fury Camp's leaf golems. Watch: Haunted Treeling hits 22% of HP, slows or summons. Sells: Piece of Swampling Wood |
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~90k | ~225k | Edron 129 / ~30 s | Monsters: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Sells: Wyvern Talisman |
 
-#### Level 150–200 (~541 hours to the next band)
+#### Level 150–200 (~361 hours to the next band)
 **Typical knight in this band:** skill 90, weapon attack 50. Good-value gear, each piece under ~174k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Zaoan Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Worth doing:** [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) (325,000 experience; a long quest with bosses).
@@ -356,7 +356,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Edron Wyvern Hill](https://tibiamaps.io/map#33221,31769,7:2) | 0 | 0 | ~90k | ~225k | Edron 129 / ~30 s | Monsters: [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Sells: Wyvern Talisman |
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | 0 | 0 | ~60k–65k | ~240k–250k | Svargrond, on foot over the ice | From level 190. Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Sells: Winter Wolf Fur |
 
-#### Level 200–250 (~436 hours to the next band)
+#### Level 200–250 (~291 hours to the next band)
 **Typical knight in this band:** skill 97, weapon attack 50. Good-value gear, each piece under ~178k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Zaoan Legs, Zaoan Helmet, Prismatic Shield, Guardian Boots, Gearwheel Chain, Butterfly Ring.
 
 **Good for XP**
@@ -375,7 +375,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k | ~285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | 1 | 1 | ~135k | ~265k | Liberty Bay 143 / ~35 s | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords. Watch: summoners. Sells: Rope Belt |
 
-#### Level 250–300 (~645 hours to the next band)
+#### Level 250–300 (~430 hours to the next band)
 **Typical knight in this band:** skill 98, weapon attack 50. Good-value gear, each piece under ~795k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -394,7 +394,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k | ~285k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | 1 | 1 | ~135k–140k | ~265k–275k | Liberty Bay 143 / ~35 s | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords. Watch: summoners. Sells: Rope Belt |
 
-#### Level 300–350 (~732 hours to the next band)
+#### Level 300–350 (~488 hours to the next band)
 **Typical knight in this band:** skill 100, weapon attack 50. Good-value gear, each piece under ~683k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -413,7 +413,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 1 | 1 | ~370k–425k | ~290k–330k | Thais 193 / ~48 s, then the Holy Portal in the Halls of Hope | Monsters: [Broken Shaper](https://tibia.fandom.com/wiki/Broken_Shaper), [Twisted Shaper](https://tibia.fandom.com/wiki/Twisted_Shaper). Holy Portal in the Halls of Hope: give Albinius 50 Incantation Notes (from the Market) once, after the 5 Heavy Old Tomes of the [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest); don't use the Time Machine at the east end: the only way out is through the boss. Sells: Ancient Belt Buckle |
 | [Lair of the Treeling Witch (Cormaya, -2)](https://tibiamaps.io/map#33338,31972,9:2) | 0 | 0 | ~105k–110k | ~285k–295k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Bug](https://tibia.fandom.com/wiki/Bug), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 
-#### Level 350–400 (~897 hours to the next band)
+#### Level 350–400 (~598 hours to the next band)
 **Typical knight in this band:** skill 102, weapon attack 50. Good-value gear, each piece under ~668k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -432,7 +432,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~325k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | 0 | 0 | ~155k–160k | ~305k–320k | Liberty Bay 143 / ~35 s | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords. Watch: summoners. Sells: Rope Belt |
 
-#### Level 400–450 (~1116 hours to the next band)
+#### Level 400–450 (~744 hours to the next band)
 **Typical knight in this band:** skill 103, weapon attack 50. Good-value gear, each piece under ~689k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -451,7 +451,7 @@ Each band's title also shows roughly how long it takes to reach the next band: t
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | 0 | 0 | ~50k | ~325k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Swamplings and Forest Fury Camp's leaf golems. Watch: slows or summons. Sells: Piece of Swampling Wood |
 | [Cult Cave (Liberty Bay, -3 to -4)](https://tibiamaps.io/map#32359,32721,10:2) | 0 | 0 | ~160k–165k | ~320k–325k | Liberty Bay 143 / ~35 s | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Witch](https://tibia.fandom.com/wiki/Witch), [Adept of the Cult](https://tibia.fandom.com/wiki/Adept_of_the_Cult), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Vampire](https://tibia.fandom.com/wiki/Vampire). The Deeper Cult Cave (floors -3/-4: acolytes, adepts, dark monks) opens by playing the piano on floor -2 after learning all four Music Sheet verses; skip the elder bonelords. Watch: summoners. Sells: Rope Belt |
 
-#### Level 450–500 (~1313 hours to the next band)
+#### Level 450–500 (~876 hours to the next band)
 **Typical knight in this band:** skill 104, weapon attack 50. Good-value gear, each piece under ~704k: Shiny Blade, Obsidian Truncheon or Crystalline Axe (sword, club or axe), with Prismatic Armor, Ornate Legs, Zaoan Helmet, Gnome Shield, Guardian Boots, Foxtail Amulet, Butterfly Ring.
 
 **Good for XP**
@@ -524,7 +524,7 @@ Like Section 2, these tables grade the hunting grounds with the ring and list th
 
 The XP and loot numbers use the same killing speed as Section 1. Real results may be different: you can't gather groups, but you also never stop to heal. Loot is shown before paying for the rings.
 
-#### Level 20–40 with a Stealth Ring (~14 hours to the next band)
+#### Level 20–40 with a Stealth Ring (~13 hours to the next band)
 
 **Good for XP**
 
@@ -548,7 +548,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Mammoths (Formorgar Glacier)](https://tibiamaps.io/map#32152,31277,6:2) | – → **0** | – → **0** | ~20k–40k | ~95k–155k | Svargrond, on foot over the ice | From level 30. Monsters: [Badger](https://tibia.fandom.com/wiki/Badger), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Penguin](https://tibia.fandom.com/wiki/Penguin). Can't see you: Badger, Mammoth, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Ghoul Hill](https://tibiamaps.io/map#33203,31680,7:2) | – → **0** | – → **0** | ~25k | ~50k | Edron 306 / ~1.3 min | From level 30. Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton). Can't see you: Demon Skeleton. Still: Ghoul hits 19% of HP. Sells: Rotten Piece of Cloth |
 
-#### Level 40–60 with a Stealth Ring (~26 hours to the next band)
+#### Level 40–60 with a Stealth Ring (~18 hours to the next band)
 
 **Good for XP**
 
@@ -570,7 +570,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **0** | – → **0** | ~40k–45k | ~145k–155k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | From level 50. Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | – → **0** | – → **0** | ~65k–70k | ~125k–135k | Carlin 173 / ~45 s | From level 50. Monsters: [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf). Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 
-#### Level 60–80 with a Stealth Ring (~47 hours to the next band)
+#### Level 60–80 with a Stealth Ring (~31 hours to the next band)
 
 **Good for XP**
 
@@ -588,7 +588,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **0** | – → **0** | ~45k–50k | ~155k–180k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker). Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | – → **0** | – → **0** | ~70k–80k | ~135k–155k | Carlin 173 / ~45 s | Monsters: [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Deer](https://tibia.fandom.com/wiki/Deer), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Poacher](https://tibia.fandom.com/wiki/Poacher), [White Deer](https://tibia.fandom.com/wiki/White_Deer), [Goblin](https://tibia.fandom.com/wiki/Goblin), [Squirrel](https://tibia.fandom.com/wiki/Squirrel), [Starving Wolf](https://tibia.fandom.com/wiki/Starving_Wolf). Can't see you: Leaf Golem, Forest Fury, Wilting Leaf Golem. Sells: Elven Hoof |
 
-#### Level 80–100 with a Stealth Ring (~81 hours to the next band)
+#### Level 80–100 with a Stealth Ring (~54 hours to the next band)
 
 **Good for XP**
 
@@ -610,7 +610,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | – → **0** | – → **0** | ~45k | ~110k–115k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 90. Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider). Can't see you: Badger, Barbarian Headsplitter, Barbarian Skullhunter, Frost Troll, Winter Wolf. Sells: Winter Wolf Fur |
 | [The Cave](https://tibiamaps.io/map#32534,31629,7:2) | – → **0** | – → **0** | ~65k | ~105k | Carlin 349 / ~1.5 min | From level 90. Monsters: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Pirate Marauder](https://tibia.fandom.com/wiki/Pirate_Marauder), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Pirate Cutthroat](https://tibia.fandom.com/wiki/Pirate_Cutthroat), [Pirate Buccaneer](https://tibia.fandom.com/wiki/Pirate_Buccaneer), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost). Can't see you: Smuggler, Bandit, Pirate Skeleton. Sells: Stone Skin Amulet |
 
-#### Level 100–150 with a Stealth Ring (~409 hours to the next band)
+#### Level 100–150 with a Stealth Ring (~273 hours to the next band)
 
 **Good for XP**
 
@@ -633,7 +633,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Drefia (surface)](https://tibiamaps.io/map#33018,32443,7:2) | – → **0** | – → **0** | ~35k | ~70k | Darashia 274 / ~1.1 min | From level 130. Monsters: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Skeleton Warrior](https://tibia.fandom.com/wiki/Skeleton_Warrior), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [Snake](https://tibia.fandom.com/wiki/Snake), [White Shade](https://tibia.fandom.com/wiki/White_Shade), [Tarnished Spirit](https://tibia.fandom.com/wiki/Tarnished_Spirit), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Zombie](https://tibia.fandom.com/wiki/Zombie). Can't see you: Demon Skeleton, Sandcrawler, Scorpion. Sells: Stone Skin Amulet |
 | [Tarpit Tomb (-4 to -5)](https://tibiamaps.io/map#33233,32705,11:2) | – → **0** | – → **0** | ~70k | ~115k | Ankrahmun 241 / ~1.0 min | From level 140. Monsters: [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Larva](https://tibia.fandom.com/wiki/Larva), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Necromancer](https://tibia.fandom.com/wiki/Necromancer). Can't see you: Larva, Scarab, Skeleton. Sells: Rotten Piece of Cloth |
 
-#### Level 150–200 with a Stealth Ring (~777 hours to the next band)
+#### Level 150–200 with a Stealth Ring (~518 hours to the next band)
 
 **Good for XP**
 
@@ -653,7 +653,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Cult Cave (Liberty Bay, +1 to -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **0** | – → **0** | ~65k–80k | ~145k–170k | Liberty Bay 143 / ~35 s | From level 170. Monsters: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Can't see you: Novice of the Cult, Tarantula. Sells: Rope Belt |
 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | – → **0** | – → **0** | ~65k–75k | ~120k–135k | Edron 138 / ~35 s | From level 180. Monsters: [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Deer](https://tibia.fandom.com/wiki/Deer), [Snake](https://tibia.fandom.com/wiki/Snake), [Fox](https://tibia.fandom.com/wiki/Fox), [Wisp](https://tibia.fandom.com/wiki/Wisp). Can't see you: Orc Spearman, Orc Warrior, Poison Spider. Sells: Broken Shamanic Staff |
 
-#### Level 200–250 with a Stealth Ring (~946 hours to the next band)
+#### Level 200–250 with a Stealth Ring (~631 hours to the next band)
 
 **Good for XP**
 
@@ -671,7 +671,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Tarpit Tomb (-6 to -8)](https://tibiamaps.io/map#33233,32705,13:2) | 1 → **0** | 1 → **0** | ~125k–130k | ~160k–165k | Ankrahmun 241 / ~1.0 min | Monsters: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Stone Golem](https://tibia.fandom.com/wiki/Stone_Golem), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Larva](https://tibia.fandom.com/wiki/Larva), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider). Can't see you: Crypt Shambler. Sells: Flask of Embalming Fluid |
 | [Dryad Gardens (Cormaya)](https://tibiamaps.io/map#33264,32014,7:2) | 1 → **0** | 1 → **0** | ~130k–135k | ~145k | Edron + boat to Cormaya | Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem), [Haunted Treeling](https://tibia.fandom.com/wiki/Haunted_Treeling), [Rabbit](https://tibia.fandom.com/wiki/Rabbit), [Deer](https://tibia.fandom.com/wiki/Deer), [Emerald Damselfly](https://tibia.fandom.com/wiki/Emerald_Damselfly), [Forest Fury](https://tibia.fandom.com/wiki/Forest_Fury), [Marsh Stalker](https://tibia.fandom.com/wiki/Marsh_Stalker). Can't see you: Leaf Golem, Wilting Leaf Golem. Sells: Dowser |
 
-#### Level 250–300 with a Stealth Ring (~1452 hours to the next band)
+#### Level 250–300 with a Stealth Ring (~968 hours to the next band)
 
 **Good for XP**
 
@@ -689,7 +689,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Drefia (-1 to -2)](https://tibiamaps.io/map#33018,32443,8:2) | 1 → **0** | 1 → **0** | ~90k–95k | ~175k | Darashia 274 / ~1.1 min | Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Tarnished Spirit](https://tibia.fandom.com/wiki/Tarnished_Spirit), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Skeleton Warrior](https://tibia.fandom.com/wiki/Skeleton_Warrior), [Snake](https://tibia.fandom.com/wiki/Snake), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Lich](https://tibia.fandom.com/wiki/Lich), [Zombie](https://tibia.fandom.com/wiki/Zombie). Can't see you: Demon Skeleton, Sandcrawler, Skeleton, Tarnished Spirit. Sells: Stone Skin Amulet |
 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 1 → **0** | 1 → **0** | ~110k–120k | ~150k–165k | Kazordoon 453 / ~1.9 min | Monsters: [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Orc](https://tibia.fandom.com/wiki/Orc), [Rorc](https://tibia.fandom.com/wiki/Rorc), [Orc Rider](https://tibia.fandom.com/wiki/Orc_Rider), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord), [Wolf](https://tibia.fandom.com/wiki/Wolf), [Bear](https://tibia.fandom.com/wiki/Bear), [Slime](https://tibia.fandom.com/wiki/Slime), [Chicken](https://tibia.fandom.com/wiki/Chicken), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Dragon](https://tibia.fandom.com/wiki/Dragon), [Elf](https://tibia.fandom.com/wiki/Elf), [Stone Golem](https://tibia.fandom.com/wiki/Stone_Golem). Can't see you: Orc Berserker, Orc Spearman, Orc Warrior. Sells: Broken Shamanic Staff |
 
-#### Level 300–350 with a Stealth Ring (~2142 hours to the next band)
+#### Level 300–350 with a Stealth Ring (~1428 hours to the next band)
 
 **Good for XP**
 
@@ -707,7 +707,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Stone Tomb (-6 to -8)](https://tibiamaps.io/map#33282,32743,13:2) | – → **1** | – → **1** | ~140k–155k | ~130k–140k | Ankrahmun 250 / ~1.0 min | Monsters: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Slime](https://tibia.fandom.com/wiki/Slime), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Larva](https://tibia.fandom.com/wiki/Larva), [Plaguethrower](https://tibia.fandom.com/wiki/Plaguethrower), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Ancient Scarab](https://tibia.fandom.com/wiki/Ancient_Scarab), [Giant Spider](https://tibia.fandom.com/wiki/Giant_Spider). Can't see you: Crypt Shambler. Sells: Flask of Embalming Fluid |
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | – → **0** | – → **0** | ~105k–120k | ~110k–125k | Ab'Dendriel 46 / ~12 s | Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Can't see you: Demon Skeleton, Skeleton. Sells: Rotten Piece of Cloth |
 
-#### Level 350–400 with a Stealth Ring (~2636 hours to the next band)
+#### Level 350–400 with a Stealth Ring (~1757 hours to the next band)
 
 **Good for XP**
 
@@ -725,7 +725,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Ancient Ruins Tomb (-6 to -8)](https://tibiamaps.io/map#33207,32592,13:2) | – → **1** | – → **1** | ~145k–150k | ~140k–145k | Ankrahmun 326 / ~1.4 min | Monsters: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Stalker](https://tibia.fandom.com/wiki/Stalker), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Slime](https://tibia.fandom.com/wiki/Slime), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Magicthrower](https://tibia.fandom.com/wiki/Magicthrower), [Banshee](https://tibia.fandom.com/wiki/Banshee), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Lich](https://tibia.fandom.com/wiki/Lich), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Shredderthrower](https://tibia.fandom.com/wiki/Shredderthrower), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Fire Elemental](https://tibia.fandom.com/wiki/Fire_Elemental). Can't see you: Ghost. Sells: Flask of Embalming Fluid |
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 1 → **0** | 1 → **0** | ~120k–125k | ~125k–130k | Ab'Dendriel 46 / ~12 s | Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Can't see you: Demon Skeleton, Skeleton. Sells: Rotten Piece of Cloth |
 
-#### Level 400–450 with a Stealth Ring (~3344 hours to the next band)
+#### Level 400–450 with a Stealth Ring (~2229 hours to the next band)
 
 **Good for XP**
 
@@ -743,7 +743,7 @@ The XP and loot numbers use the same killing speed as Section 1. Real results ma
 | [Hellgate](https://tibiamaps.io/map#32675,31647,10:2) | 1 → **0** | 1 → **0** | ~125k–130k | ~130k–135k | Ab'Dendriel 46 / ~12 s | Monsters: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Slime](https://tibia.fandom.com/wiki/Slime), [Bug](https://tibia.fandom.com/wiki/Bug), [Rat](https://tibia.fandom.com/wiki/Rat), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Elder Bonelord](https://tibia.fandom.com/wiki/Elder_Bonelord), [Elf](https://tibia.fandom.com/wiki/Elf), [Carrion Worm](https://tibia.fandom.com/wiki/Carrion_Worm), [Gazer](https://tibia.fandom.com/wiki/Gazer), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout). Can't see you: Demon Skeleton, Skeleton. Sells: Rotten Piece of Cloth |
 | [Ankrahmun Library Tomb (-6 to -8)](https://tibiamaps.io/map#33142,32838,13:2) | – → **1** | – → **1** | ~125k–130k | ~110k–115k | Ankrahmun 21 / ~5 s | Monsters: [Mummy](https://tibia.fandom.com/wiki/Mummy), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Larva](https://tibia.fandom.com/wiki/Larva), [Lich](https://tibia.fandom.com/wiki/Lich), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Behemoth](https://tibia.fandom.com/wiki/Behemoth), [Ancient Scarab](https://tibia.fandom.com/wiki/Ancient_Scarab). Can't see you: Crypt Shambler, Demon Skeleton, Ghost. Sells: Flask of Embalming Fluid |
 
-#### Level 450–500 with a Stealth Ring (~4634 hours to the next band)
+#### Level 450–500 with a Stealth Ring (~3089 hours to the next band)
 
 **Good for XP**
 
@@ -799,7 +799,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) | it opens the portal to the hunting ground, TibiaWiki suggests level 70 for the quest: Lion's Rock (Darashia) | 200–250 | yes | Lion's Rock |
 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed: Old Masonry (-1 to -2), Old Masonry (-3) | 300–350 | yes | Halls of Hope |
 
-#### Level 20–40 behind quests (~47 hours to the next band)
+#### Level 20–40 behind quests (~43 hours to the next band)
 
 **Unlock first:** [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) (for the caverns, for Treasure Island (surface); TibiaWiki suggests level 40 for the quest), [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (needed before the Ice Islands Quest, for Nibelor; TibiaWiki suggests level 25 for the quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) (first mission, for Nibelor).
 
@@ -817,7 +817,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) ✓ | 0 | 0 | ~6k–8k | ~90k–105k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). **Tested** (level 23, sword 47): 300 gold of supplies per hour, almost no healing, Winter Wolf Fur sold for about 4k, 77k loot/h on that world, 6k XP/h. Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Treasure Island (surface)](https://tibiamaps.io/map#32156,32948,7:2) | 0 | 0 | ~17k–19k | ~1k–2k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | Monsters: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Larva](https://tibia.fandom.com/wiki/Larva), [Crab](https://tibia.fandom.com/wiki/Crab). The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Watch: Scorpion hits 18% of HP |
 
-#### Level 40–60 behind quests (~66 hours to the next band)
+#### Level 40–60 behind quests (~46 hours to the next band)
 
 **Unlock first:** [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) (for Buddel's boat, for Jotunar, Tyrsung), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) ("Nibelor 2" mission started, for Jotunar, Tyrsung; TibiaWiki suggests level 130+ for the quest).
 
@@ -839,7 +839,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Treasure Island (surface)](https://tibiamaps.io/map#32156,32948,7:2) | 0 | 0 | ~19k–35k | ~2k–3k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | Monsters: [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Larva](https://tibia.fandom.com/wiki/Larva), [Crab](https://tibia.fandom.com/wiki/Crab). The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit |
 | [Tyrsung](https://tibiamaps.io/map#32374,31311,7:2) | 0 | 0 | ~40k–45k | ~18k–20k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 135 / ~34 s | From level 50. Monsters: [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Frost Giantess](https://tibia.fandom.com/wiki/Frost_Giantess), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Bandit](https://tibia.fandom.com/wiki/Bandit), [Penguin](https://tibia.fandom.com/wiki/Penguin), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Pirate Marauder](https://tibia.fandom.com/wiki/Pirate_Marauder), [Hunter](https://tibia.fandom.com/wiki/Hunter), [Pirate Buccaneer](https://tibia.fandom.com/wiki/Pirate_Buccaneer), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Pirate Cutthroat](https://tibia.fandom.com/wiki/Pirate_Cutthroat). Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the "Nibelor 2" mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) started. Watch: Frost Giant hits 25% of HP. Sells: Ice Cube |
 
-#### Level 60–80 behind quests (~83 hours to the next band)
+#### Level 60–80 behind quests (~55 hours to the next band)
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; no level needed, for Nargor Undead Cave).
 
@@ -861,7 +861,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 0 | 0 | ~60k | ~20k–25k | Svargrond 63 / ~16 s, Buddel's boat to Tyrsung, then 90 / ~22 s | Monsters: [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Frost Giantess](https://tibia.fandom.com/wiki/Frost_Giantess), [Mammoth](https://tibia.fandom.com/wiki/Mammoth). Buddel's boat needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the "Nibelor 2" mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) started. Watch: Frost Giant hits 21% of HP. Sells: Ice Cube |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~60k–65k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor | From level 70. Monsters: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Needs the Access to Nargor part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Slime hits 33% of HP, summoners. Sells: Stone Skin Amulet |
 
-#### Level 80–100 behind quests (~115 hours to the next band)
+#### Level 80–100 behind quests (~76 hours to the next band)
 
 **Unlock first:** [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; it also unlocks Marina's sea turtles, for Laguna Islands, Blood Crabs).
 
@@ -881,7 +881,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~16k | ~220k–225k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~65k | ~155k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor | Monsters: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Needs the Access to Nargor part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Slime hits 29% of HP, summoners. Sells: Stone Skin Amulet |
 
-#### Level 100–150 behind quests (~353 hours to the next band)
+#### Level 100–150 behind quests (~235 hours to the next band)
 
 **Unlock first:** [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) (mission 5 started, which opens the Arena and Zoo Quarter gate, for Arena and Zoo Quarter (-1 to -5)), [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold, for Meriana Gargoyle Cave).
 
@@ -902,7 +902,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~16k–17k | ~225k–240k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~65k–75k | ~155k–180k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor | Monsters: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Needs the Access to Nargor part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Slime hits 23% of HP, summoners. Sells: Stone Skin Amulet |
 
-#### Level 150–200 behind quests (~597 hours to the next band)
+#### Level 150–200 behind quests (~398 hours to the next band)
 
 **Good for XP**
 
@@ -920,7 +920,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~17k–18k | ~240k–255k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 0 | 1 | ~75k–100k | ~180k–240k | Liberty Bay 9 / ~2 s, Captain Waverider (say "peg leg"), then Sebastian's boat to Nargor | Monsters: [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Needs the Access to Nargor part of [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest). Watch: Slime hits 16% of HP, summoners. Sells: Stone Skin Amulet |
 
-#### Level 200–250 behind quests (~566 hours to the next band)
+#### Level 200–250 behind quests (~377 hours to the next band)
 
 **Unlock first:** [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion%27s_Rock_Quest) (it opens the portal to the hunting ground, for Lion's Rock (Darashia)), [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) (mission 4, for Vengoth).
 
@@ -940,7 +940,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k | ~275k | Yalahar 193 / ~48 s | Monsters: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: invisible monsters. Sells: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k | ~255k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 
-#### Level 250–300 behind quests (~766 hours to the next band)
+#### Level 250–300 behind quests (~511 hours to the next band)
 
 **Unlock first:** [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) (mission 8 started, which opens the Factory Quarter gate, for Factory Quarter (-1 to -2)).
 
@@ -960,7 +960,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k | ~275k | Yalahar 193 / ~48 s | Monsters: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: invisible monsters. Sells: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k | ~255k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 
-#### Level 300–350 behind quests (~958 hours to the next band)
+#### Level 300–350 behind quests (~638 hours to the next band)
 
 **Unlock first:** [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) (Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones; no level needed, for Old Masonry (-1 to -2)).
 
@@ -980,7 +980,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~295k–325k | ~275k–305k | Yalahar 193 / ~48 s | Monsters: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: invisible monsters. Sells: Mutated Rat Tail |
 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 0 | 0 | ~18k–19k | ~255k–270k | Svargrond 182 / ~46 s | Monsters: [Penguin](https://tibia.fandom.com/wiki/Penguin), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Husky](https://tibia.fandom.com/wiki/Husky), [Chakoya Tribewarden](https://tibia.fandom.com/wiki/Chakoya_Tribewarden). Needs the [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) and the first mission of [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest), then ask Iskan in Svargrond for a "passage". Sells: Winter Wolf Fur |
 
-#### Level 350–400 behind quests (~1160 hours to the next band)
+#### Level 350–400 behind quests (~773 hours to the next band)
 
 **Good for XP**
 
@@ -998,7 +998,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~325k | ~305k | Yalahar 193 / ~48 s | Monsters: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: invisible monsters. Sells: Mutated Rat Tail |
 | [Treasure Island (-1 to -3)](https://tibiamaps.io/map#32156,32948,8:2) | 0 | 0 | ~140k–150k | ~275k–300k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | Monsters: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain |
 
-#### Level 400–450 behind quests (~1377 hours to the next band)
+#### Level 400–450 behind quests (~918 hours to the next band)
 
 **Good for XP**
 
@@ -1016,7 +1016,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 0 | 1 | ~325k–345k | ~305k–325k | Yalahar 193 / ~48 s | Monsters: [Mutated Rat](https://tibia.fandom.com/wiki/Mutated_Rat), [Mutated Tiger](https://tibia.fandom.com/wiki/Mutated_Tiger), [Undead Gladiator](https://tibia.fandom.com/wiki/Undead_Gladiator), [Nightmare Scion](https://tibia.fandom.com/wiki/Nightmare_Scion), [Mutated Bat](https://tibia.fandom.com/wiki/Mutated_Bat). Your first trip to Yalahar needs Wyrdin's mission in Edron (Explorer Society Novice, then Captain Max's boat from Liberty Bay), and Captain Karith sails back out only after his Searoutes around Yalahar mission (5 souvenirs from other cities). Watch: invisible monsters. Sells: Mutated Rat Tail |
 | [Treasure Island (-1 to -3)](https://tibiamaps.io/map#32156,32948,8:2) | 0 | 0 | ~150k | ~300k | Liberty Bay 85 / ~21 s, boat from the docks, then 54 / ~14 s | Monsters: [Zombie](https://tibia.fandom.com/wiki/Zombie), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Crab](https://tibia.fandom.com/wiki/Crab), [Pirate Skeleton](https://tibia.fandom.com/wiki/Pirate_Skeleton), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Blood Crab](https://tibia.fandom.com/wiki/Blood_Crab), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Pirate Ghost](https://tibia.fandom.com/wiki/Pirate_Ghost), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Crustacea Gigantica](https://tibia.fandom.com/wiki/Crustacea_Gigantica). The caverns need the [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) each visit. Sells: Half-Eaten Brain |
 
-#### Level 450–500 behind quests (~1604 hours to the next band)
+#### Level 450–500 behind quests (~1069 hours to the next band)
 
 **Good for XP**
 
@@ -1055,7 +1055,7 @@ The quests these hunting grounds need, in the order you'll first need them, so y
 ## Section 1c: Hunting grounds with a long trip
 The other sections also leave out hunting grounds more than about 2 minutes from the depot, counting each boat or turtle ride as about 30 seconds: every trip to sell loot or restock costs that time twice. Many of them are good, so this section lists them, graded like Section 1, with the same two lists per band. The Depot column shows the trip. Hunting grounds that also need a quest are in Section 1b.
 
-#### Level 20–40 with a long trip (~38 hours to the next band)
+#### Level 20–40 with a long trip (~35 hours to the next band)
 
 **Unlock first:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (started: ask Ongulf for a mission, which opens the doors to the elevators, for Gnarlhound Caves).
 
@@ -1071,7 +1071,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 |---|---|---|---|---|---|---|
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) ✓ | 0 | 0 | ~14k–17k | ~115k–135k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). **Tested** (a level 20–30 knight): 400 gold of supplies per hour, Shaggy Tail sold for about 2.2k, safe but slow kills, no other players there, 134k loot/h on that world, 14k XP/h. The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: Gnarlhound hits 19% of HP. Sells: Shaggy Tail |
 
-#### Level 40–60 with a long trip (~72 hours to the next band)
+#### Level 40–60 with a long trip (~50 hours to the next band)
 
 **Good for XP**
 
@@ -1089,7 +1089,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~20k–30k | ~65k–100k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~45k–50k | ~11k–12k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 50. Monsters: [Terramite](https://tibia.fandom.com/wiki/Terramite). The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
 
-#### Level 60–80 with a long trip (~124 hours to the next band)
+#### Level 60–80 with a long trip (~83 hours to the next band)
 
 **Good for XP**
 
@@ -1107,7 +1107,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~30k–35k | ~100k–120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~50k–60k | ~12k–14k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Terramite](https://tibia.fandom.com/wiki/Terramite). The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
 
-#### Level 80–100 with a long trip (~192 hours to the next band)
+#### Level 80–100 with a long trip (~128 hours to the next band)
 
 **Good for XP**
 
@@ -1125,7 +1125,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k | ~120k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Zao Terramite Caves](https://tibiamaps.io/map#33196,31545,8:2) | 0 | 0 | ~60k | ~14k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Terramite](https://tibia.fandom.com/wiki/Terramite). The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Terramite Legs |
 
-#### Level 100–150 with a long trip (~778 hours to the next band)
+#### Level 100–150 with a long trip (~519 hours to the next band)
 
 **Good for XP**
 
@@ -1143,7 +1143,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~35k–40k | ~120k–130k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~45k–50k | ~60k–65k | Venore 645 / ~2.7 min | Monsters: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Bat](https://tibia.fandom.com/wiki/Bat), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Assassin](https://tibia.fandom.com/wiki/Assassin), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Witch](https://tibia.fandom.com/wiki/Witch). Watch: summoners. Sells: Centipede Leg |
 
-#### Level 150–200 with a long trip (~1376 hours to the next band)
+#### Level 150–200 with a long trip (~918 hours to the next band)
 
 **Good for XP**
 
@@ -1163,7 +1163,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Dark Cathedral (surface to -1)](https://tibiamaps.io/map#32664,32344,7:2) | 0 | 0 | ~50k–60k | ~65k–80k | Venore 645 / ~2.7 min | Monsters: [Bandit](https://tibia.fandom.com/wiki/Bandit), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Wild Warrior](https://tibia.fandom.com/wiki/Wild_Warrior), [Bat](https://tibia.fandom.com/wiki/Bat), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Assassin](https://tibia.fandom.com/wiki/Assassin), [Slime](https://tibia.fandom.com/wiki/Slime), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk), [Rotworm](https://tibia.fandom.com/wiki/Rotworm), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Witch](https://tibia.fandom.com/wiki/Witch). Watch: summoners. Sells: Centipede Leg |
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~55k–65k | ~160k–195k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | From level 170. Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 
-#### Level 200–250 with a long trip (~449 hours to the next band)
+#### Level 200–250 with a long trip (~299 hours to the next band)
 
 **Unlock first:** [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) (up to mission 2, for the Mage's Tower, for Yielothax Dimension).
 
@@ -1183,7 +1183,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~65k–70k | ~195k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 0 | 0 | ~50k | ~155k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Insect Swarm](https://tibia.fandom.com/wiki/Insect_Swarm), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [War Wolf](https://tibia.fandom.com/wiki/War_Wolf). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 
-#### Level 250–300 with a long trip (~622 hours to the next band)
+#### Level 250–300 with a long trip (~415 hours to the next band)
 
 **Good for XP**
 
@@ -1201,7 +1201,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~70k | ~195k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~380k–430k | ~155k–180k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). A world change, so it may be closed: the portal opens at a random time after server save and closes 5 minutes after the Raging Mage dies (possible once the world has killed 2,000 Yielothax) until the next server save. Ask a Guide NPC about the Mage Tower before you go. The tower needs The New Frontier Quest up to mission 2; The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: Yielothax hits 19% of HP, mostly elemental damage. Sells: Might Ring |
 
-#### Level 300–350 with a long trip (~787 hours to the next band)
+#### Level 300–350 with a long trip (~525 hours to the next band)
 
 **Good for XP**
 
@@ -1219,7 +1219,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Zao Orc Land](https://tibiamaps.io/map#33154,31416,7:2) | 0 | 0 | ~70k–75k | ~195k–215k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Sandcrawler](https://tibia.fandom.com/wiki/Sandcrawler), [Orc Warrior](https://tibia.fandom.com/wiki/Orc_Warrior), [Lizard High Guard](https://tibia.fandom.com/wiki/Lizard_High_Guard), [Lizard Zaogun](https://tibia.fandom.com/wiki/Lizard_Zaogun), [Orc Spearman](https://tibia.fandom.com/wiki/Orc_Spearman), [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound), [Orc Berserker](https://tibia.fandom.com/wiki/Orc_Berserker), [Orc](https://tibia.fandom.com/wiki/Orc), [Orc Marauder](https://tibia.fandom.com/wiki/Orc_Marauder), [Orc Shaman](https://tibia.fandom.com/wiki/Orc_Shaman), [Orc Leader](https://tibia.fandom.com/wiki/Orc_Leader), [Lizard Legionnaire](https://tibia.fandom.com/wiki/Lizard_Legionnaire), [Orc Warlord](https://tibia.fandom.com/wiki/Orc_Warlord). The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: summoners. Sells: Sandcrawler Shell |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~430k–455k | ~180k–190k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). A world change, so it may be closed: the portal opens at a random time after server save and closes 5 minutes after the Raging Mage dies (possible once the world has killed 2,000 Yielothax) until the next server save. Ask a Guide NPC about the Mage Tower before you go. The tower needs The New Frontier Quest up to mission 2; The Farmine depot opens only after mission 5 of The New Frontier Quest. Watch: Yielothax hits 16% of HP, mostly elemental damage. Sells: Might Ring |
 
-#### Level 350–400 with a long trip (~960 hours to the next band)
+#### Level 350–400 with a long trip (~640 hours to the next band)
 
 **Good for XP**
 
@@ -1237,7 +1237,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~210k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail |
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~455k–515k | ~190k–215k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). A world change, so it may be closed: the portal opens at a random time after server save and closes 5 minutes after the Raging Mage dies (possible once the world has killed 2,000 Yielothax) until the next server save. Ask a Guide NPC about the Mage Tower before you go. The tower needs The New Frontier Quest up to mission 2; The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Might Ring |
 
-#### Level 400–450 with a long trip (~1065 hours to the next band)
+#### Level 400–450 with a long trip (~710 hours to the next band)
 
 **Good for XP**
 
@@ -1255,7 +1255,7 @@ The other sections also leave out hunting grounds more than about 2 minutes from
 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 1 | 1 | ~515k–530k | ~215k–220k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Yielothax](https://tibia.fandom.com/wiki/Yielothax). A world change, so it may be closed: the portal opens at a random time after server save and closes 5 minutes after the Raging Mage dies (possible once the world has killed 2,000 Yielothax) until the next server save. Ask a Guide NPC about the Mage Tower before you go. The tower needs The New Frontier Quest up to mission 2; The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Might Ring |
 | [Gnarlhound Caves](https://tibiamaps.io/map#33193,31473,7:2) | 0 | 0 | ~25k | ~210k | Edron, then 3–4+ min: boat to Cormaya, steamboat to Farmine, the elevator and several exani hur ledges | Monsters: [Gnarlhound](https://tibia.fandom.com/wiki/Gnarlhound). The Farmine depot opens only after mission 5 of The New Frontier Quest. Sells: Shaggy Tail |
 
-#### Level 450–500 with a long trip (~1279 hours to the next band)
+#### Level 450–500 with a long trip (~853 hours to the next band)
 
 **Good for XP**
 
@@ -1324,7 +1324,7 @@ These tables grade the hunting grounds with the kit and list the 3 best for XP a
 
 Leech helps most against steady damage. It doesn't help against a monster that can take half your health in one hit, against monsters that call helpers or turn invisible, or against elemental damage, so those hunting grounds keep their grades.
 
-#### Level 60–80 with leech (~60 hours to the next band)
+#### Level 60–80 with leech (~40 hours to the next band)
 
 **Good for XP**
 
@@ -1345,7 +1345,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Bittermor barbarians](https://tibiamaps.io/map#32003,31228,7:2) | – → **1** | – → **1** | ~45k–50k | ~160k–185k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 157 / ~39 s | Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker) |
 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | – → **1** | – → **1** | ~45k–55k | ~135k–160k | Yalahar 95 / ~24 s | Monsters: [Elf](https://tibia.fandom.com/wiki/Elf), [Elf Scout](https://tibia.fandom.com/wiki/Elf_Scout), [Elf Arcanist](https://tibia.fandom.com/wiki/Elf_Arcanist) |
 
-#### Level 80–100 with leech (~78 hours to the next band)
+#### Level 80–100 with leech (~52 hours to the next band)
 
 **Good for XP**
 
@@ -1367,7 +1367,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | – → **1** | – → **1** | ~80k–85k | ~130k–140k | Yalahar 252 / ~1.1 min | From level 90. Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult). Still: summoners |
 | [Cult Cave (Liberty Bay, +1 to -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **1** | – → **1** | ~60k | ~125k–130k | Liberty Bay 143 / ~35 s | From level 90. Monsters: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Still: summoners |
 
-#### Level 100–150 with leech (~327 hours to the next band)
+#### Level 100–150 with leech (~218 hours to the next band)
 
 **Good for XP**
 
@@ -1386,7 +1386,7 @@ Leech helps most against steady damage. It doesn't help against a monster that c
 | [Research Centre, upper floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | – → **1** | – → **1** | ~85k–95k | ~140k–160k | Yalahar 252 / ~1.1 min | Monsters: [Acolyte of the Cult](https://tibia.fandom.com/wiki/Acolyte_of_the_Cult), [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult). Still: summoners |
 | [Cult Cave (Liberty Bay, +1 to -2)](https://tibiamaps.io/map#32359,32721,7:2) | – → **1** | – → **1** | ~60k–70k | ~130k–145k | Liberty Bay 143 / ~35 s | Monsters: [Novice of the Cult](https://tibia.fandom.com/wiki/Novice_of_the_Cult), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Witch](https://tibia.fandom.com/wiki/Witch), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Black Sheep](https://tibia.fandom.com/wiki/Black_Sheep), [Dark Monk](https://tibia.fandom.com/wiki/Dark_Monk). Still: summoners |
 
-#### Level 150–200 with leech (~493 hours to the next band)
+#### Level 150–200 with leech (~329 hours to the next band)
 
 **Good for XP**
 
@@ -1439,7 +1439,7 @@ Charms change your average damage, not the worst hit, so they don't change the g
 ### Reading the Section 3 tables
 These tables grade the Section 1 hunting grounds with the damage-reduction prey and list the 3 best for XP and the 3 best for gold per band. They only take hunting grounds where this lowers Prep and Hunt by 2 or more in total. The notes say which creature to pick for each prey slot. The XP numbers include the bonus-experience prey.
 
-#### Level 60–80 with prey (~94 hours to the next band)
+#### Level 60–80 with prey (~63 hours to the next band)
 
 **Good for XP**
 
@@ -1457,7 +1457,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Darama Terramite Cave](https://tibiamaps.io/map#33104,32697,7:2) | – → **1** | – → **1** | ~60k–65k | ~14k–15k | Ankrahmun 162 / ~40 s | Monsters: [Terramite](https://tibia.fandom.com/wiki/Terramite). Damage-reduction prey on Terramite |
 | [Lair of the Treeling Witch (Cormaya, surface to -1)](https://tibiamaps.io/map#33338,31972,7:2) | – → **1** | – → **1** | ~40k | ~255k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 137 / ~34 s | From level 70. Monsters: [Leaf Golem](https://tibia.fandom.com/wiki/Leaf_Golem), [Bug](https://tibia.fandom.com/wiki/Bug), [Swampling](https://tibia.fandom.com/wiki/Swampling), [Wilting Leaf Golem](https://tibia.fandom.com/wiki/Wilting_Leaf_Golem). Damage-reduction prey on Leaf Golem, XP prey on Wilting Leaf Golem |
 
-#### Level 80–100 with prey (~135 hours to the next band)
+#### Level 80–100 with prey (~90 hours to the next band)
 
 **Good for XP**
 
@@ -1478,7 +1478,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Kazordoon Minotaurs (+1 to +4)](https://tibiamaps.io/map#32491,31966,6:2) | – → **0** | – → **0** | ~60k | ~19k | Ab'Dendriel 486 / ~2.0 min | From level 90. Monsters: [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage). Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
 | [Terramite Breeding Tunnels](https://tibiamaps.io/map#33115,32483,7:2) | – → **0** | – → **0** | ~65k | ~15k | Darashia 116 / ~29 s | From level 90. Monsters: [Terramite](https://tibia.fandom.com/wiki/Terramite). Damage-reduction prey on Terramite |
 
-#### Level 100–150 with prey (~793 hours to the next band)
+#### Level 100–150 with prey (~528 hours to the next band)
 
 **Good for XP**
 
@@ -1498,7 +1498,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Tiquanda](https://tibiamaps.io/map#32812,32699,7:2) | – → **0** | – → **2** | ~40k | ~120k | Port Hope 358 / ~1.5 min | From level 120. Monsters: [Swamp Troll](https://tibia.fandom.com/wiki/Swamp_Troll), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Spider](https://tibia.fandom.com/wiki/Spider), [Bug](https://tibia.fandom.com/wiki/Bug), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Crocodile](https://tibia.fandom.com/wiki/Crocodile), [Flamingo](https://tibia.fandom.com/wiki/Flamingo), [Wasp](https://tibia.fandom.com/wiki/Wasp), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Snake](https://tibia.fandom.com/wiki/Snake), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Tiger](https://tibia.fandom.com/wiki/Tiger), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Elephant](https://tibia.fandom.com/wiki/Elephant), [Bat](https://tibia.fandom.com/wiki/Bat), [Slime](https://tibia.fandom.com/wiki/Slime), [Spit Nettle](https://tibia.fandom.com/wiki/Spit_Nettle), [Panda](https://tibia.fandom.com/wiki/Panda), [Smuggler](https://tibia.fandom.com/wiki/Smuggler), [Hunter](https://tibia.fandom.com/wiki/Hunter), [Hydra](https://tibia.fandom.com/wiki/Hydra), [Wolf](https://tibia.fandom.com/wiki/Wolf). Damage-reduction prey on Centipede, XP prey on Hydra. Still: summoners, skip Hydra (hits half your HP) |
 | [Barbarian Settlements](https://tibiamaps.io/map#32136,31334,7:2) | – → **0** | – → **0** | ~55k | ~125k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 226 / ~56 s | From level 140. Monsters: [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Badger](https://tibia.fandom.com/wiki/Badger), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider). Damage-reduction prey on Barbarian Headsplitter, XP prey on Barbarian Skullhunter |
 
-#### Level 150–200 with prey (~1095 hours to the next band)
+#### Level 150–200 with prey (~730 hours to the next band)
 
 **Good for XP**
 
@@ -1518,7 +1518,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Cormaya Dwarf Cave](https://tibiamaps.io/map#33345,32027,7:2) | – → **0** | – → **0** | ~90k–105k | ~30k–35k | Edron 36 / ~9 s, Captain Seahorse's boat to Cormaya, then 139 / ~35 s | From level 180. Monsters: [Dwarf Soldier](https://tibia.fandom.com/wiki/Dwarf_Soldier), [Dwarf](https://tibia.fandom.com/wiki/Dwarf), [Dwarf Guard](https://tibia.fandom.com/wiki/Dwarf_Guard), [Dwarf Geomancer](https://tibia.fandom.com/wiki/Dwarf_Geomancer). Damage-reduction prey on Dwarf Guard, XP prey on Dwarf Soldier |
 | [Foreigner Quarter (-1)](https://tibiamaps.io/map#32709,31308,8:2) | – → **0** | – → **0** | ~75k | ~30k | Yalahar 137 / ~34 s | From level 190. Monsters: [Cyclops](https://tibia.fandom.com/wiki/Cyclops), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Elf Arcanist](https://tibia.fandom.com/wiki/Elf_Arcanist). Damage-reduction prey on Minotaur Mage, XP prey on Minotaur Guard |
 
-#### Level 200–250 with prey (~800 hours to the next band)
+#### Level 200–250 with prey (~534 hours to the next band)
 
 **Good for XP**
 
@@ -1536,7 +1536,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Darashia Dragon Lair (-3)](https://tibiamaps.io/map#33264,32277,10:2) | 1 → **0** | 1 → **0** | ~205k | ~105k | Darashia 227 / ~0.9 min | Monsters: [Dragon](https://tibia.fandom.com/wiki/Dragon). Damage-reduction prey on Dragon |
 | [Ankrahmun Library Tomb (-1 to -3)](https://tibiamaps.io/map#33142,32838,8:2) | – → **1** | – → **1** | ~100k | ~75k–80k | Ankrahmun 21 / ~5 s | Monsters: [Larva](https://tibia.fandom.com/wiki/Larva), [Scarab](https://tibia.fandom.com/wiki/Scarab), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Poison Spider](https://tibia.fandom.com/wiki/Poison_Spider), [Ghost](https://tibia.fandom.com/wiki/Ghost), [Cave Rat](https://tibia.fandom.com/wiki/Cave_Rat), [Vampire](https://tibia.fandom.com/wiki/Vampire), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Hyaena](https://tibia.fandom.com/wiki/Hyaena), [Snake](https://tibia.fandom.com/wiki/Snake), [Behemoth](https://tibia.fandom.com/wiki/Behemoth), [Scorpion](https://tibia.fandom.com/wiki/Scorpion). Damage-reduction prey on Scarab, XP prey on Larva |
 
-#### Level 250–300 with prey (~573 hours to the next band)
+#### Level 250–300 with prey (~382 hours to the next band)
 
 **Good for XP**
 
@@ -1554,7 +1554,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 1 → **0** | 1 → **0** | ~110k | ~120k–125k | Svargrond 63 / ~16 s, Buddel's boat to the Barbarian Settlements, then 223 / ~56 s | Monsters: [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Barbarian Headsplitter](https://tibia.fandom.com/wiki/Barbarian_Headsplitter), [Barbarian Skullhunter](https://tibia.fandom.com/wiki/Barbarian_Skullhunter), [Barbarian Bloodwalker](https://tibia.fandom.com/wiki/Barbarian_Bloodwalker), [Barbarian Brutetamer](https://tibia.fandom.com/wiki/Barbarian_Brutetamer). Damage-reduction prey on Barbarian Bloodwalker, XP prey on Mammoth |
 | [Fibula Dungeon (-3)](https://tibiamaps.io/map#32171,32440,10:2) | – → **1** | – → **1** | ~360k | ~120k | Thais 232 / ~58 s, through the Fibula Tunnel to Fibula | Monsters: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Minotaur](https://tibia.fandom.com/wiki/Minotaur), [Minotaur Mage](https://tibia.fandom.com/wiki/Minotaur_Mage), [Bonelord](https://tibia.fandom.com/wiki/Bonelord), [Minotaur Archer](https://tibia.fandom.com/wiki/Minotaur_Archer), [Minotaur Guard](https://tibia.fandom.com/wiki/Minotaur_Guard), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton). Damage-reduction prey on Dragon, XP prey on Dragon Lord. Still: summoners |
 
-#### Level 300–350 with prey (~1228 hours to the next band)
+#### Level 300–350 with prey (~819 hours to the next band)
 
 **Good for XP**
 
@@ -1572,7 +1572,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | – → **1** | – → **1** | ~245k | ~125k | Svargrond, on foot over the ice | Monsters: [Ice Golem](https://tibia.fandom.com/wiki/Ice_Golem), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider), [Wyvern](https://tibia.fandom.com/wiki/Wyvern), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit). Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
 | [Quara Grotto (-1)](https://tibiamaps.io/map#32208,32887,8:2) | 1 → **0** | 1 → **0** | ~215k–240k | ~120k–135k | Liberty Bay 172 / ~43 s | Monsters: [Quara Predator Scout](https://tibia.fandom.com/wiki/Quara_Predator_Scout), [Quara Mantassin Scout](https://tibia.fandom.com/wiki/Quara_Mantassin_Scout), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Quara Pincher Scout](https://tibia.fandom.com/wiki/Quara_Pincher_Scout), [Quara Hydromancer Scout](https://tibia.fandom.com/wiki/Quara_Hydromancer_Scout). Damage-reduction prey on Quara Hydromancer Scout, XP prey on Quara Predator Scout |
 
-#### Level 350–400 with prey (~906 hours to the next band)
+#### Level 350–400 with prey (~604 hours to the next band)
 
 **Good for XP**
 
@@ -1590,7 +1590,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | – → **2** | – → **1** | ~155k | ~185k | Ankrahmun 345 / ~1.4 min | Monsters: [Energy Elemental](https://tibia.fandom.com/wiki/Energy_Elemental). Damage-reduction prey on Energy Elemental |
 | [Venore Dragon Lair](https://tibiamaps.io/map#32804,32148,7:2) | – → **2** | – → **1** | ~295k | ~80k | Venore 381 / ~1.6 min | Monsters: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Scorpion](https://tibia.fandom.com/wiki/Scorpion), [Dragon Hatchling](https://tibia.fandom.com/wiki/Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling). Damage-reduction prey on Dragon Lord, XP prey on Dragon |
 
-#### Level 400–450 with prey (~1242 hours to the next band)
+#### Level 400–450 with prey (~828 hours to the next band)
 
 **Good for XP**
 
@@ -1608,7 +1608,7 @@ These tables grade the Section 1 hunting grounds with the damage-reduction prey 
 | [Edron Dragon Lair](https://tibiamaps.io/map#33098,31701,7:2) | 1 → **0** | 1 → **0** | ~370k | ~175k | Edron 401 / ~1.7 min | Monsters: [Dragon](https://tibia.fandom.com/wiki/Dragon), [Dragon Hatchling](https://tibia.fandom.com/wiki/Dragon_Hatchling), [Dragon Lord](https://tibia.fandom.com/wiki/Dragon_Lord), [Dragon Lord Hatchling](https://tibia.fandom.com/wiki/Dragon_Lord_Hatchling), [Wyvern](https://tibia.fandom.com/wiki/Wyvern). Damage-reduction prey on Dragon Lord, XP prey on Dragon |
 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | 1 → **0** | 1 → **0** | ~175k | ~65k | Svargrond, on foot over the ice | Monsters: [Frost Troll](https://tibia.fandom.com/wiki/Frost_Troll), [Mammoth](https://tibia.fandom.com/wiki/Mammoth), [Winter Wolf](https://tibia.fandom.com/wiki/Winter_Wolf), [Ice Golem](https://tibia.fandom.com/wiki/Ice_Golem), [Polar Bear](https://tibia.fandom.com/wiki/Polar_Bear), [Crystal Spider](https://tibia.fandom.com/wiki/Crystal_Spider), [Penguin](https://tibia.fandom.com/wiki/Penguin), [Silver Rabbit](https://tibia.fandom.com/wiki/Silver_Rabbit), [Wyvern](https://tibia.fandom.com/wiki/Wyvern), [Deer](https://tibia.fandom.com/wiki/Deer), [Dire Penguin](https://tibia.fandom.com/wiki/Dire_Penguin), [Frost Giant](https://tibia.fandom.com/wiki/Frost_Giant), [Ice Witch](https://tibia.fandom.com/wiki/Ice_Witch). Damage-reduction prey on Crystal Spider, XP prey on Ice Golem |
 
-#### Level 450–500 with prey (~1758 hours to the next band)
+#### Level 450–500 with prey (~1172 hours to the next band)
 
 **Good for XP**
 
