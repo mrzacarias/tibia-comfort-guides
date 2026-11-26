@@ -4,8 +4,8 @@ What a solo knight builds besides levels, 50 levels at a time: the quests that o
 
 **In short:**
 - There are 833 creatures: 1,247,165 kills and 28,734 charm points to finish them all. 69% of those kills are Hard and Challenging creatures, which need a high level. Finishing everything is a goal of years, so go for the most charm points per hour in your level band.
-- Below level 100 there are 373 creatures to finish for 7,077 charm points. Doing the fastest ones first, your first 300 hours of Bestiary hunting there give about 1,464 charm points; a few slow ones take hundreds of hours each, so leave those for later.
-- **Beastly** (2,000 charm points) takes about 612 hours with creatures below level 50, fastest first.
+- Below level 100 there are 374 creatures to finish for 7,102 charm points. Doing the fastest ones first, your first 300 hours of Bestiary hunting there give about 1,489 charm points; a few slow ones take hundreds of hours each, so leave those for later.
+- **Beastly** (2,000 charm points) takes about 603 hours with creatures below level 50, fastest first.
 - Join the **Paw and Fur** hunters in Port Hope from level 6 and get an **Adventurer's Stone**: the tasks pay experience and open bosses while the same kills fill your Bestiary.
 - Hunt in a party when you can: everyone who hit a creature in the 5 minutes before it died gets the kill.
 
@@ -187,7 +187,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 | Quest | Level | Part you need | Opens | Bestiary creatures there | Charm points |
 |---|---|---|---|---|---|
 | [Targuna Quest](https://tibia.fandom.com/wiki/Targuna_Quest) | 10 | Burning Heat mission, from level 12 | Crimson Court, Crimson Court (Targuna) | 4 | 60 |
-| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | 20 / 65+ | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat; Ramoa part: level 35, after the Goroma Volcano part (Spellbook of Dragha and three fresh corpses); Talahu and Malada parts: after the Ramoa part (level 35), bring a White, a Brown, a Green and a Dark Mushroom | Crystal Gardens, Dragon Lairs (Goroma, +1 to +3), Dragon Lairs (Goroma, surface to -3), Goroma (surface), Laguna Islands, Blood Crabs, Medusa Cave, Meriana, Meriana Gargoyle Cave, Nargor, Nargor Undead Cave, Ramoa, Talahu (surface) | 20 | 400 |
+| [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) | 20 / 65+ | Access to Meriana part, no level needed: errands, a Rake, a Love Poem and about 1,000 gold; Access to Nargor part, after Access to Meriana: five errands in Sabrehaven (100 Bread, a Whisper Beer, a letter, an Atlas, 5 Pirate Voodoo Dolls), then ask Duncan for a mission; Goroma part: level 20, 30 wood and travel money, for Jack Fate's boat; Ramoa part: level 35, after the Goroma Volcano part (Spellbook of Dragha and three fresh corpses); Talahu and Malada parts: after the Ramoa part (level 35), bring a White, a Brown, a Green and a Dark Mushroom | Crystal Gardens, Dragon Lairs (Goroma, +1 to +3), Goroma (surface), Laguna Islands, Blood Crabs, Medusa Cave, Meriana, Meriana Gargoyle Cave, Nargor, Nargor Undead Cave, Ramoa, Talahu (surface) | 19 | 385 |
 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) | 30 / 100 | Troubled Animals mission | Feyrist Meadows, Feyrist Meadows (-1 to -2), Feyrist Meadows (surface) | 11 | 251 |
 | [Treasure Island Quest](https://tibia.fandom.com/wiki/Treasure_Island_Quest) | 0 / 40 | for the caverns | Treasure Island (-1 to -3), Treasure Island (surface) | 3 | 45 |
 | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) | 80 / 120+ | mission 3 started, which opens the Alchemist Quarter gate; mission 4 started, which opens the Trade Quarter gate; mission 5 started, which opens the Arena and Zoo Quarter gate; mission 6 started, which opens the Cemetery Quarter gate; mission 8 started, which opens the Factory Quarter gate | Alchemist Quarter, Arena and Zoo Quarter (-1 to -5), Arena and Zoo Quarter (surface), Cemetery Quarter, Cemetery Quarter (-1), Factory Quarter (-1 to -2), Factory Quarter (-3 to -5), Factory Quarter (surface), Trade Quarter | 16 | 286 |
@@ -197,26 +197,26 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 | [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) | 40 / 70+ | mission 4 | Castle (Vengoth), Vengoth, Vengoth Werewolf Cave | 4 | 90 |
 | [Between the Lines Quest](https://tibia.fandom.com/wiki/Between_the_Lines_Quest) | 200 | for the book teleport in Edron | Book World, Crumbling Caverns | 8 | 375 |
 | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) | 0 / 60+ | started | Beregar Mines, Fenrock Dragon Lair | 2 | 50 |
-| [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) | 0 / 25 |  | Minotaurs Cult Cave | 3 | 75 |
+| [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) | 0 / 25 |  | Minotaur Cult Cave (Thais) | 3 | 75 |
 | [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) | 0 / 70 | it opens the portal to the hunting ground | Lion's Rock (Darashia) | 2 | 50 |
 | [Lone Medusa Quest](https://tibia.fandom.com/wiki/Lone_Medusa_Quest) | 0 / 70+ |  | Vandura Mountain (+2 to +3), Vandura Mountain (+4 to +5), Vandura Mountain (+6 to +7) | 3 | 75 |
-| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | 150+ | only the early missions, up to the minotaur task for Terrence | Oramond Fury Dungeon | 1 | 25 |
+| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | 80 / 120 | rank II, for the Gnomebase Alpha teleporter; the Warzones 1 to 3 | Mushroom Gardens, Warzone 5 | 3 | 125 |
 | [Hidden Threats Quest](https://tibia.fandom.com/wiki/Hidden_Threats_Quest) | 0 / 50 | started: talk to the Corym Ratter and the Corym Servant | Corym Mines (Venore) | 1 | 25 |
-| [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) | 80 / 120 | rank II, for the Gnomebase Alpha teleporter | Mushroom Gardens | 1 | 25 |
+| [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) | 150+ | only the early missions, up to the minotaur task for Terrence | Oramond Fury Dungeon | 1 | 25 |
 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) | 8 / 150 |  | Forbidden Temple (Carlin) | 4 | 100 |
 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) | 0 / 250 | 1,500 reputation with Eustacio from the Pirat Raids | Exotic Cave | 2 | 50 |
-| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | 0 / 100 | The Curse Spreads part; up to the Paradise Lost mission, which opens the island of Oskayaat | Last Sanctum, Murky Caverns | 4 | 175 |
+| [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) | 0 / 100 | The Curse Spreads part; up to the Paradise Lost mission, which opens the island of Oskayaat | Last Sanctum, Murky Caverns | 5 | 200 |
 | [Tomes of Knowledge Quest](https://tibia.fandom.com/wiki/Tomes_of_Knowledge_Quest) | 0 / 100+ |  | Zao Palace, Zao Palace Antechambers | 3 | 100 |
 | [An Uneasy Alliance Quest](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 0 / 70+ |  | Zao Palace Antechambers | 1 | 25 |
-| [The Explorer Society Quest](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) | 0 / 110+ | for Captain Max's boat | Calassa | 1 | 25 |
 | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | 61 / 61 |  | Sea Serpent Area | 1 | 25 |
+| [Dangerous Depths Quest](https://tibia.fandom.com/wiki/Dangerous_Depths_Quest) | 100 / 200 | each 8-hour visit: 10 Suspicious Devices (Market) or 10 task points | Warzone 5 | 2 | 100 |
 | [The Ape City Quest](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | 0 / 130+ |  | Deeper Banuta | 1 | 25 |
 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | 0 / 200 | Death Portal: after the 5-tome first part, give Albinius 50 Pelvis Bones | Old Masonry (-1 to -2), Old Masonry (-3) | 2 | 50 |
-| [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 |  | Seacrest Grounds | 7 | 165 |
+| [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 |  | Seacrest Grounds | 9 | 240 |
 | [Wrath of the Emperor Quest](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | 80 / 130+ |  | Razachai | 4 | 175 |
 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | 250 / 250 | needs level 250 | Court of Summer, Court of Winter, Dream Labyrinth | 9 | 400 |
-| [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | 0 / 250 |  | Forest of Life, Iksupan | 8 | 275 |
-| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | 0 / 130+ |  | Deeplings Library (Fiehonja), Fiehonja, Fiehonja deeplings | 12 | 251 |
+| [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) | 0 / 250 | only the City of Gold mission: no level needed, 5 Nails and a key you assemble | Forest of Life, Iksupan, Iksupan (Port Hope) | 8 | 275 |
+| [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) | 0 / 130+ |  | Deeplings Library (Fiehonja), Fiehonja, Fiehonja deeplings | 11 | 226 |
 | [Rathleton Quest](https://tibia.fandom.com/wiki/Rathleton_Quest) | 0 / 150 | at least 50 votes cast | Oramond Dungeon | 2 | 75 |
 | [Shards of a Broken Moon Quest](https://tibia.fandom.com/wiki/Shards_of_a_Broken_Moon_Quest) | 400+ |  | Forbidden Gardens | 1 | 50 |
 | [No Rest for the Wicked Quest](https://tibia.fandom.com/wiki/No_Rest_for_the_Wicked_Quest) | 250 / 500+ |  | Azzilon Castle | 3 | 150 |
@@ -232,7 +232,7 @@ Only the hunting grounds this guide sends you to. "Level" is the quest's own min
 Each band lists the creatures whose level falls in it, best charm points per hour first. **Level** is where hunting it makes sense (see the appendix for how it's set); **Kills/h** counts only that creature at that hunting ground, and **Hours** is what finishing it takes there. The other creatures you kill on the way count for their own entries. "?" means the model has no estimate.
 
 ### Levels 0–50
-252 creatures, 142,875 kills, 3,880 charm points, about 2,946 hours (26 without an estimate). Running total: 3,880 charm points, 2,946 hours.
+254 creatures, 143,875 kills, 3,910 charm points, about 2,964 hours (26 without an estimate). Running total: 3,910 charm points, 2,964 hours.
 
 **Quests**
 
@@ -308,7 +308,8 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Frost Giantess | Easy | 500 | 15 | 45 | [Jotunar](https://tibiamaps.io/map#32385,31269,7:2) | 142 | 3.5 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) |
 | Adventurer | Easy | 500 | 15 | 8 | [Adventurer (own spawns)](https://tibiamaps.io/map#33048,32066,7:2) | 139 | 3.6 |  |
 | Dromedary | Trivial | 250 | 5 | 8 | [Dromedary (own spawns)](https://tibiamaps.io/map#33245,32786,7:2) | 208 | 1.2 |  |
-| Muglex Clan Assassin | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32085,31905,8:2) | 205 | 1.2 |  |
+| Muglex Clan Assassin | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32526,32430,7:2) | 205 | 1.2 |  |
+| Fire Devil | Easy | 500 | 15 | 30 | [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 137 | 3.6 |  |
 | Stone Golem | Easy | 500 | 15 | 40 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 138 | 3.6 | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) |
 | Carniphila | Medium | 1,000 | 25 | 40 | [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 163 | 6.1 |  |
 | Pirate Skeleton | Easy | 500 | 15 | 40 | [Nargor Undead Cave](https://tibiamaps.io/map#32020,32821,9:2) | 136 | 3.7 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
@@ -372,12 +373,13 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Elf Scout | Easy | 500 | 15 | 20 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 86 | 5.8 |  |
 | Polar Bear | Easy | 500 | 15 | 20 | [Nibelor](https://tibiamaps.io/map#32353,31053,7:2) | 85 | 5.9 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) |
 | Chakoya Toolshaper | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 83 | 6.0 |  |
+| Dragon | Medium | 1,000 | 25 | 25 | [Fibula Dungeon (-3)](https://tibiamaps.io/map#32171,32440,10:2) | 100 | 10 |  |
 | Mutated Human | Medium | 1,000 | 25 | 40 | [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 100 | 10 |  |
 | Gozzler | Easy | 500 | 15 | 40 | [Farmine Mines](https://tibiamaps.io/map#33037,31478,11:2) | 82 | 6.1 | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest) |
 | Quara Mantassin Scout | Easy | 500 | 15 | 45 | [Quara Grotto (-1)](https://tibiamaps.io/map#32208,32887,8:2) | 82 | 6.1 |  |
 | Bear | Easy | 500 | 15 | 8 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 80 | 6.2 |  |
 | Pirate Gunner | Easy | 500 | 15 | 8 | [Aragonia (Targuna)](https://tibiamaps.io/map#33513,32720,7:2) | 81 | 6.2 |  |
-| Muglex Clan Footman | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32085,31905,8:2) | 117 | 2.1 |  |
+| Muglex Clan Footman | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32526,32430,7:2) | 117 | 2.1 |  |
 | Undead Mine Worker | Easy | 500 | 15 | 8 | [Lost Mines](https://tibiamaps.io/map#33044,31799,8:2) | 80 | 6.3 |  |
 | Chakoya Tribewarden | Easy | 500 | 15 | 15 | [Chakoya Iceberg](https://tibiamaps.io/map#32623,32584,7:2) | 78 | 6.4 |  |
 | Slime | Easy | 500 | 15 | 25 | [Plains of Havoc (-1 to -2)](https://tibiamaps.io/map#32735,32297,8:2) | 78 | 6.4 |  |
@@ -397,7 +399,6 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Toad | Easy | 500 | 15 | 20 | [Tainted Caves](https://tibiamaps.io/map#32711,31939,7:2) | 68 | 7.4 |  |
 | Thornback Tortoise | Easy | 500 | 15 | 30 | [Laguna Islands](https://tibiamaps.io/map#32490,32889,7:2) | 68 | 7.4 |  |
 | Evil Sheep | Medium | 1,000 | 25 | 10 | [Evil Sheep (own spawns)](https://tibiamaps.io/map#32754,31479,6:2) | 80 | 12 |  |
-| Dragon | Medium | 1,000 | 25 | 25 | [Elves (Foreigner Quarter, -3 to -4)](https://tibiamaps.io/map#32753,31289,10:2) | 80 | 12 |  |
 | Nightmare Scion | Medium | 1,000 | 25 | 35 | [Arena and Zoo Quarter (-1 to -5)](https://tibiamaps.io/map#32677,31231,8:2) | 80 | 12 | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) |
 | Lizard Executioner | Easy | 500 | 15 | 25 | [Hidden Lizard Temple](https://tibiamaps.io/map#31941,31947,9:2) | 65 | 7.6 |  |
 | Tainted Soul | Easy | 500 | 15 | 10 | [Tainted Caves](https://tibiamaps.io/map#32711,31939,7:2) | 64 | 7.8 |  |
@@ -449,6 +450,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Orc Cult Priest | Medium | 1,000 | 25 | 35 | [Edron Orc Cave (Orc Cult)](https://tibiamaps.io/map#33140,31884,10:2) | 40 | 25 |  |
 | Infernal Frog | Medium | 1,000 | 25 | 20 | [Infernal Frog (own spawns)](https://tibiamaps.io/map#32713,31435,7:2) | 40 | 25 |  |
 | Quara Hydromancer Scout | Medium | 1,000 | 25 | 45 | [Quara Grotto (-1)](https://tibiamaps.io/map#32208,32887,8:2) | 36 | 28 |  |
+| Skeleton Warrior | Easy | 500 | 15 | 20 | [Drefia (-1 to -2)](https://tibiamaps.io/map#33018,32443,8:2) | 30 | 17 |  |
 | Mercury Blob | Easy | 500 | 15 | 40 | [Alchemist Quarter](https://tibiamaps.io/map#32677,31132,7:2) | 29 | 17 | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) |
 | Pirate Buccaneer | Medium | 1,000 | 25 | 25 | [Foreigner Quarter (+1 to +2)](https://tibiamaps.io/map#32709,31308,6:2) | 34 | 29 |  |
 | Enlightened of the Cult | Medium | 1,000 | 25 | 30 | [Research Centre, lower floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 34 | 29 |  |
@@ -517,7 +519,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Corrupted Skeleton | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? | ? | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) |
 
 ### Levels 50–100
-121 creatures, 134,550 kills, 3,197 charm points, about 2,600 hours (16 without an estimate). Running total: 7,077 charm points, 5,547 hours.
+120 creatures, 134,550 kills, 3,192 charm points, about 2,645 hours (16 without an estimate). Running total: 7,102 charm points, 5,609 hours.
 
 **Quests**
 
@@ -557,6 +559,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Water Elemental | Medium | 1,000 | 25 | 70 | [Water Elemental Cave (Tiquanda)](https://tibiamaps.io/map#32559,32861,7:2) | 289 | 3.5 |  |
 | Schiach | Medium | 1,000 | 25 | 80 | [Percht Island](https://tibiamaps.io/map#33815,31053,5:2) | 280 | 3.6 |  |
 | Energy Elemental | Medium | 1,000 | 25 | 75 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 267 | 3.7 |  |
+| Worm Priestess | Medium | 1,000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 234 | 4.3 | [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) |
 | Giant Spider | Medium | 1,000 | 25 | 70 | [Spider Caves (-3)](https://tibiamaps.io/map#32844,32871,10:2) | 228 | 4.4 |  |
 | Island Troll | Trivial | 250 | 5 | 70 | [Goroma](https://tibiamaps.io/map#32133,32540,9:2) | 273 | 0.9 |  |
 | Wiggler | Medium | 1,000 | 25 | 80 | [Mushroom Gardens](https://tibiamaps.io/map#32980,31882,11:2) | 223 | 4.5 | [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest) |
@@ -571,13 +574,12 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Earth Elemental | Medium | 1,000 | 25 | 50 | [Edron Earth Elemental Cave (-1)](https://tibiamaps.io/map#33158,31719,8:2) | 171 | 5.8 |  |
 | Wyrm | Medium | 1,000 | 25 | 80 | [Vandura Mountain (+4 to +5)](https://tibiamaps.io/map#32415,32776,3:2) | 171 | 5.8 | [Lone Medusa Quest](https://tibia.fandom.com/wiki/Lone_Medusa_Quest) |
 | Lizard Templar | Easy | 500 | 15 | 50 | [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 141 | 3.5 |  |
-| Fire Devil | Easy | 500 | 15 | 65 | [Dragon Lairs (Goroma, surface to -3)](https://tibiamaps.io/map#32063,32607,7:2) | 143 | 3.5 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
 | Priestess | Medium | 1,000 | 25 | 80 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 168 | 6.0 |  |
 | Orc Berserker | Medium | 1,000 | 25 | 50 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 159 | 6.3 |  |
 | Stampor | Medium | 1,000 | 25 | 80 | [Stampor Cave](https://tibiamaps.io/map#33166,31211,7:2) | 159 | 6.3 |  |
 | Percht | Medium | 1,000 | 25 | 80 | [Percht Island](https://tibiamaps.io/map#33866,31042,7:2) | 157 | 6.4 |  |
 | Vicious Squire | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,8:2) | 148 | 6.8 |  |
-| Vile Grandmaster | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 142 | 7.0 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
+| Vile Grandmaster | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 142 | 7.0 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
 | Marid | Medium | 1,000 | 25 | 70 | [Ashta'daramai](https://tibiamaps.io/map#33101,32527,7:2) | 139 | 7.2 |  |
 | Shaburak Demon | Medium | 1,000 | 25 | 70 | [Demonwar Crypt](https://tibiamaps.io/map#33290,31936,12:2) | 138 | 7.2 |  |
 | Haunted Treeling | Medium | 1,000 | 25 | 50 | [Vengoth](https://tibiamaps.io/map#32916,31516,7:2) | 137 | 7.3 | [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) |
@@ -588,7 +590,6 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Killer Caiman | Medium | 1,000 | 25 | 60 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 117 | 8.5 |  |
 | Damaged Crystal Golem | Easy | 500 | 15 | 80 | [Golem Workshop](https://tibiamaps.io/map#32943,31953,10:2) | 95 | 5.2 |  |
 | Wailing Widow | Medium | 1,000 | 25 | 60 | [Zao Wailing Widow Cave](https://tibiamaps.io/map#33223,31397,7:2) | 115 | 8.7 |  |
-| Worm Priestess | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 113 | 8.8 |  |
 | Cobra | Easy | 500 | 15 | 80 | [Talahu (surface)](https://tibiamaps.io/map#31953,32660,7:2) | 94 | 5.3 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
 | Askarak Demon | Medium | 1,000 | 25 | 70 | [Demonwar Crypt](https://tibiamaps.io/map#33290,31936,12:2) | 109 | 9.2 |  |
 | Spitter | Medium | 1,000 | 25 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 108 | 9.3 |  |
@@ -599,16 +600,15 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Necromancer | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,8:2) | 101 | 9.9 |  |
 | Ogre Brute | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 99 | 10 |  |
 | Waspoid | Medium | 1,000 | 25 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 97 | 10 |  |
-| Skeleton Warrior | Easy | 500 | 15 | 60 | [Edron Vampire Crypt](https://tibiamaps.io/map#33109,31722,7:2) | 80 | 6.3 |  |
 | Roaring Lion | Medium | 1,000 | 25 | 70 | [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 93 | 11 | [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) |
 | Mooh'Tah Warrior | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 91 | 11 |  |
 | Frost Dragon Hatchling | Medium | 1,000 | 25 | 90 | [Okolnir frost dragons](https://tibiamaps.io/map#32230,31412,7:2) | 87 | 12 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest) |
 | Vampire Bride | Medium | 1,000 | 25 | 95 | [Castle (Vengoth)](https://tibiamaps.io/map#32953,31465,7:2) | 86 | 12 | [Blood Brothers Quest](https://tibia.fandom.com/wiki/Blood_Brothers_Quest) |
 | Efreet | Medium | 1,000 | 25 | 60 | [Efreet Territory (Magician Quarter)](https://tibiamaps.io/map#32876,31115,7:2) | 85 | 12 |  |
 | Clomp | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 82 | 12 |  |
-| Minotaur Cult Follower | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 79 | 13 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
+| Minotaur Cult Follower | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 79 | 13 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
 | Crystalcrusher | Medium | 1,000 | 25 | 80 | [Crystal Gardens](https://tibiamaps.io/map#32020,32888,9:2) | 75 | 13 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
-| Cult Believer | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 75 | 13 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
+| Cult Believer | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 75 | 13 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
 | Orc Marauder | Medium | 1,000 | 25 | 50 | [Zao Steppe](https://tibiamaps.io/map#33203,31421,7:2) | 73 | 14 |  |
 | Quara Predator | Medium | 1,000 | 25 | 55 | [Quara Grotto (-2 to -3)](https://tibiamaps.io/map#32208,32887,9:2) | 73 | 14 |  |
 | Lizard High Guard | Medium | 1,000 | 25 | 85 | [Chaochai (Zao)](https://tibiamaps.io/map#33242,31164,7:2) | 73 | 14 |  |
@@ -616,13 +616,14 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Vampire Viscount | Medium | 1,000 | 25 | 60 | [Vampire Crypts](https://tibiamaps.io/map#32961,32414,15:2) | 70 | 14 |  |
 | Corym Vanguard | Medium | 1,000 | 25 | 50 | [Tiquanda Corym Cave (Port Hope)](https://tibiamaps.io/map#32606,32802,7:2) | 69 | 15 |  |
 | Minotaur Hunter | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 68 | 15 |  |
+| Massive Water Elemental | Medium | 1,000 | 25 | 70 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 65 | 15 |  |
 | Lizard Legionnaire | Medium | 1,000 | 25 | 85 | [Chaochai (Zao)](https://tibiamaps.io/map#33242,31164,7:2) | 61 | 16 |  |
-| Minotaur Cult Prophet | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 58 | 17 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
+| Minotaur Cult Prophet | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 58 | 17 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
 | Lizard Snakecharmer | Medium | 1,000 | 25 | 75 | [Zzaion (Zao, surface)](https://tibiamaps.io/map#33316,31558,7:2) | 56 | 18 |  |
 | Ogre Shaman | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 56 | 18 |  |
 | Dwarf Geomancer | Medium | 1,000 | 25 | 60 | [Beregar Mines](https://tibiamaps.io/map#32611,31501,14:2) | 54 | 19 | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) |
-| Cult Enforcer | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 52 | 19 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
-| Minotaur Cult Zealot | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 52 | 19 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
+| Cult Enforcer | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 52 | 19 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
+| Minotaur Cult Zealot | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 52 | 19 | [The Postman Missions Quest](https://tibia.fandom.com/wiki/The_Postman_Missions_Quest) |
 | Candy Horror | Hard | 2,500 | 50 | 80 | [Chocolate Mines](https://tibiamaps.io/map#33409,32154,9:2) | 64 | 39 |  |
 | Orc Leader | Medium | 1,000 | 25 | 50 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 50 | 20 |  |
 | Deer | Trivial | 250 | 5 | 70 | [Darashia Wyrm Hills](https://tibiamaps.io/map#33256,32325,7:2) | 60 | 4.2 |  |
@@ -635,7 +636,6 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Goggle Cake | Hard | 2,500 | 50 | 70 | [Dessert Dungeons](https://tibiamaps.io/map#33448,32158,9:2) | 40 | 62 |  |
 | Ogre Savage | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 31 | 32 |  |
 | Pigeon | Harmless | 25 | 1 | 80 | [Gardens of Night](https://tibiamaps.io/map#33056,32346,10:2) | 20 | 1.3 |  |
-| Moohtant | Medium | 1,000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 30 | 33 | [Dark Trails Quest](https://tibia.fandom.com/wiki/Dark_Trails_Quest) |
 | Dragon Hatchling | Medium | 1,000 | 25 | 50 | [Dragonblaze Peaks (surface)](https://tibiamaps.io/map#33228,31305,7:2) | 26 | 38 |  |
 | Blood Priest | Medium | 1,000 | 25 | 60 | [Vampire Crypts](https://tibiamaps.io/map#32973,32442,12:2) | 26 | 39 |  |
 | Humongous Fungus | Hard | 2,500 | 50 | 85 | [Warzone 1](https://tibiamaps.io/map#33049,31938,10:2) | 32 | 77 |  |
@@ -644,13 +644,14 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Hero | Medium | 1,000 | 25 | 70 | [Hero Cave (Edron)](https://tibiamaps.io/map#33164,31638,7:2) | 19 | 53 |  |
 | Merlkin | Easy | 500 | 15 | 50 | [Banuta (surface)](https://tibiamaps.io/map#32807,32542,7:2) | 16 | 32 |  |
 | Spidris | Medium | 1,000 | 25 | 95 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 18 | 55 |  |
-| Cult Scholar | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 18 | 56 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
+| Cult Scholar | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 18 | 56 | [Cults of Tibia Quest](https://tibia.fandom.com/wiki/Cults_of_Tibia_Quest) |
 | Honey Elemental | Medium | 1,000 | 25 | 65 | [Chocolate Mines](https://tibiamaps.io/map#33379,32178,9:2) | 16 | 61 |  |
 | Orc Warlord | Medium | 1,000 | 25 | 50 | [Ulderek's Rock (orcs)](https://tibiamaps.io/map#32930,31774,7:2) | 16 | 64 |  |
+| Moohtant | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 14 | 70 |  |
 | Noble Lion | Medium | 1,000 | 25 | 70 | [Lion's Rock (Darashia)](https://tibiamaps.io/map#33138,32358,7:2) | 13 | 75 | [Lion's Rock Quest](https://tibia.fandom.com/wiki/Lion's_Rock_Quest) |
 | Kollos | Medium | 1,000 | 25 | 95 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 13 | 76 |  |
 | Armadile | Hard | 2,500 | 50 | 95 | [Warzone 1](https://tibiamaps.io/map#33049,31938,10:2) | 15 | 164 |  |
-| Minotaur Amazon | Hard | 2,500 | 50 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 15 | 168 |  |
+| Minotaur Amazon | Hard | 2,500 | 50 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 14 | 175 |  |
 | Angry Sugar Fairy | Hard | 2,500 | 50 | 75 | [Dessert Dungeons](https://tibiamaps.io/map#33398,32103,8:2) | 10 | 249 |  |
 | Pirate Ghost | Easy | 500 | 15 | 80 | [Crystal Gardens](https://tibiamaps.io/map#32020,32888,9:2) | 5 | 100 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
 | Dragonling | Medium | 1,000 | 25 | 65 | [Fury Dungeon](https://tibiamaps.io/map#33303,31829,14:2) | 5 | 194 |  |
@@ -672,7 +673,7 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Execowtioner | Medium | 1,000 | 25 | 90 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | ? | ? |  |
 
 ### Levels 100–150
-87 creatures, 105,250 kills, 2,465 charm points, about 2,885 hours (8 without an estimate). Running total: 9,542 charm points, 8,432 hours.
+86 creatures, 105,000 kills, 2,460 charm points, about 2,502 hours (9 without an estimate). Running total: 9,562 charm points, 8,111 hours.
 
 **Quests**
 
@@ -700,12 +701,11 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
-| Sandcrawler | Trivial | 250 | 5 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 372 | 0.7 |  |
 | Yielothax | Medium | 1,000 | 25 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#32942,31583,9:2) | 284 | 3.5 |  |
 | Glooth Blob | Medium | 1,000 | 25 | 110 | [Rathleton Ancient Sewers](https://tibiamaps.io/map#33584,31955,8:2) | 268 | 3.7 |  |
 | Undead Gladiator | Medium | 1,000 | 25 | 110 | [Krailos Ruins (nightmares)](https://tibiamaps.io/map#33580,31584,7:2) | 262 | 3.8 |  |
 | Death Blob | Medium | 1,000 | 25 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 256 | 3.9 |  |
-| Exotic Bat | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 231 | 4.3 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) |
+| Exotic Bat | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 251 | 4.0 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) |
 | Weakened Frazzlemaw | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 203 | 4.9 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Brimstone Bug | Medium | 1,000 | 25 | 100 | [Brimstone Bug Caves (Zao)](https://tibiamaps.io/map#33219,31100,7:2) | 172 | 5.8 |  |
 | Sea Serpent | Medium | 1,000 | 25 | 100 | [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 171 | 5.8 | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) |
@@ -715,33 +715,33 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Goldhanded Cultist | Medium | 1,000 | 25 | 100 | [Museum of Tibian Arts](https://tibiamaps.io/map#33271,32125,10:2) | 136 | 7.4 |  |
 | Enfeebled Silencer | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 131 | 7.6 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Putrid Mummy | Medium | 1,000 | 25 | 130 | [Caverna Exanima](https://tibiamaps.io/map#33294,32267,12:2) | 129 | 7.8 |  |
-| Werebadger | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 122 | 8.2 |  |
-| Wereboar | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 119 | 8.4 |  |
 | Metal Gargoyle | Medium | 1,000 | 25 | 110 | [Underground Glooth Factory (Rathleton, surface to -1)](https://tibiamaps.io/map#33651,31942,7:2) | 114 | 8.8 |  |
-| Werefox | Medium | 1,000 | 25 | 100 | [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 112 | 8.9 |  |
+| Exotic Cave Spider | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 110 | 9.1 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) |
 | Instable Breach Brood | Medium | 1,000 | 25 | 100 | [Otherworld (Dwarf Bridge)](https://tibiamaps.io/map#32520,32021,8:2) | 106 | 9.4 |  |
 | Pixie | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 106 | 9.4 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Broken Shaper | Medium | 1,000 | 25 | 120 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 104 | 9.6 |  |
 | Vulcongra | Hard | 2,500 | 50 | 110 | [Hot Spot (Kazordoon)](https://tibiamaps.io/map#32869,31908,13:2) | 116 | 22 |  |
 | Pirat Cutthroat | Medium | 1,000 | 25 | 100 | [Pirat Mine](https://tibiamaps.io/map#33883,31344,9:2) | 93 | 11 |  |
 | Dragon Lord Hatchling | Medium | 1,000 | 25 | 100 | [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | 92 | 11 | [The Hidden City of Beregar Quest](https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest) |
-| Lost Husher | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 91 | 11 |  |
+| Werefox | Medium | 1,000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 88 | 11 | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) |
 | Chasm Spawn | Hard | 2,500 | 50 | 115 | [Warzone 4](https://tibiamaps.io/map#33548,32199,15:2) | 108 | 23 |  |
 | Lizard Zaogun | Medium | 1,000 | 25 | 130 | [Zao Palace](https://tibiamaps.io/map#33154,31263,10:2) | 84 | 12 | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest), [Tomes of Knowledge Quest](https://tibia.fandom.com/wiki/Tomes_of_Knowledge_Quest) |
-| Warlock | Medium | 1,000 | 25 | 100 | [Demona](https://tibiamaps.io/map#32479,31663,14:2) | 82 | 12 |  |
+| Warlock | Medium | 1,000 | 25 | 100 | [Demona](https://tibiamaps.io/map#32479,31663,14:2) | 83 | 12 |  |
 | Ravenous Lava Lurker | Medium | 1,000 | 25 | 125 | [Gnome Deep Hub](https://tibiamaps.io/map#33949,32164,14:2) | 81 | 12 |  |
 | Behemoth | Medium | 1,000 | 25 | 100 | [Vandura Mountain (+6 to +7)](https://tibiamaps.io/map#32415,32776,1:2) | 81 | 12 | [Lone Medusa Quest](https://tibia.fandom.com/wiki/Lone_Medusa_Quest) |
 | Crawler | Medium | 1,000 | 25 | 140 | [Hive Outpost](https://tibiamaps.io/map#32163,32838,7:2) | 79 | 13 |  |
+| Wereboar | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 78 | 13 |  |
 | Massive Fire Elemental | Medium | 1,000 | 25 | 110 | [Hot Spot (Kazordoon)](https://tibiamaps.io/map#32869,31908,13:2) | 74 | 14 |  |
-| Shark | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33405,31844,14:2) | 74 | 14 |  |
 | Lost Exile | Medium | 1,000 | 25 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33773,32262,14:2) | 73 | 14 |  |
 | Rustheap Golem | Medium | 1,000 | 25 | 110 | [Underground Glooth Factory (Rathleton, surface to -1)](https://tibiamaps.io/map#33651,31942,7:2) | 72 | 14 |  |
+| Diremaw | Hard | 2,500 | 50 | 100 | [Warzone 6](https://tibiamaps.io/map#33829,32128,14:2) | 89 | 28 |  |
 | Instable Sparkion | Medium | 1,000 | 25 | 100 | [Otherworld (Dwarf Bridge)](https://tibiamaps.io/map#32520,32021,8:2) | 71 | 14 |  |
 | Diamond Servant Replica | Medium | 1,000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 71 | 14 |  |
+| Lost Thrower | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 68 | 15 |  |
 | Werebear | Medium | 1,000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 67 | 15 | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) |
-| Diremaw | Hard | 2,500 | 50 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33269,32310,15:2) | 83 | 30 |  |
-| Young Sea Serpent | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 63 | 16 | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | War Golem | Medium | 1,000 | 25 | 110 | [Factory Quarter (-3 to -5)](https://tibiamaps.io/map#32924,31283,10:2) | 63 | 16 | [In Service of Yalahar Quest](https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest) |
+| Shark | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 63 | 16 | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
+| Lost Husher | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 62 | 16 |  |
 | Hellfire Fighter | Hard | 2,500 | 50 | 100 | [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 77 | 32 |  |
 | Terror Bird | Easy | 500 | 15 | 100 | [Forbidden Lands (surface)](https://tibiamaps.io/map#32973,32549,7:2) | 45 | 11 |  |
 | Renegade Knight | Medium | 1,000 | 25 | 120 | [Old Masonry (-1 to -2)](https://tibiamaps.io/map#32805,31657,8:2) | 54 | 18 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
@@ -749,36 +749,35 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Faun | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 52 | 19 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Deepworm | Hard | 2,500 | 50 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33773,32262,14:2) | 64 | 39 |  |
 | Grim Reaper | Hard | 2,500 | 50 | 100 | [Drefia (-5 to -7)](https://tibiamaps.io/map#33018,32443,12:2) | 63 | 39 |  |
+| Werebadger | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 47 | 21 |  |
 | Shaper Matriarch | Medium | 1,000 | 25 | 120 | [Old Masonry (-3)](https://tibiamaps.io/map#32805,31657,10:2) | 47 | 21 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
 | Lizard Dragon Priest | Medium | 1,000 | 25 | 100 | [Zao Palace Antechambers](https://tibiamaps.io/map#33163,31280,9:2) | 46 | 22 | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest), [Tomes of Knowledge Quest](https://tibia.fandom.com/wiki/Tomes_of_Knowledge_Quest), [An Uneasy Alliance Quest](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) |
 | Draken Warmaster | Medium | 1,000 | 25 | 105 | [Zzaion (Zao, +2 to +4)](https://tibiamaps.io/map#33316,31558,5:2) | 44 | 23 |  |
 | Glooth Golem | Medium | 1,000 | 25 | 110 | [Underground Glooth Factory (Rathleton, -2 to -3)](https://tibiamaps.io/map#33651,31942,9:2) | 44 | 23 |  |
-| Cave Devourer | Hard | 2,500 | 50 | 115 | [Warzone 5](https://tibiamaps.io/map#33283,32181,15:2) | 53 | 47 |  |
-| Exotic Cave Spider | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 39 | 26 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) |
+| Lost Basher | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 44 | 23 |  |
+| Cave Devourer | Hard | 2,500 | 50 | 115 | [Warzone 5](https://tibiamaps.io/map#33777,32192,14:2) | 52 | 48 | [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest), [Dangerous Depths Quest](https://tibia.fandom.com/wiki/Dangerous_Depths_Quest) |
 | Twisted Shaper | Medium | 1,000 | 25 | 120 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 38 | 26 |  |
-| Lost Basher | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 36 | 28 |  |
+| Tunnel Tyrant | Hard | 2,500 | 50 | 130 | [Warzone 5](https://tibiamaps.io/map#33777,32192,14:2) | 43 | 58 | [Bigfoot's Burden Quest](https://tibia.fandom.com/wiki/Bigfoot's_Burden_Quest), [Dangerous Depths Quest](https://tibia.fandom.com/wiki/Dangerous_Depths_Quest) |
 | Boogy | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 34 | 30 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
-| Tunnel Tyrant | Hard | 2,500 | 50 | 130 | [Warzone 5](https://tibiamaps.io/map#33283,32181,15:2) | 42 | 59 |  |
 | Dark Faun | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 30 | 33 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
-| Massive Water Elemental | Medium | 1,000 | 25 | 100 | [Calassa](https://tibiamaps.io/map#31917,32716,12:2) | 28 | 35 | [The Explorer Society Quest](https://tibia.fandom.com/wiki/The_Explorer_Society_Quest) |
 | Walker | Medium | 1,000 | 25 | 110 | [Underground Glooth Factory (Rathleton, -6 to -8)](https://tibiamaps.io/map#33651,31942,13:2) | 24 | 41 |  |
 | Nymph | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 24 | 42 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Insect Swarm | Easy | 500 | 15 | 110 | [Northern Zao Plantations](https://tibiamaps.io/map#33324,31090,7:2) | 20 | 25 |  |
+| Young Sea Serpent | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 23 | 43 | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Eternal Guardian | Medium | 1,000 | 25 | 120 | [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 22 | 45 | [The Ape City Quest](https://tibia.fandom.com/wiki/The_Ape_City_Quest) |
 | Draken Spellweaver | Hard | 2,500 | 50 | 125 | [Zzaion (Zao, +2 to +4)](https://tibiamaps.io/map#33316,31558,5:2) | 24 | 105 |  |
 | Pooka | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 18 | 54 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Rot Elemental | Medium | 1,000 | 25 | 110 | [Underground Glooth Factory (Rathleton, -4 to -5)](https://tibiamaps.io/map#33651,31942,11:2) | 18 | 55 |  |
 | Swan Maiden | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 17 | 59 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Magma Crawler | Hard | 2,500 | 50 | 120 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | 21 | 121 |  |
-| Enslaved Dwarf | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 16 | 62 |  |
 | Infernalist | Hard | 2,500 | 50 | 100 | [Fury Dungeon](https://tibiamaps.io/map#33303,31829,14:2) | 16 | 154 |  |
 | Iron Servant Replica | Medium | 1,000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 12 | 84 |  |
+| Enslaved Dwarf | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 11 | 90 |  |
 | Lost Soul | Medium | 1,000 | 25 | 145 | [Formorgar Mines (-7)](https://tibiamaps.io/map#32146,31120,14:2) | 11 | 91 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) |
 | Stone Rhino | Medium | 1,000 | 25 | 130 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 11 | 92 |  |
 | Stone Devourer | Hard | 2,500 | 50 | 105 | [Warzone 1](https://tibiamaps.io/map#33049,31938,10:2) | 13 | 195 |  |
 | Spidris Elite | Medium | 1,000 | 25 | 125 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 6 | 155 |  |
 | Mole | Easy | 500 | 15 | 100 | [Warzone 4](https://tibiamaps.io/map#33548,32199,15:2) | 5 | 97 |  |
-| Seacrest Serpent | Hard | 2,500 | 50 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33405,31844,14:2) | 6 | 419 |  |
 | Goldhanded Cultist Bride | Medium | 1,000 | 25 | 100 | [Museum of Tibian Arts](https://tibia.fandom.com/wiki/Museum_of_Tibian_Arts) | ? | ? |  |
 | Abyssal Calamary | Easy | 500 | 15 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Renegade Quara Constrictor | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
@@ -786,10 +785,11 @@ With friends (team quests): [The Desert Dungeon](https://tibia.fandom.com/wiki/T
 | Renegade Quara Mantassin | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Renegade Quara Pincher | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Renegade Quara Predator | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
+| Seacrest Serpent | Hard | 2,500 | 50 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Draken Elite | Hard | 2,500 | 50 | 140 | [Razachai](https://tibiamaps.io/map#33095,31091,9:2) | ? | ? | [Wrath of the Emperor Quest](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) |
 
 ### Levels 150–200
-58 creatures, 86,275 kills, 1,901 charm points, about 2,804 hours (8 without an estimate). Running total: 11,443 charm points, 11,235 hours.
+56 creatures, 84,275 kills, 1,851 charm points, about 2,769 hours (8 without an estimate). Running total: 11,413 charm points, 10,880 hours.
 
 **Quests**
 
@@ -811,20 +811,19 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Banshee | Medium | 1,000 | 25 | 170 | [Drefia Grim Reaper Dungeons](https://tibiamaps.io/map#33028,32449,11:2) | 298 | 3.4 |  |
 | Serpent Spawn | Medium | 1,000 | 25 | 150 | [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 126 | 7.9 | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) |
 | Souleater | Medium | 1,000 | 25 | 150 | [Souleater Mountains](https://tibiamaps.io/map#33163,31059,7:2) | 127 | 7.9 |  |
-| Iks Chuka | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 110 | 9.1 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
+| Barkless Fanatic | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 117 | 8.6 |  |
+| Iks Chuka | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 110 | 9.1 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Deepling Guard | Medium | 1,000 | 25 | 160 | [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 110 | 9.1 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
-| Barkless Devotee | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 109 | 9.2 |  |
-| Iks Aucar | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 94 | 11 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
-| Stabilizing Dread Intruder | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#32041,31368,11:2) | 90 | 11 |  |
-| Deepling Warrior | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 89 | 11 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
+| Stabilizing Reality Reaver | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#33194,31624,8:2) | 95 | 10 |  |
+| Iks Aucar | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 94 | 11 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
+| Barkless Devotee | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 85 | 12 |  |
 | Deepling Spellsinger | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 86 | 12 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
-| Stabilizing Reality Reaver | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#32028,31362,11:2) | 82 | 12 |  |
 | Misguided Bully | Medium | 1,000 | 25 | 150 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 80 | 13 |  |
-| Barkless Fanatic | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 74 | 13 |  |
+| Stabilizing Dread Intruder | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#33194,31624,8:2) | 76 | 13 |  |
 | Glooth Brigand | Medium | 1,000 | 25 | 150 | [Glooth Bandit Hideouts](https://tibiamaps.io/map#33659,31958,12:2) | 74 | 14 |  |
 | Crazed Winter Vanguard | Hard | 2,500 | 50 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 88 | 28 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
 | Gravedigger | Medium | 1,000 | 25 | 170 | [Drefia Grim Reaper Dungeons](https://tibiamaps.io/map#33028,32449,11:2) | 70 | 14 |  |
-| Iks Pututu | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 70 | 14 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
+| Iks Pututu | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 70 | 14 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Glooth Anemone | Medium | 1,000 | 25 | 150 | [Lower Drainage Area](https://tibiamaps.io/map#33643,31893,10:2) | 70 | 14 |  |
 | Misguided Thief | Medium | 1,000 | 25 | 150 | [Misguided Camp](https://tibiamaps.io/map#32509,32356,8:2) | 67 | 15 |  |
 | Crazed Winter Rearguard | Hard | 2,500 | 50 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 77 | 32 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
@@ -835,7 +834,6 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Crazed Summer Rearguard | Hard | 2,500 | 50 | 150 | [Court of Summer](https://tibiamaps.io/map#33693,32207,7:2) | 66 | 38 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
 | Deepling Worker | Easy | 500 | 15 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 41 | 12 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
 | Ghastly Dragon | Hard | 2,500 | 50 | 195 | [Zao Palace](https://tibiamaps.io/map#33154,31263,10:2) | 60 | 42 | [The New Frontier Quest](https://tibia.fandom.com/wiki/The_New_Frontier_Quest), [Tomes of Knowledge Quest](https://tibia.fandom.com/wiki/Tomes_of_Knowledge_Quest) |
-| Lost Thrower | Medium | 1,000 | 25 | 150 | [Lower Spike](https://tibiamaps.io/map#32242,32587,13:2) | 47 | 21 |  |
 | Jellyfish | Easy | 500 | 15 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 39 | 13 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
 | Frazzlemaw | Hard | 2,500 | 50 | 150 | [Lower Roshamuul](https://tibiamaps.io/map#33551,32549,7:2) | 56 | 44 |  |
 | Glooth Bandit | Medium | 1,000 | 25 | 150 | [Glooth Bandit Hideouts](https://tibiamaps.io/map#33659,31958,12:2) | 44 | 23 |  |
@@ -844,7 +842,7 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Hideous Fungus | Hard | 2,500 | 50 | 150 | [Lower Drainage Area](https://tibiamaps.io/map#33643,31893,10:2) | 46 | 54 |  |
 | Guzzlemaw | Hard | 2,500 | 50 | 180 | [Mawhawk's Lair](https://tibiamaps.io/map#33698,32461,7:2) | 41 | 61 |  |
 | Hibernal Moth | Medium | 1,000 | 25 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 30 | 33 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
-| Cursed Ape | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 26 | 38 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
+| Cursed Ape | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 26 | 38 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Hellhound | Hard | 2,500 | 50 | 190 | [Demon Forge](https://tibiamaps.io/map#33192,31690,14:2) | 32 | 78 |  |
 | Calamary | Easy | 500 | 15 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 21 | 24 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
 | Manta Ray | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 20 | 51 | [Liquid Black Quest](https://tibia.fandom.com/wiki/Liquid_Black_Quest) |
@@ -868,7 +866,7 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Hive Overseer | Hard | 2,500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-37 creatures, 79,000 kills, 1,625 charm points, about 1,684 hours (10 without an estimate). Running total: 13,068 charm points, 12,919 hours.
+37 creatures, 79,000 kills, 1,625 charm points, about 1,684 hours (10 without an estimate). Running total: 13,038 charm points, 12,564 hours.
 
 **Quests**
 
@@ -923,7 +921,7 @@ With friends (team quests): [The Inquisition](https://tibia.fandom.com/wiki/The_
 | Silverfrost Sentinel | Hard | 2,500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-30 creatures, 66,750 kills, 1,355 charm points, about 2,870 hours (4 without an estimate). Running total: 14,423 charm points, 15,789 hours.
+32 creatures, 70,250 kills, 1,430 charm points, about 2,934 hours (4 without an estimate). Running total: 14,468 charm points, 15,498 hours.
 
 **Quests**
 
@@ -943,6 +941,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
+| Deepling Warrior | Medium | 1,000 | 25 | 250 | [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 194 | 5.2 |  |
 | Werelion | Hard | 2,500 | 50 | 250 | [Lion Sanctum](https://tibiamaps.io/map#33128,32251,11:2) | 104 | 24 |  |
 | Werelioness | Hard | 2,500 | 50 | 250 | [Lion Sanctum](https://tibiamaps.io/map#33128,32251,11:2) | 99 | 25 |  |
 | Feversleep | Medium | 1,000 | 25 | 250 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 52 | 19 | [Roshamuul Quest](https://tibia.fandom.com/wiki/Roshamuul_Quest) |
@@ -951,6 +950,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Retching Horror | Hard | 2,500 | 50 | 250 | [Dark Grounds](https://tibiamaps.io/map#33574,32293,7:2) | 55 | 46 |  |
 | Crazed Summer Vanguard | Hard | 2,500 | 50 | 250 | [Dream Labyrinth](https://tibiamaps.io/map#32062,31978,13:2) | 45 | 56 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
 | Soul-Broken Harbinger | Hard | 2,500 | 50 | 250 | [Dream Labyrinth](https://tibiamaps.io/map#32062,31978,13:2) | 43 | 58 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
+| Deathling Scout | Hard | 2,500 | 50 | 250 | [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 43 | 59 |  |
 | Spiky Carnivor | Hard | 2,500 | 50 | 250 | [Carnivora's Rocks](https://tibiamaps.io/map#32760,32628,8:2) | 42 | 60 |  |
 | Insane Siren | Hard | 2,500 | 50 | 250 | [Dream Labyrinth](https://tibiamaps.io/map#32062,31978,13:2) | 37 | 68 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) |
 | Menacing Carnivor | Hard | 2,500 | 50 | 250 | [Carnivora's Rocks](https://tibiamaps.io/map#32760,32628,8:2) | 36 | 69 |  |
@@ -975,7 +975,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Raubritter Skirmisher | Hard | 2,500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | [The Order of the Stag Quest](https://tibia.fandom.com/wiki/The_Order_of_the_Stag_Quest) |
 
 ### Levels 300–350
-32 creatures, 74,750 kills, 1,505 charm points, about 3,618 hours (3 without an estimate). Running total: 15,928 charm points, 19,406 hours.
+32 creatures, 72,500 kills, 1,460 charm points, about 3,559 hours (3 without an estimate). Running total: 15,928 charm points, 19,057 hours.
 
 **Quests**
 
@@ -991,18 +991,18 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
+| Sandcrawler | Trivial | 250 | 5 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 816 | 0.3 |  |
 | Cursed Prospector | Hard | 2,500 | 50 | 300 | [Barren Drift](https://tibiamaps.io/map#33859,31834,8:2) | 110 | 23 | [Feaster of Souls Quest](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) |
 | Hellspawn | Medium | 1,000 | 25 | 300 | [Asura Vaults](https://tibiamaps.io/map#32812,32755,9:2) | 73 | 14 | [Asura Palace Quest](https://tibia.fandom.com/wiki/Asura_Palace_Quest), [The Lost Brother Quest](https://tibia.fandom.com/wiki/The_Lost_Brother_Quest) |
 | Juvenile Bashmu | Hard | 2,500 | 50 | 300 | [Salt Caves](https://tibiamaps.io/map#33970,31653,8:2) | 73 | 34 |  |
 | True Frost Flower Asura | Hard | 2,500 | 50 | 300 | [Asura Vaults](https://tibiamaps.io/map#32812,32755,9:2) | 64 | 39 | [Asura Palace Quest](https://tibia.fandom.com/wiki/Asura_Palace_Quest), [The Lost Brother Quest](https://tibia.fandom.com/wiki/The_Lost_Brother_Quest) |
 | Deathling Spellsinger | Hard | 2,500 | 50 | 300 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | 49 | 51 |  |
 | Flimsy Lost Soul | Hard | 2,500 | 50 | 300 | [Zarganash](https://tibiamaps.io/map#33604,31495,10:2) | 49 | 52 |  |
-| Skeleton Elite Warrior | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#32990,32269,10:2) | 44 | 57 |  |
-| Deathling Scout | Hard | 2,500 | 50 | 300 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | 43 | 59 |  |
+| Skeleton Elite Warrior | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 44 | 57 |  |
 | Girtablilu Warrior | Hard | 2,500 | 50 | 300 | [Ruins of Nuur](https://tibiamaps.io/map#33808,31694,8:2) | 41 | 60 |  |
 | True Midnight Asura | Hard | 2,500 | 50 | 300 | [Asura Vaults](https://tibiamaps.io/map#32812,32755,9:2) | 38 | 65 | [Asura Palace Quest](https://tibia.fandom.com/wiki/Asura_Palace_Quest), [The Lost Brother Quest](https://tibia.fandom.com/wiki/The_Lost_Brother_Quest) |
 | Bashmu | Hard | 2,500 | 50 | 300 | [Salt Caves](https://tibiamaps.io/map#33970,31653,8:2) | 36 | 69 |  |
-| Undead Elite Gladiator | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#32990,32269,10:2) | 34 | 73 |  |
+| Undead Elite Gladiator | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 34 | 73 |  |
 | Mean Lost Soul | Hard | 2,500 | 50 | 300 | [Zarganash](https://tibiamaps.io/map#33604,31495,10:2) | 32 | 78 |  |
 | True Dawnfire Asura | Hard | 2,500 | 50 | 300 | [Asura Vaults](https://tibiamaps.io/map#32812,32755,9:2) | 31 | 82 | [Asura Palace Quest](https://tibia.fandom.com/wiki/Asura_Palace_Quest), [The Lost Brother Quest](https://tibia.fandom.com/wiki/The_Lost_Brother_Quest) |
 | Evil Prospector | Hard | 2,500 | 50 | 300 | [Barren Drift](https://tibiamaps.io/map#33859,31834,8:2) | 27 | 92 | [Feaster of Souls Quest](https://tibia.fandom.com/wiki/Feaster_of_Souls_Quest) |
@@ -1025,7 +1025,7 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Cyclursus | Hard | 2,500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-39 creatures, 93,000 kills, 1,875 charm points, about 3,661 hours (6 without an estimate). Running total: 17,803 charm points, 23,068 hours.
+39 creatures, 93,000 kills, 1,875 charm points, about 2,376 hours (9 without an estimate). Running total: 17,803 charm points, 21,433 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Chopper (7,200 HP).
 
@@ -1041,16 +1041,17 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Crypt Warrior | Hard | 2,500 | 50 | 350 | [Bounacean Lion](https://tibiamaps.io/map#32469,32494,9:2) | 85 | 29 |  |
 | Vexclaw | Hard | 2,500 | 50 | 350 | [Grounds of Deceit](https://tibiamaps.io/map#33642,32686,11:2) | 71 | 35 |  |
 | Cave Chimera | Hard | 2,500 | 50 | 350 | [Dwelling of the Forgotten](https://tibiamaps.io/map#32062,31462,11:2) | 67 | 37 |  |
+| Biting Book | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 55 | 46 |  |
 | Undead Dragon | Hard | 2,500 | 50 | 350 | [Grounds of Undeath](https://tibiamaps.io/map#33394,32336,10:2) | 53 | 47 |  |
 | Grimeleech | Hard | 2,500 | 50 | 350 | [Grounds of Plague](https://tibiamaps.io/map#33231,31441,11:2) | 43 | 59 |  |
 | Dark Torturer | Hard | 2,500 | 50 | 350 | [Grounds of Damnation](https://tibiamaps.io/map#33420,32685,13:2) | 42 | 60 |  |
-| Cobra Assassin | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 38 | 66 |  |
+| Cobra Assassin | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 38 | 66 |  |
 | Hand of Cursed Fate | Hard | 2,500 | 50 | 350 | [Grounds of Despair](https://tibiamaps.io/map#33463,32798,8:2) | 36 | 69 |  |
 | Dark Carnisylvan | Hard | 2,500 | 50 | 350 | [Forest of Life](https://tibiamaps.io/map#32406,32494,11:2) | 35 | 71 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Poisonous Carnisylvan | Hard | 2,500 | 50 | 350 | [Forest of Life](https://tibiamaps.io/map#32406,32494,11:2) | 35 | 71 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Lavaworm | Hard | 2,500 | 50 | 350 | [Grotto of the Lost](https://tibiamaps.io/map#32143,31446,14:2) | 35 | 71 |  |
 | Blemished Spawn | Hard | 2,500 | 50 | 350 | [Antrum of the Fallen](https://tibiamaps.io/map#32674,31787,10:2) | 35 | 72 |  |
-| Cobra Scout | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 34 | 74 |  |
+| Cobra Scout | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 34 | 74 |  |
 | Blightwalker | Hard | 2,500 | 50 | 350 | [Grounds of Undeath](https://tibiamaps.io/map#33394,32336,10:2) | 34 | 74 |  |
 | Lavafungus | Hard | 2,500 | 50 | 350 | [Grotto of the Lost](https://tibiamaps.io/map#32143,31446,14:2) | 34 | 75 |  |
 | Spectre | Medium | 1,000 | 25 | 350 | [Grounds of Despair](https://tibiamaps.io/map#33463,32798,8:2) | 24 | 42 |  |
@@ -1060,23 +1061,22 @@ With friends (team quests): [Heart of Destruction](https://tibia.fandom.com/wiki
 | Eyeless Devourer | Hard | 2,500 | 50 | 350 | [Antrum of the Fallen](https://tibiamaps.io/map#32674,31787,10:2) | 24 | 102 |  |
 | Tremendous Tyrant | Hard | 2,500 | 50 | 350 | [Dwelling of the Forgotten](https://tibiamaps.io/map#32062,31462,11:2) | 19 | 132 |  |
 | Defiler | Hard | 2,500 | 50 | 350 | [Grounds of Plague](https://tibiamaps.io/map#33231,31441,11:2) | 18 | 142 |  |
-| Cobra Vizier | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 17 | 146 |  |
+| Cobra Vizier | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 17 | 146 |  |
 | Hulking Carnisylvan | Hard | 2,500 | 50 | 350 | [Forest of Life](https://tibiamaps.io/map#32406,32494,11:2) | 15 | 166 | [Adventures of Galthen Quest](https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest) |
 | Crypt Warden | Hard | 2,500 | 50 | 350 | [Kilmaresh Catacombs](https://tibiamaps.io/map#33867,31444,9:2) | 15 | 172 |  |
 | Afflicted Strider | Hard | 2,500 | 50 | 350 | [Antrum of the Fallen](https://tibiamaps.io/map#32674,31787,10:2) | 13 | 195 |  |
-| Knowledge Elemental | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32471,32743,13:2) | 11 | 218 |  |
-| Energuardian of Tales | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32437,32769,13:2) | 7 | 347 |  |
-| Animated Feather | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 7 | 363 |  |
-| Guardian of Tales | Hard | 2,500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 6 | 403 |  |
-| Biting Book | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32437,32769,13:2) | ? | ? |  |
+| Animated Feather | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 | Crypt Mage | Hard | 2,500 | 50 | 350 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
-| Flying Book | Medium | 1,000 | 25 | 350 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | ? | ? |  |
-| Ink Blob | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32549,32587,14:2) | ? | ? |  |
+| Energuardian of Tales | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
+| Flying Book | Medium | 1,000 | 25 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
+| Ink Blob | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
+| Knowledge Elemental | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 | Night Harpy | Hard | 2,500 | 50 | 350 | [Isle of Ada](https://tibia.fandom.com/wiki/Isle_of_Ada) | ? | ? |  |
 | Roaming Dread | Hard | 2,500 | 50 | 365 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
+| Guardian of Tales | Hard | 2,500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 
 ### Levels 400–450
-18 creatures, 45,000 kills, 900 charm points, about 939 hours (6 without an estimate). Running total: 18,703 charm points, 24,007 hours.
+18 creatures, 45,000 kills, 900 charm points, about 1,436 hours (6 without an estimate). Running total: 18,703 charm points, 22,869 hours.
 
 With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki/Ferumbras'_Ascension_Quest) (8% of the sold knights here).
 
@@ -1098,8 +1098,8 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Mega Dragon | Hard | 2,500 | 50 | 400 | [Nimmersatt's Breeding Ground](https://tibiamaps.io/map#33213,31068,14:2) | 38 | 67 | [20 Years a Cook Quest](https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest) |
 | Fury | Hard | 2,500 | 50 | 400 | [The Extension Site](https://tibiamaps.io/map#33246,32098,8:2) | 28 | 90 |  |
 | Lava Golem | Hard | 2,500 | 50 | 400 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | 22 | 116 |  |
-| Rage Squid | Hard | 2,500 | 50 | 425 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 19 | 135 |  |
-| Squid Warden | Hard | 2,500 | 50 | 415 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 9 | 264 |  |
+| Rage Squid | Hard | 2,500 | 50 | 425 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 7 | 358 |  |
+| Squid Warden | Hard | 2,500 | 50 | 415 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 5 | 538 |  |
 | Bulltaur Alchemist | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? | ? | [20 Years a Cook Quest](https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest) |
 | Bulltaur Brute | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? | ? | [20 Years a Cook Quest](https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest) |
 | Bulltaur Forgepriest | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? | ? | [20 Years a Cook Quest](https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest) |
@@ -1108,7 +1108,7 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Mitmah Seer | Hard | 2,500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 creatures, 10,000 kills, 200 charm points, about 622 hours. Running total: 18,903 charm points, 24,629 hours.
+4 creatures, 10,000 kills, 200 charm points, about 1,048 hours (1 without an estimate). Running total: 18,903 charm points, 23,916 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Mindmasher (9,500 HP), Sugar Daddy (9,500 HP).
 
@@ -1119,12 +1119,12 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Creature | Difficulty | Kills | Points | Level | Hunting ground | Kills/h | Hours | Needs |
 |---|---|---|---|---|---|---|---|---|
 | Juggernaut | Hard | 2,500 | 50 | 450 | [Oramond Dungeon](https://tibiamaps.io/map#33467,31778,8:2) | 24 | 102 | [Rathleton Quest](https://tibia.fandom.com/wiki/Rathleton_Quest) |
-| Energetic Book | Hard | 2,500 | 50 | 465 | [Secret Library](https://tibiamaps.io/map#32471,32743,13:2) | 20 | 127 |  |
-| Burning Book | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 17 | 147 |  |
-| Brain Squid | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 10 | 246 |  |
+| Burning Book | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 6 | 391 |  |
+| Energetic Book | Hard | 2,500 | 50 | 465 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 5 | 554 |  |
+| Brain Squid | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 
 ### Levels 500+
-83 creatures, 375,000 kills, 7,500 charm points, about 17,075 hours (45 without an estimate). Running total: 26,403 charm points, 41,704 hours.
+83 creatures, 375,000 kills, 7,500 charm points, about 17,242 hours (45 without an estimate). Running total: 26,403 charm points, 41,158 hours.
 
 **Bane bosses within reach**, placed by HP (about 20 HP a level; check each one's damage on TibiaWiki before you go): Dazed Leaf Golem (10,000 HP), Inkwing (12,000 HP), Gorga (15,000 HP), Grand Canon Dominus (15,000 HP), Preceptor Lazare (16,000 HP), Grand Commander Soeren (17,000 HP), Grand Chaplain Gaunder (18,000 HP), Sir Leonard (22,000 HP), Enusat the Onyx Wing (25,000 HP), Latrivan (25,000 HP), Thawing Dragon Lord (25,000 HP), Rakesh Moonfang (25,500 HP), Hellgorak (25,850 HP), Mozradek (28,000 HP), Tanjis (30,000 HP)…
 
@@ -1144,7 +1144,6 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Vibrant Phantom | Challenging | 5,000 | 100 | 675 | [Furious Crater](https://tibiamaps.io/map#33860,31833,3:2) | 17 | 287 |  |
 | Mantosaurus | Challenging | 5,000 | 100 | 600 | [Crystal Enigma](https://tibiamaps.io/map#33732,32887,14:2) | 17 | 287 |  |
 | Infernal Demon | Challenging | 5,000 | 100 | 800 | [Claustrophobic Inferno](https://tibiamaps.io/map#34011,31014,9:2) | 16 | 304 |  |
-| Icecold Book | Hard | 2,500 | 50 | 525 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 16 | 152 |  |
 | Gore Horn | Challenging | 5,000 | 100 | 600 | [Sparkling Pools](https://tibiamaps.io/map#33556,32961,14:2) | 16 | 310 |  |
 | Hulking Prehemoth | Challenging | 5,000 | 100 | 600 | [Sparkling Pools](https://tibiamaps.io/map#33556,32961,14:2) | 16 | 310 |  |
 | Mould Phantom | Challenging | 5,000 | 100 | 700 | [Rotten Wasteland](https://tibiamaps.io/map#33975,31044,11:2) | 15 | 339 |  |
@@ -1164,6 +1163,7 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Sopping Carcass | Challenging | 5,000 | 100 | 820 | [Putrefactory](https://tibiamaps.io/map#34100,31688,14:2) | 9 | 553 |  |
 | Darklight Construct | Challenging | 5,000 | 100 | 805 | [Gloom Pillars](https://tibiamaps.io/map#33810,31824,14:2) | 9 | 586 |  |
 | Darklight Emitter | Challenging | 5,000 | 100 | 690 | [Gloom Pillars](https://tibiamaps.io/map#33810,31824,14:2) | 8 | 614 |  |
+| Icecold Book | Hard | 2,500 | 50 | 525 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 8 | 320 |  |
 | Walking Pillar | Challenging | 5,000 | 100 | 950 | [Darklight Core](https://tibiamaps.io/map#34118,31880,14:2) | 8 | 639 |  |
 | Oozing Carcass | Challenging | 5,000 | 100 | 690 | [Putrefactory](https://tibiamaps.io/map#34100,31688,14:2) | 8 | 645 |  |
 | Branchy Crawler | Challenging | 5,000 | 100 | 675 | [Rotten Wasteland](https://tibiamaps.io/map#33975,31044,11:2) | 7 | 674 |  |
@@ -1172,7 +1172,7 @@ With friends (team quests): [Ferumbras' Ascension](https://tibia.fandom.com/wiki
 | Mycobiontic Beetle | Challenging | 5,000 | 100 | 755 | [Jaded Roots](https://tibiamaps.io/map#33842,31664,14:2) | 6 | 814 |  |
 | Wandering Pillar | Challenging | 5,000 | 100 | 925 | [Gloom Pillars](https://tibiamaps.io/map#33810,31824,14:2) | 6 | 851 |  |
 | Darklight Matter | Challenging | 5,000 | 100 | 755 | [Darklight Core](https://tibiamaps.io/map#34118,31880,14:2) | 6 | 884 |  |
-| Cursed Book | Hard | 2,500 | 50 | 500 | [Secret Library](https://tibiamaps.io/map#32549,32587,14:2) | ? | ? |  |
+| Cursed Book | Hard | 2,500 | 50 | 500 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 | Dworc Shadowstalker | Hard | 2,500 | 50 | 550 | [Norcferatu Dungeons](https://tibia.fandom.com/wiki/Norcferatu_Dungeons) | ? | ? |  |
 | Gloom Maw | Hard | 2,500 | 50 | 550 | [Norcferatu Dungeons](https://tibia.fandom.com/wiki/Norcferatu_Dungeons) | ? | ? |  |
 | Norcferatu Heartless | Hard | 2,500 | 50 | 550 | [Norcferatu Dungeons](https://tibia.fandom.com/wiki/Norcferatu_Dungeons) | ? | ? |  |
@@ -1224,24 +1224,24 @@ Each class gives a title when every entry in it is done (very rare and event cre
 | Class | Title | Creatures | Kills | Charm points | All of them from level | Hours (known) |
 |---|---|---|---|---|---|---|
 | Fey | Fey Swatter | 20 | 13,905 | 386 | 100 | 513 (15 of 20) |
-| Lycanthrope | Blood Moon Hunter / Huntress | 15 | 27,000 | 575 | 250 | 107 (9 of 15) |
-| Dragon | Dragonslayer | 20 | 32,505 | 750 | 400 | 874 (18 of 20) |
+| Lycanthrope | Blood Moon Hunter / Huntress | 15 | 27,000 | 575 | 250 | 127 (9 of 15) |
+| Dragon | Dragonslayer | 20 | 32,505 | 750 | 400 | 871 (18 of 20) |
 | Amphibic | Coldblooded | 11 | 7,500 | 190 | 400 | 279 (10 of 11) |
-| Inkborn | Ink Eraser | 22 | 50,500 | 1,025 | 525 | 2,184 (9 of 22) |
-| Humanoid | Bipedantic | 96 | 100,020 | 2,460 | 550 | 2,036 (85 of 96) |
-| Aquatic | Sea Bane | 40 | 42,280 | 1,051 | 600 | 891 (27 of 40) |
-| Reptile | Snake Charmer | 38 | 57,255 | 1,320 | 600 | 2,217 (35 of 38) |
+| Inkborn | Ink Eraser | 22 | 50,500 | 1,025 | 525 | 2,206 (6 of 22) |
+| Humanoid | Bipedantic | 96 | 100,020 | 2,460 | 550 | 2,094 (85 of 96) |
+| Aquatic | Sea Bane | 40 | 42,280 | 1,051 | 600 | 887 (27 of 40) |
+| Reptile | Snake Charmer | 38 | 57,255 | 1,320 | 600 | 1,825 (34 of 38) |
 | Bird | Death from Below | 18 | 18,280 | 421 | 600 | 911 (14 of 18) |
-| Mammal | Huntsman / Huntress | 76 | 62,395 | 1,540 | 600 | 2,031 (55 of 76) |
+| Mammal | Huntsman / Huntress | 76 | 62,395 | 1,540 | 600 | 2,030 (55 of 76) |
 | Giant | Tumbler | 18 | 25,000 | 570 | 600 | 1,338 (15 of 18) |
-| Extra Dimensional | Interdimensional Destroyer | 12 | 25,000 | 525 | 675 | 466 (10 of 12) |
+| Extra Dimensional | Interdimensional Destroyer | 12 | 25,000 | 525 | 675 | 467 (10 of 12) |
 | Plant | Weedkiller | 20 | 41,505 | 920 | 700 | 1,634 (15 of 20) |
-| Elemental | Elementalist | 26 | 44,005 | 1,010 | 740 | 1,388 (21 of 26) |
+| Elemental | Elementalist | 26 | 44,005 | 1,010 | 740 | 1,150 (20 of 26) |
 | Slime | Ooze Blues | 13 | 20,530 | 496 | 755 | 1,866 (11 of 13) |
-| Vermin | Exterminator | 61 | 86,855 | 1,904 | 795 | 3,098 (52 of 61) |
+| Vermin | Exterminator | 61 | 86,855 | 1,904 | 795 | 3,078 (52 of 61) |
 | Demon | Demonator | 43 | 83,020 | 1,930 | 800 | 2,514 (34 of 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105,515 | 2,390 | 805 | 5,208 (52 of 58) |
-| Undead | Ghosthunter / Ghosthuntress | 94 | 196,525 | 4,355 | 835 | 5,603 (65 of 94) |
+| Undead | Ghosthunter / Ghosthuntress | 94 | 196,525 | 4,355 | 835 | 5,613 (65 of 94) |
 | Construct | Handyman / Handywoman | 36 | 59,045 | 1,431 | 950 | 3,531 (31 of 36) |
 | Human | Manhunter / Manhuntress | 96 | 148,525 | 3,485 | 1110 | 3,120 (66 of 96) |
 
@@ -1686,7 +1686,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Amazon | Human | Easy | 500 | 15 | 10 | [Venore Amazon Camp](https://tibiamaps.io/map#32853,31924,7:2) | 3.9 |
 | Ancient Scarab | Vermin | Medium | 1,000 | 25 | 25 | [Stone Tomb (-4 to -5)](https://tibiamaps.io/map#33282,32743,11:2) | 9.3 |
 | Angry Sugar Fairy | Fey | Hard | 2,500 | 50 | 75 | [Dessert Dungeons](https://tibiamaps.io/map#33398,32103,8:2) | 249 |
-| Animated Feather | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 363 |
+| Animated Feather | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Animated Snowman (event) | Construct | Medium | 1,000 | 25 | 15 | Percht Island. | ? |
 | Arachnophobica | Magical | Hard | 2,500 | 50 | 150 | [Court of Winter](https://tibiamaps.io/map#33698,32127,7:2) | 203 |
 | Arctic Faun (event) | Fey | Medium | 1,000 | 25 | 10 | Arctic Faun's Island. | ? |
@@ -1706,8 +1706,8 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Barbarian Brutetamer | Human | Easy | 500 | 15 | 45 | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) | 4.9 |
 | Barbarian Headsplitter | Human | Easy | 500 | 15 | 45 | [Krimhorn barbarians (surface)](https://tibiamaps.io/map#32028,31397,7:2) | 2.8 |
 | Barbarian Skullhunter | Human | Easy | 500 | 15 | 45 | [Ragnir barbarians](https://tibiamaps.io/map#32135,31332,7:2) | 2.7 |
-| Barkless Devotee | Humanoid | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 9.2 |
-| Barkless Fanatic | Humanoid | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 13 |
+| Barkless Devotee | Humanoid | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 12 |
+| Barkless Fanatic | Humanoid | Medium | 1,000 | 25 | 150 | [Barkless Cult Trial Zone](https://tibiamaps.io/map#32725,31530,9:2) | 8.6 |
 | Bashmu | Magical | Hard | 2,500 | 50 | 300 | [Salt Caves](https://tibiamaps.io/map#33970,31653,8:2) | 69 |
 | Bat | Mammal | Trivial | 250 | 5 | 8 | [Thais Bat Dungeon](https://tibiamaps.io/map#32331,32383,7:2) | 0.6 |
 | Bear | Mammal | Easy | 500 | 15 | 8 | [Game (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 6.2 |
@@ -1716,7 +1716,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Berrypest (very rare) | Vermin | Harmless | 5 | 5 | 15 | Spawns in the winterberry cellar during the Annual Autumn Vintage event. | ? |
 | Berserker Chicken | Bird | Medium | 1,000 | 25 | 15 | [Berserker Chicken (own spawns)](https://tibiamaps.io/map#32749,31455,6:2) | 6.3 |
 | Betrayed Wraith | Undead | Medium | 1,000 | 25 | 250 | [Roshamuul Prison](https://tibiamaps.io/map#33588,32433,7:2) | 20 |
-| Biting Book | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32437,32769,13:2) | ? |
+| Biting Book | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 46 |
 | Black Sheep | Mammal | Trivial | 250 | 5 | 30 | [Cult Cave (Liberty Bay, +1 to -2)](https://tibiamaps.io/map#32359,32721,7:2) | 19 |
 | Black Sphinx Acolyte | Human | Hard | 2,500 | 50 | 300 | [Kilmaresh Mountains](https://tibiamaps.io/map#33838,31617,4:2) | 212 |
 | Blemished Spawn | Vermin | Hard | 2,500 | 50 | 350 | [Antrum of the Fallen](https://tibiamaps.io/map#32674,31787,10:2) | 72 |
@@ -1737,7 +1737,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Bony Sea Devil | Undead | Challenging | 5,000 | 100 | 600 | [Ebb and Flow](https://tibiamaps.io/map#33894,31020,8:2) | 484 |
 | Boogy | Fey | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (surface)](https://tibiamaps.io/map#33510,32229,7:2) | 30 |
 | Brachiodemon | Demon | Challenging | 5,000 | 100 | 625 | [Claustrophobic Inferno](https://tibiamaps.io/map#34011,31014,9:2) | 268 |
-| Brain Squid | Inkborn | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | 246 |
+| Brain Squid | Inkborn | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Braindeath | Undead | Medium | 1,000 | 25 | 45 | [Cemetery Quarter (-1)](https://tibiamaps.io/map#32761,31077,8:2) | 24 |
 | Bramble Wyrmling | Inkborn | Hard | 2,500 | 50 | 60 | [Book World](https://tibia.fandom.com/wiki/Book_World) | ? |
 | Branchy Crawler | Plant | Challenging | 5,000 | 100 | 675 | [Rotten Wasteland](https://tibiamaps.io/map#33975,31044,11:2) | 674 |
@@ -1751,7 +1751,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Bulltaur Alchemist | Humanoid | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
 | Bulltaur Brute | Humanoid | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
 | Bulltaur Forgepriest | Humanoid | Hard | 2,500 | 50 | 400 | [Bulltaur Lair](https://tibia.fandom.com/wiki/Bulltaur_Lair) | ? |
-| Burning Book | Inkborn | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 147 |
+| Burning Book | Inkborn | Hard | 2,500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 391 |
 | Burning Gladiator | Human | Hard | 2,500 | 50 | 300 | [Kilmaresh Mountains](https://tibiamaps.io/map#33838,31617,4:2) | 111 |
 | Burster Spectre | Undead | Hard | 2,500 | 50 | 250 | [Buried Cathedral](https://tibiamaps.io/map#33618,32546,13:2) | ? |
 | Butterfly (Blue) | Vermin | Harmless | 25 | 1 | 10 | [Feyrist Meadows](https://tibia.fandom.com/wiki/Feyrist_Meadows) | ? |
@@ -1767,7 +1767,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Carrion Worm | Vermin | Easy | 500 | 15 | 8 | [Thais Troll Cave (-3 to -4)](https://tibiamaps.io/map#32491,32260,10:2) | 6.7 |
 | Cat | Mammal | Harmless | 25 | 1 | 40 | [The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2) | 0.7 |
 | Cave Chimera | Vermin | Hard | 2,500 | 50 | 350 | [Dwelling of the Forgotten](https://tibiamaps.io/map#32062,31462,11:2) | 37 |
-| Cave Devourer | Vermin | Hard | 2,500 | 50 | 115 | [Warzone 5](https://tibiamaps.io/map#33283,32181,15:2) | 47 |
+| Cave Devourer | Vermin | Hard | 2,500 | 50 | 115 | [Warzone 5](https://tibiamaps.io/map#33777,32192,14:2) | 48 |
 | Cave Parrot | Bird | Trivial | 250 | 5 | 20 | [Desecrated Glade](https://tibiamaps.io/map#32728,32231,8:2) | ? |
 | Cave Rat (event) | Mammal | Trivial | 250 | 5 | 8 | [Thais Sewers](https://tibiamaps.io/map#32368,32214,8:2) | 2.3 |
 | Centipede | Vermin | Easy | 500 | 15 | 35 | [Tiquanda](https://tibiamaps.io/map#32812,32699,7:2) | 6.7 |
@@ -1784,9 +1784,9 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Cloak of Terror | Plant | Challenging | 5,000 | 100 | 700 | [Furious Crater](https://tibiamaps.io/map#33860,31833,3:2) | 276 |
 | Clomp | Mammal | Medium | 1,000 | 25 | 80 | [Krailos Steppe (ogres)](https://tibiamaps.io/map#33639,31656,7:2) | 12 |
 | Cobra | Reptile | Easy | 500 | 15 | 80 | [Talahu (surface)](https://tibiamaps.io/map#31953,32660,7:2) | 5.3 |
-| Cobra Assassin | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 66 |
-| Cobra Scout | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 74 |
-| Cobra Vizier | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33397,32648,3:2) | 146 |
+| Cobra Assassin | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 66 |
+| Cobra Scout | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 74 |
+| Cobra Vizier | Human | Hard | 2,500 | 50 | 350 | [Cobra Bastion](https://tibiamaps.io/map#33301,32647,7:2) | 146 |
 | Converter | Elemental | Challenging | 5,000 | 100 | 740 | [Gloom Pillars](https://tibiamaps.io/map#33810,31824,14:2) | ? |
 | Coral Frog | Amphibic | Easy | 500 | 15 | 30 | [Laguna Islands](https://tibiamaps.io/map#32490,32889,7:2) | 68 |
 | Corrupted Ghost | Undead | Trivial | 250 | 5 | 45 | [Cemetery Quarter](https://tibia.fandom.com/wiki/Cemetery_Quarter) | ? |
@@ -1820,12 +1820,12 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Crystal Spider | Magical | Medium | 1,000 | 25 | 60 | [Nibelor Crystal Spiders](https://tibiamaps.io/map#32356,31087,9:2) | 5.3 |
 | Crystal Wolf (very rare) | Magical | Medium | 5 | 50 | 30 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 0.5 |
 | Crystalcrusher | Magical | Medium | 1,000 | 25 | 80 | [Crystal Gardens](https://tibiamaps.io/map#32020,32888,9:2) | 13 |
-| Cult Believer | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 13 |
-| Cult Enforcer | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 19 |
-| Cult Scholar | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 56 |
+| Cult Believer | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 13 |
+| Cult Enforcer | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 19 |
+| Cult Scholar | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 56 |
 | Cunning Werepanther | Lycanthrope | Hard | 2,500 | 50 | 200 | [Oskayaat Undercity](https://tibia.fandom.com/wiki/Oskayaat_Undercity) | ? |
-| Cursed Ape | Undead | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 38 |
-| Cursed Book | Inkborn | Hard | 2,500 | 50 | 500 | [Secret Library](https://tibiamaps.io/map#32549,32587,14:2) | ? |
+| Cursed Ape | Undead | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 38 |
+| Cursed Book | Inkborn | Hard | 2,500 | 50 | 500 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Cursed Prospector | Undead | Hard | 2,500 | 50 | 300 | [Barren Drift](https://tibiamaps.io/map#33859,31834,8:2) | 23 |
 | Cyclops | Giant | Easy | 500 | 15 | 20 | [Mount Sternum](https://tibiamaps.io/map#32494,32072,7:2) | 3.8 |
 | Cyclops Drone | Giant | Medium | 1,000 | 25 | 35 | [Mistrock (cyclops)](https://tibiamaps.io/map#32567,31442,7:2) | 14 |
@@ -1847,7 +1847,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Dawnfire Asura | Demon | Hard | 2,500 | 50 | 200 | [Asura Palace](https://tibiamaps.io/map#32953,32685,7:2) | 36 |
 | Death Blob | Slime | Medium | 1,000 | 25 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 3.9 |
 | Death Priest | Undead | Medium | 1,000 | 25 | 20 | [Horestis Tomb (Ankrahmun, -4 to -5)](https://tibiamaps.io/map#33062,32731,11:2) | 180 |
-| Deathling Scout | Aquatic | Hard | 2,500 | 50 | 300 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | 59 |
+| Deathling Scout | Aquatic | Hard | 2,500 | 50 | 250 | [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 59 |
 | Deathling Spellsinger | Aquatic | Hard | 2,500 | 50 | 300 | [Ancient Ancestorial Grounds](https://tibiamaps.io/map#33572,31417,14:2) | 51 |
 | Deepling Brawler | Aquatic | Medium | 1,000 | 25 | 10 | [Deepling Brawler (own spawns)](https://tibiamaps.io/map#33539,31247,14:2) | 50 |
 | Deepling Elite | Aquatic | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 131 |
@@ -1856,7 +1856,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Deepling Scout | Aquatic | Medium | 1,000 | 25 | 35 | [Sunken Mines](https://tibiamaps.io/map#32550,31989,7:2) | 6.2 |
 | Deepling Spellsinger | Aquatic | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 12 |
 | Deepling Tyrant | Aquatic | Hard | 2,500 | 50 | 160 | [Deeplings Library (Fiehonja)](https://tibiamaps.io/map#33457,31196,13:2) | 261 |
-| Deepling Warrior | Aquatic | Medium | 1,000 | 25 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 11 |
+| Deepling Warrior | Aquatic | Medium | 1,000 | 25 | 250 | [Sunken Temple](https://tibiamaps.io/map#32871,32520,7:2) | 5.2 |
 | Deepling Worker | Aquatic | Easy | 500 | 15 | 160 | [Fiehonja deeplings](https://tibiamaps.io/map#33514,31324,7:2) | 12 |
 | Deepsea Blood Crab | Aquatic | Easy | 500 | 15 | 20 | [Drefia](https://tibiamaps.io/map#32675,31289,8:2) | 22 |
 | Deepworm | Vermin | Hard | 2,500 | 50 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33773,32262,14:2) | 39 |
@@ -1878,13 +1878,13 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Diamond Servant (very rare) | Construct | Medium | 5 | 50 | 25 | [Diamond Servant (own spawns)](https://tibiamaps.io/map#10334,10164,9:2) | 0.2 |
 | Diamond Servant Replica | Construct | Medium | 1,000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 14 |
 | Dire Penguin (very rare) | Bird | Easy | 5 | 30 | 30 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | ? |
-| Diremaw | Vermin | Hard | 2,500 | 50 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33269,32310,15:2) | 30 |
+| Diremaw | Vermin | Hard | 2,500 | 50 | 100 | [Warzone 6](https://tibiamaps.io/map#33829,32128,14:2) | 28 |
 | Distorted Phantom | Undead | Challenging | 5,000 | 100 | 650 | [Mirrored Nightmare](https://tibiamaps.io/map#33887,31189,10:2) | ? |
 | Dog | Mammal | Harmless | 25 | 1 | 35 | [Factory Quarter (surface)](https://tibiamaps.io/map#32924,31283,7:2) | 2.4 |
 | Doom Deer | Mammal | Medium | 1,000 | 25 | 15 | [Doom Deer (own spawns)](https://tibiamaps.io/map#32709,31470,7:2) | 7.8 |
 | Doomsday Cultist (very rare) | Human | Easy | 5 | 30 | 8 | Tarpit Tomb around the Lightbringer's basin. | ? |
 | Dragolisk | Dragon | Hard | 2,500 | 50 | 400 | [Nimmersatt's Breeding Ground](https://tibiamaps.io/map#33213,31068,14:2) | 41 |
-| Dragon | Dragon | Medium | 1,000 | 25 | 25 | [Elves (Foreigner Quarter, -3 to -4)](https://tibiamaps.io/map#32753,31289,10:2) | 12 |
+| Dragon | Dragon | Medium | 1,000 | 25 | 25 | [Fibula Dungeon (-3)](https://tibiamaps.io/map#32171,32440,10:2) | 10 |
 | Dragon Hatchling | Dragon | Medium | 1,000 | 25 | 50 | [Dragonblaze Peaks (surface)](https://tibiamaps.io/map#33228,31305,7:2) | 38 |
 | Dragon Lord | Dragon | Medium | 1,000 | 25 | 50 | [Darashia Dragon Lair (-4)](https://tibiamaps.io/map#33264,32277,11:2) | 8.0 |
 | Dragon Lord Hatchling | Dragon | Medium | 1,000 | 25 | 100 | [Fenrock Dragon Lair](https://tibiamaps.io/map#32600,31394,15:2) | 11 |
@@ -1922,20 +1922,20 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Elf Scout | Humanoid | Easy | 500 | 15 | 20 | [Elves (Foreigner Quarter, surface)](https://tibiamaps.io/map#32753,31289,7:2) | 5.8 |
 | Emerald Damselfly | Vermin | Easy | 500 | 15 | 8 | [Venore Salamander Cave](https://tibiamaps.io/map#32866,32168,10:2) | 5.7 |
 | Emerald Tortoise | Reptile | Challenging | 5,000 | 100 | 600 | [Sparkling Pools](https://tibiamaps.io/map#33556,32961,14:2) | 418 |
-| Energetic Book | Inkborn | Hard | 2,500 | 50 | 465 | [Secret Library](https://tibiamaps.io/map#32471,32743,13:2) | 127 |
-| Energuardian of Tales | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32437,32769,13:2) | 347 |
+| Energetic Book | Inkborn | Hard | 2,500 | 50 | 465 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 554 |
+| Energuardian of Tales | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Energy Elemental | Elemental | Medium | 1,000 | 25 | 75 | [Energy Elemental Lair](https://tibiamaps.io/map#33176,32548,7:2) | 3.7 |
 | Enfeebled Silencer | Magical | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 7.6 |
 | Enlightened of the Cult | Human | Medium | 1,000 | 25 | 30 | [Research Centre, lower floors (Yalahar cultists)](https://tibiamaps.io/map#32826,31082,7:2) | 29 |
 | Enraged Crystal Golem | Construct | Medium | 1,000 | 25 | 80 | [Golem Workshop](https://tibiamaps.io/map#32943,31953,10:2) | 5.5 |
-| Enslaved Dwarf | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 62 |
+| Enslaved Dwarf | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 90 |
 | Eternal Guardian | Construct | Medium | 1,000 | 25 | 120 | [Deeper Banuta](https://tibiamaps.io/map#32839,32533,9:2) | 45 |
 | Evil Prospector | Undead | Hard | 2,500 | 50 | 300 | [Barren Drift](https://tibiamaps.io/map#33859,31834,8:2) | 92 |
 | Evil Sheep | Mammal | Medium | 1,000 | 25 | 10 | [Evil Sheep (own spawns)](https://tibiamaps.io/map#32754,31479,6:2) | 12 |
 | Evil Sheep Lord (event) | Mammal | Medium | 1,000 | 25 | 10 | Isle of Evil. | ? |
 | Execowtioner | Humanoid | Medium | 1,000 | 25 | 90 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | ? |
-| Exotic Bat | Mammal | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 4.3 |
-| Exotic Cave Spider | Vermin | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 26 |
+| Exotic Bat | Mammal | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 4.0 |
+| Exotic Cave Spider | Vermin | Medium | 1,000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 9.1 |
 | Eyeless Devourer | Vermin | Hard | 2,500 | 50 | 350 | [Antrum of the Fallen](https://tibiamaps.io/map#32674,31787,10:2) | 102 |
 | Falcon Knight | Undead | Hard | 2,500 | 50 | 250 | [Falcon Bastion](https://tibiamaps.io/map#33362,31343,7:2) | 89 |
 | Falcon Paladin | Undead | Hard | 2,500 | 50 | 250 | [Falcon Bastion](https://tibiamaps.io/map#33362,31343,7:2) | 100 |
@@ -1945,14 +1945,14 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Feverish Citizen (event) | Human | Easy | 500 | 15 | 8 | Venore. | ? |
 | Feversleep | Magical | Medium | 1,000 | 25 | 250 | [Roshamuul Cistern](https://tibiamaps.io/map#33668,32274,10:2) | 19 |
 | Filth Toad | Amphibic | Easy | 500 | 15 | 35 | [Tiquanda](https://tibia.fandom.com/wiki/Tiquanda) | ? |
-| Fire Devil | Demon | Easy | 500 | 15 | 65 | [Dragon Lairs (Goroma, surface to -3)](https://tibiamaps.io/map#32063,32607,7:2) | 3.5 |
+| Fire Devil | Demon | Easy | 500 | 15 | 30 | [Desert Dungeon](https://tibiamaps.io/map#32649,32094,7:2) | 3.6 |
 | Fire Elemental | Elemental | Medium | 1,000 | 25 | 65 | [Dragon Lairs (Goroma, +1 to +3)](https://tibiamaps.io/map#32063,32607,6:2) | 1.9 |
 | Firestarter | Humanoid | Easy | 500 | 15 | 30 | [Shadowthorn (elves)](https://tibiamaps.io/map#33075,32170,7:2) | 6.8 |
 | Fish (Creature) | Aquatic | Trivial | 250 | 5 | 160 | [Fiehonja](https://tibia.fandom.com/wiki/Fiehonja) | ? |
 | Flamingo | Bird | Trivial | 250 | 5 | 300 | [Green Belt](https://tibiamaps.io/map#33788,31534,7:2) | ? |
 | Flimsy Lost Soul | Undead | Hard | 2,500 | 50 | 300 | [Zarganash](https://tibiamaps.io/map#33604,31495,10:2) | 52 |
 | Floating Savant | Demon | Hard | 2,500 | 50 | 400 | [The Extension Site](https://tibiamaps.io/map#33246,32098,8:2) | 53 |
-| Flying Book | Inkborn | Medium | 1,000 | 25 | 350 | [Secret Library](https://tibiamaps.io/map#32474,32812,12:2) | ? |
+| Flying Book | Inkborn | Medium | 1,000 | 25 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Foam Stalker | Elemental | Hard | 2,500 | 50 | 350 | [Marapur Turtles (Great Pearl Fan Reef)](https://tibiamaps.io/map#33743,32774,8:2) | 18 |
 | Forest Fury | Magical | Medium | 1,000 | 25 | 30 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 16 |
 | Fox | Mammal | Trivial | 250 | 5 | 20 | [Edron Orc Cave](https://tibiamaps.io/map#33173,31901,7:2) | ? |
@@ -2011,7 +2011,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Grimeleech | Demon | Hard | 2,500 | 50 | 350 | [Grounds of Plague](https://tibiamaps.io/map#33231,31441,11:2) | 59 |
 | Grynch Clan Goblin (very rare) | Humanoid | Trivial | 5 | 10 | 8 | They do not have a set respawn spot. They are announced to be stealing presents from a ran | ? |
 | Gryphon | Magical | Medium | 1,000 | 25 | 300 | [Kilmaresh Mountains](https://tibiamaps.io/map#33838,31617,4:2) | ? |
-| Guardian of Tales | Inkborn | Hard | 2,500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 403 |
+| Guardian of Tales | Inkborn | Hard | 2,500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Guzzlemaw | Magical | Hard | 2,500 | 50 | 180 | [Mawhawk's Lair](https://tibiamaps.io/map#33698,32461,7:2) | 61 |
 | Hand of Cursed Fate | Undead | Hard | 2,500 | 50 | 350 | [Grounds of Despair](https://tibiamaps.io/map#33463,32798,8:2) | 69 |
 | Harpy | Bird | Hard | 2,500 | 50 | 195 | [Ingol (surface to -2)](https://tibiamaps.io/map#33757,32543,7:2) | 172 |
@@ -2048,13 +2048,13 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Ice Dragon | Dragon | Medium | 1,000 | 25 | 65 | [The First Dragon's Lair](https://tibiamaps.io/map#32025,32484,11:2) | 25 |
 | Ice Golem | Construct | Medium | 1,000 | 25 | 70 | [Formorgar Glacier Crystal Spiders](https://tibiamaps.io/map#32112,31153,1:2) | 5.5 |
 | Ice Witch | Human | Medium | 1,000 | 25 | 45 | [Krimhorn barbarians (+5 to +6)](https://tibiamaps.io/map#32028,31397,2:2) | 6.3 |
-| Icecold Book | Inkborn | Hard | 2,500 | 50 | 525 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 152 |
+| Icecold Book | Inkborn | Hard | 2,500 | 50 | 525 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 320 |
 | Iceplume Strider | Construct | Hard | 2,500 | 50 | 215 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? |
 | Iks Ahpututu (very rare) | Undead | Medium | 5 | 50 | 150 | [Iksupan](https://tibia.fandom.com/wiki/Iksupan) | ? |
-| Iks Aucar | Undead | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 11 |
-| Iks Chuka | Undead | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 9.1 |
+| Iks Aucar | Undead | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 11 |
+| Iks Chuka | Undead | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 9.1 |
 | Iks Churrascan | Undead | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibia.fandom.com/wiki/Iksupan) | ? |
-| Iks Pututu | Undead | Medium | 1,000 | 25 | 150 | [Iksupan](https://tibiamaps.io/map#34051,31813,8:2) | 14 |
+| Iks Pututu | Undead | Medium | 1,000 | 25 | 150 | [Iksupan (Port Hope)](https://tibiamaps.io/map#32727,32876,7:2) | 14 |
 | Iks Yapunac | Undead | Hard | 2,500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? |
 | Imperial (very rare) | Mammal | Trivial | 5 | 10 | 8 | Arean Outskirts. Shares a Varying Monster Spawn with Deer and Stag. | ? |
 | Infected Weeper | Construct | Hard | 2,500 | 50 | 75 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | ? |
@@ -2066,7 +2066,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Infernoid Hound | Elemental | Easy | 500 | 15 | 8 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 5.1 |
 | Infernoid Soul | Elemental | Easy | 500 | 15 | 8 | [Crimson Court (Targuna)](https://tibiamaps.io/map#31962,31898,5:2) | 5.1 |
 | Infernoid Spiritual | Elemental | Easy | 500 | 15 | 8 | [Crimson Court](https://tibia.fandom.com/wiki/Crimson_Court) | ? |
-| Ink Blob | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32549,32587,14:2) | ? |
+| Ink Blob | Inkborn | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Ink Splash (event) | Inkborn | Medium | 1,000 | 25 | 50 | Fields of Glory - here. | ? |
 | Insane Siren | Humanoid | Hard | 2,500 | 50 | 250 | [Dream Labyrinth](https://tibiamaps.io/map#32062,31978,13:2) | 68 |
 | Insect Swarm | Vermin | Easy | 500 | 15 | 110 | [Northern Zao Plantations](https://tibiamaps.io/map#33324,31090,7:2) | 25 |
@@ -2086,7 +2086,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Killer Caiman | Reptile | Medium | 1,000 | 25 | 60 | [Killer Caiman Cave (Farmine)](https://tibiamaps.io/map#33137,31448,7:2) | 8.5 |
 | Killer Rabbit | Mammal | Easy | 500 | 15 | 10 | [Killer Rabbit (own spawns)](https://tibiamaps.io/map#32752,31458,5:2) | 5.0 |
 | Knight's Apparition | Undead | Challenging | 5,000 | 100 | 625 | [Mirrored Nightmare](https://tibia.fandom.com/wiki/Mirrored_Nightmare) | ? |
-| Knowledge Elemental | Elemental | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32471,32743,13:2) | 218 |
+| Knowledge Elemental | Elemental | Hard | 2,500 | 50 | 350 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? |
 | Kollos | Vermin | Medium | 1,000 | 25 | 95 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 76 |
 | Kongra | Mammal | Easy | 500 | 15 | 50 | [Banuta (surface)](https://tibiamaps.io/map#32807,32542,7:2) | 5.0 |
 | Lacewing Moth | Vermin | Medium | 1,000 | 25 | 150 | [Court of Summer](https://tibia.fandom.com/wiki/Court_of_Summer) | ? |
@@ -2120,12 +2120,12 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Lizard Templar | Reptile | Easy | 500 | 15 | 50 | [Chor (lizards)](https://tibiamaps.io/map#32952,32855,7:2) | 3.5 |
 | Lizard Zaogun | Reptile | Medium | 1,000 | 25 | 130 | [Zao Palace](https://tibiamaps.io/map#33154,31263,10:2) | 12 |
 | Loricate Orger (event) | Giant | Medium | 1,000 | 25 | 20 | Orcsoberfest Island. | ? |
-| Lost Basher | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 28 |
+| Lost Basher | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 23 |
 | Lost Berserker | Humanoid | Hard | 2,500 | 50 | 150 | [Warzone 3](https://tibiamaps.io/map#33049,31938,12:2) | 142 |
 | Lost Exile | Humanoid | Medium | 1,000 | 25 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33773,32262,14:2) | 14 |
-| Lost Husher | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 11 |
+| Lost Husher | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 16 |
 | Lost Soul | Undead | Medium | 1,000 | 25 | 145 | [Formorgar Mines (-7)](https://tibiamaps.io/map#32146,31120,14:2) | 91 |
-| Lost Thrower | Humanoid | Medium | 1,000 | 25 | 150 | [Lower Spike](https://tibiamaps.io/map#32242,32587,13:2) | 21 |
+| Lost Thrower | Humanoid | Medium | 1,000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 15 |
 | Lumbering Carnivor | Magical | Medium | 1,000 | 25 | 250 | [Carnivora's Rocks](https://tibiamaps.io/map#32760,32628,8:2) | 66 |
 | Mad Scientist | Human | Easy | 500 | 15 | 35 | [Residential Area (Magician Quarter)](https://tibiamaps.io/map#32896,31080,7:2) | 10 |
 | Magma Crawler | Construct | Hard | 2,500 | 50 | 120 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | 121 |
@@ -2140,7 +2140,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Massive Earth Elemental | Elemental | Medium | 1,000 | 25 | 80 | [Truffels Garden (Gnomegate)](https://tibiamaps.io/map#32868,31835,13:2) | 14 |
 | Massive Energy Elemental | Elemental | Medium | 1,000 | 25 | 200 | [Asura Palace](https://tibiamaps.io/map#33068,32673,3:2) | 6.8 |
 | Massive Fire Elemental | Elemental | Medium | 1,000 | 25 | 110 | [Hot Spot (Kazordoon)](https://tibiamaps.io/map#32869,31908,13:2) | 14 |
-| Massive Water Elemental | Elemental | Medium | 1,000 | 25 | 100 | [Calassa](https://tibiamaps.io/map#31917,32716,12:2) | 35 |
+| Massive Water Elemental | Elemental | Medium | 1,000 | 25 | 70 | [Water Elemental Dungeon (Port Hope)](https://tibiamaps.io/map#32679,32964,7:2) | 15 |
 | Mean Lost Soul | Undead | Hard | 2,500 | 50 | 300 | [Zarganash](https://tibiamaps.io/map#33604,31495,10:2) | 78 |
 | Meandering Mushroom | Slime | Challenging | 5,000 | 100 | 730 | [Putrefactory](https://tibiamaps.io/map#34100,31688,14:2) | 680 |
 | Medusa | Magical | Hard | 2,500 | 50 | 150 | [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 46 |
@@ -2155,11 +2155,11 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Midnight Spawn (very rare) | Slime | Medium | 5 | 50 | 50 | Forbidden Lands around the Lightbringer's basin. | ? |
 | Midnight Warrior (very rare) | Human | Medium | 5 | 50 | 25 | Plains of Havoc around the Lightbringer's basin. | ? |
 | Minotaur | Humanoid | Easy | 500 | 15 | 8 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 4.5 |
-| Minotaur Amazon | Humanoid | Hard | 2,500 | 50 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 168 |
+| Minotaur Amazon | Humanoid | Hard | 2,500 | 50 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 175 |
 | Minotaur Archer | Humanoid | Easy | 500 | 15 | 20 | [Kazordoon Minotaurs (+1 to +4)](https://tibiamaps.io/map#32491,31966,6:2) | 3.2 |
-| Minotaur Cult Follower | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 13 |
-| Minotaur Cult Prophet | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 17 |
-| Minotaur Cult Zealot | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaurs Cult Cave](https://tibiamaps.io/map#31926,32433,8:2) | 19 |
+| Minotaur Cult Follower | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 13 |
+| Minotaur Cult Prophet | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 17 |
+| Minotaur Cult Zealot | Humanoid | Medium | 1,000 | 25 | 65 | [Minotaur Cult Cave (Thais)](https://tibiamaps.io/map#32496,32102,15:2) | 19 |
 | Minotaur Guard | Humanoid | Easy | 500 | 15 | 8 | [Dark Pyramid](https://tibiamaps.io/map#33307,32286,7:2) | 7.4 |
 | Minotaur Hunter | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 15 |
 | Minotaur Invader (event) | Humanoid | Medium | 1,000 | 25 | 50 | [Oramond Factory Raids](https://tibiamaps.io/map#33549,31953,13:2) | ? |
@@ -2173,14 +2173,14 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Monk (Creature) | Human | Easy | 500 | 15 | 20 | [Dark Cathedral](https://tibia.fandom.com/wiki/Dark_Cathedral) | ? |
 | Monk's Apparition | Undead | Challenging | 5,000 | 100 | 625 | [Mirrored Nightmare](https://tibia.fandom.com/wiki/Mirrored_Nightmare) | ? |
 | Mooh'Tah Warrior | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 11 |
-| Moohtant | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 33 |
+| Moohtant | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 70 |
 | Moonspawn Blightspitter (event) | Plant | Hard | 2,500 | 50 | 215 | Funghus Bog - Sapful Plains | ? |
 | Moonspawn Oozecrown (event) | Plant | Hard | 2,500 | 50 | 230 | Funghus Bog - Sapful Plains | ? |
 | Moonstone Excavator (event) | Human | Hard | 2,500 | 50 | 130 | Moonstone Crater | ? |
 | Moonstone Overseer (event) | Human | Hard | 2,500 | 50 | 140 | Moonstone Crater | ? |
 | Mould Phantom | Undead | Challenging | 5,000 | 100 | 700 | [Rotten Wasteland](https://tibiamaps.io/map#33975,31044,11:2) | 339 |
-| Muglex Clan Assassin | Humanoid | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32085,31905,8:2) | 1.2 |
-| Muglex Clan Footman | Humanoid | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32085,31905,8:2) | 2.1 |
+| Muglex Clan Assassin | Humanoid | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32526,32430,7:2) | 1.2 |
+| Muglex Clan Footman | Humanoid | Trivial | 250 | 5 | 8 | [Muglex Clan Camp](https://tibiamaps.io/map#32526,32430,7:2) | 2.1 |
 | Mummy | Undead | Easy | 500 | 15 | 10 | [Oasis Tomb (-6 to -8)](https://tibiamaps.io/map#33132,32641,13:2) | 11 |
 | Mushroom Sniffer | Mammal | Harmless | 25 | 1 | 80 | [Truffels Garden (Gnomegate)](https://tibiamaps.io/map#32868,31835,13:2) | 0.3 |
 | Mutated Bat | Mammal | Medium | 1,000 | 25 | 45 | [Cemetery Quarter (-1)](https://tibiamaps.io/map#32761,31077,8:2) | 19 |
@@ -2292,7 +2292,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Radiant Templar | Human | Challenging | 5,000 | 100 | 925 | [Radiant Ascendancy](https://tibia.fandom.com/wiki/Radiant_Ascendancy) | ? |
 | Radiant Warden | Human | Challenging | 5,000 | 100 | 965 | [Radiant Skyhold](https://tibia.fandom.com/wiki/Radiant_Skyhold) | ? |
 | Radiant Zealot | Human | Challenging | 5,000 | 100 | 915 | [Radiant Ascendancy](https://tibia.fandom.com/wiki/Radiant_Ascendancy) | ? |
-| Rage Squid | Inkborn | Hard | 2,500 | 50 | 425 | [Secret Library](https://tibiamaps.io/map#32668,32672,12:2) | 135 |
+| Rage Squid | Inkborn | Hard | 2,500 | 50 | 425 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 358 |
 | Ragged Rabid Wolf | Mammal | Easy | 500 | 15 | 8 | [Thais Wolf Den](https://tibia.fandom.com/wiki/Thais_Wolf_Den) | ? |
 | Raging Fire (very rare) | Elemental | Medium | 5 | 50 | 45 | Jaccus Maxxen's Dungeon. | ? |
 | Rat | Mammal | Trivial | 250 | 5 | 8 | [Thais Sewers](https://tibiamaps.io/map#32368,32214,8:2) | 0.9 |
@@ -2326,14 +2326,14 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Sabretooth (Creature) | Mammal | Challenging | 5,000 | 100 | 600 | [Sparkling Pools](https://tibia.fandom.com/wiki/Sparkling_Pools) | ? |
 | Sacred Spider | Vermin | Medium | 1,000 | 25 | 20 | [Horestis Tomb (Ankrahmun, -1 to -3)](https://tibiamaps.io/map#33062,32731,8:2) | 37 |
 | Salamander | Amphibic | Easy | 500 | 15 | 8 | [Venore Salamander Cave](https://tibiamaps.io/map#32866,32168,10:2) | 4.2 |
-| Sandcrawler | Vermin | Trivial | 250 | 5 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#33142,31525,7:2) | 0.7 |
+| Sandcrawler | Vermin | Trivial | 250 | 5 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 0.3 |
 | Sandstone Scorpion | Construct | Medium | 1,000 | 25 | 25 | [Horestis Tomb (Ankrahmun, -4 to -5)](https://tibiamaps.io/map#33062,32731,11:2) | 30 |
 | Scarab | Vermin | Easy | 500 | 15 | 10 | [Oasis Tomb (-1 to -3)](https://tibiamaps.io/map#33132,32641,8:2) | 3.3 |
 | Schiach | Fey | Medium | 1,000 | 25 | 80 | [Percht Island](https://tibiamaps.io/map#33815,31053,5:2) | 3.6 |
 | Scorpion | Vermin | Easy | 500 | 15 | 12 | [Nomad Cave](https://tibiamaps.io/map#33205,32544,7:2) | 2.2 |
 | Sea Captain | Human | Easy | 500 | 15 | 8 | [Aragonia](https://tibiamaps.io/map#33539,32729,8:2) | 47 |
 | Sea Serpent | Reptile | Medium | 1,000 | 25 | 100 | [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 5.8 |
-| Seacrest Serpent | Reptile | Hard | 2,500 | 50 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33405,31844,14:2) | 419 |
+| Seacrest Serpent | Reptile | Hard | 2,500 | 50 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | ? |
 | Seagull | Bird | Trivial | 250 | 5 | 12 | [Treasure Island (surface)](https://tibiamaps.io/map#32156,32948,7:2) | 3.0 |
 | Serpent Spawn | Reptile | Medium | 1,000 | 25 | 150 | [Medusa Cave](https://tibiamaps.io/map#31929,32635,10:2) | 7.9 |
 | Shaburak Demon | Demon | Medium | 1,000 | 25 | 70 | [Demonwar Crypt](https://tibiamaps.io/map#33290,31936,12:2) | 7.2 |
@@ -2342,7 +2342,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Shadow Hound (very rare) | Demon | Medium | 5 | 50 | 15 | Ramoa around the Lightbringer's basin. | ? |
 | Shadow Pupil | Human | Medium | 1,000 | 25 | 20 | [Drefia (-5 to -7)](https://tibiamaps.io/map#33018,32443,12:2) | 22 |
 | Shaper Matriarch | Humanoid | Medium | 1,000 | 25 | 120 | [Old Masonry (-3)](https://tibiamaps.io/map#32805,31657,10:2) | 21 |
-| Shark | Aquatic | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33405,31844,14:2) | 14 |
+| Shark | Aquatic | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 16 |
 | Sheep | Mammal | Trivial | 250 | 5 | 8 | [Femor Hills](https://tibiamaps.io/map#32569,31803,7:2) | 29 |
 | Shell Drake | Inkborn | Hard | 2,500 | 50 | 70 | [Crumbling Caverns](https://tibia.fandom.com/wiki/Crumbling_Caverns) | ? |
 | Shock Head | Magical | Hard | 2,500 | 50 | 250 | [Guzzlemaw Valley](https://tibiamaps.io/map#33609,32471,7:2) | 217 |
@@ -2354,8 +2354,8 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Silverfrost Sentinel | Construct | Hard | 2,500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? |
 | Sineater Inferniarch | Demon | Hard | 2,500 | 50 | 230 | [Azzilon Castle](https://tibiamaps.io/map#33821,32341,7:2) | 67 |
 | Skeleton | Undead | Easy | 500 | 15 | 15 | [Undead Cave (Mount Sternum, -1 to -3)](https://tibiamaps.io/map#32418,32017,8:2) | 2.1 |
-| Skeleton Elite Warrior | Undead | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#32990,32269,10:2) | 57 |
-| Skeleton Warrior | Undead | Easy | 500 | 15 | 60 | [Edron Vampire Crypt](https://tibiamaps.io/map#33109,31722,7:2) | 6.3 |
+| Skeleton Elite Warrior | Undead | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 57 |
+| Skeleton Warrior | Undead | Easy | 500 | 15 | 20 | [Drefia (-1 to -2)](https://tibiamaps.io/map#33018,32443,8:2) | 17 |
 | Skunk (event) | Mammal | Trivial | 250 | 5 | 50 | [Banuta (surface)](https://tibiamaps.io/map#32807,32542,7:2) | ? |
 | Slime | Slime | Easy | 500 | 15 | 25 | [Plains of Havoc (-1 to -2)](https://tibiamaps.io/map#32735,32297,8:2) | 6.4 |
 | Slug | Vermin | Easy | 500 | 15 | 10 | [Swamp Troll Cave](https://tibiamaps.io/map#32962,32100,9:2) | 2.4 |
@@ -2377,11 +2377,11 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Spiky Carnivor | Magical | Hard | 2,500 | 50 | 250 | [Carnivora's Rocks](https://tibiamaps.io/map#32760,32628,8:2) | 60 |
 | Spit Nettle | Plant | Easy | 500 | 15 | 40 | [Tiquanda Laboratory](https://tibiamaps.io/map#32886,32590,7:2) | 7.3 |
 | Spitter | Vermin | Medium | 1,000 | 25 | 80 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | 9.3 |
-| Squid Warden | Inkborn | Hard | 2,500 | 50 | 415 | [Secret Library](https://tibiamaps.io/map#32621,32537,12:2) | 264 |
+| Squid Warden | Inkborn | Hard | 2,500 | 50 | 415 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | 538 |
 | Squidgy Slime | Slime | Easy | 500 | 15 | 20 | [Horestis Tomb](https://tibia.fandom.com/wiki/Horestis_Tomb) | ? |
 | Squirrel | Mammal | Trivial | 250 | 5 | 30 | [Forest Fury Camp (Carlin)](https://tibiamaps.io/map#32444,31718,7:2) | 31 |
-| Stabilizing Dread Intruder | Extra Dimensional | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#32041,31368,11:2) | 11 |
-| Stabilizing Reality Reaver | Extra Dimensional | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#32028,31362,11:2) | 12 |
+| Stabilizing Dread Intruder | Extra Dimensional | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#33194,31624,8:2) | 13 |
+| Stabilizing Reality Reaver | Extra Dimensional | Medium | 1,000 | 25 | 150 | [Otherworld (Edron)](https://tibiamaps.io/map#33194,31624,8:2) | 10 |
 | Stag | Mammal | Trivial | 250 | 5 | 8 | [Isle of Ada](https://tibia.fandom.com/wiki/Isle_of_Ada) | ? |
 | Stalker | Human | Easy | 500 | 15 | 20 | [Peninsula Tomb (-6 to -8)](https://tibiamaps.io/map#33027,32870,13:2) | 5.2 |
 | Stalking Stalk | Plant | Challenging | 5,000 | 100 | 600 | [Monster Graveyard](https://tibiamaps.io/map#33602,32821,14:2) | 403 |
@@ -2425,14 +2425,14 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | True Midnight Asura | Demon | Hard | 2,500 | 50 | 300 | [Asura Vaults](https://tibiamaps.io/map#32812,32755,9:2) | 65 |
 | Truffle | Fey | Harmless | 25 | 1 | 8 | [Truffle (own spawns)](https://tibiamaps.io/map#33402,32117,7:2) | 0.3 |
 | Truffle Cook | Fey | Harmless | 25 | 1 | 8 | [Dessert Dungeons](https://tibiamaps.io/map#33434,32148,6:2) | ? |
-| Tunnel Tyrant | Vermin | Hard | 2,500 | 50 | 130 | [Warzone 5](https://tibiamaps.io/map#33283,32181,15:2) | 59 |
+| Tunnel Tyrant | Vermin | Hard | 2,500 | 50 | 130 | [Warzone 5](https://tibiamaps.io/map#33777,32192,14:2) | 58 |
 | Turbulent Elemental | Elemental | Challenging | 5,000 | 100 | 700 | [Ebb and Flow](https://tibiamaps.io/map#33894,31020,8:2) | 378 |
 | Twisted Pooka | Fey | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 6.7 |
 | Twisted Shaper | Humanoid | Medium | 1,000 | 25 | 120 | [Astral Shaper Dungeon](https://tibiamaps.io/map#32780,32685,14:2) | 26 |
 | Two-Headed Turtle | Reptile | Hard | 2,500 | 50 | 350 | [Marapur Turtles (Great Pearl Fan Reef)](https://tibiamaps.io/map#33743,32774,8:2) | 6.5 |
 | Undead Cavebear (very rare) | Undead | Medium | 5 | 50 | 90 | [Lich Hell](https://tibia.fandom.com/wiki/Lich_Hell) | ? |
 | Undead Dragon | Undead | Hard | 2,500 | 50 | 350 | [Grounds of Undeath](https://tibiamaps.io/map#33394,32336,10:2) | 47 |
-| Undead Elite Gladiator | Undead | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#32990,32269,10:2) | 73 |
+| Undead Elite Gladiator | Undead | Hard | 2,500 | 50 | 300 | [Deep Desert](https://tibiamaps.io/map#33106,32383,7:2) | 73 |
 | Undead Gladiator | Undead | Medium | 1,000 | 25 | 110 | [Krailos Ruins (nightmares)](https://tibiamaps.io/map#33580,31584,7:2) | 3.8 |
 | Undead Jester (very rare) | Undead | Trivial | 5 | 10 | 10 | Ab'Dendriel, Ankrahmun, Carlin, Darashia, Edron, Kazordoon (floor -3, between entrance and | ? |
 | Undead Mine Worker | Undead | Easy | 500 | 15 | 8 | [Lost Mines](https://tibiamaps.io/map#33044,31799,8:2) | 6.3 |
@@ -2453,7 +2453,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Vibrant Phantom | Undead | Challenging | 5,000 | 100 | 675 | [Furious Crater](https://tibiamaps.io/map#33860,31833,3:2) | 287 |
 | Vicious Manbat (very rare) | Undead | Medium | 5 | 50 | 45 | [Vicious Manbat (own spawns)](https://tibiamaps.io/map#32969,32423,14:2) | 0.0 |
 | Vicious Squire | Human | Medium | 1,000 | 25 | 60 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,8:2) | 6.8 |
-| Vile Grandmaster | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32362,31679,8:2) | 7.0 |
+| Vile Grandmaster | Human | Medium | 1,000 | 25 | 90 | [Forbidden Temple (Carlin)](https://tibiamaps.io/map#32404,31790,7:2) | 7.0 |
 | Vulcongra | Mammal | Hard | 2,500 | 50 | 110 | [Hot Spot (Kazordoon)](https://tibiamaps.io/map#32869,31908,13:2) | 22 |
 | Wafer Paper Butterfly (event) | Vermin | Harmless | 25 | 1 | 8 | Candia, Carlin, Edron Surroundings, Thais | ? |
 | Wailing Widow | Vermin | Medium | 1,000 | 25 | 60 | [Zao Wailing Widow Cave](https://tibiamaps.io/map#33223,31397,7:2) | 8.7 |
@@ -2471,11 +2471,11 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Water Elemental | Elemental | Medium | 1,000 | 25 | 70 | [Water Elemental Cave (Tiquanda)](https://tibiamaps.io/map#32559,32861,7:2) | 3.5 |
 | Weakened Frazzlemaw | Magical | Medium | 1,000 | 25 | 100 | [Feyrist Meadows (-1 to -2)](https://tibiamaps.io/map#33510,32229,8:2) | 4.9 |
 | Weeper | Construct | Hard | 2,500 | 50 | 170 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | 148 |
-| Werebadger | Lycanthrope | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 8.2 |
+| Werebadger | Lycanthrope | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 21 |
 | Werebear | Lycanthrope | Medium | 1,000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 15 |
-| Wereboar | Lycanthrope | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 8.4 |
+| Wereboar | Lycanthrope | Medium | 1,000 | 25 | 100 | [Grimvale](https://tibiamaps.io/map#33333,31690,7:2) | 13 |
 | Werecrocodile | Lycanthrope | Hard | 2,500 | 50 | 200 | [Murky Caverns](https://tibia.fandom.com/wiki/Murky_Caverns) | ? |
-| Werefox | Lycanthrope | Medium | 1,000 | 25 | 100 | [Edron Lycanthropes Cave](https://tibiamaps.io/map#33179,31922,7:2) | 8.9 |
+| Werefox | Lycanthrope | Medium | 1,000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 11 |
 | Werehyaena | Lycanthrope | Medium | 1,000 | 25 | 200 | [Hyaena Lairs](https://tibiamaps.io/map#33212,32359,8:2) | 3.4 |
 | Werehyaena Shaman | Lycanthrope | Medium | 1,000 | 25 | 200 | [Hyaena Lairs](https://tibiamaps.io/map#33212,32359,8:2) | 8.6 |
 | Werelion | Lycanthrope | Hard | 2,500 | 50 | 250 | [Lion Sanctum](https://tibiamaps.io/map#33128,32251,11:2) | 24 |
@@ -2498,13 +2498,13 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 | Witch | Human | Easy | 500 | 15 | 40 | [The Witches' Cliff](https://tibiamaps.io/map#32658,31922,1:2) | 3.4 |
 | Wolf | Mammal | Trivial | 250 | 5 | 10 | [Thais Wolf Dungeon](https://tibiamaps.io/map#32347,32311,7:2) | 1.1 |
 | Worker Golem | Construct | Medium | 1,000 | 25 | 40 | [Factory Quarter (-1 to -2)](https://tibiamaps.io/map#32924,31283,8:2) | 13 |
-| Worm Priestess | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | 8.8 |
+| Worm Priestess | Humanoid | Medium | 1,000 | 25 | 80 | [Oramond Fury Dungeon](https://tibiamaps.io/map#33666,31924,7:2) | 4.3 |
 | Wyrm | Dragon | Medium | 1,000 | 25 | 80 | [Vandura Mountain (+4 to +5)](https://tibiamaps.io/map#32415,32776,3:2) | 5.8 |
 | Wyvern | Reptile | Medium | 1,000 | 25 | 20 | [Poachers (Poacher Caves)](https://tibiamaps.io/map#32754,31928,7:2) | 7.6 |
 | Yeti (very rare) | Mammal | Medium | 5 | 50 | 25 | [Chyllfroest](https://tibia.fandom.com/wiki/Chyllfroest) | ? |
 | Yielothax | Extra Dimensional | Medium | 1,000 | 25 | 110 | [Yielothax Dimension](https://tibiamaps.io/map#32942,31583,9:2) | 3.5 |
 | Young Goanna | Reptile | Hard | 2,500 | 50 | 300 | [Green Belt](https://tibiamaps.io/map#33929,31576,7:2) | 151 |
-| Young Sea Serpent | Reptile | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 16 |
+| Young Sea Serpent | Reptile | Medium | 1,000 | 25 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | 43 |
 | Zombie | Undead | Medium | 1,000 | 25 | 15 | [Treasure Island (-1 to -3)](https://tibiamaps.io/map#32156,32948,8:2) | 11 |
 
 ## Appendix: how the numbers are made
@@ -2516,7 +2516,7 @@ The Bosstiary is the Bestiary for bosses. Each boss has three stages; each stage
 
 **How far to trust them:**
 - Kills per hour come from the map's spawns and the model, checked against real hunts only for the main guide's hunting grounds.
-- 184 creatures have no estimate: the newest areas aren't in the open map data, and some monsters are out of the model's reach (they heal faster than the typical knight hits, or physical damage barely hurts them).
+- 189 creatures have no estimate: the newest areas aren't in the open map data, and some monsters are out of the model's reach (they heal faster than the typical knight hits, or physical damage barely hurts them).
 - Other players in the same hunting ground, daily boosts and rapid-respawn events are not counted.
 - Shield Bash damage is an estimate (no published formula yet).
 
