@@ -214,9 +214,9 @@ Só as hunts para onde este guia te manda. "Level" é o level mínimo / sugerido
 | [Tomes of Knowledge Quest](https://tibia.fandom.com/wiki/Tomes_of_Knowledge_Quest) | 0 / 100+ |  | Zao Palace, Zao Palace Antechambers | 3 | 100 |
 | [An Uneasy Alliance Quest](https://tibia.fandom.com/wiki/An_Uneasy_Alliance_Quest) | 0 / 70+ |  | Zao Palace Antechambers | 1 | 25 |
 | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) | 61 / 61 |  | Sea Serpent Area | 1 | 25 |
+| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | 0 / 200 | Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius; Energy Portal: depois da primeira parte (5 tomos), entregue 50 Marsh Stalker Feathers ao Albinius | Old Masonry (-1 a -2), Old Masonry (-3), Replica Dungeon | 6 | 150 |
 | [Dangerous Depths Quest](https://tibia.fandom.com/wiki/Dangerous_Depths_Quest) | 100 / 200 | cada visita de 8 horas: 10 Suspicious Devices (Market) ou 10 pontos de task | Warzone 5 | 2 | 100 |
 | [The Ape City Quest](https://tibia.fandom.com/wiki/The_Ape_City_Quest) | 0 / 130+ |  | Deeper Banuta | 1 | 25 |
-| [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) | 0 / 200 | Death Portal: depois da primeira parte (5 tomos), entregue 50 Pelvis Bones ao Albinius | Old Masonry (-1 a -2), Old Masonry (-3) | 3 | 75 |
 | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) | 0 / 100 |  | Seacrest Grounds | 9 | 240 |
 | [Wrath of the Emperor Quest](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) | 80 / 130+ |  | Razachai | 4 | 175 |
 | [The Dream Courts Quest](https://tibia.fandom.com/wiki/The_Dream_Courts_Quest) | 250 / 250 | exige level 250 | Court of Summer, Court of Winter, Dream Labyrinth | 9 | 400 |
@@ -709,7 +709,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Execowtioner | Medium | 1.000 | 25 | 90 | [Oramond Minotaur Camp](https://tibiamaps.io/map#33701,31929,7:2) | ? | ? |  |
 
 ### Levels 100–150
-86 criaturas, 105.000 kills, 2.460 Charm Points, umas 2.749 horas (8 sem estimativa). Total acumulado: 9.587 Charm Points, 7.938 horas.
+86 criaturas, 105.000 kills, 2.460 Charm Points, umas 2.648 horas (10 sem estimativa). Total acumulado: 9.587 Charm Points, 7.836 horas.
 
 **Quests**
 
@@ -741,6 +741,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Undead Gladiator | Medium | 1.000 | 25 | 110 | [Krailos Ruins (nightmares)](https://tibiamaps.io/map#33580,31584,7:2) | 299 | 3,3 |  |
 | Glooth Blob | Medium | 1.000 | 25 | 110 | [Rathleton Ancient Sewers](https://tibiamaps.io/map#33584,31955,8:2) | 296 | 3,4 |  |
 | Exotic Bat | Medium | 1.000 | 25 | 100 | [Exotic Cave](https://tibiamaps.io/map#33919,31470,7:2) | 278 | 3,6 | [A Pirate's Tail Quest](https://tibia.fandom.com/wiki/A_Pirate's_Tail_Quest) |
+| Iron Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 270 | 3,7 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
 | Weakened Frazzlemaw | Medium | 1.000 | 25 | 100 | [Feyrist Meadows (-1 a -2)](https://tibiamaps.io/map#33510,32229,8:2) | 225 | 4,4 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Brimstone Bug | Medium | 1.000 | 25 | 100 | [Brimstone Bug Caves (Zao)](https://tibiamaps.io/map#33219,31100,7:2) | 195 | 5,1 |  |
 | Sea Serpent | Medium | 1.000 | 25 | 100 | [Sea Serpent Area](https://tibiamaps.io/map#31929,31069,8:2) | 191 | 5,2 | [The Hunt for the Sea Serpent Quest](https://tibia.fandom.com/wiki/The_Hunt_for_the_Sea_Serpent_Quest) |
@@ -769,7 +770,6 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Massive Fire Elemental | Medium | 1.000 | 25 | 110 | [Hot Spot (Kazordoon)](https://tibiamaps.io/map#32869,31908,13:2) | 82 | 12 |  |
 | Rustheap Golem | Medium | 1.000 | 25 | 110 | [Underground Glooth Factory (Rathleton, superfície a -1)](https://tibiamaps.io/map#33651,31942,7:2) | 81 | 12 |  |
 | Diremaw | Hard | 2.500 | 50 | 100 | [Warzone 6](https://tibiamaps.io/map#33829,32128,14:2) | 100 | 25 |  |
-| Diamond Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 79 | 13 |  |
 | Lost Thrower | Medium | 1.000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 76 | 13 |  |
 | Instable Sparkion | Medium | 1.000 | 25 | 100 | [Otherworld (Dwarf Bridge)](https://tibiamaps.io/map#32520,32021,8:2) | 75 | 13 |  |
 | Werebear | Medium | 1.000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 75 | 13 | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) |
@@ -780,7 +780,6 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Werefox | Medium | 1.000 | 25 | 100 | [Last Sanctum](https://tibiamaps.io/map#33352,32003,7:2) | 67 | 15 | [Grimvale Quest](https://tibia.fandom.com/wiki/Grimvale_Quest) |
 | Terror Bird | Easy | 500 | 15 | 100 | [Forbidden Lands (superfície)](https://tibiamaps.io/map#32973,32549,7:2) | 52 | 9,6 |  |
 | Renegade Knight | Medium | 1.000 | 25 | 120 | [Old Masonry (-1 a -2)](https://tibiamaps.io/map#32805,31657,8:2) | 61 | 16 | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
-| Golden Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 59 | 17 |  |
 | Faun | Medium | 1.000 | 25 | 100 | [Feyrist Meadows (superfície)](https://tibiamaps.io/map#33510,32229,7:2) | 58 | 17 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Deepworm | Hard | 2.500 | 50 | 100 | [Gnome Deep Hub](https://tibiamaps.io/map#33773,32262,14:2) | 72 | 35 |  |
 | Grim Reaper | Hard | 2.500 | 50 | 100 | [Drefia (-5 a -7)](https://tibiamaps.io/map#33018,32443,12:2) | 71 | 35 |  |
@@ -807,7 +806,6 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Magma Crawler | Hard | 2.500 | 50 | 120 | [Warzone 2](https://tibiamaps.io/map#33049,31938,11:2) | 24 | 106 |  |
 | Swan Maiden | Medium | 1.000 | 25 | 100 | [Feyrist Meadows (superfície)](https://tibiamaps.io/map#33510,32229,7:2) | 19 | 53 | [Threatened Dreams Quest](https://tibia.fandom.com/wiki/Threatened_Dreams_Quest) |
 | Infernalist | Hard | 2.500 | 50 | 100 | [Fury Dungeon](https://tibiamaps.io/map#33303,31829,14:2) | 18 | 136 |  |
-| Iron Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 13 | 76 |  |
 | Enslaved Dwarf | Medium | 1.000 | 25 | 130 | [Caves of the Lost](https://tibiamaps.io/map#32625,31852,14:2) | 13 | 80 |  |
 | Lost Soul | Medium | 1.000 | 25 | 145 | [Formorgar Mines (-7)](https://tibiamaps.io/map#32146,31120,14:2) | 12 | 80 | [Barbarian Test Quest](https://tibia.fandom.com/wiki/Barbarian_Test_Quest), [The Ice Islands Quest](https://tibia.fandom.com/wiki/The_Ice_Islands_Quest) |
 | Stone Rhino | Medium | 1.000 | 25 | 130 | [Astral Shaper Ruins](https://tibiamaps.io/map#32905,32847,13:2) | 12 | 82 |  |
@@ -816,6 +814,8 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Mole | Easy | 500 | 15 | 100 | [Warzone 4](https://tibiamaps.io/map#33548,32199,15:2) | 6 | 86 |  |
 | Draken Elite | Hard | 2.500 | 50 | 140 | [Razachai](https://tibiamaps.io/map#33095,31091,9:2) | 5 | 501 | [Wrath of the Emperor Quest](https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest) |
 | Goldhanded Cultist Bride | Medium | 1.000 | 25 | 100 | [Museum of Tibian Arts](https://tibia.fandom.com/wiki/Museum_of_Tibian_Arts) | ? | ? |  |
+| Diamond Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibia.fandom.com/wiki/Replica_Dungeon) | ? | ? | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
+| Golden Servant Replica | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibia.fandom.com/wiki/Replica_Dungeon) | ? | ? | [Forgotten Knowledge Quest](https://tibia.fandom.com/wiki/Forgotten_Knowledge_Quest) |
 | Abyssal Calamary | Easy | 500 | 15 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Renegade Quara Constrictor | Medium | 1.000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 | Renegade Quara Hydromancer | Medium | 1.000 | 25 | 130 | [Seacrest Grounds](https://tibia.fandom.com/wiki/Seacrest_Grounds) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
@@ -825,7 +825,7 @@ Com amigos (quests em time): [The Desert Dungeon](https://tibia.fandom.com/wiki/
 | Seacrest Serpent | Hard | 2.500 | 50 | 130 | [Seacrest Grounds](https://tibiamaps.io/map#33550,31869,7:2) | ? | ? | [Twenty Miles Beneath the Sea Quest](https://tibia.fandom.com/wiki/Twenty_Miles_Beneath_the_Sea_Quest) |
 
 ### Levels 150–200
-55 criaturas, 83.275 kills, 1.826 Charm Points, umas 2.452 horas (8 sem estimativa). Total acumulado: 11.413 Charm Points, 10.390 horas.
+55 criaturas, 83.275 kills, 1.826 Charm Points, umas 2.452 horas (8 sem estimativa). Total acumulado: 11.413 Charm Points, 10.288 horas.
 
 **Quests**
 
@@ -901,7 +901,7 @@ Com amigos (quests em time): [The Inquisition](https://tibia.fandom.com/wiki/The
 | Hive Overseer | Hard | 2.500 | 50 | 190 | [The Hive (Gray Beach)](https://tibiamaps.io/map#33519,31258,7:2) | ? | ? |  |
 
 ### Levels 200–250
-37 criaturas, 79.000 kills, 1.625 Charm Points, umas 1.506 horas (10 sem estimativa). Total acumulado: 13.038 Charm Points, 11.896 horas.
+37 criaturas, 79.000 kills, 1.625 Charm Points, umas 1.506 horas (10 sem estimativa). Total acumulado: 13.038 Charm Points, 11.794 horas.
 
 **Quests**
 
@@ -956,7 +956,7 @@ Com amigos (quests em time): [The Inquisition](https://tibia.fandom.com/wiki/The
 | Silverfrost Sentinel | Hard | 2.500 | 50 | 240 | [Asura Citadel](https://tibia.fandom.com/wiki/Asura_Citadel) | ? | ? |  |
 
 ### Levels 250–300
-32 criaturas, 70.250 kills, 1.430 Charm Points, umas 2.568 horas (4 sem estimativa). Total acumulado: 14.468 Charm Points, 14.463 horas.
+32 criaturas, 70.250 kills, 1.430 Charm Points, umas 2.568 horas (4 sem estimativa). Total acumulado: 14.468 Charm Points, 14.362 horas.
 
 **Quests**
 
@@ -1010,7 +1010,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Raubritter Skirmisher | Hard | 2.500 | 50 | 275 | [Bloodfire Gorge](https://tibia.fandom.com/wiki/Bloodfire_Gorge) | ? | ? | [The Order of the Stag Quest](https://tibia.fandom.com/wiki/The_Order_of_the_Stag_Quest) |
 
 ### Levels 300–350
-32 criaturas, 72.500 kills, 1.460 Charm Points, umas 3.124 horas (3 sem estimativa). Total acumulado: 15.928 Charm Points, 17.587 horas.
+32 criaturas, 72.500 kills, 1.460 Charm Points, umas 3.124 horas (3 sem estimativa). Total acumulado: 15.928 Charm Points, 17.486 horas.
 
 **Quests**
 
@@ -1060,7 +1060,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Cyclursus | Hard | 2.500 | 50 | 340 | [Forsaken Crypt](https://tibia.fandom.com/wiki/Forsaken_Crypt) | ? | ? |  |
 
 ### Levels 350–400
-40 criaturas, 95.500 kills, 1.925 Charm Points, umas 2.399 horas (8 sem estimativa). Total acumulado: 17.853 Charm Points, 19.986 horas.
+40 criaturas, 95.500 kills, 1.925 Charm Points, umas 2.399 horas (8 sem estimativa). Total acumulado: 17.853 Charm Points, 19.884 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Chopper (7.200 HP).
 
@@ -1112,7 +1112,7 @@ Com amigos (quests em time): [Heart of Destruction](https://tibia.fandom.com/wik
 | Guardian of Tales | Hard | 2.500 | 50 | 375 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 
 ### Levels 400–450
-17 criaturas, 42.500 kills, 850 Charm Points, umas 1.213 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 21.199 horas.
+17 criaturas, 42.500 kills, 850 Charm Points, umas 1.213 horas (6 sem estimativa). Total acumulado: 18.703 Charm Points, 21.098 horas.
 
 Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wiki/Ferumbras'_Ascension_Quest) (8% dos knights vendidos aqui).
 
@@ -1143,7 +1143,7 @@ Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wik
 | Mitmah Seer | Hard | 2.500 | 50 | 400 | [Iksupan Last Stand](https://tibia.fandom.com/wiki/Iksupan_Last_Stand) | ? | ? |  |
 
 ### Levels 450–500
-4 criaturas, 10.000 kills, 200 Charm Points, umas 920 horas (1 sem estimativa). Total acumulado: 18.903 Charm Points, 22.119 horas.
+4 criaturas, 10.000 kills, 200 Charm Points, umas 920 horas (1 sem estimativa). Total acumulado: 18.903 Charm Points, 22.018 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Mindmasher (9.500 HP), Sugar Daddy (9.500 HP).
 
@@ -1159,7 +1159,7 @@ Com amigos (quests em time): [Ferumbras' Ascension](https://tibia.fandom.com/wik
 | Brain Squid | Hard | 2.500 | 50 | 450 | [Secret Library](https://tibiamaps.io/map#32177,31927,7:2) | ? | ? |  |
 
 ### Levels 500+
-83 criaturas, 375.000 kills, 7.500 Charm Points, umas 18.402 horas (42 sem estimativa). Total acumulado: 26.403 Charm Points, 40.521 horas.
+83 criaturas, 375.000 kills, 7.500 Charm Points, umas 18.402 horas (42 sem estimativa). Total acumulado: 26.403 Charm Points, 40.420 horas.
 
 **Bosses Bane ao seu alcance**, pelo HP (uns 20 de HP por level; confira o dano de cada um na TibiaWiki antes de ir): Dazed Leaf Golem (10.000 HP), Inkwing (12.000 HP), Gorga (15.000 HP), Grand Canon Dominus (15.000 HP), Preceptor Lazare (16.000 HP), Grand Commander Soeren (17.000 HP), Grand Chaplain Gaunder (18.000 HP), Sir Leonard (22.000 HP), Enusat the Onyx Wing (25.000 HP), Latrivan (25.000 HP), Thawing Dragon Lord (25.000 HP), Rakesh Moonfang (25.500 HP), Hellgorak (25.850 HP), Mozradek (28.000 HP), Tanjis (30.000 HP)…
 
@@ -1277,7 +1277,7 @@ Cada classe dá um título quando todas as páginas dela estão completas (criat
 | Demon | Demonator | 43 | 83.020 | 1.930 | 800 | 2.273 (34 de 43) |
 | Magical | Master / Mistress of Illusion | 58 | 105.515 | 2.390 | 805 | 4.589 (52 de 58) |
 | Undead | Ghosthunter / Ghosthuntress | 94 | 196.525 | 4.355 | 835 | 7.094 (66 de 94) |
-| Construct | Handyman / Handywoman | 36 | 59.045 | 1.431 | 950 | 3.140 (31 de 36) |
+| Construct | Handyman / Handywoman | 36 | 59.045 | 1.431 | 950 | 3.038 (29 de 36) |
 | Human | Manhunter / Manhuntress | 96 | 148.525 | 3.485 | 1110 | 2.854 (67 de 96) |
 
 ## Criaturas muito raras
@@ -1911,7 +1911,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Devourer | Slime | Medium | 1.000 | 25 | 200 | [Rathleton New Sewers](https://tibiamaps.io/map#33641,31950,9:2) | 10 |
 | Diabolic Imp | Demon | Medium | 1.000 | 25 | 160 | [Pits of Inferno](https://tibiamaps.io/map#32735,32297,7:2) | 92 |
 | Diamond Servant (muito rara) | Construct | Medium | 5 | 50 | 25 | [Diamond Servant (spawns próprios)](https://tibiamaps.io/map#10334,10164,9:2) | 0,2 |
-| Diamond Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 13 |
+| Diamond Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibia.fandom.com/wiki/Replica_Dungeon) | ? |
 | Dire Penguin (muito rara) | Bird | Easy | 5 | 30 | 30 | [Formorgar Glacier (frost trolls, mammoths)](https://tibiamaps.io/map#32102,31144,7:2) | ? |
 | Diremaw | Vermin | Hard | 2.500 | 50 | 100 | [Warzone 6](https://tibiamaps.io/map#33829,32128,14:2) | 25 |
 | Distorted Phantom | Undead | Challenging | 5.000 | 100 | 650 | [Mirrored Nightmare](https://tibiamaps.io/map#33887,31189,10:2) | 1.108 |
@@ -2030,7 +2030,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Goblin Scavenger | Humanoid | Easy | 500 | 15 | 10 | [Edron Goblin Cave](https://tibiamaps.io/map#33108,31850,7:2) | 4,4 |
 | Goggle Cake | Construct | Hard | 2.500 | 50 | 70 | [Dessert Dungeons](https://tibiamaps.io/map#33448,32158,9:2) | 55 |
 | Golden Servant (muito rara) | Construct | Medium | 5 | 50 | 15 | [Golden Servant (spawns próprios)](https://tibiamaps.io/map#33141,31528,2:2) | 0,2 |
-| Golden Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 17 |
+| Golden Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibia.fandom.com/wiki/Replica_Dungeon) | ? |
 | Goldhanded Cultist | Human | Medium | 1.000 | 25 | 100 | [Museum of Tibian Arts](https://tibiamaps.io/map#33271,32125,10:2) | 6,6 |
 | Goldhanded Cultist Bride | Human | Medium | 1.000 | 25 | 100 | [Museum of Tibian Arts](https://tibia.fandom.com/wiki/Museum_of_Tibian_Arts) | ? |
 | Gore Horn | Mammal | Challenging | 5.000 | 100 | 600 | [Sparkling Pools](https://tibiamaps.io/map#33556,32961,14:2) | 272 |
@@ -2110,7 +2110,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 | Instable Breach Brood | Extra Dimensional | Medium | 1.000 | 25 | 100 | [Otherworld (Dwarf Bridge)](https://tibiamaps.io/map#32520,32021,8:2) | 8,9 |
 | Instable Sparkion | Extra Dimensional | Medium | 1.000 | 25 | 100 | [Otherworld (Dwarf Bridge)](https://tibiamaps.io/map#32520,32021,8:2) | 13 |
 | Iron Servant (muito rara) | Construct | Easy | 5 | 30 | 10 | [Iron Servant (spawns próprios)](https://tibiamaps.io/map#32846,32910,13:2) | 0,0 |
-| Iron Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 76 |
+| Iron Servant Replica | Construct | Medium | 1.000 | 25 | 110 | [Replica Dungeon](https://tibiamaps.io/map#32786,32818,13:2) | 3,7 |
 | Ironblight | Elemental | Hard | 2.500 | 50 | 165 | [Warzone 3](https://tibiamaps.io/map#33049,31938,12:2) | 116 |
 | Island Troll | Humanoid | Trivial | 250 | 5 | 70 | [Goroma](https://tibiamaps.io/map#32133,32540,9:2) | 0,9 |
 | Jaracal (evento) | Mammal | Hard | 2.500 | 50 | 80 | Emerald Gardens | ? |
@@ -2551,7 +2551,7 @@ O Bosstiary é o Bestiário dos bosses. Cada boss tem três estágios; cada est�
 
 **Quanto confiar neles:**
 - As kills por hora vêm dos spawns do mapa e do modelo, conferidas com hunts reais só nas hunts do guia principal.
-- 184 criaturas não têm estimativa: as áreas mais novas não estão nos dados abertos do mapa, e alguns monstros estão fora do alcance do modelo (eles se curam mais rápido do que o knight típico bate, ou dano físico quase não os machuca).
+- 186 criaturas não têm estimativa: as áreas mais novas não estão nos dados abertos do mapa, e alguns monstros estão fora do alcance do modelo (eles se curam mais rápido do que o knight típico bate, ou dano físico quase não os machuca).
 - Outros jogadores na mesma hunt, boosts diários e eventos de respawn rápido não entram na conta.
 - O dano do Shield Bash é uma estimativa (ainda não tem fórmula publicada).
 

@@ -89,7 +89,7 @@ Sem box: [guia principal, Level 80–100](guide_ptbr.md#level-80100-60-horas-at�
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | Edron 269 / ~1.1 min | 1 | 102k–107k | 200k–208k | 14k | 185k | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Blue Djinn](https://tibia.fandom.com/wiki/Blue_Djinn), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 3,6 (até 3). |
 
 ### Level 100–150 (~213 horas até o 150)
-Sem box: [Hunt confortável solo no 100+, Level 100–150](comfort_solo_100_ptbr.md#level-100150-203-horas-até-o-150).
+Sem box: [Hunt confortável solo no 100+, Level 100–150](comfort_solo_100_ptbr.md#level-100150-183-horas-até-o-150).
 
 **Melhores para XP**
 
@@ -122,7 +122,7 @@ Sem box: [Hunt confortável solo no 100+, Level 100–150](comfort_solo_100_ptbr
 | [Forgotten Tomb (Edron)](https://tibiamaps.io/map#33313,31718,7:2) | Edron 269 / ~1.1 min | 1 | 107k–118k | 208k–230k | 9k | 200k | Monstros: [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Skeleton](https://tibia.fandom.com/wiki/Skeleton), [Mummy](https://tibia.fandom.com/wiki/Mummy), [Crypt Shambler](https://tibia.fandom.com/wiki/Crypt_Shambler), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Gargoyle](https://tibia.fandom.com/wiki/Gargoyle), [Blue Djinn](https://tibia.fandom.com/wiki/Blue_Djinn), [Vampire](https://tibia.fandom.com/wiki/Vampire). Pulls de uns 4,6 (até 6). |
 
 ### Level 150–200 (~318 horas até o 200)
-Sem box: [Hunt confortável solo no 100+, Level 150–200](comfort_solo_100_ptbr.md#level-150200-217-horas-até-o-200).
+Sem box: [Hunt confortável solo no 100+, Level 150–200](comfort_solo_100_ptbr.md#level-150200-228-horas-até-o-200).
 
 **Melhores para XP**
 
@@ -155,7 +155,7 @@ Sem box: [Hunt confortável solo no 100+, Level 150–200](comfort_solo_100_ptbr
 | [Forbidden Lands (superfície)](https://tibiamaps.io/map#32973,32549,7:2) | Port Hope 563 / ~2.3 min | 1 | 194k–212k | 155k–170k | 25k | 130k | Monstros: [Carniphila](https://tibia.fandom.com/wiki/Carniphila), [Spit Nettle](https://tibia.fandom.com/wiki/Spit_Nettle), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Centipede](https://tibia.fandom.com/wiki/Centipede), [Massive Earth Elemental](https://tibia.fandom.com/wiki/Massive_Earth_Elemental), [Terror Bird](https://tibia.fandom.com/wiki/Terror_Bird), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Tiger](https://tibia.fandom.com/wiki/Tiger), [Snake](https://tibia.fandom.com/wiki/Snake), [Crab](https://tibia.fandom.com/wiki/Crab), [Slime](https://tibia.fandom.com/wiki/Slime), [Stone Golem](https://tibia.fandom.com/wiki/Stone_Golem), [Behemoth](https://tibia.fandom.com/wiki/Behemoth), [Elephant](https://tibia.fandom.com/wiki/Elephant), [Giant Spider](https://tibia.fandom.com/wiki/Giant_Spider), [Hydra](https://tibia.fandom.com/wiki/Hydra). Pulls de uns 3,3 (até 4). |
 
 ### Level 200–250 (~422 horas até o 250)
-Sem box: [Hunt confortável solo no 100+, Level 200–250](comfort_solo_100_ptbr.md#level-200250-244-horas-até-o-250).
+Sem box: [Hunt confortável solo no 100+, Level 200–250](comfort_solo_100_ptbr.md#level-200250-257-horas-até-o-250).
 
 **Melhores para XP**
 
@@ -188,7 +188,7 @@ Sem box: [Hunt confortável solo no 100+, Level 200–250](comfort_solo_100_ptbr
 | [Edron Vampire Crypt](https://tibiamaps.io/map#33109,31722,7:2) | Edron 400 / ~1.7 min | 2 | 315k–343k | 203k–221k | 39k | 163k | Monstros: [Vampire](https://tibia.fandom.com/wiki/Vampire), [Vampire Viscount](https://tibia.fandom.com/wiki/Vampire_Viscount), [Ghoul](https://tibia.fandom.com/wiki/Ghoul), [Vampire Bride](https://tibia.fandom.com/wiki/Vampire_Bride), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Demon Skeleton](https://tibia.fandom.com/wiki/Demon_Skeleton), [Skeleton Warrior](https://tibia.fandom.com/wiki/Skeleton_Warrior), [Necromancer](https://tibia.fandom.com/wiki/Necromancer), [Snake](https://tibia.fandom.com/wiki/Snake). Pulls de uns 3,4 (até 3). |
 
 ### Level 250–300 (~599 horas até o 300)
-Sem box: [Hunt confortável solo no 100+, Level 250–300](comfort_solo_100_ptbr.md#level-250300-334-horas-até-o-300).
+Sem box: [Hunt confortável solo no 100+, Level 250–300](comfort_solo_100_ptbr.md#level-250300-347-horas-até-o-300).
 
 **Melhores para XP**
 
@@ -221,7 +221,7 @@ Sem box: [Hunt confortável solo no 100+, Level 250–300](comfort_solo_100_ptbr
 | [Malada (superfície)](https://tibiamaps.io/map#32016,32713,7:2) | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (partes de Talahu e Malada: depois da parte de Ramoa (level 35), leve um White, um Brown, um Green e um Dark Mushroom). Liberty Bay 85 / ~21 s, Jack Fate's boat to Goroma, then the teleports through Ramoa and Talahu to Malada | 1 | 345k–353k | 167k–171k | 30k | 137k | Monstros: [Hydra](https://tibia.fandom.com/wiki/Hydra), [Tarantula](https://tibia.fandom.com/wiki/Tarantula), [Water Elemental](https://tibia.fandom.com/wiki/Water_Elemental), [Seagull](https://tibia.fandom.com/wiki/Seagull), [Giant Spider](https://tibia.fandom.com/wiki/Giant_Spider), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Quara Mantassin Scout](https://tibia.fandom.com/wiki/Quara_Mantassin_Scout), [Quara Pincher Scout](https://tibia.fandom.com/wiki/Quara_Pincher_Scout). Pulls de uns 3,9 (até 5). |
 
 ### Level 300–350 (~757 horas até o 350)
-Sem box: [Hunt confortável solo no 100+, Level 300–350](comfort_solo_100_ptbr.md#level-300350-437-horas-até-o-350).
+Sem box: [Hunt confortável solo no 100+, Level 300–350](comfort_solo_100_ptbr.md#level-300350-442-horas-até-o-350).
 
 **Melhores para XP**
 
@@ -254,7 +254,7 @@ Sem box: [Hunt confortável solo no 100+, Level 300–350](comfort_solo_100_ptbr
 | [Spider Caves (-3)](https://tibiamaps.io/map#32844,32871,10:2) | Port Hope 421 / ~1.8 min | 1 | 492k–528k | 184k–197k | 38k | 146k | Monstros: [Giant Spider](https://tibia.fandom.com/wiki/Giant_Spider), [Tarantula](https://tibia.fandom.com/wiki/Tarantula). Pulls de uns 3,3 (até 5). |
 
 ### Level 350–400 (~945 horas até o 400)
-Sem box: [Hunt confortável solo no 100+, Level 350–400](comfort_solo_100_ptbr.md#level-350400-530-horas-até-o-400).
+Sem box: [Hunt confortável solo no 100+, Level 350–400](comfort_solo_100_ptbr.md#level-350400-538-horas-até-o-400).
 
 **Melhores para XP**
 
@@ -287,7 +287,7 @@ Sem box: [Hunt confortável solo no 100+, Level 350–400](comfort_solo_100_ptbr
 | [Old Fortress, Bonebeasts (Edron)](https://tibiamaps.io/map#33224,31652,8:2) | Edron 335 / ~1.4 min | 1 | 583k | 181k | 39k | 142k | Monstros: [Vicious Squire](https://tibia.fandom.com/wiki/Vicious_Squire), [Bonebeast](https://tibia.fandom.com/wiki/Bonebeast), [Necromancer](https://tibia.fandom.com/wiki/Necromancer). Pulls de uns 4,3 (até 6). |
 
 ### Level 400–450 (~1.182 horas até o 450)
-Sem box: [Hunt confortável solo no 100+, Level 400–450](comfort_solo_100_ptbr.md#level-400450-612-horas-até-o-450).
+Sem box: [Hunt confortável solo no 100+, Level 400–450](comfort_solo_100_ptbr.md#level-400450-623-horas-até-o-450).
 
 **Melhores para XP**
 
@@ -320,7 +320,7 @@ Sem box: [Hunt confortável solo no 100+, Level 400–450](comfort_solo_100_ptbr
 | [Talahu (superfície)](https://tibiamaps.io/map#31953,32660,7:2) | [The Shattered Isles Quest](https://tibia.fandom.com/wiki/The_Shattered_Isles_Quest) (partes de Talahu e Malada: depois da parte de Ramoa (level 35), leve um White, um Brown, um Green e um Dark Mushroom). Liberty Bay 85 / ~21 s, Jack Fate's boat to Goroma, then on to Talahu | 1 | 600k–615k | 136k–140k | 25k | 112k | Monstros: [Hydra](https://tibia.fandom.com/wiki/Hydra), [Cobra](https://tibia.fandom.com/wiki/Cobra), [Crocodile](https://tibia.fandom.com/wiki/Crocodile), [Slime](https://tibia.fandom.com/wiki/Slime), [Quara Constrictor Scout](https://tibia.fandom.com/wiki/Quara_Constrictor_Scout), [Quara Mantassin Scout](https://tibia.fandom.com/wiki/Quara_Mantassin_Scout), [Quara Pincher Scout](https://tibia.fandom.com/wiki/Quara_Pincher_Scout). Pulls de uns 4,0 (até 6). |
 
 ### Level 450–500 (~1.342 horas até o 500)
-Sem box: [Hunt confortável solo no 100+, Level 450–500](comfort_solo_100_ptbr.md#level-450500-702-horas-até-o-500).
+Sem box: [Hunt confortável solo no 100+, Level 450–500](comfort_solo_100_ptbr.md#level-450500-708-horas-até-o-500).
 
 **Melhores para XP**
 
